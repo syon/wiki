@@ -23,7 +23,7 @@
 - [Chef](http://wiki.nocorica.jp/index.php?title=Chef)
 - [Vagrant](http://wiki.nocorica.jp/index.php?title=Vagrant)
 - [docker](http://wiki.nocorica.jp/index.php?title=docker)
-- [fluentd + elasticsearch + kibana](http://wiki.nocorica.jp/index.php?title=fluentd + elasticsearch + kibana)
+- [fluentd + elasticsearch + kibana](http://wiki.nocorica.jp/index.php?title=Fluentd_%2B_elasticsearch_%2B_kibana)
 - [nginx](http://wiki.nocorica.jp/index.php?title=nginx)
 - [CI](http://wiki.nocorica.jp/index.php?title=CI)
 
