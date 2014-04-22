@@ -26,6 +26,7 @@
 - [fluentd + elasticsearch + kibana](http://wiki.nocorica.jp/index.php?title=Fluentd_%2B_elasticsearch_%2B_kibana)
 - [nginx](http://wiki.nocorica.jp/index.php?title=nginx)
 - [CI](http://wiki.nocorica.jp/index.php?title=CI)
+- [node.js](http://wiki.nocorica.jp/index.php?title=node.js)
 
 ### Web App Framework
 - [Ruby on Rails](http://wiki.nocorica.jp/index.php?title=Ruby on Rails)
