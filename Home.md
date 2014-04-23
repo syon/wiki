@@ -33,7 +33,7 @@
 - [Ruby on Rails](http://wiki.nocorica.jp/index.php?title=Ruby on Rails)
 - [Sinatra](http://wiki.nocorica.jp/index.php?title=Sinatra)
     - [Middleman](http://wiki.nocorica.jp/index.php?title=Middleman)
-    - [Gollum](http://wiki.nocorica.jp/index.php?title=Gollum)
+    - [[Gollum]]
 
 #### Cloud Platform
 - [AWS](http://wiki.nocorica.jp/index.php?title=AWS)
