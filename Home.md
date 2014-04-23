@@ -37,7 +37,7 @@
 
 #### Cloud Platform
 - [AWS](http://wiki.nocorica.jp/index.php?title=AWS)
-- [Heroku](http://wiki.nocorica.jp/index.php?title=Heroku)
+- [[Heroku]]
 
 ### Code
 - [Ruby](http://wiki.nocorica.jp/index.php?title=Ruby)
