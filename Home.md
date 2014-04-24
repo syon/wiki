@@ -89,7 +89,7 @@
 
 ### Shell
 - [UNIXコマンド](http://wiki.nocorica.jp/index.php?title=UNIXコマンド)
-- [zsh](http://wiki.nocorica.jp/index.php?title=zsh)
+- [[zsh]]
 - [tmux](http://wiki.nocorica.jp/index.php?title=tmux)
 
 ### Linux
