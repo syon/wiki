@@ -93,7 +93,7 @@
 - [tmux](http://wiki.nocorica.jp/index.php?title=tmux)
 
 ### Linux
-- [Ubuntu](http://wiki.nocorica.jp/index.php?title=Ubuntu)
+- [[Ubuntu]]
 - [CentOS](http://wiki.nocorica.jp/index.php?title=CentOS)
 
 ### ハードウェア
