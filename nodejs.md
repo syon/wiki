@@ -5,10 +5,12 @@
 * [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
 * <code>npm</code>は含まれている模様
 
-    $ sudo apt-get install software-properties-common
-    $ sudo add-apt-repository ppa:chris-lea/node.js
-    $ sudo apt-get update
-    $ sudo apt-get install nodejs
+<pre>
+$ sudo apt-get install software-properties-common
+$ sudo add-apt-repository ppa:chris-lea/node.js
+$ sudo apt-get update
+$ sudo apt-get install nodejs
+</pre>
 
 ### npm
 
