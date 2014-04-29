@@ -1,4 +1,3 @@
-
 #### [Vagrant](http://www.vagrantup.com/)
 
 #### [Vagrant Cloud](https://vagrantcloud.com/)
@@ -15,6 +14,7 @@
 
 * [今更聞けない人の為の Vagrant 再入門 | School With Blog](http://blog.schoolwith.me/vagrant-re-introduction/)
 
+* [Vagrant CloudのVagrant Shareを試してみたら凄すぎて鼻血出た - 憂鬱な世界にネコパンチ！](http://nekopunch.hatenablog.com/entry/2014/03/11/223250)
 #### Windows
 
 * [Vagrant で作ったり壊したりできる Windows 環境を手に入れるまでの手順 - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2014/02/20/vagrant-win-guest/)
