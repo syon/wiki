@@ -104,5 +104,5 @@
 -  [効果音](http://wiki.nocorica.jp/index.php?title=効果音)
 
 ### バックアップ
-- [バックアップ](http://wiki.nocorica.jp/index.php?title=バックアップ)
+- [[BackUp]]
 - [MediaWiki](http://wiki.nocorica.jp/index.php?title=MediaWiki)
