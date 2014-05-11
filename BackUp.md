@@ -1,7 +1,8 @@
-
 ### 参考記事
 - [tappli blog: Googleアカウントを消されてしまった話](http://blog.tappli.com/article/69534410.html)
 - [家庭内ストレージ／NASのあれこれ。保存方法からバックアップ対象まで - プログラマになりたい](http://d.hatena.ne.jp/dkfj/20130901/1377999275)
+
+-----
 
 ### Gmail
 #### Gmvault
@@ -10,8 +11,12 @@
     - 「Gmvaultで取得し、Gmvaultで戻す」方式
     - 複数アカウントは設定変更必要
 
+-----
+
 ### Evernote
 - [大事なデータを確実に守る！ Evernoteをバックアップする方法 : ギズモード・ジャパン](http://www.gizmodo.jp/2013/06/_evernote.html)
+
+-----
 
 ### 写真
 #### flickr
