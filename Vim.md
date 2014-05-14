@@ -1,4 +1,3 @@
-
 ### Links
 
 - [僕がサクラエディタからVimに乗り換えるまで - give IT a try](http://blog.jnito.com/entry/20120101/1325420213)
@@ -9,6 +8,10 @@
 - [(初心者向け) Vim の機能紹介＠nagoya.vim #1](http://www.slideshare.net/cohama/vim-nagoyavim-1)
 - [なるべく覚えないviエディタの使い方 - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120227/minimum_vi)
 - [.vimrc - Qiita](http://qiita.com/fl04t/items/57ebb0fe8009d00c8499)
+
+### Tips
+
+- [一日18時間VimでRailsを開発している僕が選ぶVim Tips 10選 | 柿の種とピスタチオ](http://kakipy.com/articles/5) ★とても参考になる
 
 ### Install
 
