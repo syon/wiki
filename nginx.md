@@ -22,3 +22,4 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 - [Nginx導入時、サクッと対応しておくと良いかもしれない - Qiita](http://qiita.com/kidachi_/items/985efebba639713c562e)
 - [Ruby - AWSで、unicorn + nginx + sinatra を動かしてみる - Qiita](http://qiita.com/konpyu/items/3ba3774bcde226d7d07d)  
   nginxをリバースプロキシとして前に立ててからリクエストをunicornに流す
+- [\[Ruby\] Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
