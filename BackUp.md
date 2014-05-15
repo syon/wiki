@@ -4,6 +4,10 @@
 
 -----
 
+### パスワード管理
+
+- [最良のパスワード管理ソフトを求めて - WSJ日本版](http://jp.wsj.com/news/articles/SB10001424052702304155604579553012534592166?tesla=y)
+
 ### Gmail
 #### Gmvault
 - [Gmailをローカルにバックアップ・復元できるソフト｢Gmvault｣ | フリーソフト,Windows PC活用情報局](http://antarespc.com/tool/gmvault.html)
