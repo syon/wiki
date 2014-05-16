@@ -51,8 +51,10 @@
 - [正規表現](http://wiki.nocorica.jp/index.php?title=正規表現)
 - [Gist](http://wiki.nocorica.jp/index.php?title=Gist)
 - [Redmine](http://wiki.nocorica.jp/index.php?title=Redmine)
+
+#### Editor
 - [[Vim]]
-- [Sublime Text](http://wiki.nocorica.jp/index.php?title=Sublime Text)
+- [[SublimeText]]
 
 ### Design
 - [[Design]]
