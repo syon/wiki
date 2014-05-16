@@ -60,7 +60,7 @@
 - [[Design]]
 
 ### Webサービス
-- [Webサービス](http://wiki.nocorica.jp/index.php?title=Webサービス)
+- [[Webサービス|WebService]]
     - [ダミーデータ](http://wiki.nocorica.jp/index.php?title=ダミーデータ)
 - [Web API](http://wiki.nocorica.jp/index.php?title=Web API)
 - [作業用BGM](http://wiki.nocorica.jp/index.php?title=作業用BGM)
