@@ -14,6 +14,10 @@
 - [colourcode - find your colour scheme](http://colourco.de/)
 - [「Webサイトの配色で困った！」→「HUE/360使えば良いじゃない」 | 56docブログ](http://blog.56doc.net/Entry/553/)
 
+### Google検索
+
+- [勉強や論文執筆に役立つGoogle検索テクニックまとめ : ライフハッカー［日本版］](http://www.lifehacker.jp/2014/02/140203google_tips_for_students.html)
+
 ### Others
 
 - [Evercat](http://uchu.boy.jp/evercat/)
