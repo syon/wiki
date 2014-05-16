@@ -16,14 +16,18 @@
 
 ### 名前
 
-<dl>
-  <dt>[FF14 Character Name Generator](http://fandango.exp.jp/name-generator.php)
-  <dd>FINAL FANTASY XIV(ファイナルファンタジー14)のランダムネームジェネレーター。公式の命名規則に沿って、世界観に合ったキャラクターの名前を種族ごとに自動生成します。
-  <dt>[欧羅巴人名録](http://www.worldsys.org/europe/)
-  <dd>個人的に収集中の外国人の名前データベースです。英語・ドイツ語・フランス語・イタリア語・スペイン語・スウェーデン語・フィンランド語・ロシア語・チェコ語の名前を、原語とカタカナで収録。
-  <dt>[外国人名　資料一覧・メニュー](http://www.geocities.jp/mt_erech_ave/data.html)
-  <dt>[ヨーロッパ人名対照表 － Reichsarchiv ～世界帝王事典～](http://reichsarchiv.jp/基礎データ/ヨーロッパ人名対照表)
+- [FF14 Character Name Generator](http://fandango.exp.jp/name-generator.php)  
+  FINAL FANTASY XIV(ファイナルファンタジー14)のランダムネームジェネレーター。公式の命名規則に沿って、世界観に合ったキャラクターの名前を種族ごとに自動生成します。
+- [欧羅巴人名録](http://www.worldsys.org/europe/)  
+  個人的に収集中の外国人の名前データベースです。英語・ドイツ語・フランス語・イタリア語・スペイン語・スウェーデン語・フィンランド語・ロシア語・チェコ語の名前を、原語とカタカナで収録。
+- [外国人名　資料一覧・メニュー](http://www.geocities.jp/mt_erech_ave/data.html)
+- [ヨーロッパ人名対照表 － Reichsarchiv ～世界帝王事典～](http://reichsarchiv.jp/基礎データ/ヨーロッパ人名対照表)
 
+### ジェネレータ
+
+- [ダミー文章、ダミーデータ、ダミー画像を作ってくれるジェネレータまとめ【WEB制作】 - NAVER まとめ](http://matome.naver.jp/odai/2133396164637378001)
+- [制作途中にお世話になる、ダミーテキスト・ダミー画像のジェネレーターいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/dummy/)
+- [日本の全エンジニアに捧ぐ！現在公開されているテスト用ダミーデータ一覧 | Find Job ! Startup](http://www.find-job.net/startup/dummy-2013)
 
 ### Google検索
 
