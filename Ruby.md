@@ -79,11 +79,20 @@ $ bundle exec ruby sample.rb
 - [ファイルを扱う作業をRakeで便利にしよう！（パート1：概要編） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-1.html)
 - [ファイルを扱う作業をRakeで便利にしよう！（パート2：実践編1） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-2.html)
 
-### Gem
+## Gem
 
 #### Gem - 参考
 
 - [1人Webサービス開発で使っているGemfileそのまま公開 - Qiita](http://qiita.com/s3pw/items/a0c77cf3d9592e9e1bad)
+
+#### ~/.gemrc
+
+- [Ruby - gemrcの--no-riと--no-rdoc、deprecatedなoptionなのでみなおしたほうがいいかもですよ - Qiita](http://qiita.com/kei_q/items/d13235157fcfc435489d)
+
+```ruby
+install: --no-document
+update: --no-document
+```
 
 #### Gem - スクレイピング
 
