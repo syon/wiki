@@ -1,4 +1,3 @@
-
 ### リファレンス
 
 #### [逆引きRuby](http://www.namaraii.com/rubytips/)
@@ -22,8 +21,12 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 チルダはビット反転演算子で、整数をビット反転させると符号を反転させて1引いた数になる。  
 つまり-1のときだけ0になるので、indexOfと組み合わせて使うことができる。
 
+### インストール(rbenv on Mac)
 
-### インストール(rbenv)
+- [Ruby - Homebrewのインストールとrbenvのインストール Mac編 - Qiita](http://qiita.com/issobero/items/e0443b79da117ed48294)  
+  `$ rbenv init`も必要 https://github.com/sstephenson/rbenv#how-rbenv-hooks-into-your-shell
+
+### インストール(rbenv on Ubuntu)
 
 - [Dockerをインストールする - Qiita](http://qiita.com/sudahiroshi/items/2f430cc61878c4c70119)
 
