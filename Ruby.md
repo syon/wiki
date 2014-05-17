@@ -84,6 +84,7 @@ $ bundle exec ruby sample.rb
 #### Gem - 参考
 
 - [1人Webサービス開発で使っているGemfileそのまま公開 - Qiita](http://qiita.com/s3pw/items/a0c77cf3d9592e9e1bad)
+- [rbenvとruby-buildでRuby環境を最新に保つ](https://gist.github.com/mochiz/4736183)
 
 #### ~/.gemrc
 
