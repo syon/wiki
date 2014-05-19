@@ -6,3 +6,4 @@
 - [Sublime Text 3使い始めた | Border/memo](http://brdr-mmrndm.tumblr.com/post/78942938554/sublime-text-3)
 - [Sublime Text3で構文エラーをチェックするプラグインが超絶便利 | 株式会社LIG](http://liginc.co.jp/web/js/73704)  
   SublimeLinter
+- [Sublime Text 2, 3の使いやすいテーマのまとめ | コリス](http://coliss.com/articles/freebies/freebies-sublime-text-themes-2014-newyear.html)
