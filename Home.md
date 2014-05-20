@@ -8,7 +8,7 @@
 - [CSS](http://wiki.nocorica.jp/index.php?title=CSS)
     - [CSS Framework](http://wiki.nocorica.jp/index.php?title=CSS Framework)
 - [JavaScript](http://wiki.nocorica.jp/index.php?title=JavaScript)
-    - [jQuery](http://wiki.nocorica.jp/index.php?title=jQuery)
+    - [[jQuery]]
     - [jQuery Mobile](http://wiki.nocorica.jp/index.php?title=jQuery Mobile)
     - [Angular.js](http://wiki.nocorica.jp/index.php?title=Angular.js)
     - [D3.js](http://wiki.nocorica.jp/index.php?title=D3.js)
