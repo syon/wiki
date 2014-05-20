@@ -106,3 +106,7 @@ $('form').submit(function() {
 - [jQuery モダンAjaxな書き方を目指して　?deferredを使ったAJAX? - Hack Your Design!](http://blog.toshimaru.net/jquery-ajaxdeferredajax/)
 - [とほほのjQuery入門 ■ Ajax(Low-Level Interface)](http://www.tohoho-web.com/js/jquery/ajax.htm)
 - [MadCap　Java - JSONを使用しJavaサーブレットに対してAjax通信を行う](http://madcap-labo.com/java/json_ajax_sample.html)
+
+### Tips
+
+- [jQueryをロードする際のナイス！と思った書き方](http://dtp.jdash.info/archives/51941752.html)
