@@ -68,7 +68,7 @@
 
 ### Windows
 - [Windows Tips](http://wiki.nocorica.jp/index.php?title=Windows Tips)
-- [Windows 7 - OS設定](http://wiki.nocorica.jp/index.php?title=Windows 7 - OS設定)
+- [[Windows 7|Windows7]]
 - [Windows 7 - 導入ソフト](http://wiki.nocorica.jp/index.php?title=Windows 7 - 導入ソフト)
     - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
         - [AutoHotKey - スクリプト](http://wiki.nocorica.jp/index.php?title=AutoHotKey - スクリプト)
