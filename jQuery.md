@@ -1,4 +1,3 @@
-
 #### アンカーのクリックイベントで、初期動作（この場合はページ遷移）を中止
 
 - [jQuery.Event - jQuery 日本語リファレンス](http://semooh.jp/jquery/cont/doc/event/#event.preventDefault)
@@ -97,6 +96,10 @@ $('form').submit(function() {
     });
 });
 ```
+
+### 繰り返し
+
+- [jQuery each関数による繰り返し処理 « jQuery« javascript « ActionScript3.0 プログラミング入門 for designers](http://gelsol.sub.jp/javascript/jquery/003.html)
 
 ### Ajax
 
