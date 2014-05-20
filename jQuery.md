@@ -110,3 +110,7 @@ $('form').submit(function() {
 ### Tips
 
 - [jQueryをロードする際のナイス！と思った書き方](http://dtp.jdash.info/archives/51941752.html)
+```html
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+```
