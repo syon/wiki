@@ -15,7 +15,8 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 
 - Red Hat/CentOS
 - Debian/Ubuntu
-- Win32
+- Win32  
+  Windows版もインストールはzip解凍してexe起動するだけ。自動起動のためスタートアップにショートカットを入れた。
 
 #### Tips
 
@@ -23,3 +24,4 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 - [Ruby - AWSで、unicorn + nginx + sinatra を動かしてみる - Qiita](http://qiita.com/konpyu/items/3ba3774bcde226d7d07d)  
   nginxをリバースプロキシとして前に立ててからリクエストをunicornに流す
 - [\[Ruby\] Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
+- [nginx(エンジンエックス)をWindows上で動かして、SSLとリバースプロキシーの実験をした - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20100126/1264472381)
