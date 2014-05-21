@@ -46,3 +46,6 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ### Kerning
 - [Kern Type, the kerning game](http://type.method.ac/)
 - [［JS］日本語のどんなWebフォントでも美しくカーニングできるスクリプト -jQuery.Kerning.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-kerning-for-japanese.html)
+
+### Articles
+- [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
