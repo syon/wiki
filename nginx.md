@@ -25,3 +25,4 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
   nginxをリバースプロキシとして前に立ててからリクエストをunicornに流す
 - [\[Ruby\] Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
 - [nginx(エンジンエックス)をWindows上で動かして、SSLとリバースプロキシーの実験をした - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20100126/1264472381)
+- [nginx - 我々はどのようにして安全なHTTPS通信を提供すれば良いか - Qiita](http://qiita.com/harukasan/items/fe37f3bab8a5ca3f4f92)
