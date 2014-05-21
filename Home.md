@@ -98,6 +98,7 @@
 ### ハードウェア
 - [Raspberry Pi](http://wiki.nocorica.jp/index.php?title=Raspberry Pi)
 - [ハードウェアAPI](http://wiki.nocorica.jp/index.php?title=ハードウェアAPI)
+- [[torne]]
 
 ### Sounds
 -  [効果音](http://wiki.nocorica.jp/index.php?title=効果音)
