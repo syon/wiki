@@ -9,6 +9,11 @@
 - [なるべく覚えないviエディタの使い方 - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120227/minimum_vi)
 - [.vimrc - Qiita](http://qiita.com/fl04t/items/57ebb0fe8009d00c8499)
 
+#### あとで読む
+
+- [Vim Advent Calendar 2012 まとめ - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131130/1385820282)
+- [Vim Advent Calendar 2013 : Vim を使っている/始めたいなら読んでおきたい Web の記事 - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131201/1385823937)
+
 ### Tips
 
 - [一日18時間VimでRailsを開発している僕が選ぶVim Tips 10選 | 柿の種とピスタチオ](http://kakipy.com/articles/5) ★とても参考になる
