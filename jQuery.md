@@ -114,3 +114,4 @@ $('form').submit(function() {
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 ```
+- [[JS][jQuery] 要素の存在を確認する6通りのコードと実行速度 | きほんのき](http://kihon-no-ki.com/check-existence-element-by-javascript-and-jquery)
