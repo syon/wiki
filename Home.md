@@ -41,7 +41,7 @@
 
 ### Code
 - [[Ruby]]
-    - [WIN32OLE](http://wiki.nocorica.jp/index.php?title=WIN32OLE) IE自動制御
+    - [[WIN32OLE]] IE自動制御
     - [Win32API](http://wiki.nocorica.jp/index.php?title=Win32API)
     - [ThinReports](http://wiki.nocorica.jp/index.php?title=ThinReports)
 - [Java](http://wiki.nocorica.jp/index.php?title=Java)
