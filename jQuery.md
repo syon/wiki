@@ -115,3 +115,4 @@ $('form').submit(function() {
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 ```
 - [[JS][jQuery] 要素の存在を確認する6通りのコードと実行速度 | きほんのき](http://kihon-no-ki.com/check-existence-element-by-javascript-and-jquery)
+- [jQueryにおけるattrとpropの違いと使いドコロまとめ - Qiita](http://qiita.com/kbyay_/items/7a7ce9547f29b34a63b1)
