@@ -51,3 +51,7 @@ Vimの設定は、全て「_vimrc」というテキストファイルに記述�
 <pre>
 colorscheme molokai
 </pre>
+
+### Plugin
+
+- [Vimでとても簡単かつ直感的にCSVを編集する方法 - Qiita](http://qiita.com/rbtnn/items/3830c1ca7d65725046ed)
