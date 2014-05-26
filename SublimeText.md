@@ -7,3 +7,4 @@
 - [Sublime Text3で構文エラーをチェックするプラグインが超絶便利 | 株式会社LIG](http://liginc.co.jp/web/js/73704)  
   SublimeLinter
 - [Sublime Text 2, 3の使いやすいテーマのまとめ | コリス](http://coliss.com/articles/freebies/freebies-sublime-text-themes-2014-newyear.html)
+- [Sublime Text 3をShift_JISとかEUC-JPに対応させるプラグイン - MEMOGRAPHIX](http://memo.sanographix.net/post/80745994080)
