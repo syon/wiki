@@ -54,6 +54,12 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
 
 
-## Texture
+## Image
+
+### Texture
 
 - [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
+
+### Tips
+
+- [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
