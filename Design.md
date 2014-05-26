@@ -52,3 +52,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 
 ### Articles
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
+
+
+## Texture
+
+- [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
