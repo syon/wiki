@@ -33,8 +33,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [UIデザインで困らないために押さえておくべき7つのWEBサービス](http://blog.layer8.sh/ja/2012/04/08/7-useful-items-for-better-user-interface-design/)
 - [ブログデザインを考える：１行の字数とWEB幅 - tarのブログるっ by @tarVolcano](http://tar.blogru.me/entry/2014/05/22/080100)
 
-## Font
 
+## Font
 
 ### Web Font
 - [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ](http://flat.is/portfolio/personal/2013/08/spun-gold/) Portfolio | ONO TAKEHIKO from aguije inc.]
@@ -49,6 +49,9 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ### Kerning
 - [Kern Type, the kerning game](http://type.method.ac/)
 - [［JS］日本語のどんなWebフォントでも美しくカーニングできるスクリプト -jQuery.Kerning.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-kerning-for-japanese.html)
+
+### Text Effect
+- [Textillate.js](http://jschr.github.io/textillate/)
 
 ### Articles
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
