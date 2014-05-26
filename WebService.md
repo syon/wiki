@@ -38,3 +38,7 @@
 - [Evercat](http://uchu.boy.jp/evercat/)
 - [RSS広告削除社](http://rssadelete.dokoda.jp/)  
   RSS広告削除社(旧RssADelete)はウェブ上のフィード（RSS 1.0/RSS 2.0/Atom）の広告を削除して、記事だけを受信するサービスです。
+
+### Tips
+
+- [住所入力フォームなどで使う都道府県の並び順について調べてみました](http://staku.designbits.jp/prefecture-code/)
