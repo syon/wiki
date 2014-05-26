@@ -17,6 +17,9 @@ Show and tell for designers
 User interface design inspiration & design tools  
 dribbbleなどのデザイン投稿サイトから、特に UI に関わるものを集めたまとめサイトです。
 
+#### [http://ui-cloud.com/ UICloud]
+いろんなUIをパーツごとに検索できる
+
 #### [Collection: Design Patterns](https://www.flickr.com/photos/factoryjoe/collections/72157600001823120/)
 カテゴリごとにアルバムにまとめたスクリーンショットコレクション
 
