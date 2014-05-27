@@ -26,5 +26,9 @@
 - [Flat UI - Free Bootstrap Framework and Themes](http://designmodo.github.io/Flat-UI/)  
   フラットデザイン
 
+- [Flat UI Pro - Bootstrap Design Framework - Designmodo](http://designmodo.com/flat/)  
+  Personal License: $39, $69  
+  Developers License: $149, $249
+
 - [Andia - Responsive Agency Template](http://azmind.com/demo/andia-agency/) - [(Download)](http://azmind.com/2012/12/28/free-html-template-andia-responsive-agency-portfolio-template-twitter-bootstrap/)  
   クオリティの高いレスポンシブ・デザインに、「Home, Portfolio, Services, About, Contact」までデザイン済という至れり尽くせりのテンプレート
