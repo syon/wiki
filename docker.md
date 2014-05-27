@@ -1,3 +1,5 @@
+### まとめ
+
 - [dockerについて社内勉強会で話しました - 圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/entry/2014/01/30/161032)
 
 - [Dockerでnginxサーバー立ててみた。あとDockerの使い方とか。 - Less is Best](http://yss44.hatenablog.com/entry/2013/12/27/150920)
@@ -6,9 +8,16 @@
 
 - [これから始める「DockerでかんたんLAMP環境 for CentOS」 - さくらのナレッジ](http://knowledge.sakura.ad.jp/tech/1811/)
 
+- [Dockerを勉強するための、Docker記事のまとめ](http://wslash.com/?p=5584)
+
+- [5分で分かるDockerのキホン | Ryuzee.com](http://www.ryuzee.com/contents/blog/6952)
+
+- [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
+
+
 #### Windows
 
-- [Windows + Vagrant + VirtualBox + Docker - ﾎﾟｼｮﾝ](http://syonx.hatenablog.com/entry/2014/02/18/010757)
+- [Windows + Vagrant + VirtualBox + Docker - ✗✗✗](http://syonx.hatenablog.com/entry/2014/02/18/010757)
 
 - [windowsでもansibleがしたいのでvagrant経由でdockerを使って二重仮想環境を構築する - After Coding](http://saisa.hateblo.jp/entry/2013/12/10/153651)
 
