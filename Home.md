@@ -62,7 +62,6 @@
 
 ### Webサービス
 - [[Webサービス|WebService]]
-    - [ダミーデータ](http://wiki.nocorica.jp/index.php?title=ダミーデータ)
 - [Web API](http://wiki.nocorica.jp/index.php?title=Web API)
 - [作業用BGM](http://wiki.nocorica.jp/index.php?title=作業用BGM)
 - [勉強会・セミナー](http://wiki.nocorica.jp/index.php?title=勉強会・セミナー)
