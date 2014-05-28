@@ -1,3 +1,8 @@
+## Style Guides
+
+- [Style Guides for Websites :: [ FLAT ] Design | ONO TAKEHIKO from aguije inc.](http://flat.is/design/2014/05/style-guides-for-websites/)  
+  Webサイトのデザイン スタイルガイド
+
 ## UI
 
 #### [Dribbble](http://dribbble.com/)
