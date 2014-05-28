@@ -14,6 +14,14 @@
 - [colourcode - find your colour scheme](http://colourco.de/)
 - [「Webサイトの配色で困った！」→「HUE/360使えば良いじゃない」 | 56docブログ](http://blog.56doc.net/Entry/553/)
 
+### 画像
+
+- [JPEGmini | Process your photo](http://www.jpegmini.com/main/shrink_photo)  
+  JPEGminiのWeb版。JPEG画像をほとんど劣化させずに軽量化。
+- [Compressor.io - optimize and compress your images and photos](http://compressor.io/)  
+  JPEG/PNG/GIF/SVGに対応した画像のファイルサイズ削減サービス。可逆/不可逆を選べる。
+    - [無料でJPG、PNG、GIF、SVG画像を圧縮して小さくしてくれる「Compressor」 - GIGAZINE](http://gigazine.net/news/20140527-compressor/)
+
 ### 名前
 
 - [FF14 Character Name Generator](http://fandango.exp.jp/name-generator.php)  
