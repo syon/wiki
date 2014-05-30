@@ -1,5 +1,7 @@
 # D3.js
 
+[[d3js.png]]
+
 ### Documents
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
 
