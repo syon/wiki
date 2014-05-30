@@ -11,7 +11,7 @@
     - [[jQuery]]
     - [jQuery Mobile](http://wiki.nocorica.jp/index.php?title=jQuery Mobile)
     - [Angular.js](http://wiki.nocorica.jp/index.php?title=Angular.js)
-    - [D3.js](http://wiki.nocorica.jp/index.php?title=D3.js)
+    - [[D3.js|D3js]]
     - [Three.js](http://wiki.nocorica.jp/index.php?title=Three.js)
     - [famo.us](http://wiki.nocorica.jp/index.php?title=famo.us)
     - [気になるJSライブラリ](http://wiki.nocorica.jp/index.php?title=気になるJSライブラリ)
