@@ -39,3 +39,14 @@
 ## アドホックモード通信
 
 - [無線LAN - アドホックモード（ Windows 7の設定方法 ）](http://www.infraexpert.com/study/wireless26.html)
+
+## TIPS
+
+### キーボードショートカット
+- [Windows のキーボード ショートカット](http://support.microsoft.com/kb/126449/ja)
+
+### フリーソフト
+- [情強がひた隠しにしているフリーソフトまとめ | ライフハックちゃんねる弐式](http://lifehack2ch.livedoor.biz/archives/51308816.html)
+
+### メンテナンス
+- [Windowsクリーンアップ＆メンテナンス大作戦！ 愛用Windowsに「本腰」の大掃除を : ライフハッカー［日本版］](http://www.lifehacker.jp/2012/04/120410windowscleanup.html)
