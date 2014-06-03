@@ -31,7 +31,7 @@
 
 #### Web App Framework
 - [Ruby on Rails](http://wiki.nocorica.jp/index.php?title=Ruby on Rails)
-- [Sinatra](http://wiki.nocorica.jp/index.php?title=Sinatra)
+- [[Sinatra]]
     - [[Middleman]]
     - [[Gollum]]
 
