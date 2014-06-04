@@ -51,7 +51,7 @@
 - [正規表現](http://wiki.nocorica.jp/index.php?title=正規表現)
 - [[Git]]
 - [Gist](http://wiki.nocorica.jp/index.php?title=Gist)
-- [Redmine](http://wiki.nocorica.jp/index.php?title=Redmine)
+- [[Redmine]]
 
 #### Editor
 - [[Vim]]
