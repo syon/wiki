@@ -1,6 +1,8 @@
 # Swift
 
-[Swift Programming Language - Apple Developer](https://developer.apple.com/swift/)
+[[swift-hero.png|align=center]]
+
+## [Swift Programming Language - Apple Developer](https://developer.apple.com/swift/)
 
 ## Documents
 
