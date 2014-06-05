@@ -85,6 +85,7 @@
 - [Mac App](http://wiki.nocorica.jp/index.php?title=Mac App)
 - [iOS](http://wiki.nocorica.jp/index.php?title=iOS)
 - [iOS App](http://wiki.nocorica.jp/index.php?title=iOS App)
+- [[Swift]]
 
 ### Shell
 - [UNIXコマンド](http://wiki.nocorica.jp/index.php?title=UNIXコマンド)
