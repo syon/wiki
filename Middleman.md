@@ -1,4 +1,6 @@
-#### [Middleman: 効率的な作業を可能にする Ruby 製の静的サイト生成ツール](http://middlemanapp.com/jp/)
+[[middleman.png|align=center]]
+
+### [Middleman: 効率的な作業を可能にする Ruby 製の静的サイト生成ツール](http://middlemanapp.com/jp/)
 
 ## Features
 - layout、template、partialでページが構成され、共通部分をまとめることができる。
