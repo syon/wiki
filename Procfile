@@ -1,1 +1,1 @@
-web: bundle exec gollum
+web: bundle exec gollum --css --js
