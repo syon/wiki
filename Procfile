@@ -1,1 +1,1 @@
-web: bundle exec gollum --css --js -p $PORT
+web: bundle exec rackup -p $PORT
