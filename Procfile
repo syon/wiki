@@ -1,1 +1,1 @@
-web: bundle exec gollum --css --js
+web: bundle exec gollum --css --js -p $PORT
