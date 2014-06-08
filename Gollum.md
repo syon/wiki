@@ -14,7 +14,7 @@ A simple, Git-powered wiki with a sweet API and local frontend.
 * 管理がGit任せなので、操作に慣れていると楽
 * ほとんどそれだけしか機能が無いこと（ユーザ登録機能すら無いです）
 
-### Setup
+## Setup
 
 <pre>
 $ mkdir mywiki
@@ -27,6 +27,13 @@ $ bundle install --path vendor/bundle
 $ bundle exec gollum
 </pre>
 
+## Gollum on Heroku
+
+* [Gollum on Heroku](http://javiersaldana.com/tech/2014/02/07/gollum-on-heroku.html)  
+Heroku上でGollumを運用する方法。ただし編集内容は再デプロイ後に消える。Herokuの ephemeral filesystem のため。要するにHeroku上の変更をGitHubにpushできないから変更を維持できない。
+
+## Articles
+
 * [githubのwikiエンジン"gollum"の導入と細かい設定 - yukke::note](http://yukke.hateblo.jp/entry/2013/05/02/224859)
     * 数式を書く
     * 画像をはりつける
@@ -35,16 +42,13 @@ $ bundle exec gollum
         * 画像のアップローダー
         * wikiに認証をつける
         * ヘッダーをつける
-* [Github製wikiエンジン"Gollum"インストール - Qiita](http://qiita.com/urunru@github/items/d4708bca0b70009856ec)
-    * "herokuでgollumを動かすことはできない。herokuのファイルシステムはRead onlyだから。"
-    * [rake - Deploy Gollum wiki to Heroku - Stack Overflow](http://stackoverflow.com/questions/4047999/deploy-gollum-wiki-to-heroku)
 * [gollumを使って個人用wikiをサーバに立てた | blog: takahiro okumura](http://blog.hifumi.info/2014/02/02/my-wiki-powered-by-gollum/)
 * [GitベースのWiki gollumを使い始めた - Gaishimo](http://gaishimo.hatenablog.com/entry/2013/01/27/234300)
     * CentOS 5.9 (さくらVPS), Webサーバ: nginx 1.2.3
 
-#### Error
+## Error
 
-##### インストール時にエラー発生
+### icu required
 
 <pre>
 ***************************************************************************************
@@ -81,7 +85,7 @@ sqlite3-icu
 $ apt-cyg install libicu-devel
 </pre>
 
-##### 起動時にエラー発生
+### Gollum::InvalidGitRepositoryError
 <pre>
 Gollum::InvalidGitRepositoryError
 </pre>
