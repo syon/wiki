@@ -29,8 +29,27 @@ $ bundle exec gollum
 
 ## Gollum on Heroku
 
-* [Gollum on Heroku](http://javiersaldana.com/tech/2014/02/07/gollum-on-heroku.html)  
+### [Gollum on Heroku](http://javiersaldana.com/tech/2014/02/07/gollum-on-heroku.html)
+
 Heroku上でGollumを運用する方法。ただし編集内容は再デプロイ後に消える。Herokuの ephemeral filesystem のため。要するにHeroku上の変更をGitHubにpushできないから変更を維持できない。
+
+## Customize
+
+### Custom CSS & JS
+
+リポジトリ直下に置いた`custom.css`, `custom.js`を読み込ませることができる。
+
+#### Gollum
+
+```bash
+$ bundle exec gollum --css --js
+```
+
+#### Rack (config.ru)
+
+```ruby
+Precious::App.set(:wiki_options, { universal_toc: false, live_preview: true, css: true, js: true })
+```
 
 ## Articles
 
