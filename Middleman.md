@@ -48,3 +48,5 @@
     - MiddlemanをHerokuにデプロイする
     - HerokuのURLを独自ドメインに割り当てる
     - Rack::RewriteでHerokuのURLから独自ドメインにリダイレクトする
+- [Middleman on Heroku (with Nginx) – Random Errata](http://randomerrata.com/post/67140752129/nginx-heart-middleman)
+    - Nginx buildpack
