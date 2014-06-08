@@ -1,1 +1,2 @@
-web: bundle exec rackup -p $PORT
+web: bundle exec unicorn -p $PORT -c ./unicorn.rb
+
