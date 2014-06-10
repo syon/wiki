@@ -13,7 +13,7 @@
     - [Angular.js](http://wiki.nocorica.jp/index.php?title=Angular.js)
     - [[D3.js|D3js]]
     - [Three.js](http://wiki.nocorica.jp/index.php?title=Three.js)
-    - [famo.us](http://wiki.nocorica.jp/index.php?title=famo.us)
+    - [[famo.us|Famous]]
     - [気になるJSライブラリ](http://wiki.nocorica.jp/index.php?title=気になるJSライブラリ)
     - [Bookmarklet](http://wiki.nocorica.jp/index.php?title=Bookmarklet)
 - [ActionScript](http://wiki.nocorica.jp/index.php?title=ActionScript) Flash, AS, AIR
