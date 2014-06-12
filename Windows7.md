@@ -36,7 +36,13 @@
 1. [追加]ボタンをクリックし、選択するオブジェクト欄に Everyone と入力し[OK]
 1. Everyoneの行で、「編集」や「フルコントロール」をチェック[OK]
 
-## アドホックモード通信
+## ネットワーク
+
+### ルーティング・テーブル
+
+- [＠IT：Windows TIPS -- Tips：ルーティング・テーブルを操作する](http://www.atmarkit.co.jp/fwin2k/win2ktips/266routing/routing.html)
+
+### アドホックモード通信
 
 - [無線LAN - アドホックモード（ Windows 7の設定方法 ）](http://www.infraexpert.com/study/wireless26.html)
 
