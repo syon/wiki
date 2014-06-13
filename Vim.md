@@ -18,6 +18,8 @@
 
 - [一日18時間VimでRailsを開発している僕が選ぶVim Tips 10選 | 柿の種とピスタチオ](http://kakipy.com/articles/5) ★とても参考になる
 
+- [脱初心者を目指すなら知っておきたい便利なVimコマンド20選 (Vimmerレベル診断付き) - Qiita](http://qiita.com/jnchito/items/57ffda5712636a9a1e62) GIF付きのよく出来たまとめ
+
 ### Install
 
 - [Vim — KaoriYa](http://www.kaoriya.net/software/vim/)
