@@ -6,3 +6,7 @@
 
 - [Try Git In Your Browser](https://github.com/blog/1183-try-git-in-your-browser)
 - [Learn Git Branching](http://k.swd.cc/learnGitBranching-ja/)
+
+## Tips
+
+- [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
