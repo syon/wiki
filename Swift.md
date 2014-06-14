@@ -11,6 +11,11 @@
 - [Twitter / iOSSwift: First #Swift Cheat Sheet comes ...](https://twitter.com/iOSSwift/status/473768737561391105)  
   Swift Cheat Sheet and Quick Reference
 
+## Sites
+
+- [Learn Swift - Tutorials, Code Samples, References and more!](http://www.learnswift.tips/)  
+  A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References and more!
+
 ## Books
 
 - [iTunes - Books - The Swift Programming Language by Apple Inc.](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
