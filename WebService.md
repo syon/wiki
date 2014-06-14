@@ -1,6 +1,8 @@
 ### ツール
 
 - [エクセルシートをHTMLテーブルに変換しちゃう君 (ββ)](http://styleme.jp/tool/xls2html/)
+- [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)  
+  CSV→JSONなどのデータ変換
 
 ### カラー
 
