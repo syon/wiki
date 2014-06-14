@@ -116,3 +116,4 @@ $('form').submit(function() {
 ```
 - [[JS][jQuery] 要素の存在を確認する6通りのコードと実行速度 | きほんのき](http://kihon-no-ki.com/check-existence-element-by-javascript-and-jquery)
 - [jQueryにおけるattrとpropの違いと使いドコロまとめ - Qiita](http://qiita.com/kbyay_/items/7a7ce9547f29b34a63b1)
+- [[jQuery] find()とchildren()の使い分け | きほんのき](http://kihon-no-ki.com/difference-between-find-and-children-in-jquery)
