@@ -17,6 +17,12 @@
 
 -----
 
+### クラウドストレージ
+- [ASCII.jp：Dropboxから浮気したくなるクラウドストレージ比較！ (1/5)](http://ascii.jp/elem/000/000/901/901136/)
+    - [9つのサービスを一覧できる比較表](http://ascii.jp/elem/000/000/901/901136/index-5.html)
+
+-----
+
 ### Evernote
 - [大事なデータを確実に守る！ Evernoteをバックアップする方法 : ギズモード・ジャパン](http://www.gizmodo.jp/2013/06/_evernote.html)
 
