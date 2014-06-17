@@ -2,6 +2,7 @@
 
 ### Web Front-End
 - [ぼくのさいきょうツール :: ［ FLAT ］ Develop | ONO TAKEHIKO from aguije inc.](http://flat.is/develop/2014/02/ultimate/)
+- [[Web Front-End|WebFrontEnd]]
 - [リファレンス](http://wiki.nocorica.jp/index.php?title=リファレンス)
 - [Web Security](http://wiki.nocorica.jp/index.php?title=Web Security)
 - [HTML](http://wiki.nocorica.jp/index.php?title=HTML)
