@@ -40,6 +40,7 @@
 - [[Heroku]]
 
 ### Code
+- [[Code]]
 - [[Ruby]]
     - [[WIN32OLE]] IE自動制御
     - [Win32API](http://wiki.nocorica.jp/index.php?title=Win32API)
