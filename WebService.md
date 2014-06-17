@@ -3,6 +3,8 @@
 - [エクセルシートをHTMLテーブルに変換しちゃう君 (ββ)](http://styleme.jp/tool/xls2html/)
 - [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)  
   CSV→JSONなどのデータ変換
+- - [DPI love ♥ Easily find the DPI/PPI of any screen](http://dpi.lv/)  
+  ディスプレイの解像度と対角線サイズを入力してDPIを計算
 
 ### カラー
 
