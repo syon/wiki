@@ -1,7 +1,6 @@
 # Gollum
 
 ### Web Front-End
-- [ぼくのさいきょうツール :: ［ FLAT ］ Develop | ONO TAKEHIKO from aguije inc.](http://flat.is/develop/2014/02/ultimate/)
 - [[Web Front-End|WebFrontEnd]]
 - [リファレンス](http://wiki.nocorica.jp/index.php?title=リファレンス)
 - [Web Security](http://wiki.nocorica.jp/index.php?title=Web Security)
@@ -57,6 +56,8 @@
 #### Editor
 - [[Vim]]
 - [[SublimeText]]
+- [サクラエディタ](http://wiki.nocorica.jp/index.php?title=サクラエディタ)
+    - [サクラエディタ - 設定](http://wiki.nocorica.jp/index.php?title=サクラエディタ - 設定)
 
 ### Design
 - [[Design]]
@@ -73,8 +74,6 @@
 - [Windows 7 - 導入ソフト](http://wiki.nocorica.jp/index.php?title=Windows 7 - 導入ソフト)
     - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
         - [AutoHotKey - スクリプト](http://wiki.nocorica.jp/index.php?title=AutoHotKey - スクリプト)
-    - [サクラエディタ](http://wiki.nocorica.jp/index.php?title=サクラエディタ)
-        - [サクラエディタ - 設定](http://wiki.nocorica.jp/index.php?title=サクラエディタ - 設定)
     - [Excel](http://wiki.nocorica.jp/index.php?title=Excel)
 - [コマンドプロンプト](http://wiki.nocorica.jp/index.php?title=コマンドプロンプト)
 - [バッチ](http://wiki.nocorica.jp/index.php?title=バッチ)
