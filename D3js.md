@@ -1,6 +1,6 @@
 # D3.js
 
-[[d3js.png]]
+[[d3js.png|alt=D3.js (Data-Driven Documents)]]
 
 ### Documents
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
@@ -33,6 +33,12 @@
 - [国勢調査など政府統計データをCSV化してダウンロードできる「統計くん」　政府API活用 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1306/13/news094.html)
 - [無料で利用できるデータベース＆レファレンスサービスまとめ](http://yuma-z.com/blog/2013/06/database/)
 - [JR東日本：各駅の乗車人員（2012年度）](http://www.jreast.co.jp/passenger/)
+
+### 地図
+- [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
+- [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
+- [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
+- [D3.jsで地図を作る。 |](http://kenjispecial.wordpress.com/2013/12/15/d3/)
 
 ### 関連Webサービス
 - [Raw](http://raw.densitydesign.org/) - 簡単な手順でビジュアライゼーションの生成、画像データ書き出しや埋め込みができるWebアプリ
