@@ -14,6 +14,8 @@ javascript:(function(){var s=document.createElement('script');s.setAttribute('sr
 javascript:(function(){var%20c=function(e){return%20true;};document.onkeydown=c;var%20m=window.MENU;if(m){m.document.onkeydown=c;};var%20o=window.OPERATION;if(o){o.document.onkeydown=c;}})()
 </pre>
 
+### Webフォント判別
+- [使われているWebフォント名が分かる便利なブックマークレット Type Sample - フォントブログ](http://blog.petitboys.com/archives/typesample.html)
 
 ### Tips
 - [Twitter / Isthmis: ブックマークレットに絵文字アイコン導入したらすごい視認性が上がって使いやすくなった](https://twitter.com/Isthmis/status/475999198819536896)
