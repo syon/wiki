@@ -71,3 +71,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ### Tips
 
 - [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
+
+## Effect
+
+- [EffectHub.com: Your best source for gaming](http://effecthub.com/)
