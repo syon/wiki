@@ -27,6 +27,8 @@
 - [Swiftことはじめ：String?のクエスチョンマークって何？ - shoma2da's diary](http://shoma2da.hatenablog.com/entry/2014/06/03/233312)
 - [[iOS][Mac] Swift を学べる記事のまとめ ｜ Developers.IO](http://dev.classmethod.jp/smartphone/iphone/learn-swift/)
 - [Appleの新プログラミング言語Swiftは、4年前の1人プロジェクトから始まった | TechCrunch Japan](http://jp.techcrunch.com/2014/06/05/20140604apples-new-programming-language-has-been-in-development-for-nearly-four-years/)
+- [プログラミング言語Swift日本語チュートリアル ~ 前編（Apple公式ドキュメントSwift Tour±α） - こんにゃくマガジン](http://xavier.hateblo.jp/entry/2014/06/12/223346)
+- [プログラミング言語Swift日本語チュートリアル ~ 後編（Apple公式ドキュメントSwift Tour±α） - こんにゃくマガジン](http://xavier.hateblo.jp/entry/2014/06/14/201418)
 
 ## Sample Code
 
