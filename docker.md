@@ -16,6 +16,8 @@
 
 - [いまさら聞けないDocker入門（2）：ついに1.0がリリース！ Dockerのインストールと主なコマンドの使い方 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/10/news031.html)
 
+- [[翻訳] Dockerについてよくある勘違い | TechRacho](http://techracho.bpsinc.jp/hachi8833/2014_06_16/17982)
+
 #### Windows
 
 - [Windows + Vagrant + VirtualBox + Docker - ✗✗✗](http://syonx.hatenablog.com/entry/2014/02/18/010757)
