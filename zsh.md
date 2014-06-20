@@ -53,11 +53,15 @@ $ chsh -s /bin/zsh    デフォルトのシェルを変更
 
 [コマンド履歴・インクリメンタル検索](https://twitter.com/naoya_ito/status/453122024836038656)
 
-    Ctrl+R
+    control + R
 
 undo
 
-    Ctrl+U
+    control + U
+
+Clear
+
+    control + L
 
 その他
 
