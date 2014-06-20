@@ -3,6 +3,7 @@
 nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP とリバースプロキシのサーバで、メールプロキシサーバでもあります。Rambler (RamblerMedia.com) を含むロシアの多くの高負荷サイトで５年以上も動いています。Netcraft によると、nginx は 2010 年 4 月時点で 4.70% の人気サイトでサーバーとして、もしくはプロキシとして利用されています。成功例としては FastMail.FM や Wordpress.com があります。
 
 公式ドキュメント :: [Nginx Community](http://wiki.nginx.org/Main)
+- [日本Nginxユーザ会が発足。開発者Igor Sysoev氏が語る、Nginxが生まれ、商用化された理由 － Publickey](http://www.publickey1.jp/blog/14/nginxigor_sysoevnginx.html)
 
 #### Guide
 
