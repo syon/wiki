@@ -140,6 +140,11 @@ somepage.haml
 - [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
 - [速習テンプレートSlim(HTML作成編) - Qiita](http://qiita.com/yterajima/items/53fd0387279510ff082a)
 
+### 認証
+
+- [チュートリアル - sinatraへ簡易アカウント管理機能を追加する - Qiita](http://qiita.com/kaz3439/items/d908fb6ec7fb4aa15fe3)  
+  ログインの実装サンプル。ユーザ認証はメルアドとパスワード。
+
 ### TIPS
 
 - [SinatraでJSONを返す](http://d.hatena.ne.jp/rightgo09_ruby/20130828/p1)
