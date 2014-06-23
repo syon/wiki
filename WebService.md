@@ -17,6 +17,7 @@
 - [配色の悩みを少しでも軽くするための、『色』に関するWEBサービスやツール色々！ | バンクーバーのうぇぶ屋](http://webya.opdsgn.com/webdesign/timesavingtoolsandservicesforcoloring/)
 - [colourcode - find your colour scheme](http://colourco.de/)
 - [「Webサイトの配色で困った！」→「HUE/360使えば良いじゃない」 | 56docブログ](http://blog.56doc.net/Entry/553/)
+- [Flat UI Colors](http://flatuicolors.com/)
 
 ### 画像
 
