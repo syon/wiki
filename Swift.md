@@ -29,6 +29,8 @@
 - [Appleの新プログラミング言語Swiftは、4年前の1人プロジェクトから始まった | TechCrunch Japan](http://jp.techcrunch.com/2014/06/05/20140604apples-new-programming-language-has-been-in-development-for-nearly-four-years/)
 - [プログラミング言語Swift日本語チュートリアル ~ 前編（Apple公式ドキュメントSwift Tour±α） - こんにゃくマガジン](http://xavier.hateblo.jp/entry/2014/06/12/223346)
 - [プログラミング言語Swift日本語チュートリアル ~ 後編（Apple公式ドキュメントSwift Tour±α） - こんにゃくマガジン](http://xavier.hateblo.jp/entry/2014/06/14/201418)
+- [SwiftのArrayがヤバイ - Qiita](http://qiita.com/koher/items/6f54eafac59793e7c364)
+- [大事なことは全部MLが教えてくれた ～ Apple の Swift の mutability 周りの件を理解する - Oh, you `re no (fun _ → more)](http://d.hatena.ne.jp/camlspotter/20140611/1402457362)
 
 ## Sample Code
 
