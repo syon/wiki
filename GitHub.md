@@ -1,3 +1,23 @@
+## GitHub Pages
+
+### Jekyll
+
+- [Using Jekyll with Pages · GitHub Help](https://help.github.com/articles/using-jekyll-with-pages)
+
+### Custom Domain
+
+- GitHub Help
+    - [Setting up a custom domain with GitHub Pages · GitHub Help](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages)
+    - [Adding a CNAME file to your repository · GitHub Help](https://help.github.com/articles/adding-a-cname-file-to-your-repository)
+    - [Tips for configuring a CNAME record with your DNS provider · GitHub Help](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
+    - [About custom domains for GitHub Pages sites · GitHub Help](https://help.github.com/articles/about-custom-domains-for-github-pages-sites)
+- [GitHub PagesでCustom Domainを利用する - Glide Note - グライドノート](http://blog.glidenote.com/blog/2011/12/20/how-to-use-custom-domain-on-github-pages/)
+
+#### ムームードメイン
+
+- [CNAME レコードの設定: ムームードメイン - Google Apps 管理者用 ヘルプ](https://support.google.com/a/answer/142022?hl=ja)
+- ドメイン操作 / ムームーDNS / 対象のドメイン [変更]
+
 ## Gist
 - [markdownで書かれたgistを奇麗に表示。 - Qiita [キータ]](http://qiita.com/hden@github/items/5dbd8f1d3b03345d6a33)
 - [Mike Bostock](http://bost.ocks.org/mike/)
