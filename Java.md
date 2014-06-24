@@ -1,0 +1,40 @@
+## Java Coding
+
+### for文
+
+- [JavaのList・Mapのfor文処理覚書 - よんちゅBlog](http://yonchu.hatenablog.com/entry/20110216/1297857882)
+
+### Map
+
+- [Java Map クラスの違い HashMap Hashtable TreeMap LinkedHashMap](http://kaworu.jpn.org/kaworu/2008-04-10-2.php)
+
+<table><tr><td> <strong>HashMap</strong></td><td> k=vの並びが適当 </td></tr><tr><td> <strong>Hashtable</strong></td><td> keyが降順(数が大から小へ数えた順番)になる </td></tr><tr><td> <strong>TreeMap</strong></td><td> keyが昇順(数が小から大へ)になる</td></tr><tr><td> <strong>LinkedHashMap</strong></td><td> k=vを入れた順番に並ぶ </td></tr></table>
+
+### 正規表現
+
+- [文字列から正規表現で特定部分を抽出 - 風日記](http://d.hatena.ne.jp/mmasashi/20091030/1256919089)
+- [Javaの道：文字列（７．正規表現）](http://www.javaroad.jp/java_character7.htm)
+
+```java
+"Apple iPhone 5s Silver".matches( "^.*iPhone.*$" ); // true
+```
+
+### リフレクション
+
+- [Javaのオブジェクトの値をリフレクションでMapに格納するメモ | simultechnology.blog](http://simultechnology.blendmix.jp/blog/archives/1199)
+- [文字列で指定したメソッドを呼び出すには？ － ＠IT](http://www.atmarkit.co.jp/fdotnet/dotnettips/389methodinvoke/methodinvoke.html)
+- [JDK5.0でreflectionを使用しようとすると警告される理由 - くろのまったりシステム開発日記。](http://d.hatena.ne.jp/kuronekojima/20080304/1204599672)
+- [メモ用Javaとか java 【private , getDeclaredMethod , invoke】](http://okbabybaby.blog77.fc2.com/blog-entry-19.html)  
+  メソッド名を動的に指定して実行
+
+## ライブラリ
+
+### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
+
+## Tips
+
+### 複数のjarファイルを1つにまとめる
+
+- [複数のjarファイルを1つに纏める - koichi’s swap memory](http://d.hatena.ne.jp/koichiarchi/20080116/1200447205)
+- [Fat Jar Eclipse Plug-In](http://fjep.sourceforge.net/)
+- [クラウドサービスプラットフォーム Cosminexus：Eclipse開発で使用するJARをユーザー･ライブラリーとしてまとめる：ソフトウェア：日立](http://www.hitachi.co.jp/Prod/comp/soft1/cosminexus/useful/tips/100304_eclipse-user-library.html)
