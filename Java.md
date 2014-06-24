@@ -31,6 +31,10 @@
 
 ### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
 
+- [Overview (POI API Documentation)](http://poi.apache.org/apidocs/overview-summary.html)
+- [POIのHSSFを使ってExcelに画像を挿入 - No Programming, No Life](http://npnl.hatenablog.jp/entry/20081122/1227337357)
+- [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
+
 ## Tips
 
 ### 複数のjarファイルを1つにまとめる
