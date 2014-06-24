@@ -45,7 +45,7 @@
     - [[WIN32OLE]] IE自動制御
     - [Win32API](http://wiki.nocorica.jp/index.php?title=Win32API)
     - [[ThinReports]]
-- [Java](http://wiki.nocorica.jp/index.php?title=Java)
+- [[Java]]
 - [Oracle](http://wiki.nocorica.jp/index.php?title=Oracle)
 - [VBA](http://wiki.nocorica.jp/index.php?title=VBA)
     - [Excel2Csv](http://wiki.nocorica.jp/index.php?title=Excel2Csv)
