@@ -51,7 +51,7 @@
     - [Excel2Csv](http://wiki.nocorica.jp/index.php?title=Excel2Csv)
 - [正規表現](http://wiki.nocorica.jp/index.php?title=正規表現)
 - [[Git]]
-- [Gist](http://wiki.nocorica.jp/index.php?title=Gist)
+- [[GitHub]]
 - [[Redmine]]
 
 #### Editor
