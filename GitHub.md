@@ -1,5 +1,9 @@
 ## GitHub Pages
 
+- GitHub Help
+    - [Creating Pages with the automatic generator · GitHub Help](https://help.github.com/articles/creating-pages-with-the-automatic-generator)
+- [メモ: GitHub Pages & Jekyll](http://blog.nocorica.jp/2013/08/githubpages-jekyll/)
+
 ### Jekyll
 
 - [Using Jekyll with Pages · GitHub Help](https://help.github.com/articles/using-jekyll-with-pages)
