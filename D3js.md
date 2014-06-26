@@ -33,16 +33,13 @@
 - [国勢調査など政府統計データをCSV化してダウンロードできる「統計くん」　政府API活用 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1306/13/news094.html)
 - [無料で利用できるデータベース＆レファレンスサービスまとめ](http://yuma-z.com/blog/2013/06/database/)
 - [JR東日本：各駅の乗車人員（2012年度）](http://www.jreast.co.jp/passenger/)
+- [社会人なら知っておきたい無料の公的統計データ「e-Stat」と「統計メールニュース」 | Web担当者Forum](http://web-tan.forum.impressrd.jp/e/2014/06/24/17731)
 
 ### 地図
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
 - [D3.jsで地図を作る。 |](http://kenjispecial.wordpress.com/2013/12/15/d3/)
-
-### 関連Webサービス
-- [Raw](http://raw.densitydesign.org/) - 簡単な手順でビジュアライゼーションの生成、画像データ書き出しや埋め込みができるWebアプリ
-    - [SVG、PNG書き出しできるフリーのビジュアライゼーション・ツール | ビジュアルシンキング](http://www.visualthinking.jp/archives/17010)
 
 ### TIPS
 - [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
