@@ -2,6 +2,7 @@
 
 - [Style Guides for Websites :: [ FLAT ] Design | ONO TAKEHIKO from aguije inc.](http://flat.is/design/2014/05/style-guides-for-websites/)  
   Webサイトのデザイン スタイルガイド
+- [Google Design](http://www.google.com/design/)
 
 ## UI
 
