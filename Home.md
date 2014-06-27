@@ -5,7 +5,7 @@
 - [リファレンス](http://wiki.nocorica.jp/index.php?title=リファレンス)
 - [Web Security](http://wiki.nocorica.jp/index.php?title=Web Security)
 - [HTML](http://wiki.nocorica.jp/index.php?title=HTML)
-- [CSS](http://wiki.nocorica.jp/index.php?title=CSS)
+- [[CSS]]
     - [[Twitter Bootstrap|TwitterBootstrap]]
 - [JavaScript](http://wiki.nocorica.jp/index.php?title=JavaScript)
     - [[jQuery]]
