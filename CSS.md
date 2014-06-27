@@ -74,6 +74,10 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 
 ## TIPS
 
+### viewport
+
+- [これがスマートフォン向けサイトを作るときの viewport 設定３パターンだ - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/02/15/viewport/)
+
 ### float
 * [CSSでfloatを解除する方法のまとめ: 小粋空間](http://www.koikikukan.com/archives/2013/03/28-005555.php)
 
