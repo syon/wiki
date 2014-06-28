@@ -143,6 +143,10 @@ somepage.haml
 
 - [SinatraからActiveRecord 3を使う(1) マイグレーション - アインシュタインの電話番号](http://blog.ruedap.com/2011/04/16/ruby-sinatra-active-record-3-migrate)
     - `Rakefile`を作成して、`rake`を使ってテーブル作成（マイグレーション）する
+        1. `$ rake db:create_migration NAME=create_users`
+        1. `db/migrate/20140628000729_create_users.rb`が生成される
+        1. メソッド内に必要なカラムを書き足していく
+        1. `$ bundle exec rake db:migrate`
 - [Ruby - 非Rails AppでActiveRecord::Migrationを使う + Rakeでバージョン管理する - Qiita](http://qiita.com/foloinfo/items/6ecfe3c5fd1b56f1dceb)
     - `database.yml`内でERBを利用しているとき`YAML.load(ERB.new(File.read('config/database.yml')).result)`とする
 
