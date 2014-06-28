@@ -18,6 +18,8 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 - [Rubyでrbファイルをrequireするときはドットを打つと良さそう - アインシュタインの電話番号](http://blog.ruedap.com/2011/05/31/ruby-require-load-path)  
 ※Ruby 1.9.2ではロードパスにカレントディレクトリが含まれなくなった  
 `require './hoge.rb'`
+    - [Ruby1.9.2以降でrequireする際の注意点 - Qiita](http://qiita.com/nekogeruge_987/items/2d18f388219597c75e05)  
+      `require_relative 'app.rb'`
 
 - [Ruby/演算子 - BugbearR's Wiki](http://www.bugbearr.jp/?Ruby%2F%E6%BC%94%E7%AE%97%E5%AD%90)
 
