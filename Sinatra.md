@@ -139,7 +139,10 @@ somepage.haml
 - [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
 - [速習テンプレートSlim(HTML作成編) - Qiita](http://qiita.com/yterajima/items/53fd0387279510ff082a)
 
+
 ## ActiveRecord
+
+- [ActiveRecordの関連のすべて ー StoneDot の Ruby on Rails 講座](http://www.stonedot.com/lecture6.html)
 
 ### モデル作成
 - [SinatraからActiveRecord 3を使う(1) マイグレーション - アインシュタインの電話番号](http://blog.ruedap.com/2011/04/16/ruby-sinatra-active-record-3-migrate)
