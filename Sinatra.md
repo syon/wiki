@@ -141,15 +141,18 @@ somepage.haml
 
 ## ActiveRecord
 
+### モデル作成
 - [SinatraからActiveRecord 3を使う(1) マイグレーション - アインシュタインの電話番号](http://blog.ruedap.com/2011/04/16/ruby-sinatra-active-record-3-migrate)
     - `Rakefile`を作成して、`rake`を使ってテーブル作成（マイグレーション）する
-        1. `$ rake db:create_migration NAME=create_users`
+        1. `$ bundle exec rake db:create_migration NAME=create_users`
         1. `db/migrate/20140628000729_create_users.rb`が生成される
         1. メソッド内に必要なカラムを書き足していく
         1. `$ bundle exec rake db:migrate`
 - [Ruby - 非Rails AppでActiveRecord::Migrationを使う + Rakeでバージョン管理する - Qiita](http://qiita.com/foloinfo/items/6ecfe3c5fd1b56f1dceb)
     - `database.yml`内でERBを利用しているとき`YAML.load(ERB.new(File.read('config/database.yml')).result)`とする
-- `$ rake db:seed`
+
+### 初期データ投入
+- `$ bundle exec rake db:seed`
     - foreman からは`config.ru`を呼び出すが、rake からは`Rakefile`を呼び出す
     - DB接続やModel記述を`config.ru`に書くと、`Rakefile`から require できなかった
     - 記述一元管理のために`ar_env.rb`を作成、そちらに記述を移す
