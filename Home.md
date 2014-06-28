@@ -18,6 +18,7 @@
     - [[Bookmarklet]]
 - [ActionScript](http://wiki.nocorica.jp/index.php?title=ActionScript) Flash, AS, AIR
     - [Starling](http://wiki.nocorica.jp/index.php?title=Starling)
+- [[Phaser]]
 - [[Yeoman]]
 
 ### Web Back-End
