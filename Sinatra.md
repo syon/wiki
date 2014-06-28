@@ -149,6 +149,13 @@ somepage.haml
         1. `$ bundle exec rake db:migrate`
 - [Ruby - 非Rails AppでActiveRecord::Migrationを使う + Rakeでバージョン管理する - Qiita](http://qiita.com/foloinfo/items/6ecfe3c5fd1b56f1dceb)
     - `database.yml`内でERBを利用しているとき`YAML.load(ERB.new(File.read('config/database.yml')).result)`とする
+- `$ rake db:seed`
+    - foreman からは`config.ru`を呼び出すが、rake からは`Rakefile`を呼び出す
+    - DB接続やModel記述を`config.ru`に書くと、`Rakefile`から require できなかった
+    - 記述一元管理のために`ar_env.rb`を作成、そちらに記述を移す
+    - `config.ru`と`Rakefile`に`require './ar_env'`を追記
+    - 参考: [ruby on rails - How do I get a custom Rake task to run in Sinatra? - Stack Overflow](http://stackoverflow.com/questions/20081457/how-do-i-get-a-custom-rake-task-to-run-in-sinatra)
+
 
 ## 認証
 
