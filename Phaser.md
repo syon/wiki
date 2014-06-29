@@ -13,6 +13,7 @@ Tags: `flash-like` `2d` `sounds` `collisions` `physics` `typescript` `webgl` `fr
 
 - [Phaser Index](http://docs.phaser.io/)
 - [Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/forum/14-phaser/)
+- [phaser labs](http://labs.phaser.io/)
 
 ### 作例
 
