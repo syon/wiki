@@ -100,7 +100,7 @@
 
 ### ハードウェア
 - [Raspberry Pi](http://wiki.nocorica.jp/index.php?title=Raspberry Pi)
-- [ハードウェアAPI](http://wiki.nocorica.jp/index.php?title=ハードウェアAPI)
+- [[Hardware]]
 - [[torne]]
 
 ### Sounds
