@@ -3,7 +3,16 @@
 モバイル/デスクトップ向けのHTML5製の2Dゲームフレームワーク。  
 pixi.jsベースでCanvasやWebGLのレンダリングもサポート。
 
+Tags: `flash-like` `2d` `sounds` `collisions` `physics` `typescript` `webgl` `free`
+
 - [Examples - PixiJS](http://www.pixijs.com/examples/)
+- [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)  
+  HTML5ベースのゲームエンジン一覧
+
+### Phaser Sites
+
+- [Phaser Index](http://docs.phaser.io/)
+- [Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/forum/14-phaser/)
 
 ### 作例
 
