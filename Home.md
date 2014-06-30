@@ -71,7 +71,6 @@
 - [勉強会・セミナー](http://wiki.nocorica.jp/index.php?title=勉強会・セミナー)
 
 ### Windows
-- [Windows Tips](http://wiki.nocorica.jp/index.php?title=Windows Tips)
 - [[Windows 7|Windows7]]
 - [Windows 7 - 導入ソフト](http://wiki.nocorica.jp/index.php?title=Windows 7 - 導入ソフト)
     - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
@@ -86,7 +85,7 @@
 - [OS X](http://wiki.nocorica.jp/index.php?title=OS X)
 - [Mac App](http://wiki.nocorica.jp/index.php?title=Mac App)
 - [iOS](http://wiki.nocorica.jp/index.php?title=iOS)
-- [iOS App](http://wiki.nocorica.jp/index.php?title=iOS App)
+- [[iOS App|iOS-App]]
 - [[Swift]]
 
 ### Shell
