@@ -6,7 +6,7 @@
 - [[HTML]]
 - [[CSS]]
     - [[Twitter Bootstrap|TwitterBootstrap]]
-- [JavaScript](http://wiki.nocorica.jp/index.php?title=JavaScript)
+- [[JavaScript]]
     - [[jQuery]]
     - [jQuery Mobile](http://wiki.nocorica.jp/index.php?title=jQuery Mobile)
     - [Angular.js](http://wiki.nocorica.jp/index.php?title=Angular.js)
