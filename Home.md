@@ -65,7 +65,7 @@
 
 ### Webサービス
 - [[Webサービス|WebService]]
-- [Web API](http://wiki.nocorica.jp/index.php?title=Web API)
+- [[Web API|WebAPI]]
 - [[作業用BGM|BGM]]
 - [勉強会・セミナー](http://wiki.nocorica.jp/index.php?title=勉強会・セミナー)
 
@@ -100,6 +100,7 @@
 - [Raspberry Pi](http://wiki.nocorica.jp/index.php?title=Raspberry Pi)
 - [[Hardware]]
 - [[torne]]
+- [[MIDI]]
 
 ### Sounds
 -  [効果音](http://wiki.nocorica.jp/index.php?title=効果音)
