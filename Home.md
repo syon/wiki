@@ -2,7 +2,7 @@
 
 ### Web Front-End
 - [[Web Front-End|WebFrontEnd]]
-- [Web Security](http://wiki.nocorica.jp/index.php?title=Web Security)
+- [[Web Security|WebSecurity]]
 - [[HTML]]
 - [[CSS]]
     - [[Twitter Bootstrap|TwitterBootstrap]]
