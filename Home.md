@@ -13,7 +13,7 @@
     - [[D3.js|D3js]]
     - [Three.js](http://wiki.nocorica.jp/index.php?title=Three.js)
     - [[famo.us|Famous]]
-    - [気になるJSライブラリ](http://wiki.nocorica.jp/index.php?title=気になるJSライブラリ)
+    - [[気になるJSライブラリ|JS-Library]]
     - [[Bookmarklet]]
 - [ActionScript](http://wiki.nocorica.jp/index.php?title=ActionScript) Flash, AS, AIR
     - [Starling](http://wiki.nocorica.jp/index.php?title=Starling)
