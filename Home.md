@@ -9,7 +9,7 @@
 - [[JavaScript]]
     - [[jQuery]]
     - [jQuery Mobile](http://wiki.nocorica.jp/index.php?title=jQuery Mobile)
-    - [Angular.js](http://wiki.nocorica.jp/index.php?title=Angular.js)
+    - [[AngularJS]]
     - [[D3.js|D3js]]
     - [Three.js](http://wiki.nocorica.jp/index.php?title=Three.js)
     - [[famo.us|Famous]]
