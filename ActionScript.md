@@ -1,8 +1,22 @@
-
 ## 参考作品
 
 - [Adobe AppBox](https://appbox.adobe-web.jp/)  
   AIRアプリケーション登録型事例サイト
+
+
+## Starling
+
+#### [Starling - The Cross Platform Game Engine](http://gamua.com/starling/)
+
+### Setup
+- [Setup Starling Framework - Flash CS6 / AS3 - ✗](http://syonx.hatenablog.com/entry/2014/02/16/013434)
+
+### References
+- [Transitions - Starling Framework Reference](http://doc.starling-framework.org/core/starling/animation/Transitions.html)
+
+### Samples
+- [Starling Framework 演出サンプル No.01: パーティクル | ClockMaker Blog](http://clockmaker.jp/blog/2011/11/starling-framework-sample/)
+
 
 ## FeliCa / PaSoRi
 

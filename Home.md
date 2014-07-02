@@ -15,8 +15,7 @@
     - [[famo.us|Famous]]
     - [[気になるJSライブラリ|JS-Library]]
     - [[Bookmarklet]]
-- [ActionScript](http://wiki.nocorica.jp/index.php?title=ActionScript) Flash, AS, AIR
-    - [Starling](http://wiki.nocorica.jp/index.php?title=Starling)
+- [[ActionScript]] Flash, AS, AIR
 - [[Phaser]]
 - [[Yeoman]]
 
