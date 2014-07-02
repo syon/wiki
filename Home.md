@@ -94,7 +94,7 @@
 
 ### Linux
 - [[Ubuntu]]
-- [CentOS](http://wiki.nocorica.jp/index.php?title=CentOS)
+- [[CentOS]]
 
 ### ハードウェア
 - [Raspberry Pi](http://wiki.nocorica.jp/index.php?title=Raspberry Pi)
