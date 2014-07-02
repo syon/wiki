@@ -8,10 +8,8 @@
     - [[Twitter Bootstrap|TwitterBootstrap]]
 - [[JavaScript]]
     - [[jQuery]]
-    - [jQuery Mobile](http://wiki.nocorica.jp/index.php?title=jQuery Mobile)
     - [[AngularJS]]
     - [[D3.js|D3js]]
-    - [Three.js](http://wiki.nocorica.jp/index.php?title=Three.js)
     - [[famo.us|Famous]]
     - [[気になるJSライブラリ|JS-Library]]
     - [[Bookmarklet]]
@@ -96,7 +94,6 @@
 - [[CentOS]]
 
 ### ハードウェア
-- [Raspberry Pi](http://wiki.nocorica.jp/index.php?title=Raspberry Pi)
 - [[Hardware]]
 - [[torne]]
 - [[MIDI]]
