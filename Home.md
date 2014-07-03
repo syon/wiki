@@ -103,4 +103,4 @@
 
 ### バックアップ
 - [[BackUp]]
-- [MediaWiki](http://wiki.nocorica.jp/index.php?title=MediaWiki)
+- [[MediaWiki]]
