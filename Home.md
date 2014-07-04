@@ -21,7 +21,7 @@
 - [[Chef]]
 - [[Vagrant]]
 - [[docker]]
-- [fluentd + elasticsearch + kibana](http://wiki.nocorica.jp/index.php?title=Fluentd_%2B_elasticsearch_%2B_kibana)
+- [[LogManagement]] Fluentd + Elasticsearch + Kibana
 - [[nginx]]
 - [[CI]]
 - [[nodejs]]
