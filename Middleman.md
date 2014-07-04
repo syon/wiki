@@ -18,6 +18,8 @@
 ## Publish
 
 ### Middleman on Travis CI + GitHub Pages
+
+#### [GitHub Pages + Middleman + Travis CI の構築手順 - X X X](http://syonx.hatenablog.com/entry/2014/06/29/185525)
 - [Middleman で作った web サイトを Travis + GitHub pages でお手軽に運用する - tricknotesのぼうけんのしょ](http://tricknotes.hateblo.jp/entry/2013/06/17/020229)
     - Travis でビルドする
     - Travis で commit を作成する
