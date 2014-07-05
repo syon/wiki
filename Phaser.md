@@ -26,7 +26,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
 
 ### Learn By Example
 
-- [Phaser Examples](http://examples.phaser.io/index.html)  
+- [Phaser Examples](http://examples.phaser.io/)  
   公式サンプル集
     - [photonstorm/phaser-examples (GitHub)](https://github.com/photonstorm/phaser-examples)  
     公式サンプル集のソースコード
