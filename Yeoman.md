@@ -2,9 +2,7 @@
 
 ### [Yeoman - Modern workflows for modern webapps](http://yeoman.io/)
 
-![Yeoman](http://yeoman.io/assets/img/bullet-yo.f6f8.gif)
-![Grunt](http://yeoman.io/assets/img/bullet-grunt.0c59.gif)
-![Bower](http://yeoman.io/assets/img/bullet-bower.e181.gif)
+![Yeoman](http://yeoman.io/assets/img/workflow.1bf8.jpg)
 
 ### Yeomanとは
 
@@ -35,3 +33,6 @@ $ sudo chown $USER /usr/lib/node_modules/
 - [Gruntを使ってプロジェクトを自動化する、Myタスクメモ | tipsBear](http://tipsbear.com/grunt-task-memo/)  
   丁寧な図解でわかりやすい解説
 
+### Articles
+
+- [Gruntで始めるWeb開発爆速自動化入門（終）：あなたのWeb開発人生を変えるYeoman、Bower、Yoのインストールと使い方 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/02/news040.html)
