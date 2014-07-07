@@ -1,24 +1,23 @@
-
-### インストール
+## Ubuntuのインストール
 - [WindowsのVirtualBoxにUbuntu 13.04をインストールしてみた -VirtualBoxの使い方](http://pc-karuma.net/windows8-virtualbox-ubuntu-install/)
 
-### 操作
+## 操作
 
 <dl>
   <dt><code>Ctrl+Alt+矢印</code></dt>
   <dd>ワークスペース切り替え</dd>
 </dl>
 
-#### キーボード
+### キーボード
 
 - [Ubuntu 12.04 LTS で使えるキーボードショートカット一覧 - Sickly Life はてな版](http://d.hatena.ne.jp/itiri/20120512/1336829456)
 - [Gnome端末をマウスや矢印キーに頼らずに使う方法 - コオンド・ビイフ](http://d.hatena.ne.jp/amajam/20120422/1335052384)
 
-### 知識
+## 知識
 
 - [Filesystem Hierarchy Standard - Wikipedia](http://ja.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) Linuxのディレクトリ構造
 
-### Guest Additionsのインストール
+## Guest Additionsのインストール
 
 - [MacBook AirにVirtualBoxを入れ仮想マシンにCentOS6.5(64)をインストールしRails環境を構築してHerokuにサンプルをデプロイするまでの手順 - Qiita](http://qiita.com/tosato3/items/a3d9c3316f9714fbb815)
 
@@ -31,31 +30,31 @@ VirtualBoxのメニューバー > デバイス > Guest Additions のCDイメー�
     $ ./VBoxLinuxAdditions.run
     $ shutdown -r now
 
-### 端末
+## 端末
 
-#### 端末（terminal : ターミナル）の起動
+### 端末（terminal : ターミナル）の起動
 
 - ショートカットキー： Ctrl+Alt+T
 - デスクトップ画面左上のDashホームをクリック → テキストボックスに「terminal」と入力 → 「端末」を選択
 
-#### 端末でのコマンド一覧
+### 端末でのコマンド一覧
 
 - [[UNIXコマンド]]
 - [VIPでUbuntu!!@ ウィキ - 端末でのコマンド一覧](http://www37.atwiki.jp/ubuntuireyouze/pages/17.html)
 - [Linuxコマンド集 - 【 hostname 】 ホスト名を表示，設定する：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230798/)
 
-#### 端末での操作
+### 端末での操作
 
-##### バックスクロール
+#### バックスクロール
 
 - Shift + PageUp
 - Shift + PageDown
 
-##### .bashrcの再読込
+#### .bashrcの再読込
 
     ~$ source .bashrc
 
-#### パッケージ
+### パッケージ
 
 最新のパッケージリストを入手する
 
@@ -77,24 +76,24 @@ VirtualBoxのメニューバー > デバイス > Guest Additions のCDイメー�
 
     $ sudo apt-get upgrade
 
-#### アクセス権変更
+### アクセス権変更
 - [Linuxコマンド集 - 【 chmod 】 ファイルやディレクトリのアクセス権を変更する：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230728/)
 
-### ネットワーク
+## ネットワーク
 
-#### IPアドレスの確認
+### IPアドレスの確認
 
 inetアドレス の表示が自機のIPアドレス
 
     ifconfig
 
-#### ホストOSとゲストOSを繋ぐ 
+### ホストOSとゲストOSを繋ぐ 
 
 - [VirtualBox上にインストールしたUbuntuにSSHで接続する | トリコロールな猫](http://www.nekotricolor.com/blog/2013/03/15/904/)
 - [VirtualBox内のUbuntu にssh ,httpでアクセス | LAGRANGE BLOG](http://blog.earthyworld.com/archives/ubuntu-ssh-http/)  
 「VirtualBoxマネージャー」ウィンドウにて、対象の仮想マシンを選択 → 設定 → ネットワーク → アダプター 1 → 割り当て: ブリッジアダプター
 
-#### Windows WORKGROUPへの参加
+### Windows WORKGROUPへの参加
 
 - [How to join Ubuntu to a Windows Workgroup - TechRepublic](http://www.techrepublic.com/blog/linux-and-open-source/how-to-join-ubuntu-to-a-windows-workgroup/)
 
@@ -113,9 +112,9 @@ $ sudo /etc/init.d/smbd restart
 $ sudo testparm            #Once Samba has restarted, check your smb.conf for any syntax errors
 </pre>
 
-##### [Ubuntu 12.04 LTS - Sambaサーバー - フルアクセスの共有フォルダ作成 ： Server World](http://www.server-world.info/query?os=Ubuntu_12.04&p=samba)
+#### [Ubuntu 12.04 LTS - Sambaサーバー - フルアクセスの共有フォルダ作成 ： Server World](http://www.server-world.info/query?os=Ubuntu_12.04&p=samba)
 
-##### Ubuntuのホスト名を変更する
+#### Ubuntuのホスト名を変更する
 
 再起動しても有効になる変更は、２箇所のファイルの変更が必要になります。
 
@@ -130,7 +129,7 @@ $ sudo testparm            #Once Samba has restarted, check your smb.conf for an
 
     $ sudo /etc/init.d/networking restart
 
-#### IPアドレス 固定/DHCP
+### IPアドレス 固定/DHCP
 
 設定ファイル
 
@@ -160,23 +159,27 @@ Ubuntu DHCP IPアドレス取得設定例
     auto eth0
     iface eth0 inet dhcp
 
-#### ポート開放確認
+ネットワーク再起動
+
+    $ sudo /etc/init.d/networking restart
+
+### ポート開放確認
 
     $ ufw status
 
-#### プロセス・ポート確認
+### プロセス・ポート確認
 
 - [How to Find and Kill a Process that is Using a Particular Port in Ubuntu | Technology is good](http://geekbrigade.wordpress.com/2009/02/26/how-to-find-and-kill-a-process-that-is-using-a-particular-port-in-ubuntu/)
 
     $ sudo netstat -lpn |grep :8080
 
-#### Proxy
+### Proxy
 
-##### システムに対する設定
+#### システムに対する設定
 
 左のバーにあるシステム設定 > ネットワーク > ネットワークプロキシ
 
-##### ターミナルに対する設定
+#### ターミナルに対する設定
 
 大文字で記述。消す場合は "" で。
 
@@ -184,16 +187,16 @@ Ubuntu DHCP IPアドレス取得設定例
     export HTTPS_PROXY="https://hostname:port/"
     export FTP_PROXY="ftp://hostname:port/"
 
-#### ルーティング
+### ルーティング
 
 例: 「デフォルトのインターフェースを eth1 とし、eth0 を解除する」
 
-##### 一時的適用
+#### 一時的適用
 
     $ sudo route add -net default gw 172.20.10.1 eth1
     $ sudo route del -net default eth0
 
-##### 恒久的適用
+#### 恒久的適用
 
 `/etc/network/if-up.d/static-routes`
 
@@ -209,11 +212,11 @@ Ubuntu DHCP IPアドレス取得設定例
 
     $ sh /etc/network/if-up.d/static-routes
 
-### 環境構築
+## 環境構築
 
 - [Ruby on Rails 3.2 を Ubuntu にインストールする手順をかなり丁寧に説明してみました - Rails 雑感 - Ruby on Rails with OIAX](http://www.oiax.jp/rails/zakkan/rails_3_2_installation_on_ubuntu.html)
 
-#### Synergy
+### Synergy
 
     $ sudo apt-get install synergy
 
@@ -224,13 +227,13 @@ Ubuntu DHCP IPアドレス取得設定例
     user-session=ubuntu
     greeter-setup-script=/usr/bin/synergyc -n clientname serveraddress
 
-#### Proxy Server (Squid)
+### Proxy Server (Squid)
 
-##### Install
+#### Install
 
     $ sudo apt-get install squid
 
-##### Config
+#### Config
 
 - [Proxyサーバの設定（squid）：tech.ckme.co.jp](http://tech.ckme.co.jp/proxy.shtml)
 - [Squidによるプロキシサーバーの構築](http://linux.kororo.jp/cont/server/squid.php)
@@ -254,7 +257,7 @@ Ubuntu DHCP IPアドレス取得設定例
 
 `$ sudo service squid3 restart`
 
-### エラー対処
+## エラー対処
 
 - [Ubuntu Server 12.04: 警告「Setting locale failed」への対処法](http://d.hatena.ne.jp/tkrd/20120828/1346123699)  
 sshで接続する際にローカルPCの環境変数がリモートホストに送信されていたのが原因  
@@ -264,13 +267,13 @@ sshで接続する際にローカルPCの環境変数がリモートホストに
 #SendEnv LANG LC_*
 </pre>
 
-#### 「システムプログラムの問題がみつかりました」ダイアログを表示されなくする
+### 「システムプログラムの問題がみつかりました」ダイアログを表示されなくする
 
 `/etc/default/apport`
 
     enabled=0
 
-### TIPS
+## TIPS
 
 - [Ubuntu ファイルブラウザの設定を好みに変更する | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-57.html)
 - [Ubuntu Nautilus その9 - ファイル一覧の表示形式 - Ubuntu kledgeb](http://kledgeb.blogspot.jp/2012/07/ubuntu-nautilus-9.html)
@@ -278,6 +281,6 @@ sshで接続する際にローカルPCの環境変数がリモートホストに
     - 一覧（Ctrl + 2）
     - コンパクト（Ctrl + 3）
 
-##### UbuntuでいうWindowsのタスクマネージャのようなもの
+#### UbuntuでいうWindowsのタスクマネージャのようなもの
 
     gnome-system-monitor
