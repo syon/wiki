@@ -33,7 +33,7 @@
     - [[Gollum]]
 
 #### Cloud Platform
-- [AWS](http://wiki.nocorica.jp/index.php?title=AWS)
+- [[AWS]]
 - [[Heroku]]
 
 ### Code
