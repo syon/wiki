@@ -27,7 +27,7 @@
 - [[nodejs]]
 
 #### Web App Framework
-- [Ruby on Rails](http://wiki.nocorica.jp/index.php?title=Ruby on Rails)
+- [[Ruby on Rails]]
 - [[Sinatra]]
     - [[Middleman]]
     - [[Gollum]]
