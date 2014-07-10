@@ -1,0 +1,1 @@
+- [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)
