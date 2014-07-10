@@ -30,10 +30,19 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   公式サンプル集
     - [photonstorm/phaser-examples (GitHub)](https://github.com/photonstorm/phaser-examples)  
     公式サンプル集のソースコード
-- [12 Games in 12 Weeks | Lessmilk](http://www.lessmilk.com/12games.php)  
-  Phaserで毎週１つゲームを作った人の作品集
 - [Connect Me](https://dl.dropboxusercontent.com/u/36169647/HTML5/connectors/index.html)
 - [Initials](http://www.initialsgames.com/microsites/)
+
+#### [12 Games in 12 Weeks | Lessmilk](http://www.lessmilk.com/12games.php) :: Phaserで毎週１つゲームを作った人の作品集
+
+- Game #1: Run!
+    - スプライトシートを使ってキャラクター移動時のアニメーションを行っている。
+```js
+// http://docs.phaser.io/Phaser.Loader.html#spritesheet
+game.load.spritesheet('player', 'images/player.png', 20, 24);
+this.player.animations.add('left', [6, 7], 10, true);
+this.player.animations.play('left');
+```
 
 ### Tutorials
 
