@@ -46,7 +46,7 @@
 - [Oracle](http://wiki.nocorica.jp/index.php?title=Oracle)
 - [VBA](http://wiki.nocorica.jp/index.php?title=VBA)
     - [Excel2Csv](http://wiki.nocorica.jp/index.php?title=Excel2Csv)
-- [正規表現](http://wiki.nocorica.jp/index.php?title=正規表現)
+- [[正規表現|RegExp]]
 - [[Git]]
 - [[GitHub]]
 - [[Redmine]]
