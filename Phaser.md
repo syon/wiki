@@ -57,3 +57,17 @@ this.player.animations.play('left');
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/3/))
     - [How to make a Flappy Bird in HTML5 - Part 3](http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-3/)
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/4/))
+
+### Tips
+
+- iPhoneのタップに対応する
+    - [How to capture a touch event on mobile device - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/1764-how-to-capture-a-touch-event-on-mobile-device/)
+```js
+game.input.onDown.add(doSomething, this);
+
+function doSomething(pointer) {
+ // pointer will contain the pointer that activated this event
+}
+```
+他にも、画面の左右領域タップやスワイプに関する記述がある。
+- [FullScreen iPhone issue - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2051-fullscreen-iphone-issue/)
