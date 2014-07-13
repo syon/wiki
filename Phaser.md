@@ -58,7 +58,7 @@ this.player.animations.play('left');
     - [How to make a Flappy Bird in HTML5 - Part 3](http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-3/)
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/4/))
 
-### Tips
+### iPhone対応
 
 - iPhoneのタップに対応する
     - [How to capture a touch event on mobile device - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/1764-how-to-capture-a-touch-event-on-mobile-device/)
@@ -70,4 +70,12 @@ function doSomething(pointer) {
 }
 ```
 他にも、画面の左右領域タップやスワイプに関する記述がある。
-- [FullScreen iPhone issue - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2051-fullscreen-iphone-issue/)
+- フルスクリーン
+    - [phaser.js - Super Mario Combo](http://gametest.mobi/mariocombo/)
+    - [FullScreen iPhone issue - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2051-fullscreen-iphone-issue/)  
+      iPhoneではフルスクリーンAPIがサポートされていないため使用不可。
+    - [javascript - iOS 7 go into full screen mode (add to home screen button) - Stack Overflow](http://stackoverflow.com/questions/19710014/ios-7-go-into-full-screen-mode-add-to-home-screen-button)  
+      以下のmetaを設定したページをホーム画面に追加して起動するとフルスクリーンになる。
+```html
+<meta name="apple-mobile-web-app-capable" content="yes">
+```
