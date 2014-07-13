@@ -70,6 +70,8 @@ function doSomething(pointer) {
 }
 ```
 他にも、画面の左右領域タップやスワイプに関する記述がある。
+    - [phaser - multi touch](http://examples.phaser.io/_site/view_full.html?d=input&f=multi+touch.js&t=multi%20touch)  
+      マルチタッチのサンプル
 - フルスクリーン
     - [phaser.js - Super Mario Combo](http://gametest.mobi/mariocombo/)
     - [FullScreen iPhone issue - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2051-fullscreen-iphone-issue/)  
