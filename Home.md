@@ -43,7 +43,7 @@
     - [[Win32API]]
     - [[ThinReports]]
 - [[Java]]
-- [Oracle](http://wiki.nocorica.jp/index.php?title=Oracle)
+- [[Oracle]]
 - [VBA](http://wiki.nocorica.jp/index.php?title=VBA)
     - [Excel2Csv](http://wiki.nocorica.jp/index.php?title=Excel2Csv)
 - [[正規表現|RegExp]]
