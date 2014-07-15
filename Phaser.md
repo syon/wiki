@@ -58,6 +58,8 @@ this.player.animations.play('left');
     - [How to make a Flappy Bird in HTML5 - Part 3](http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-3/)
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/4/))
 
+- [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
+
 ### iPhone対応
 
 - iPhoneのタップに対応する
