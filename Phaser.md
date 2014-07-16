@@ -60,6 +60,10 @@ this.player.animations.play('left');
 
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
 
+### Articles
+
+- [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
+
 ### iPhone対応
 
 - iPhoneのタップに対応する
