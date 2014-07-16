@@ -43,10 +43,14 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ## Font
 
 ### Web Font
-- [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ](http://flat.is/portfolio/personal/2013/08/spun-gold/) Portfolio | ONO TAKEHIKO from aguije inc.]
+- [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
 - [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
 - [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  Google Web Fontの説明
+
+### Iconic Font
+- [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
+- [Devicons | The developer's iconic font](http://vorillaz.github.io/devicons/)
 
 ### 日本語フリーフォント
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
