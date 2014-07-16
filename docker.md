@@ -11,6 +11,7 @@
 - [[翻訳] Dockerについてよくある勘違い | TechRacho](http://techracho.bpsinc.jp/hachi8833/2014_06_16/17982)
 - [Docker専用ツールのまとめ(PaaSとUI、OS、コンテナ管理ツール、ホスティングなど)](http://wslash.com/?p=5744)
 - [Docker と LXC - Qiita](http://qiita.com/Surgo/items/709a07d68c6eafbad267)
+- [Docker、IBM、Microsoft、RedHatがGoogleのコンテナ管理フレームワークKubernetesにこぞって開発参加する理由 - Qiita](http://qiita.com/kazunori279/items/ebe8ea24601e606f8048)
 
 ### Mac
 
