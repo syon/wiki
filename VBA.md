@@ -1,4 +1,3 @@
-
 ### SubとFunctionの違いとPublicとPrivateの違い
 
 - [[Excel](http://wada811.blogspot.com/2012/04/excelvbasubfunctionpublicprivate.html)[| DevAchieve](VBA]SubとFunctionの違いとPublicとPrivateの違い)
@@ -65,6 +64,7 @@ End Sub
 - [MS Excel のCSV読み込み不具合対策](http://hirz.s100.xrea.com/doc/excelcsv.html)  
   標準書式での読込を回避し、CSVの全項目を文字列として読み込むマクロ
 
+- [Excel2Csv](https://gist.github.com/syon/f16494c9cca2a9893a9a)
 
 ## PDF
 
