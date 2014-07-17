@@ -99,7 +99,7 @@
 - [[MIDI]]
 
 ### Sounds
--  [効果音](http://wiki.nocorica.jp/index.php?title=効果音)
+-  [[効果音|SoundEffect]]
 
 ### バックアップ
 - [[BackUp]]
