@@ -58,6 +58,7 @@
 
 ### Design
 - [[Design]]
+    - [[Font]]
 - [[Wallpaper]]
 
 ### Webサービス
