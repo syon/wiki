@@ -42,6 +42,14 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 
 ## Font
 
+### Google
+
+#### [Google Noto Fonts](http://www.google.com/get/noto/)
+Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.
+- [GoogleとAdobeのフォントNoto Sans（Source Han Sans）の画期的なところ | Stocker.jp / diary](http://stocker.jp/diary/noto-sans/)
+
+#### [Google Fonts](https://www.google.com/fonts)
+
 ### Web Font
 - [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
