@@ -77,6 +77,10 @@ Noto is Google’s font family that aims to support all the world’s languages.
 
 ## Image
 
+### Photo
+
+- [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
+
 ### Texture
 
 - [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
