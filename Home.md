@@ -86,7 +86,7 @@
 - [[Swift]]
 
 ### Shell
-- [UNIXコマンド](http://wiki.nocorica.jp/index.php?title=UNIXコマンド)
+- [[UNIXコマンド|UNIX command]]
 - [[zsh]]
 - [tmux](http://wiki.nocorica.jp/index.php?title=tmux)
 
