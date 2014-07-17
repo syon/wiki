@@ -1,3 +1,5 @@
+[[docker.png|align=center]]
+
 ## まとめ
 
 - [dockerについて社内勉強会で話しました - 圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/entry/2014/01/30/161032)
