@@ -78,7 +78,7 @@
 - [Cygwin](http://wiki.nocorica.jp/index.php?title=Cygwin)
 
 ### Apple
-- [OS X](http://wiki.nocorica.jp/index.php?title=OS X)
+- [[OS X|OSX]]
 - [[Mac App|Mac-App]]
 - [[iOS]]
 - [[iOS App|iOS-App]]
