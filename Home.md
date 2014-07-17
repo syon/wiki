@@ -45,7 +45,6 @@
 - [[Java]]
 - [[Oracle]]
 - [[VBA]]
-    - [Excel2Csv](http://wiki.nocorica.jp/index.php?title=Excel2Csv)
 - [[正規表現|RegExp]]
 - [[Git]]
 - [[GitHub]]
