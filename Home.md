@@ -87,7 +87,7 @@
 ### Shell
 - [[UNIXコマンド|UNIX command]]
 - [[zsh]]
-- [tmux](http://wiki.nocorica.jp/index.php?title=tmux)
+- [[tmux]]
 
 ### Linux
 - [[Ubuntu]]
