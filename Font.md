@@ -7,10 +7,14 @@ Noto is Google’s font family that aims to support all the world’s languages.
 #### [Google Fonts](https://www.google.com/fonts)
 
 ### Web Font
+
 - [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
 - [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
 - [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  Google Web Fontの説明
+
+- [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
+  TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
 
 ### Iconic Font
 - [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
