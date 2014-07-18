@@ -80,6 +80,14 @@ this.player.animations.add('left', [6, 7], 10, true);
 this.player.animations.play('left');
 ```
 
+#### 参考作品
+
+- [VVVVVV - A game by Terry Cavanagh](http://thelettervsixtim.es/) (Flash)
+
+### Articles
+
+- [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
+- [『VVVVVV』 クリエイター Terry Cavanagh ミニマリストの想い、追究 | AUTOMATON](http://jp.automaton.am/articles/one-man-dev/creator-01-terry-cavanagh/)
 ### Tutorials
 
 - [Photon Storm » Blog Archive » Tutorial: Making your first Phaser game](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
@@ -99,10 +107,6 @@ this.player.animations.play('left');
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
-
-### Articles
-
-- [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
 
 ### iPhone対応
 
