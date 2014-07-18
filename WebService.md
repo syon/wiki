@@ -36,12 +36,13 @@
 - [外国人名　資料一覧・メニュー](http://www.geocities.jp/mt_erech_ave/data.html)
 - [ヨーロッパ人名対照表 － Reichsarchiv ～世界帝王事典～](http://reichsarchiv.jp/基礎データ/ヨーロッパ人名対照表)
 
-### ジェネレータ
+### ダミーデータ、ジェネレータ
 
 - [ダミー文章、ダミーデータ、ダミー画像を作ってくれるジェネレータまとめ【WEB制作】 - NAVER まとめ](http://matome.naver.jp/odai/2133396164637378001)
 - [制作途中にお世話になる、ダミーテキスト・ダミー画像のジェネレーターいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/dummy/)
 - [日本の全エンジニアに捧ぐ！現在公開されているテスト用ダミーデータ一覧 | Find Job ! Startup](http://www.find-job.net/startup/dummy-2013)
 - [これは使える！かわいい似顔絵・アバターが作成できるジェネレーター20選 | コリス](http://coliss.com/articles/web-services/portrait-generators-for-twitter-and-facebook.html)
+- [組見本用創作文](http://www.type-labo.jp/Kumimihon.html)
 
 ### Google検索
 
