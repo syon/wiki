@@ -61,6 +61,8 @@ this.player.animations.play('left');
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/4/))
 
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
+- [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
+  Xcode の UIWebView を使った実装例あり。
 
 ### Articles
 
