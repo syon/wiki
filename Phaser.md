@@ -24,6 +24,42 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
 - [Phaser Plugins](https://github.com/photonstorm/phaser-plugins)  
   "We are trying hard to keep the core of Phaser limited to only essential classes"
 
+### Overview
+
+[How to Learn the Phaser HTML5 Game Engine - Tuts+ Game Development Article](http://gamedevelopment.tutsplus.com/articles/how-to-learn-the-phaser-html5-game-engine--gamedev-13643)
+- What Platforms Can I Target With Phaser?
+    - Desktop Browsers
+    - Mobile Browsers
+    - Firefox OS, Tizen, and Kindle
+    - Native Apps and Desktop EXEs
+- Key Features
+    - It's Just Plain JavaScript  
+      [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
+- Easy Asset Loading
+    - Images
+    - Sprite Sheets (fixed sized frames)
+    - Texture Atlases (including Texture Packer, JSON Hash, JSON Array, Flash CS6/CC, and Starling XML formats)
+    - Audio files
+    - Data Files (XML, JSON, plain text)
+    - JavaScript files (so you can part-load your games or JS based resources)
+    - Tilemaps (CSV and Tiled map formats)
+    - Bitmap Fonts
+- Rendering: WebGL and Canvas
+    - [Pixi.js - 2D webGL renderer with canvas fallback](http://www.pixijs.com/)  
+      Internally, Phaser uses Pixi.js for rendering. Pixi is a great, fast rendering library that focuses on Canvas and WebGL.
+    - [Sprite Lamp | Snake Hill Games](http://snakehillgames.com/spritelamp/)  
+      Dynamic lighting for 2D art
+- Audio: Web Audio and Legacy Audio
+- Input: Multi-Touch, Keyboard, Pointer, Mouse  
+  You can define up to 10 touch points and track them all independently, using their events to handle Sprite interactions such as dragging, tapping, and collision.
+- Physics, Tweens, and Particles
+    - can be swapped out for the likes of Box2D or p2.js.
+    - A tweening system is also built-in, allowing you to tween objects or properties easily.
+    - should the game pause, then all of your tweens will pause automatically and resume as needed.
+- Plugins  
+  It is our aim that the core of Phaser will eventually settle down and hit a nice stable equilibrium, where we're not likely to touch it much beyond fixes and browser updates.
+    - A great example of this is the recently released [EasyStar](https://github.com/prettymuchbryce/easystarjs) path finding plugin ([easystar.js](http://easystarjs.com/))
+
 ### Learn By Example
 
 - [Phaser Examples](http://examples.phaser.io/)  
