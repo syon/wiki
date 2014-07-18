@@ -46,6 +46,8 @@ this.player.animations.play('left');
 
 ### Tutorials
 
+- [Photon Storm » Blog Archive » Tutorial: Making your first Phaser game](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
+
 - [Phaser tutorial](http://www.lessmilk.com/phaser-tutorial/)  
   Phaserのチュートリアル記事一覧
 
