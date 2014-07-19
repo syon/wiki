@@ -110,7 +110,19 @@ this.player.animations.play('left');
 
 ### Tile Map
 
-- [Tiled Map Editor](http://www.mapeditor.org/)
+#### Editor
+
+##### [Tiled Map Editor](http://www.mapeditor.org/)
+- [Collisions and Collectables: How To Make a Tile-Based Game with Cocos2D 2.X Part 2 | Ray Wenderlich](http://www.raywenderlich.com/29460/collisions-and-collectables-how-to-make-a-tile-based-game-with-cocos2d-2-x-part-2)
+
+##### [Mighty Editor](http://mightyeditor.mightyfingers.com/)
+- [HTML5 Game Editor | Web Based | MightyFingers » Blog Archive » Game editor on Phaser.io](http://mightyfingers.com/blog/game-editor-o-phaser/)
+
+##### [Deadly Alien Map Editor](http://dambots.com/dame-editor/)
+- [Photon Storm » Blog Archive » DAME 2 Released – My Favourite Game Map Editor!](http://www.photonstorm.com/game-development/software/dame-2-released-my-favourite-game-map-editor)
+
+##### [Toast Editor](http://toastedware.com/toasteditor/)
+- [Tutorial: Sketch your levels with Toast Editor and load them into Phaser HTML5 game framework • Toastedware](http://toastedware.com/?p=297)
 
 ### iPhone対応
 
