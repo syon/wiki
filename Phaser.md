@@ -32,9 +32,8 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
     - Mobile Browsers
     - Firefox OS, Tizen, and Kindle
     - Native Apps and Desktop EXEs
-- Key Features
-    - It's Just Plain JavaScript  
-      [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
+- It's Just Plain JavaScript
+    - [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
 - Easy Asset Loading
     - Images
     - Sprite Sheets (fixed sized frames)
@@ -88,6 +87,7 @@ this.player.animations.play('left');
 
 - [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
 - [『VVVVVV』 クリエイター Terry Cavanagh ミニマリストの想い、追究 | AUTOMATON](http://jp.automaton.am/articles/one-man-dev/creator-01-terry-cavanagh/)
+
 ### Tutorials
 
 - [Photon Storm » Blog Archive » Tutorial: Making your first Phaser game](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
@@ -107,6 +107,10 @@ this.player.animations.play('left');
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
+
+### Tile Map
+
+- [Tiled Map Editor](http://www.mapeditor.org/)
 
 ### iPhone対応
 
