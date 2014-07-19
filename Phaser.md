@@ -17,6 +17,9 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
 
 - [Documentation](http://docs.phaser.io/)  
   ドキュメント。各クラスのdocもある。
+    - [Phaser-dash-docset by rcolinray](http://rcolinray.github.io/phaser-dash-docset/)  
+      MacアプリのDash用Docset。  
+      `dash-feed://https%3A%2F%2Fraw.githubusercontent.com%2Frcolinray%2Fphaser-dash-docset%2Fmaster%2FPhaser.xml`
 - [Support Forum](http://www.html5gamedevs.com/forum/14-phaser/)  
   フォーラム
 - [phaser labs](http://labs.phaser.io/)  
