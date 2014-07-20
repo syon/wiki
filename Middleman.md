@@ -10,6 +10,7 @@
 - link_toやstylesheet_link_tagなどRailsのTemplate Helpersが使える。
 - Asset PipelineでJavascriptやCSSの依存ファイルをrequireできる。
 - JavascriptやCSSをminify、gzipなどパフォーマンスの最適化ができる。
+- アセットファイル名にハッシュ値を付けて古いファイルへの参照を防ぐことができる。([Middleman: キャッシュ機能の改善](http://middlemanapp.com/jp/advanced/improving-cacheability/))
 
 ### Jekyllとの違い
 - Middleman の方が優れている点は、 Asset Pipeline や Template Helpers などの便利な機能を利用可能
