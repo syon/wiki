@@ -37,6 +37,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
     - Native Apps and Desktop EXEs
 - It's Just Plain JavaScript
     - [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
+    - [Photon Storm » Blog Archive » Advanced Phaser and TypeScript Projects](http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects)
 - Easy Asset Loading
     - Images
     - Sprite Sheets (fixed sized frames)
