@@ -2,7 +2,13 @@
 
 [[nodejs.png|align=center]]
 
-### Setup
+http://nodejs.org
+
+### Setup on OSX
+
+公式サイトからインストーラ使うのが手っ取り早い
+
+### Setup on Ubuntu
 
 * [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
 * <code>npm</code>は含まれている模様
