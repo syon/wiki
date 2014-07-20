@@ -1,5 +1,7 @@
 # node.js
 
+[[nodejs.png|align=center]]
+
 ### Setup
 
 * [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
