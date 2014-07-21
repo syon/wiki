@@ -49,6 +49,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 
 ### Photo
 
+- [CC Search](http://search.creativecommons.org/)  
+  サイトを横断して検索するクリエイティブ・コモンズの検索サービス。商用利用可能素材の検索も可能。
 - [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
 
 ### Texture
