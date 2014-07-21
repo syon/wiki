@@ -147,7 +147,26 @@ function doSomething(pointer) {
     - [FullScreen iPhone issue - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2051-fullscreen-iphone-issue/)  
       iPhoneではフルスクリーンAPIがサポートされていないため使用不可。
     - [javascript - iOS 7 go into full screen mode (add to home screen button) - Stack Overflow](http://stackoverflow.com/questions/19710014/ios-7-go-into-full-screen-mode-add-to-home-screen-button)  
-      以下のmetaを設定したページをホーム画面に追加して起動するとフルスクリーンになる。
+      以下のmetaを設定したページをホーム画面に追加して起動するとフルスクリーン（ツールバーなし）になる。
 ```html
 <meta name="apple-mobile-web-app-capable" content="yes">
 ```
+- デスクトップ/モバイル判定とスケール
+    - [2.0.0 - this.game.stage.scale.setScreenSize is not a function - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/4838-200-thisgamestagescalesetscreensize-is-not-a-function/)  
+      [TypeScriptのチュートリアル](http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects)に記載されているコードとちょっと違う。Phaser v2.0.7 で動作確認できたのは以下。
+```js
+if (this.game.device.desktop) {
+    this.scale.pageAlignHorizontally = true;
+}
+else {
+    this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+    this.scale.minWidth = 480;
+    this.scale.minHeight = 260;
+    this.scale.maxWidth = 1024;
+    this.scale.maxHeight = 768;
+    //this.scale.forceLandscape = true;
+    this.scale.pageAlignHorizontally = true;
+    this.scale.setScreenSize(true);
+}
+```
+`forceLandscape`は意図する挙動がよくわからない。有効にすると、iPhoneを縦(portrait)にしたとき縦に引き伸ばされてしまう。
