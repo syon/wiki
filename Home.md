@@ -65,7 +65,7 @@
 - [[Webサービス|WebService]]
 - [[Web API|WebAPI]]
 - [[作業用BGM|BGM]]
-- [勉強会・セミナー](http://wiki.nocorica.jp/index.php?title=勉強会・セミナー)
+- [[勉強会・セミナー|Seminar]]
 
 ### Windows
 - [[Windows 7|Windows7]]
