@@ -76,7 +76,7 @@
 - [コマンドプロンプト](http://wiki.nocorica.jp/index.php?title=コマンドプロンプト)
 - [バッチ](http://wiki.nocorica.jp/index.php?title=バッチ)
 - [VBScript](http://wiki.nocorica.jp/index.php?title=VBScript)
-- [Cygwin](http://wiki.nocorica.jp/index.php?title=Cygwin)
+- [[Cygwin]]
 
 ### Apple
 - [[OS X|OSX]]
