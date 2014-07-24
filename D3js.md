@@ -18,6 +18,14 @@
 - [D3.js の d3.svg.line() を試してみた - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/29/d3js-svg-line/)
 - [タッチ操作に対応した画像ビューワーをJavaScriptで作るならD3.jsが便利 - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/12/13/touch-viewer/)
 - [D3.js で自作クラスにイベント発行機能を追加する - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2014/04/02/d3-event-dispatch/)
+- [d3.js Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/117)
+
+##### tech.nitoyon.com
+- [D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/)
+- [D3.js の d3.svg.line() を試してみた - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/29/d3js-svg-line/)
+- [K-means 法を D3.js でビジュアライズしてみた - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/11/07/k-means/)
+- [タッチ操作に対応した画像ビューワーをJavaScriptで作るならD3.jsが便利 - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/12/13/touch-viewer/)
+- [D3.js で自作クラスにイベント発行機能を追加する - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2014/04/02/d3-event-dispatch/)
 
 #### Calendar Heat map
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
