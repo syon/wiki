@@ -4,6 +4,7 @@
 
 ### Documents
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
+- [D3 入門 | スコット・マレイ | alignedleft](http://ja.d3js.info/alignedleft/tutorials/d3/)
 
 ### Overview
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」 | freshtrax | btrax スタッフブログ](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
