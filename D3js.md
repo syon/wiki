@@ -1,6 +1,6 @@
 # D3.js
 
-[[d3js.png|alt=D3.js (Data-Driven Documents)]]
+[[d3js.png|align=center]]
 
 ### Documents
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
@@ -17,6 +17,7 @@
 #### SVG Browser Support
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#cats=SVG)
 - [Raphaël—JavaScript Library](http://raphaeljs.com/)
+    - [[HTML5]Raphael.jsを使用してIE上でもSVGを使う](http://5for1.jp/archives/288)
 
 ### 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
