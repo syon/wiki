@@ -56,4 +56,7 @@
 - [D3.jsで地図を作る。 |](http://kenjispecial.wordpress.com/2013/12/15/d3/)
 
 ### TIPS
+
+#### ファイル出力
 - [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
+- [Export d3js/SVG as SVG/PDF](http://d3export.housegordon.org/)
