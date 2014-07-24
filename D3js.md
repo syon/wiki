@@ -11,6 +11,13 @@
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」 | freshtrax | btrax スタッフブログ](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
 - [データを分かりやすくスタイリッシュに可視化できるJavascriptライブラリ「D3.js」 - GIGAZINE](http://gigazine.net/news/20130121-data-design-d3js/)
 
+### SVG (Scalable Vector Graphics)
+- [Retina対応にSVGは本当に使えるのか？ – Rriver](http://parashuto.com/rriver/responsive-web/is-svg-good-for-high-res-screen-solutions)
+
+#### SVG Browser Support
+- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#cats=SVG)
+- [Raphaël—JavaScript Library](http://raphaeljs.com/)
+
 ### 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
 - [D3.jsで始めるData-Drivenなページ作成 ｜ Developers.IO](http://dev.classmethod.jp/ria/d3js/)
