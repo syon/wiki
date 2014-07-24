@@ -53,9 +53,11 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
   サイトを横断して検索するクリエイティブ・コモンズの検索サービス。商用利用可能素材の検索も可能。
 - [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
 
-### Texture
+### Texture / Pattern
 
 - [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
+- [PatternBolt](http://buseca.github.io/patternbolt/)  
+  SVGの背景パターン
 
 ### Tips
 
