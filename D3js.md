@@ -67,7 +67,7 @@
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
-- [D3.jsで地図を作る。 |](http://kenjispecial.wordpress.com/2013/12/15/d3/)
+- [D3.jsで地図を作る。](http://kenjispecial.wordpress.com/2013/12/15/d3/)
 
 ### 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)
