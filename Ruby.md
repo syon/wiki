@@ -27,6 +27,8 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 チルダはビット反転演算子で、整数をビット反転させると符号を反転させて1引いた数になる。  
 つまり-1のときだけ0になるので、indexOfと組み合わせて使うことができる。
 
+- [RubyのFile.expand_path('相対パス', __FILE__)の意味 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130104/p1)
+
 ### インストール(rbenv on Mac)
 
 - [Ruby - Homebrewのインストールとrbenvのインストール Mac編 - Qiita](http://qiita.com/issobero/items/e0443b79da117ed48294)  
