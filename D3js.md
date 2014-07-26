@@ -6,6 +6,10 @@
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
 - [データを分かりやすくスタイリッシュに可視化できるJavascriptライブラリ「D3.js」 - GIGAZINE](http://gigazine.net/news/20130121-data-design-d3js/)
 
+### Other Visualization Tools
+- [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
+- [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
+
 ### Learning D3.js
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
 - [D3 入門 | スコット・マレイ | alignedleft](http://ja.d3js.info/alignedleft/tutorials/d3/)
