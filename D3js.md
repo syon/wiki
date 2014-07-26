@@ -26,12 +26,8 @@
 ### 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
 - [D3.jsで始めるData-Drivenなページ作成 ｜ Developers.IO](http://dev.classmethod.jp/ria/d3js/)
-- [D3 Tutorial: Axes ? Scott Murray ? alignedleft](http://alignedleft.com/tutorials/d3/axes/)
+- [Axes — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/axes/)
     - 軸ラベルのフォーマット xAxis.tickFormat(formatAsPercentage);
-- [D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/)
-- [D3.js の d3.svg.line() を試してみた - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/29/d3js-svg-line/)
-- [タッチ操作に対応した画像ビューワーをJavaScriptで作るならD3.jsが便利 - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/12/13/touch-viewer/)
-- [D3.js で自作クラスにイベント発行機能を追加する - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2014/04/02/d3-event-dispatch/)
 - [d3.js Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/117)
 
 ##### tech.nitoyon.com
