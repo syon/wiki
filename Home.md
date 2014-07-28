@@ -73,9 +73,8 @@
     - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
         - [AutoHotKey - スクリプト](http://wiki.nocorica.jp/index.php?title=AutoHotKey - スクリプト)
     - [Excel](http://wiki.nocorica.jp/index.php?title=Excel)
-- [コマンドプロンプト](http://wiki.nocorica.jp/index.php?title=コマンドプロンプト)
-- [バッチ](http://wiki.nocorica.jp/index.php?title=バッチ)
-- [VBScript](http://wiki.nocorica.jp/index.php?title=VBScript)
+- [[コマンドプロンプト|command prompt]]
+- [[VBScript]]
 - [[Cygwin]]
 
 ### Apple
