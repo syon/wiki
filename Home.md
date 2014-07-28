@@ -69,11 +69,11 @@
 
 ### Windows
 - [[Windows 7|Windows7]]
-- [Windows 7 - 導入ソフト](http://wiki.nocorica.jp/index.php?title=Windows 7 - 導入ソフト)
-    - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
-        - [AutoHotKey - スクリプト](http://wiki.nocorica.jp/index.php?title=AutoHotKey - スクリプト)
+- [[Windows 7 - 導入ソフト|Windows7-app]]
+    - [[AutoHotKey]]
+        - [[AutoHotKey - スクリプト|AutoHotKey-scripts]]
     - [[Excel]]
-- [[コマンドプロンプト|command prompt]]
+- [[コマンドプロンプト|command-prompt]]
 - [[VBScript]]
 - [[Cygwin]]
 
