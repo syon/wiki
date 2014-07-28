@@ -72,7 +72,7 @@
 - [Windows 7 - 導入ソフト](http://wiki.nocorica.jp/index.php?title=Windows 7 - 導入ソフト)
     - [AutoHotKey](http://wiki.nocorica.jp/index.php?title=AutoHotKey)
         - [AutoHotKey - スクリプト](http://wiki.nocorica.jp/index.php?title=AutoHotKey - スクリプト)
-    - [Excel](http://wiki.nocorica.jp/index.php?title=Excel)
+    - [[Excel]]
 - [[コマンドプロンプト|command prompt]]
 - [[VBScript]]
 - [[Cygwin]]
