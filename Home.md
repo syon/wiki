@@ -53,8 +53,8 @@
 #### Editor
 - [[Vim]]
 - [[SublimeText]]
-- [サクラエディタ](http://wiki.nocorica.jp/index.php?title=サクラエディタ)
-    - [サクラエディタ - 設定](http://wiki.nocorica.jp/index.php?title=サクラエディタ - 設定)
+- [[サクラエディタ|Sakura-Editor]]
+    - [[サクラエディタ - 設定|Sakura-Editor-settings]]
 
 ### Design
 - [[Design]]
