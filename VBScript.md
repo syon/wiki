@@ -1,0 +1,2 @@
+- [VBScript 基礎文法最速マスター - CX's VBScript Diary - VBScript グループ](http://vbscript.g.hatena.ne.jp/cx20/20100131/1264906231)
+    - インタラクティブVBScript - ivb.vbs
