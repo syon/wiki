@@ -1,1 +1,0 @@
-this page is placed in `/subir/subpage.md`.
