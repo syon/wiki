@@ -11,7 +11,6 @@ unless File.exists? '.git'
 end
 
 Precious::App.set(:default_markup, :markdown)
-Precious::App.set(:wiki_options, { universal_toc: false, live_preview: false, css: true, js: true })
-Precious::App.set(:page_file_dir, 'source')
+Precious::App.set(:wiki_options, { universal_toc: false, live_preview: false, css: true, js: true, page_file_dir: 'source' })
 Precious::App.set(:gollum_path, gollum_path)
 run Precious::App
