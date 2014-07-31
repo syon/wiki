@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/syon/gollum.git
-  revision: 0edc5e42aab8c57edd745d908533f21545ce095c
+  remote: https://github.com/syon/gollum.git
+  revision: a9c9a31fbf4c39f3fdc5f9634329e538fb0b12bb
   specs:
     gollum (3.0.0)
       github-markdown (~> 0.6.5)
@@ -20,10 +20,10 @@ GEM
     foreman (0.71.0)
       dotenv (~> 0.11.1)
       thor (~> 0.19.1)
-    github-markdown (0.6.5)
+    github-markdown (0.6.6)
     github-markup (1.1.2)
       posix-spawn (~> 0.3.8)
-    gitlab-grit (2.6.7)
+    gitlab-grit (2.6.10)
       charlock_holmes (~> 0.6)
       diff-lcs (~> 1.1)
       mime-types (~> 1.15)
@@ -38,8 +38,8 @@ GEM
     kgio (2.9.2)
     mime-types (1.25.1)
     mini_portile (0.6.0)
-    mustache (0.99.5)
-    nokogiri (1.6.2.1)
+    mustache (0.99.6)
+    nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
     posix-spawn (0.3.8)
     rack (1.5.2)
@@ -67,5 +67,5 @@ PLATFORMS
 
 DEPENDENCIES
   foreman
-  gollum (~> 3.0.0)!
+  gollum!
   unicorn
