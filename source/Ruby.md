@@ -1,4 +1,4 @@
-### リファレンス
+## リファレンス
 
 #### [逆引きRuby](http://www.namaraii.com/rubytips/)
 
@@ -26,16 +26,17 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 つまり-1のときだけ0になるので、indexOfと組み合わせて使うことができる。
 - [RubyのFile.expand_path('相対パス', __FILE__)の意味 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130104/p1)
 
-### インストール(rbenv on Mac)
+## Install Ruby
+
+### rbenv on Mac
 
 - [Ruby - Homebrewのインストールとrbenvのインストール Mac編 - Qiita](http://qiita.com/issobero/items/e0443b79da117ed48294)  
   `$ rbenv init`も必要 https://github.com/sstephenson/rbenv#how-rbenv-hooks-into-your-shell
 
-### インストール(rbenv on Ubuntu)
+### rbenv on Ubuntu
 
-- [Dockerをインストールする - Qiita](http://qiita.com/sudahiroshi/items/2f430cc61878c4c70119)
 
-<pre>
+```bash
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 $ sudo apt-get install ssh git build-essential libssl-dev
@@ -47,22 +48,23 @@ $ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-
 $ rbenv install 2.0.0-p353
 $ rbenv global 2.0.0-p353
 $ rbenv rehash
-</pre>
+```
+via - [Dockerをインストールする - Qiita](http://qiita.com/sudahiroshi/items/2f430cc61878c4c70119)
 
-Ruby 1.9.3 のインストールでエラー発生
+#### Ruby 1.9.3 のインストールでエラー発生
 
-<pre>
+```bash
 checking for gcc... /usr/bin/gcc-4.2
 checking whether the C compiler works... no
 configure: error: in `/tmp/ruby-build.20140417163730.6400/yaml-0.1.6':
 configure: error: C compiler cannot create executables
-</pre>
+```
 
 `gcc-4.2`が見つからないのが原因。`$ gcc -v`を見ると 4.6.3 となっていた。 4.2 のインストール方法を探しても見つからないのでシンボリックリンクを張って対処。
 
-<pre>
+```bash
 $ sudo ln -sf /usr/bin/gcc /usr/bin/gcc-4.2
-</pre>
+```
 
 ### 新規プロジェクト作成時
 
@@ -80,14 +82,14 @@ $ bundle exec ruby sample.rb
 
 - [Proxy経由のgem install - 京の路](http://blog.matake.jp/archives/proxygem_install)
 
-### Gem
+## Gem
 - [[Ruby-Gem]]
 
-### Rake
+## Rake
 - [ファイルを扱う作業をRakeで便利にしよう！（パート1：概要編） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-1.html)
 - [ファイルを扱う作業をRakeで便利にしよう！（パート2：実践編1） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-2.html)
 
-### TIPS
+## TIPS
 
 #### 対話型 Ruby 処理系の起動
 
