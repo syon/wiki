@@ -28,13 +28,12 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 
 ## Install Ruby
 
-### rbenv on Mac
+### Install rbenv on Mac
 
 - [Ruby - Homebrewのインストールとrbenvのインストール Mac編 - Qiita](http://qiita.com/issobero/items/e0443b79da117ed48294)  
   `$ rbenv init`も必要 https://github.com/sstephenson/rbenv#how-rbenv-hooks-into-your-shell
 
-### rbenv on Ubuntu
-
+### Install rbenv on Ubuntu
 
 ```bash
 $ sudo apt-get update
@@ -65,6 +64,16 @@ configure: error: C compiler cannot create executables
 ```bash
 $ sudo ln -sf /usr/bin/gcc /usr/bin/gcc-4.2
 ```
+
+### Update rbenv
+
+```bash
+$ cd ~/.rbenv
+$ git pull origin master
+$ cd ~/.rbenv/plugins/ruby-build
+$ git pull origin master
+```
+via - [rbenvとruby-buildでRuby環境を最新に保つ](https://gist.github.com/mochiz/4736183)
 
 ### 新規プロジェクト作成時
 
