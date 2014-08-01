@@ -39,6 +39,7 @@
 ### Code
 - [[Code]]
 - [[Ruby]]
+    - [[Gem|Ruby-Gem]]
     - [[WIN32OLE]] IE自動制御
     - [[Win32API]]
     - [[ThinReports]]
