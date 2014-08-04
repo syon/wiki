@@ -1,4 +1,3 @@
-
 ### 基本
 
 ```ruby
@@ -71,7 +70,20 @@ ie.document.parentwindow.alert("This is current 'ie' target.")
     - `WIN32OLE#pretty_print`を追加します。これで WIN32OLE オブジェクトを`pp`で見やすく表示できます。
 
 - [rubyからJavaScriptの関数を起動する方法は?](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/37161)
-    - `ie.document.parentWindow.Ab._invoke 0, [[WIN32OLE::VARIANT::VT_BSTR]('Hello'],)`
+```js
+function sayHello(msg) {
+  window.alert(msg);
+}
+function introduce(name, age) {
+  window.alert("My name is " + name);
+  window.alert("I am " + age + "years old");
+}
+```
+```ruby
+ie.document.parentWindow.sayHello._invoke 0, ['Hello'], [WIN32OLE::VARIANT::VT_BSTR]
+ie.document.parentWindow.introduce._invoke 0, ['John', 20], [WIN32OLE::VARIANT::VT_INT, WIN32OLE::VARIANT::VT_BSTR]
+```
+cf. [module WIN32OLE::VARIANT](http://docs.ruby-lang.org/ja/2.1.0/class/WIN32OLE=3a=3aVARIANT.html)
 
 - [Rubyist Magazine - Win32OLE 活用法 【第 6 回】 Web 自動巡回](http://magazine.rubyist.net/?0008-Win32OLE=)
     - Ajax サイトでの自動制御
