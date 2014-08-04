@@ -2,6 +2,10 @@
 
 - [Bluetooth in Ruby (Mac/Cross Platform) - Stack Overflow](http://stackoverflow.com/questions/1662915/bluetooth-in-ruby-mac-cross-platform)
 
+### Input Device
+
+- [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
+
 ### Links
 
 - [Sony Japan | ニュースリリース | スマートフォンなどからカメラをWi-Fi経由で操作するアプリケーション開発用のAPI公開](http://www.sony.co.jp/SonyInfo/News/Press/201309/13-109/index.html)
