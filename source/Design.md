@@ -59,6 +59,10 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [PatternBolt](http://buseca.github.io/patternbolt/)  
   SVGの背景パターン
 
+### Icon
+
+- [Free Download : RetinaIcon 300 Free Icons ( following Apple’s iOS guidelines) | Designbeep](http://designbeep.com/2014/07/31/free-download-retinaicon-300-free-icons-following-apples-ios-guidelines/)
+
 ### Tips
 
 - [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
