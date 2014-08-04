@@ -81,7 +81,7 @@ function introduce(name, age) {
 ```
 ```ruby
 ie.document.parentWindow.sayHello._invoke 0, ['Hello'], [WIN32OLE::VARIANT::VT_BSTR]
-ie.document.parentWindow.introduce._invoke 0, ['John', 20], [WIN32OLE::VARIANT::VT_INT, WIN32OLE::VARIANT::VT_BSTR]
+ie.document.parentWindow.introduce._invoke 0, ['John', 20], [WIN32OLE::VARIANT::VT_BSTR, WIN32OLE::VARIANT::VT_INT]
 ```
 cf. [module WIN32OLE::VARIANT](http://docs.ruby-lang.org/ja/2.1.0/class/WIN32OLE=3a=3aVARIANT.html)
 
