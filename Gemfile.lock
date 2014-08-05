@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/syon/gollum.git
-  revision: fb00c94023459cc92297a9c7e96395b969c50515
+  revision: e975f19fbd9f369d0cae3cba649d5763ae4b3a91
   specs:
     gollum (3.0.0)
       github-markdown (~> 0.6.5)
@@ -41,7 +41,7 @@ GEM
     mustache (0.99.6)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
-    posix-spawn (0.3.8)
+    posix-spawn (0.3.9)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
