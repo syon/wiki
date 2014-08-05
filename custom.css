@@ -1,5 +1,6 @@
 body {
-  font: 13.34px Helvetica, arial, freesans, clean, YuGothic, sans-serif;
+  font: 13.34px "Helvetica Neue", Helvetica, arial, freesans, clean, YuGothic, sans-serif;
+  font-weight: 300;
 }
 .floating {
   float: left;
@@ -7,4 +8,7 @@ body {
 }
 .clearfloat {
   clear: both;
+}
+.markdown-body ul ul {
+  margin: 5px 0;
 }
