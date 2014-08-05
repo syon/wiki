@@ -1,3 +1,10 @@
 body {
   font: 13.34px Helvetica, arial, freesans, clean, YuGothic, sans-serif;
 }
+.floating {
+  float: left;
+  width: 33%;
+}
+.clearfloat {
+  clear: both;
+}

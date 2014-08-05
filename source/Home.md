@@ -1,61 +1,98 @@
-# Gollum
+# syon/wiki
 
-### Web Front-End
-- [[Web Front-End|WebFrontEnd]]
-- [[Web Security|WebSecurity]]
-- [[HTML]]
-- [[CSS]]
-    - [[Twitter Bootstrap|TwitterBootstrap]]
-- [[JavaScript]]
-    - [[jQuery]]
-    - [[AngularJS]]
-    - [[D3.js|D3js]]
-    - [[famo.us|Famous]]
-    - [[気になるJSライブラリ|JS-Library]]
-    - [[Bookmarklet]]
-- [[ActionScript]] Flash, AS, AIR
-- [[Phaser]]
-- [[Yeoman]]
+<div class="floating">
+<h3>Web Front-End</h3>
+<ul>
+  <li>[[Web Front-End|WebFrontEnd]]
+  <li>[[Web Security|WebSecurity]]
+  <li>[[HTML]]
+  <li>[[CSS]]
+    <ul>
+      <li>[[Twitter Bootstrap|TwitterBootstrap]]
+    </ul>
+  <li>[[JavaScript]]
+    <ul>
+      <li>[[jQuery]]
+      <li>[[AngularJS]]
+      <li>[[D3.js|D3js]]
+      <li>[[famo.us|Famous]]
+      <li>[[気になるJSライブラリ|JS-Library]]
+      <li>[[Bookmarklet]]
+    </ul>
+  <li>[[ActionScript]] Flash, AS, AIR
+  <li>[[Phaser]]
+  <li>[[Yeoman]]
+</ul>
+</div>
 
-### Web Back-End
-- [[Chef]]
-- [[Vagrant]]
-- [[docker]]
-- [[LogManagement]] Fluentd + Elasticsearch + Kibana
-- [[nginx]]
-- [[CI]]
-- [[nodejs]]
+<div class="floating">
+<h3>Web Back-End</h3>
+<ul>
+  <li>[[Chef]]
+  <li>[[Vagrant]]
+  <li>[[docker]]
+  <li>[[LogManagement]]<br>Fluentd + Elasticsearch + Kibana
+  <li>[[nginx]]
+  <li>[[CI]]
+  <li>[[node.js|nodejs]]
+  <li>[[Oracle]]
+</ul>
 
-#### Web App Framework
-- [[Ruby on Rails]]
-- [[Sinatra]]
-    - [[Middleman]]
-    - [[Gollum]]
+<h4>Web App Framework</h4>
+<ul>
+  <li>[[Ruby on Rails]]
+  <li>[[Sinatra]]
+    <ul>
+      <li>[[Middleman]]
+      <li>[[Gollum]]
+    </ul>
+</ul>
 
-#### Cloud Platform
-- [[AWS]]
-- [[Heroku]]
+<h4>Cloud Platform</h4>
+<ul>
+  <li>[[AWS]]
+  <li>[[Heroku]]
+</ul>
+</div>
 
-### Code
-- [[Code]]
-- [[Ruby]]
-    - [[Gem|Ruby-Gem]]
-    - [[WIN32OLE]] IE自動制御
-    - [[Win32API]]
-    - [[ThinReports]]
-- [[Java]]
-- [[Oracle]]
-- [[VBA]]
-- [[正規表現|RegExp]]
-- [[Git]]
-- [[GitHub]]
-- [[Redmine]]
+<div class="floating">
+<h3>Code</h3>
+<ul>
+  <li>[[Code]]
+  <li>[[Ruby]]
+  <ul>
+    <li>[[Gem|Ruby-Gem]]
+    <li>[[WIN32OLE]] IE自動制御
+    <li>[[Win32API]]
+    <li>[[ThinReports]]
+  </ul>
+  <li>[[Java]]
+  <li>[[VBA]]
+  <li>[[正規表現|RegExp]]
+  <li>[[Git]]
+  <li>[[GitHub]]
+  <li>[[Redmine]]
+</ul>
 
-#### Editor
-- [[Vim]]
-- [[SublimeText]]
-- [[サクラエディタ|Sakura-Editor]]
-    - [[サクラエディタ - 設定|Sakura-Editor-settings]]
+<h4>Shell</h4>
+<ul>
+  <li>[[UNIXコマンド|UNIX command]]
+  <li>[[zsh]]
+  <li>[[tmux]]
+</ul>
+
+<h4>Editor</h4>
+<ul>
+  <li>[[Vim]]
+  <li>[[SublimeText]]
+  <li>[[サクラエディタ|Sakura-Editor]]
+  <ul>
+    <li>[[サクラエディタ - 設定|Sakura-Editor-settings]]
+  </ul>
+</ul>
+</div>
+
+<hr class="clearfloat">
 
 ### Design
 - [[Design]]
@@ -84,11 +121,6 @@
 - [[iOS]]
 - [[iOS App|iOS-App]]
 - [[Swift]]
-
-### Shell
-- [[UNIXコマンド|UNIX command]]
-- [[zsh]]
-- [[tmux]]
 
 ### Linux
 - [[Ubuntu]]
