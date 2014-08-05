@@ -35,3 +35,9 @@ body {
   font: normal normal 10px FontAwesome;
   color: #ddd;
 }
+.markdown-body pre {
+  border: 1px solid #e8e8e8;
+}
+.markdown-body code, .markdown-body tt {
+  padding: 2px 5px 0;
+}
