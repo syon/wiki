@@ -104,3 +104,5 @@ white-space: nowrap;
   Automatically center responsive elements.
 
 * [CSS 画像やテキスト要素を縦横中央配置する6つの方法 – How to Center Elements Horizontally and Vertically. | Stronghold](http://zxcvbnmnbvcxz.com/css-center-img-text/)
+
+* [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
