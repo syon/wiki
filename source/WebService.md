@@ -35,6 +35,9 @@
   個人的に収集中の外国人の名前データベースです。英語・ドイツ語・フランス語・イタリア語・スペイン語・スウェーデン語・フィンランド語・ロシア語・チェコ語の名前を、原語とカタカナで収録。
 - [外国人名　資料一覧・メニュー](http://www.geocities.jp/mt_erech_ave/data.html)
 - [ヨーロッパ人名対照表 － Reichsarchiv ～世界帝王事典～](http://reichsarchiv.jp/基礎データ/ヨーロッパ人名対照表)
+- [【翻訳】サーバの適切な名前の付け方 | POSTD](http://postd.cc/a-proper-server-naming-scheme/)
+    - [Mnemonic encoding wordlist](http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt)  
+      ここに紹介されている1633の単語は、音声的に互いに異なる短い（4-7文字）単語で、電話越しでも理解しやすく、国際的にも認識が容易なものです。またMnemonicのリストにある単語を使うと、複雑な構造を持つ単語に比べて、文字を前後逆にしたりスペルを間違ったりする可能性を大きく減らすことができます。
 
 ### ダミーデータ、ジェネレータ
 
