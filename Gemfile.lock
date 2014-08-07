@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/syon/gollum.git
-  revision: e975f19fbd9f369d0cae3cba649d5763ae4b3a91
+  revision: a22022e15bb4257b71eeeb762faf932c1420c627
   specs:
     gollum (3.0.0)
       github-markdown (~> 0.6.5)
