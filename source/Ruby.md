@@ -7,6 +7,9 @@
 - [逆引きRuby - ディレクトリ](http://www.namaraii.com/rubytips/?%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8%A5%EA=)  
 Dirクラスによりディレクトリの作成、削除、ファイル一覧取得などを行うことができます。
 
+#### [Ruby · Styleguide](https://github.com/styleguide/ruby)
+GitHubのRubyコーディング規約
+
 ### まとめ
 
 - [2013年新学期にRubyを始めるエンジニアが読むべきサイトまとめ - satooshi@blog](http://blog.satooshi.jp/blog/2013/04/08/before-you-get-started-ruby-programming/)
