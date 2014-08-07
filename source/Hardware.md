@@ -1,6 +1,7 @@
 ### Bluetooth
 
 - [Bluetooth in Ruby (Mac/Cross Platform) - Stack Overflow](http://stackoverflow.com/questions/1662915/bluetooth-in-ruby-mac-cross-platform)
+- [音楽に合わせて電気を流すiOSアプリ - Over&Out その後](http://d.hatena.ne.jp/shu223/20140805/1407196139)
 
 ### Input Device
 
