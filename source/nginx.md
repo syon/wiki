@@ -5,12 +5,12 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 公式ドキュメント :: [Nginx Community](http://wiki.nginx.org/Main)
 - [日本Nginxユーザ会が発足。開発者Igor Sysoev氏が語る、Nginxが生まれ、商用化された理由 － Publickey](http://www.publickey1.jp/blog/14/nginxigor_sysoevnginx.html)
 
-#### Guide
+### Guide
 
 - [入門！ nginx - tumblr](http://shim0mura.hatenadiary.jp/entry/20120110/1326198429)
 - [nginx入門](http://www.slideshare.net/ttkzw/nginx-primer)
 
-#### Setup
+### Setup
 
 オフィシャルパッケージによるインストール :: [InstallJa - Nginx Community](http://wiki.nginx.org/InstallJa)
 
@@ -19,7 +19,9 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 - Win32  
   Windows版もインストールはzip解凍してexe起動するだけ。自動起動のためスタートアップにショートカットを入れた。
 
-#### Tips
+- [これから始める人のためのNginx（2）：Nginxのインストールと基本設定 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/24/news003.html)
+
+### Tips
 
 - [Nginx導入時、サクッと対応しておくと良いかもしれない - Qiita](http://qiita.com/kidachi_/items/985efebba639713c562e)
 - [Ruby - AWSで、unicorn + nginx + sinatra を動かしてみる - Qiita](http://qiita.com/konpyu/items/3ba3774bcde226d7d07d)  
