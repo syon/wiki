@@ -25,7 +25,7 @@
 #### SVG Browser Support
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#cats=SVG)
 - [Raphaël—JavaScript Library](http://raphaeljs.com/)
-    - [[HTML5]Raphael.jsを使用してIE上でもSVGを使う](http://5for1.jp/archives/288)
+    - [Raphael.jsを使用してIE上でもSVGを使う](http://5for1.jp/archives/288)
 
 ### 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
@@ -52,9 +52,18 @@
 - [alangrafu/radar-chart-d3](https://github.com/alangrafu/radar-chart-d3)
 
 ### Gallery
+
+[[d3js-blocks.png]]
+
 - [Gallery · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Gallery)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
+- [Mike Bostock](http://bost.ocks.org/mike/)
 - [Music Timeline](https://music-timeline.appspot.com/)
+
+##### Favorite
+
+- [Les Misérables Co-occurrence](http://bost.ocks.org/mike/miserables/)
+- [Radial Gradient](http://bl.ocks.org/mbostock/9377340)
 
 ### データ
 - [【e-Stat】 政府統計の総合窓口 GL01010101](http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do)
@@ -79,3 +88,4 @@
 - [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
 - [Export d3js/SVG as SVG/PDF](http://d3export.housegordon.org/)  
   D3.js → SVG, PDF, PNG ダウンロード
+- [SVG を PNG に変換するやつ (Ruby-GNOME2/RSVG on Sinatra) - X X X](http://syonx.hatenablog.com/entry/2014/07/26/191359)
