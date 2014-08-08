@@ -58,6 +58,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
 - [PatternBolt](http://buseca.github.io/patternbolt/)  
   SVGの背景パターン
+- [商用利用無料、64種類のさまざまな紙が揃ったプロ仕様の高品質なテクスチャ素材 | コリス](http://coliss.com/articles/freebies/freebies-paper-textures-by-companyfolders.html)
+
 
 ### Icon
 
