@@ -24,7 +24,10 @@
 
 ## Gist
 - [markdownで書かれたgistを奇麗に表示。 - Qiita [キータ]](http://qiita.com/hden@github/items/5dbd8f1d3b03345d6a33)
-- [Mike Bostock](http://bost.ocks.org/mike/)
+- [ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です - Qiita](http://qiita.com/hnakamur/items/ad1346bc9cfb0288ff60)
+    0. index.html というファイル名でGistを作成します。
+    0. あとは、GistのURLの https://gist.github.com を http://bl.ocks.org に置き換えてアクセスすれば表示されます。
+    0. `http://bl.ocks.org/{{GitHubのアカウント}}/raw/{{GistのID}}`
 - [Gistにあるテキストを読みやすく表示「gist.io」](http://www.moongift.jp/2013/01/20130106-2/)
     - [gist.io · #3135754](http://gist.io/3135754)
 - [Gistub をインストールしてみた - akishin999の日記](http://d.hatena.ne.jp/akishin999/20130208/1360277414)
