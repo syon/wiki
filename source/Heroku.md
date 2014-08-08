@@ -1,47 +1,58 @@
-### Setup
-* [Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
+[[Heroku.png|align=center]]
 
-<pre>
+## [Heroku | Cloud Application Platform](https://www.heroku.com/)
+
+### Setup
+
+- [Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
+```bash
 $ git push heroku master
-</pre>
+```
 
 ### PostgreSQL
 
 作成対象のHerokuアプリディレクトリに移動
 
-<pre>
+```bash
 $ cd myapp
-</pre>
+```
 
 Dev Plan (FREE) でデータベースを作成
 
-<pre>
+```bash
 $ heroku addons:add heroku-postgresql:dev
-</pre>
+```
 
 config/database.yml の作成 ([※Heroku側は自動生成される](https://devcenter.heroku.com/articles/ruby-support#build-behavior))
-<pre>
+```bash
 configディレクトリを作成し、database.yml (developmentのみ)を記述して配置する
-</pre>
+```
 
-<pre>
+```bash
 .gitignore に database.yml を追加
-</pre>
+```
 
 マイグレーション
 
-<pre>
+```bash
 $ heroku run rake db:migrate
-</pre>
+```
 
 初期データ投入 (db/seeds.rb)
 
-<pre>
+```bash
 $ heroku run rake db:seed
-</pre>
+```
 
 再起動
 
-<pre>
+```bash
 $ heroku restart
-</pre>
+```
+
+
+### Heroku Button
+
+要するに「$ heroku clone」的なイメージ。アプリ開発者はボタンを設置することでHeroku上での利用促進になる。利用者はワンクリックで自分のHerokuアカウントにデプロイできるようになる。
+- [Heroku | Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button)
+- [voting-badgeをHeroku Buttonに対応させました | Web Scratch](http://efcl.info/2014/08/08/heroku-button/)
