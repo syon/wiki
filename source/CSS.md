@@ -106,3 +106,4 @@ white-space: nowrap;
 * [CSS 画像やテキスト要素を縦横中央配置する6つの方法 – How to Center Elements Horizontally and Vertically. | Stronghold](http://zxcvbnmnbvcxz.com/css-center-img-text/)
 
 * [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
+    - [position: absolute; の指定で要素が上下左右中央配置になる理由 | WWW WATCH](http://hyper-text.org/archives/2014/08/position_absolute_center_layout.shtml)
