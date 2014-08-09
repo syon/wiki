@@ -28,6 +28,14 @@
 
 - [viコマンド（vimコマンド）一覧（検索・置換）](http://uguisu.skr.jp/Windows/vi.html)
 
+#### よく使うコマンド
+
+- 矩形選択
+    0. `control` + `v`
+    0. 範囲選択
+    0. `shift` + `i`で挿入
+    0. `esc`で反映
+
 ### vimrc
 
 - [Vim初心者的導入メモ 2/3 「vimrc設定」編 - ナレッジエース](http://blog.blueblack.net/item_110)  

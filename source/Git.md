@@ -14,3 +14,12 @@
 ```bash
 $ git log --follow
 ```
+- [gitで複数のコミットを1つにまとめる - TIM Labs](http://labs.timedia.co.jp/2010/11/git-squash-commits.html)
+    - コミットに対する指示は上から順番に処理される
+    - 行を入れ替えればコミットの順序を入れ替えることができる
+    - pick: このコミットをそのまま取り込む
+    - fixup: このコミットでの変更内容を直前のコミットに合成する
+    - squash: 合成対象の各コミットのログを編集することができる
+```bash
+$ git rebase -i HEAD~4
+```
