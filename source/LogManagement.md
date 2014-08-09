@@ -18,6 +18,7 @@ Open Source Log Management
 - [今さら聞けないfluentd～クラウド時代のログ管理入門（1）：増えるログ、多様化するログをどう効率的に運用するか (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1402/06/news007.html)
 - [Fluent Dashboard＋Norikraでリアルタイムダッシュボードを7分で作る話 #dockerjp - Qiita](http://qiita.com/kazunori279/items/6329df57635799405547) Google Spreadsheet
 - [Fluentdとログ収集のパターン - Go ahead!](http://repeatedly.github.io/ja/2014/07/fluentd-and-log-forwarding-patterns/)
+- [今さら聞けないfluentd～クラウド時代のログ管理入門（2）：fluentdと定番プラグインのインストール (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1403/05/news012.html)
 
 ## [Elasticsearch](http://www.elasticsearch.org/)
 

@@ -21,6 +21,8 @@
 
 ### SVG (Scalable Vector Graphics)
 - [Retina対応にSVGは本当に使えるのか？ – Rriver](http://parashuto.com/rriver/responsive-web/is-svg-good-for-high-res-screen-solutions)
+- [Snap.svg - Home](http://snapsvg.io/)  
+  The JavaScript SVG library for the modern web.
 
 #### SVG Browser Support
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#cats=SVG)
@@ -33,6 +35,8 @@
 - [Axes — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/axes/)
     - 軸ラベルのフォーマット xAxis.tickFormat(formatAsPercentage);
 - [d3.js Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/117)
+- [2時間縛りでd3.js挑戦してみた - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/171849)
+- [エンジニアのためのデータ可視化実践入門という本を書いた - あんちべ！](http://antibayesian.hateblo.jp/entry/2014/02/16/235830)
 
 ##### tech.nitoyon.com
 - [D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/)
@@ -44,6 +48,7 @@
 #### Calendar Heat map
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
 - [kamisama/cal-heatmap · GitHub](https://github.com/kamisama/cal-heatmap)
+- [【D3.js + node.js】 ブログのデータをGithub風のカレンダーに表示する | GUNMA GIS GEEK](http://shimz.me/blog/node-js/2975)
 
 #### レーダーチャート
 - [Eurozone crisis](http://www.larsko.org/v/euc/)
@@ -79,6 +84,7 @@
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
 - [D3.jsで地図を作る。](http://kenjispecial.wordpress.com/2013/12/15/d3/)
+- [高崎市と前橋市のAED設置施設一覧に緯度経度を付加してみた | GUNMA GIS GEEK](http://shimz.me/blog/other/3406)
 
 ### 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)

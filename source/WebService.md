@@ -26,6 +26,8 @@
 - [Compressor.io - optimize and compress your images and photos](http://compressor.io/)  
   JPEG/PNG/GIF/SVGに対応した画像のファイルサイズ削減サービス。可逆/不可逆を選べる。
     - [無料でJPG、PNG、GIF、SVG画像を圧縮して小さくしてくれる「Compressor」 - GIGAZINE](http://gigazine.net/news/20140527-compressor/)
+- [Panorama Converter](http://gonchar.me/blog/goncharposts/2150)  
+  360°画像をキューブマップテクスチャに変換
 
 ### 名前
 

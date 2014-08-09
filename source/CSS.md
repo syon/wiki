@@ -26,11 +26,11 @@
 
 ### font-family
 
-* [CSSでのフォント指定について考える（2014年） - DTP Transit（Mac OS X, OS X Mavericks, Web Fonts, Web制作, iPhone, フォント）](http://www.dtp-transit.jp/misc/web/post_1881.html)
-
 <pre>
-font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 </pre>
+- [CSSでのフォント指定について考える（2014年） - DTP Transit](http://www.dtp-transit.jp/misc/web/post_1881.html)
+- [CSSのフォント指定見直した | Border/memo](http://brdr-mmrndm.tumblr.com/post/78948249547/css)
 
 ### font-size
 

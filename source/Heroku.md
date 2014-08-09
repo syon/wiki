@@ -53,6 +53,9 @@ $ heroku restart
 
 ### Heroku Button
 
+![Deploy](https://www.herokucdn.com/deploy/button.png)
+
 要するに「$ heroku clone」的なイメージ。アプリ開発者はボタンを設置することでHeroku上での利用促進になる。利用者はワンクリックで自分のHerokuアカウントにデプロイできるようになる。
 - [Heroku | Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button)
 - [voting-badgeをHeroku Buttonに対応させました | Web Scratch](http://efcl.info/2014/08/08/heroku-button/)
+- [Deploy to Heroku / Webアプリケーションのポータビリティ再び - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20140809/1407556488)

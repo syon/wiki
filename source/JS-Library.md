@@ -35,6 +35,9 @@ CSS3トランジション
 ### [flowchart.js](http://adrai.github.io/flowchart.js/)
 Draws simple SVG flow chart diagrams from textual representation of the diagram
 
+### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
+jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
+
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
