@@ -3,8 +3,10 @@
 - [エクセルシートをHTMLテーブルに変換しちゃう君 (ββ)](http://styleme.jp/tool/xls2html/)
 - [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)  
   CSV→JSONなどのデータ変換
-- - [DPI love ♥ Easily find the DPI/PPI of any screen](http://dpi.lv/)  
+- [DPI love ♥ Easily find the DPI/PPI of any screen](http://dpi.lv/)  
   ディスプレイの解像度と対角線サイズを入力してDPIを計算
+- [Asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)  
+  ターミナルの操作を記録して共有
 
 ### カラー
 
@@ -56,6 +58,7 @@
 - [RSS広告削除社](http://rssadelete.dokoda.jp/)  
   RSS広告削除社(旧RssADelete)はウェブ上のフィード（RSS 1.0/RSS 2.0/Atom）の広告を削除して、記事だけを受信するサービスです。
 - [一発当てた個人開発者をまとめるWebサービス作った](http://anond.hatelabo.jp/20140801103805)
+
 ### Tips
 
 - [住所入力フォームなどで使う都道府県の並び順について調べてみました](http://staku.designbits.jp/prefecture-code/)
