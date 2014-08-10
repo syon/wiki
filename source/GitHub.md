@@ -1,3 +1,10 @@
+## GitHub
+
+### [git.io](http://git.io/)
+[[git.io.png]]
+github.com ドメイン専用短縮URL。コマンドラインから使えばパスの文字列指定ができる。
+
+
 ## GitHub Pages
 
 - GitHub Help
