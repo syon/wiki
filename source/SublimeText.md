@@ -11,3 +11,6 @@
 
 ### Theme
 - [Predawn - A Sublime Text Theme](http://jamiewilson.io/predawn/)
+
+### Tips
+- [Sublime Textで今いるインデントに縦線を引く | Border/memo](http://brdr-mmrndm.tumblr.com/post/80456872825/sublime-text)
