@@ -31,6 +31,11 @@
 - [Panorama Converter](http://gonchar.me/blog/goncharposts/2150)  
   360°画像をキューブマップテクスチャに変換
 
+#### フォトブック
+
+- [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
+
+
 ### 名前
 
 - [FF14 Character Name Generator](http://fandango.exp.jp/name-generator.php)  
