@@ -52,6 +52,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
     - グローバルオブジェクト
     - this
     - スコープとクロージャ
+- [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
 
 ## 便利スクリプト
 
