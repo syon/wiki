@@ -19,6 +19,7 @@
       <li>[[気になるJSライブラリ|JS-Library]]
       <li>[[Bookmarklet]]
     </ul>
+  <li>[[SVG]]
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
   <li>[[Yeoman]]
