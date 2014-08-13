@@ -8,6 +8,7 @@
 
 ### Other Visualization Tools
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
+    - [Chart.js Retina対応 | 田植え日記](http://syon.github.io/2014/08/13/)
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
 
 ### Learning D3.js
