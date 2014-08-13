@@ -1,6 +1,8 @@
 body {
   font: 13.34px "Helvetica Neue", Helvetica, arial, freesans, clean, YuGothic, sans-serif;
   font-weight: 300;
+  background: url(/source/trianglify-bg.svg) no-repeat;
+  background-size: contain;
 }
 .floating {
   float: left;
