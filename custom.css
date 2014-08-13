@@ -35,6 +35,11 @@ body {
   font: normal normal 10px FontAwesome;
   color: #ddd;
 }
+.markdown-body h4 {
+  margin-bottom: 0;
+  font-weight: 600;
+  color: #666;
+}
 .markdown-body pre {
   border: 1px solid #e8e8e8;
 }
