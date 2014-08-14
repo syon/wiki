@@ -107,6 +107,9 @@
 - [[作業用BGM|BGM]]
 - [[勉強会・セミナー|Seminar]]
 
+### Life
+- [[電子書籍|ebook]]
+
 ### Windows
 - [[Windows 7|Windows7]]
 - [[Windows 7 - 導入ソフト|Windows7-app]]
