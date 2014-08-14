@@ -1,9 +1,10 @@
-## Links
+## Articles
 
 - [dstat + fluentd + Elasticsearch + kibana でサーバモニタリングする - blog.nomadscafe.jp](http://blog.nomadscafe.jp/2014/03/dstat-fluentd-elasticsearch-kibana.html)
 - [apache-loggen + fluentd + elasticsearch + kibana = ログ検索デモ - @johtaniの日記 2nd](http://blog.johtani.info/blog/2013/06/10/fluent-es-kibana/)
 - [fluentd - ログ集計／時系列DB／可視化ツールの調査結果 - Qiita](http://qiita.com/toritori0318/items/1861baa79afb96d6f5ad)
 - [ログ収集や可視化で話題のFluentd、Elasticsearch、Kibanaを徹底解説したムック本が発売となります - Y-Ken Studio](http://y-ken.hatenablog.com/entry/published-elasticsearch-fluentd-kibana-book)
+- [サーバ/インフラエンジニア養成読本 ログ収集~可視化編 の 特集1 を試してみた - X X X](http://syonx.hatenablog.com/entry/2014/08/14/234605)
 
 ## [Fluentd](http://fluentd.org/)
 
@@ -15,9 +16,9 @@ Open Source Log Management
 - [fluentd(td-agent) の導入 : Raccoon Tech Blog 株式会社ラクーン 技術戦略部ブログ](http://techblog.raccoon.ne.jp/archives/35031163.html)
 - [fluentdで始めるログ管理【基本編】 | eXcale | Blog](http://blog.excale.net/index.php/archives/1704)
 - [fluentdで始めるログ管理【フォワード設定まとめ】 | eXcale | Blog](http://blog.excale.net/index.php/archives/1997)
-- [今さら聞けないfluentd～クラウド時代のログ管理入門（1）：増えるログ、多様化するログをどう効率的に運用するか (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1402/06/news007.html)
 - [Fluent Dashboard＋Norikraでリアルタイムダッシュボードを7分で作る話 #dockerjp - Qiita](http://qiita.com/kazunori279/items/6329df57635799405547) Google Spreadsheet
 - [Fluentdとログ収集のパターン - Go ahead!](http://repeatedly.github.io/ja/2014/07/fluentd-and-log-forwarding-patterns/)
+- [今さら聞けないfluentd～クラウド時代のログ管理入門（1）：増えるログ、多様化するログをどう効率的に運用するか (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1402/06/news007.html)
 - [今さら聞けないfluentd～クラウド時代のログ管理入門（2）：fluentdと定番プラグインのインストール (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1403/05/news012.html)
 
 ## [Elasticsearch](http://www.elasticsearch.org/)
