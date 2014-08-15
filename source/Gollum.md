@@ -1,3 +1,5 @@
+[[gollum.png|align=center]]
+
 ## [gollum -- A wiki built on top of Git](https://github.com/gollum/gollum)
 
 A simple, Git-powered wiki with a sweet API and local frontend.
