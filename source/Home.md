@@ -87,9 +87,6 @@
   <li>[[Vim]]
   <li>[[SublimeText]]
   <li>[[サクラエディタ|Sakura-Editor]]
-  <ul>
-    <li>[[サクラエディタ - 設定|Sakura-Editor-settings]]
-  </ul>
 </ul>
 </div>
 
