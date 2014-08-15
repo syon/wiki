@@ -48,3 +48,10 @@ body {
 .markdown-body code, .markdown-body tt {
   padding: 2px 5px 0;
 }
+#gollum-heading {
+  text-align: center;
+}
+#gollum-heading h2 {
+  margin-top: 0;
+  border: 0;
+}
