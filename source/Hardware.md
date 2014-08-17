@@ -12,10 +12,11 @@
 
 Open Source WiFi Connected Infrared Remote Controller
 
-- [Make: Japan | iPhone/iPadから家電を操作する「IRKit」— ウェブサービスを作る感覚でハードウェアを作る](http://makezine.jp/blog/2014/07/irkit.html)
-- [IRKit - Open Source WiFi Connected Infrared Remote Controller](http://getirkit.com/)
-- [iPhoneで操作できる安価で高機能なクラウドリモコンの決定版「IRKit」｜Mac - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/243/243041/)
 - __[気づいたら IRKit GUI つくってた - X X X](http://syonx.hatenablog.com/entry/2014/08/12/011046)__
+    - [HTTP、JavaScriptで家電を自動操縦、ホットな学習リモコンサーバIRKitの在庫復活！](http://hitoriblog.com/?p=24257)
+    - [全てを司る全能感。iPhoneを家電のリモコンに変えるデバイス「IRkit」を全力でオススメします。 | iPhone・Macの情報発信ブログ "NUMBER333"](http://number333.org/2014/06/20/irkit/)
+    - [iPhoneで操作できる安価で高機能なクラウドリモコンの決定版「IRKit」｜Mac - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/243/243041/)
+    - [Make: Japan | iPhone/iPadから家電を操作する「IRKit」— ウェブサービスを作る感覚でハードウェアを作る](http://makezine.jp/blog/2014/07/irkit.html)
 
 
 ### Links
