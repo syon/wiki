@@ -20,6 +20,7 @@ Open Source Log Management
 - [Fluentdとログ収集のパターン - Go ahead!](http://repeatedly.github.io/ja/2014/07/fluentd-and-log-forwarding-patterns/)
 - [今さら聞けないfluentd～クラウド時代のログ管理入門（1）：増えるログ、多様化するログをどう効率的に運用するか (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1402/06/news007.html)
 - [今さら聞けないfluentd～クラウド時代のログ管理入門（2）：fluentdと定番プラグインのインストール (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1403/05/news012.html)
+- [Fluentdの設定を考えるときはこんなかんじで考えると便利 - Qiita](http://qiita.com/harukasan/items/0e69f5c17f12db7b2e98)
 
 ## [Elasticsearch](http://www.elasticsearch.org/)
 
