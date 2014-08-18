@@ -149,7 +149,7 @@ pp [].methods.sort
 =end
 </pre>
 
-### Rubyワンライナー
+## Rubyワンライナー
 
 - [Rubyワンライナー入門 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130113/ruby_oneliner)
 
@@ -168,6 +168,8 @@ echo %path% | ruby -F; -ane 'puts $F'
 </pre>
 
 `echo %path%`で出力される内容を、rubyコマンドの引数として渡し、`-n`オプションによって行ごとに処理をループする。ループは Kernel.#gets により組込変数`$_`に格納される。`echo %path%`の場合は`;`区切りの1行文字列のため、ループは1回となる。次に、`-a`オプションによってループの先頭で自動的に $F = $_.split が実行され、結果の格納された`$F`を puts で出力している。splitの区切り文字はデフォルトで半角スペースのようだが、オプション`-F;`で`;`を区切り文字に指定している。
+
+### [rubyを使って簡易webサーバー構築](https://gist.github.com/manji6/5056073)
 
 
 ## Ruby技術者認定試験
