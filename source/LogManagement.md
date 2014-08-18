@@ -4,7 +4,8 @@
 - [apache-loggen + fluentd + elasticsearch + kibana = ログ検索デモ - @johtaniの日記 2nd](http://blog.johtani.info/blog/2013/06/10/fluent-es-kibana/)
 - [fluentd - ログ集計／時系列DB／可視化ツールの調査結果 - Qiita](http://qiita.com/toritori0318/items/1861baa79afb96d6f5ad)
 - [ログ収集や可視化で話題のFluentd、Elasticsearch、Kibanaを徹底解説したムック本が発売となります - Y-Ken Studio](http://y-ken.hatenablog.com/entry/published-elasticsearch-fluentd-kibana-book)
-- [サーバ/インフラエンジニア養成読本 ログ収集~可視化編 の 特集1 を試してみた - X X X](http://syonx.hatenablog.com/entry/2014/08/14/234605)
+    - __[試してみた: サーバ/インフラエンジニア養成読本 ログ収集~可視化編【特集1】 - X X X](http://syonx.hatenablog.com/entry/2014/08/14/234605)__
+
 
 ## [Fluentd](http://fluentd.org/)
 
