@@ -1,4 +1,3 @@
-
 ## リファレンス
 
 ### [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/)
@@ -47,6 +46,13 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [知ってて当然？初級者のためのJavaScriptで使う即時関数(function(){...})()の全て - 三等兵](http://d.hatena.ne.jp/sandai/20110824/p1)
 - [や...やっと理解できた！JavaScriptのプロトタイプチェーン - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130215/javascript_prototype_chain)
 - [この順番で読めばOK！JavaScriptを理解するための14冊 | DECONCEPTER](http://log.deconcepter.jp/2012/10/javascriptbooks/)
+- [覚醒!JavaScript](http://www.slideshare.net/ghrgc/js-kakusei)
+    - JavaScriptオブジェクト
+    - 関数 Function()
+    - グローバルオブジェクト
+    - this
+    - スコープとクロージャ
+- [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
 
 ## 便利スクリプト
 

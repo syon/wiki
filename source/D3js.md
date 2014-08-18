@@ -8,6 +8,7 @@
 
 ### Other Visualization Tools
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
+    - [Chart.js Retina対応 | 田植え日記](http://syon.github.io/2014/08/13/)
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
 
 ### Learning D3.js
@@ -19,13 +20,9 @@
 > [[d3js_scale.png]]
 
 
-### SVG (Scalable Vector Graphics)
-- [Retina対応にSVGは本当に使えるのか？ – Rriver](http://parashuto.com/rriver/responsive-web/is-svg-good-for-high-res-screen-solutions)
+### SVG
 
-#### SVG Browser Support
-- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#cats=SVG)
-- [Raphaël—JavaScript Library](http://raphaeljs.com/)
-    - [[HTML5]Raphael.jsを使用してIE上でもSVGを使う](http://5for1.jp/archives/288)
+#### [[SVG (Scalable Vector Graphics)|SVG]]
 
 ### 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
@@ -33,6 +30,8 @@
 - [Axes — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/axes/)
     - 軸ラベルのフォーマット xAxis.tickFormat(formatAsPercentage);
 - [d3.js Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/117)
+- [2時間縛りでd3.js挑戦してみた - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/171849)
+- [エンジニアのためのデータ可視化実践入門という本を書いた - あんちべ！](http://antibayesian.hateblo.jp/entry/2014/02/16/235830)
 
 ##### tech.nitoyon.com
 - [D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/)
@@ -44,6 +43,7 @@
 #### Calendar Heat map
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
 - [kamisama/cal-heatmap · GitHub](https://github.com/kamisama/cal-heatmap)
+- [【D3.js + node.js】 ブログのデータをGithub風のカレンダーに表示する | GUNMA GIS GEEK](http://shimz.me/blog/node-js/2975)
 
 #### レーダーチャート
 - [Eurozone crisis](http://www.larsko.org/v/euc/)
@@ -52,9 +52,20 @@
 - [alangrafu/radar-chart-d3](https://github.com/alangrafu/radar-chart-d3)
 
 ### Gallery
+
+[[d3js-blocks.png]]
+
 - [Gallery · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Gallery)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
+- [Mike Bostock](http://bost.ocks.org/mike/)
 - [Music Timeline](https://music-timeline.appspot.com/)
+
+##### Favorite
+
+- [Les Misérables Co-occurrence](http://bost.ocks.org/mike/miserables/)
+- [Radial Gradient](http://bl.ocks.org/mbostock/9377340)
+- [Every ColorBrewer Scale](http://bl.ocks.org/mbostock/5577023)
+- [SORTING](http://sorting.at/)
 
 ### データ
 - [【e-Stat】 政府統計の総合窓口 GL01010101](http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do)
@@ -69,6 +80,7 @@
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
 - [D3.jsで地図を作る。](http://kenjispecial.wordpress.com/2013/12/15/d3/)
+- [高崎市と前橋市のAED設置施設一覧に緯度経度を付加してみた | GUNMA GIS GEEK](http://shimz.me/blog/other/3406)
 
 ### 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)
@@ -79,3 +91,4 @@
 - [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
 - [Export d3js/SVG as SVG/PDF](http://d3export.housegordon.org/)  
   D3.js → SVG, PDF, PNG ダウンロード
+- [SVG を PNG に変換するやつ (Ruby-GNOME2/RSVG on Sinatra) - X X X](http://syonx.hatenablog.com/entry/2014/07/26/191359)

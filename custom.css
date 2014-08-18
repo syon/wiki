@@ -1,6 +1,8 @@
 body {
   font: 13.34px "Helvetica Neue", Helvetica, arial, freesans, clean, YuGothic, sans-serif;
   font-weight: 300;
+  background: url(/source/trianglify-bg.svg) no-repeat;
+  background-size: contain;
 }
 .floating {
   float: left;
@@ -21,7 +23,7 @@ body {
 .markdown-body h2 {
   font-size: 1.8em;
   border-bottom: 1px solid #ddd;
-  margin: 60px -30px 0;
+  margin: 60px -26px 0;
   padding: 0 25px;
 }
 .markdown-body h3 {
@@ -35,9 +37,21 @@ body {
   font: normal normal 10px FontAwesome;
   color: #ddd;
 }
+.markdown-body h4 {
+  margin-bottom: 0;
+  font-weight: 600;
+  color: #666;
+}
 .markdown-body pre {
   border: 1px solid #e8e8e8;
 }
 .markdown-body code, .markdown-body tt {
   padding: 2px 5px 0;
+}
+#gollum-heading {
+  text-align: center;
+}
+#gollum-heading h2 {
+  margin-top: 0;
+  border: 0;
 }

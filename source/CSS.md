@@ -4,6 +4,10 @@
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 * [HTML5 & CSS3 Web Design](http://fmbip.com/litmus/)
 
+## CSS Framework
+* [[TwitterBootstrap]]
+* [Semantic UI](http://semantic-ui.com/)
+
 ## CSS Code
 
 ### CSS整形
@@ -26,11 +30,11 @@
 
 ### font-family
 
-* [CSSでのフォント指定について考える（2014年） - DTP Transit（Mac OS X, OS X Mavericks, Web Fonts, Web制作, iPhone, フォント）](http://www.dtp-transit.jp/misc/web/post_1881.html)
-
 <pre>
-font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 </pre>
+- [CSSでのフォント指定について考える（2014年） - DTP Transit](http://www.dtp-transit.jp/misc/web/post_1881.html)
+- [CSSのフォント指定見直した | Border/memo](http://brdr-mmrndm.tumblr.com/post/78948249547/css)
 
 ### font-size
 
@@ -106,3 +110,4 @@ white-space: nowrap;
 * [CSS 画像やテキスト要素を縦横中央配置する6つの方法 – How to Center Elements Horizontally and Vertically. | Stronghold](http://zxcvbnmnbvcxz.com/css-center-img-text/)
 
 * [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
+    - [position: absolute; の指定で要素が上下左右中央配置になる理由 | WWW WATCH](http://hyper-text.org/archives/2014/08/position_absolute_center_layout.shtml)

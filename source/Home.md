@@ -19,6 +19,7 @@
       <li>[[気になるJSライブラリ|JS-Library]]
       <li>[[Bookmarklet]]
     </ul>
+  <li>[[SVG]]
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
   <li>[[Yeoman]]
@@ -86,9 +87,6 @@
   <li>[[Vim]]
   <li>[[SublimeText]]
   <li>[[サクラエディタ|Sakura-Editor]]
-  <ul>
-    <li>[[サクラエディタ - 設定|Sakura-Editor-settings]]
-  </ul>
 </ul>
 </div>
 
@@ -98,12 +96,16 @@
 - [[Design]]
     - [[Font]]
 - [[Wallpaper]]
+- [[QuartzComposer]]
 
 ### Webサービス
 - [[Webサービス|WebService]]
 - [[Web API|WebAPI]]
 - [[作業用BGM|BGM]]
 - [[勉強会・セミナー|Seminar]]
+
+### Life
+- [[電子書籍|ebook]]
 
 ### Windows
 - [[Windows 7|Windows7]]

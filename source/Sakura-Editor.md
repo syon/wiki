@@ -1,4 +1,9 @@
-#### サクラエディタで親フォルダを開くスクリプト
+### 設定ファイル
+
+#### [GitHub - syon/SakuraEditor](https://github.com/syon/SakuraEditor)
+
+
+### サクラエディタで親フォルダを開くスクリプト
 
 - [サクラエディタで親フォルダを開くスクリプト - てつとの部屋](http://testuaoki.blog72.fc2.com/blog-entry-34.html)
 ```js
@@ -13,7 +18,7 @@ parPath = path.replace(/[^\\]*$/, "" );
 oWsh.run("explorer.exe "+parPath);
 ```
 
-#### Zen Coding
+### Zen Coding
 
 - [Zen Coding for Sakura Editorのマクロ設定 - MoonWing](http://mwlab.net/zen-coding-for-sakuraeditor/zen-coding-for-sakuraeditor-setting)
 - [ダウンロード - MoonWing](http://mwlab.net/download?did=15) Zen Coding for Sakura Editor (※Not Emmet)

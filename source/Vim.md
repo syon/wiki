@@ -8,6 +8,8 @@
 - [(初心者向け) Vim の機能紹介＠nagoya.vim #1](http://www.slideshare.net/cohama/vim-nagoyavim-1)
 - [なるべく覚えないviエディタの使い方 - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120227/minimum_vi)
 - [.vimrc - Qiita](http://qiita.com/fl04t/items/57ebb0fe8009d00c8499)
+- [個人的に参考にしているvimrc - Qiita](http://qiita.com/knt45/items/ea2823361bfd29c25937)
+- [これまでのVimの勉強内容まとめ - Qiita](http://qiita.com/letsspeak/items/fd33d0f2e0fb0afe4531)
 
 #### あとで読む
 
@@ -27,6 +29,14 @@
 ### Command List
 
 - [viコマンド（vimコマンド）一覧（検索・置換）](http://uguisu.skr.jp/Windows/vi.html)
+
+#### よく使うコマンド
+
+- 矩形選択
+    0. `control` + `v`
+    0. 範囲選択
+    0. `shift` + `i`で挿入
+    0. `esc`で反映
 
 ### vimrc
 

@@ -14,6 +14,9 @@ GitHubのRubyコーディング規約
 
 - [2013年新学期にRubyを始めるエンジニアが読むべきサイトまとめ - satooshi@blog](http://blog.satooshi.jp/blog/2013/04/08/before-you-get-started-ruby-programming/)
 
+#### [Ruby · Styleguide](https://github.com/styleguide/ruby)
+GitHubのRubyコーディング規約
+
 #### 記法
 
 - [知って得する！５５のRubyのトリビアな記法](http://melborne.github.io/2013/03/04/ruby-trivias-you-should-know-4/)
@@ -28,6 +31,8 @@ GitHubのRubyコーディング規約
 チルダはビット反転演算子で、整数をビット反転させると符号を反転させて1引いた数になる。  
 つまり-1のときだけ0になるので、indexOfと組み合わせて使うことができる。
 - [RubyのFile.expand_path('相対パス', __FILE__)の意味 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130104/p1)
+- [Procを制する者がRubyを制す（嘘）](http://melborne.github.io/2014/04/28/proc-is-the-path-to-understand-ruby/)  
+  `Method#call`, `& + call == yield`, `Proc, lambda, ->`
 
 ## Install Ruby
 
@@ -163,3 +168,8 @@ echo %path% | ruby -F; -ane 'puts $F'
 </pre>
 
 `echo %path%`で出力される内容を、rubyコマンドの引数として渡し、`-n`オプションによって行ごとに処理をループする。ループは Kernel.#gets により組込変数`$_`に格納される。`echo %path%`の場合は`;`区切りの1行文字列のため、ループは1回となる。次に、`-a`オプションによってループの先頭で自動的に $F = $_.split が実行され、結果の格納された`$F`を puts で出力している。splitの区切り文字はデフォルトで半角スペースのようだが、オプション`-F;`で`;`を区切り文字に指定している。
+
+
+## Ruby技術者認定試験
+### [Rubyアソシエーション: Ruby技術者認定試験制度](http://www.ruby.or.jp/ja/certification/examination/)
+- [Ruby技術者認定試験Silverに卒業単位やばい学生だけど合格できたお話【試験合格記】 | メモ帳代わりのブログ](http://www.absolute-keitarou.net/blog/?p=785)

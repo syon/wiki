@@ -3,21 +3,27 @@
 - [エクセルシートをHTMLテーブルに変換しちゃう君 (ββ)](http://styleme.jp/tool/xls2html/)
 - [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)  
   CSV→JSONなどのデータ変換
-- - [DPI love ♥ Easily find the DPI/PPI of any screen](http://dpi.lv/)  
+- [DPI love ♥ Easily find the DPI/PPI of any screen](http://dpi.lv/)  
   ディスプレイの解像度と対角線サイズを入力してDPIを計算
+- [Asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)  
+  ターミナルの操作を記録して共有
 
 ### カラー
 
+#### 変換
 - [カラーコード変換ツール](http://iroempitsu.net/zukan/tl-hexdec.htm)
 - [Toolbox::カラーコード⇔RGB変換ツール](http://toolbox.net16.net/hex.php)
 - [Hex Color Tool](http://hexcolortool.com/)  
   指定したカラーにホワイトとブラックを加えてカラーパレットを作成
-- [Color Scheme Designer](http://colorschemedesigner.com/)
 - [0to255](http://0to255.com/)
+
+#### 配色
+- [Adobe Kuler](https://kuler.adobe.com/ja/create/color-wheel/)
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Color Scheme Designer](http://colorschemedesigner.com/)
 - [配色の悩みを少しでも軽くするための、『色』に関するWEBサービスやツール色々！ | バンクーバーのうぇぶ屋](http://webya.opdsgn.com/webdesign/timesavingtoolsandservicesforcoloring/)
 - [colourcode - find your colour scheme](http://colourco.de/)
 - [「Webサイトの配色で困った！」→「HUE/360使えば良いじゃない」 | 56docブログ](http://blog.56doc.net/Entry/553/)
-- [Flat UI Colors](http://flatuicolors.com/)
 
 ### 画像
 
@@ -26,6 +32,13 @@
 - [Compressor.io - optimize and compress your images and photos](http://compressor.io/)  
   JPEG/PNG/GIF/SVGに対応した画像のファイルサイズ削減サービス。可逆/不可逆を選べる。
     - [無料でJPG、PNG、GIF、SVG画像を圧縮して小さくしてくれる「Compressor」 - GIGAZINE](http://gigazine.net/news/20140527-compressor/)
+- [Panorama Converter](http://gonchar.me/blog/goncharposts/2150)  
+  360°画像をキューブマップテクスチャに変換
+
+#### フォトブック
+
+- [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
+
 
 ### 名前
 
@@ -57,6 +70,7 @@
 - [RSS広告削除社](http://rssadelete.dokoda.jp/)  
   RSS広告削除社(旧RssADelete)はウェブ上のフィード（RSS 1.0/RSS 2.0/Atom）の広告を削除して、記事だけを受信するサービスです。
 - [一発当てた個人開発者をまとめるWebサービス作った](http://anond.hatelabo.jp/20140801103805)
+
 ### Tips
 
 - [住所入力フォームなどで使う都道府県の並び順について調べてみました](http://staku.designbits.jp/prefecture-code/)

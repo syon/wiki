@@ -6,3 +6,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-37634759-7', 'syon-wiki.herokuapp.com');
 ga('send', 'pageview');
 
+/* Adjust Textarea in Edit */
+$(function(){
+  $('#gollum-editor-body').css('height', $(window).height()-400 );
+});

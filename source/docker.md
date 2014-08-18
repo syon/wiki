@@ -1,5 +1,11 @@
 [[docker.png|align=center]]
 
+## News
+
+- [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
+- [Docker、IBM、Microsoft、RedHatがGoogleのコンテナ管理フレームワークKubernetesにこぞって開発参加する理由 - Qiita](http://qiita.com/kazunori279/items/ebe8ea24601e606f8048)
+- [Docker専用の軽量Linux「CoreOS」がついに安定版リリース。AWS、Google Compute Engine、さくらのクラウドなどで利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerlinuxcoreosawsgoogle_compute_engine.html)
+
 ## まとめ
 
 - [dockerについて社内勉強会で話しました - 圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/entry/2014/01/30/161032)
@@ -8,12 +14,10 @@
 - [これから始める「DockerでかんたんLAMP環境 for CentOS」 - さくらのナレッジ](http://knowledge.sakura.ad.jp/tech/1811/)
 - [Dockerを勉強するための、Docker記事のまとめ](http://wslash.com/?p=5584)
 - [5分で分かるDockerのキホン | Ryuzee.com](http://www.ryuzee.com/contents/blog/6952)
-- [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
 - [いまさら聞けないDocker入門（2）：ついに1.0がリリース！ Dockerのインストールと主なコマンドの使い方 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/10/news031.html)
 - [[翻訳] Dockerについてよくある勘違い | TechRacho](http://techracho.bpsinc.jp/hachi8833/2014_06_16/17982)
 - [Docker専用ツールのまとめ(PaaSとUI、OS、コンテナ管理ツール、ホスティングなど)](http://wslash.com/?p=5744)
 - [Docker と LXC - Qiita](http://qiita.com/Surgo/items/709a07d68c6eafbad267)
-- [Docker、IBM、Microsoft、RedHatがGoogleのコンテナ管理フレームワークKubernetesにこぞって開発参加する理由 - Qiita](http://qiita.com/kazunori279/items/ebe8ea24601e606f8048)
 
 ### Mac
 

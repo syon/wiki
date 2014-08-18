@@ -1,6 +1,11 @@
-## [gollum -- A wiki built on top of Git](https://github.com/gollum/gollum)
+[[gollum.png|align=center]]
 
-A simple, Git-powered wiki with a sweet API and local frontend.
+<div id="gollum-heading">
+  <h2>
+    <a href="https://github.com/gollum/gollum">gollum -- A wiki built on top of Git</a>
+  </h2>
+  <p>A simple, Git-powered wiki with a sweet API and local frontend.</p>
+</div>
 
 ### Features
 * Markdown, MediaWiki, Textileなど大抵の記法で書ける。

@@ -3,6 +3,7 @@
 #### [Google Noto Fonts](http://www.google.com/get/noto/)
 Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.
 - [GoogleとAdobeのフォントNoto Sans（Source Han Sans）の画期的なところ | Stocker.jp / diary](http://stocker.jp/diary/noto-sans/)
+- [【レビュー】「Source Han Sans（源ノ角ゴシック）」の使い勝手を向上させた「源真ゴシック」 - 窓の杜](http://www.forest.impress.co.jp/docs/review/20140808_661638.html)
 
 #### [Google Fonts](https://www.google.com/fonts)
 
@@ -12,7 +13,6 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
 - [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
 - [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  Google Web Fontの説明
-
 - [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
   TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
 

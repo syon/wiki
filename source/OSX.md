@@ -22,6 +22,12 @@
 0. Safariのタブの設定
 0. ログイン時やスリープ後のパスワード入力を省略する
 
+## 環境
+
+### Homebrew
+- [エンジニア Mac アプリ 環境 おすすめ - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/090517)
+
+
 ## Tips
 - [Mac必須！トラックパッドを更に便利にするアプリ「BetterTouchTool」 | nori510.com](http://nori510.com/archives/4208)
 - [意外と知らないMacの裏技･テクニック集 - NAVER まとめ](http://matome.naver.jp/odai/2129888099522555301)

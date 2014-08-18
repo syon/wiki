@@ -1,4 +1,3 @@
-
 ### Links
 - [JavascriptOO.com](http://www.javascriptoo.com/)  
   JavaScriptライブラリ集
@@ -32,6 +31,12 @@ CSS3トランジション
 
 ### [keymaster.js](https://github.com/madrobby/keymaster)
 キーボードショートカットにイベントを定義
+
+### [flowchart.js](http://adrai.github.io/flowchart.js/)
+Draws simple SVG flow chart diagrams from textual representation of the diagram
+
+### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
+jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
 
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
