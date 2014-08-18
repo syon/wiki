@@ -14,6 +14,8 @@ A lightweight JavaScript library for manipulating and animating svg
 
 - [今年こそついにSVG元年？まだ間に合う！SVGの学習に役立つサイト紹介 - 聴く耳を持たない(片方しか)](http://d.hatena.ne.jp/rikuo/20131028)
 - [SVGを制作できるアプリ,お絵描きソフトを徹底的に調べました！ 114個 - 聴く耳を持たない(片方しか)](http://d.hatena.ne.jp/rikuo/20140528)
+- [マークアップ・エンジニアのためのSVG入門 - SVGコードの基本 | CodeGrid](https://app.codegrid.net/entry/svg-basic)  
+  株式会社ピクセルグリッドによるシリーズ記事（有料購読）
 
 ### Tips
 
