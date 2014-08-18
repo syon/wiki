@@ -16,6 +16,7 @@
 ## 知識
 
 - [Filesystem Hierarchy Standard - Wikipedia](http://ja.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) Linuxのディレクトリ構造
+- [WindowsのあのフォルダはUNIX/Linuxで言えばあそこだ - Qiita](http://qiita.com/yuba/items/669f718fe6e62dbaab19)
 
 ## Guest Additionsのインストール
 
