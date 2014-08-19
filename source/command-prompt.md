@@ -36,6 +36,15 @@ net use
 net use /?    ←ヘルプ
 </pre>
 - [＠IT：Windows TIPS -- Tips：netコマンドの使い方](http://www.atmarkit.co.jp/fwin2k/win2ktips/258netcommand/netcommand.html)
+
+接続
+<pre>
+net use \\hostname\ipc$ /user:yourid yourpass
+</pre>
+切断
+<pre>
+net use \\hostname /delete
+</pre>
 - [＠IT：Windows TIPS -- Tips：アカウントを指定してIPC$共有リソースへ接続する](http://www.atmarkit.co.jp/fwin2k/win2ktips/394ipcshare/ipcshare.html)
 
 ### ルーティングテーブル
