@@ -36,7 +36,7 @@ net use
 net use /?    ←ヘルプ
 </pre>
 - [＠IT：Windows TIPS -- Tips：netコマンドの使い方](http://www.atmarkit.co.jp/fwin2k/win2ktips/258netcommand/netcommand.html)
-
+- [＠IT：Windows TIPS -- Tips：アカウントを指定してIPC$共有リソースへ接続する](http://www.atmarkit.co.jp/fwin2k/win2ktips/394ipcshare/ipcshare.html)
 
 ### ルーティングテーブル
 
