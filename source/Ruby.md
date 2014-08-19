@@ -33,6 +33,7 @@ GitHubのRubyコーディング規約
 - [RubyのFile.expand_path('相対パス', __FILE__)の意味 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130104/p1)
 - [Procを制する者がRubyを制す（嘘）](http://melborne.github.io/2014/04/28/proc-is-the-path-to-understand-ruby/)  
   `Method#call`, `& + call == yield`, `Proc, lambda, ->`
+- [Rubyにおけるスコープのおはなし](http://melborne.github.io/2013/09/24/rubys-scope/)
 
 ## Install Ruby
 
