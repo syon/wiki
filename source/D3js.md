@@ -74,6 +74,7 @@
 - [無料で利用できるデータベース＆レファレンスサービスまとめ](http://yuma-z.com/blog/2013/06/database/)
 - [JR東日本：各駅の乗車人員（2012年度）](http://www.jreast.co.jp/passenger/)
 - [社会人なら知っておきたい無料の公的統計データ「e-Stat」と「統計メールニュース」 | Web担当者Forum](http://web-tan.forum.impressrd.jp/e/2014/06/24/17731)
+- [東京メトロ、列車の在線位置など全線オープンデータ化、車両の所属会社も -INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/20140819_662628.html)
 
 ### 地図
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
