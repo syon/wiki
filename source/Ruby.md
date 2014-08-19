@@ -35,6 +35,7 @@ GitHubのRubyコーディング規約
   `Method#call`, `& + call == yield`, `Proc, lambda, ->`
 - [Rubyにおけるスコープのおはなし](http://melborne.github.io/2013/09/24/rubys-scope/)  
   インスタンス変数(`@`)、クラス変数(`@@`)、グローバル変数(`$`)
+- [Rubyのモジュールメソッドの作り方 - Qiita](http://qiita.com/ionis_h/items/5f26248ea4e154cce424)
 
 ## Install Ruby
 
