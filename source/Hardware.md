@@ -22,3 +22,4 @@ Open Source WiFi Connected Infrared Remote Controller
 ### Links
 
 - [Sony Japan | ニュースリリース | スマートフォンなどからカメラをWi-Fi経由で操作するアプリケーション開発用のAPI公開](http://www.sony.co.jp/SonyInfo/News/Press/201309/13-109/index.html)
+- [【趣味のインターネット地図ウォッチ】 第194回：iBeaconで人流解析、名古屋PARCOに300個のビーコン発信機 - INTERNET Watch](http://internet.watch.impress.co.jp/docs/column/chizu/20140814_662154.html)
