@@ -77,6 +77,7 @@
 - [社会人なら知っておきたい無料の公的統計データ「e-Stat」と「統計メールニュース」 | Web担当者Forum](http://web-tan.forum.impressrd.jp/e/2014/06/24/17731)
 - [東京メトロ、列車の在線位置など全線オープンデータ化、車両の所属会社も -INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/20140819_662628.html)
 - [鉄道やバスの運行情報をオープンデータ化、鉄道会社などが研究会を発足 -INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/20130819_611700.html)
+- [【マーケッター必見！】市場調査や企画書作成に役立つ統計データ20選！](http://keiei.freee.co.jp/2014/08/19/statictics/)
 
 ### 地図
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
