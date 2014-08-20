@@ -59,6 +59,7 @@ ruby-oci8 はOracle Database用の ruby インターフェースです。Oracle8
 - [ruby-oci8 | RubyGems.org | your community gem host](http://rubygems.org/gems/ruby-oci8)
 - [ruby-oci8 2.0をRuby1.9(mswin32)で使ってみる - Kazzzの日記](http://d.hatena.ne.jp/Kazzz/20090314/p1)
 
-## RubyGemsに登録
+## Gemの作成
 
 - [Bundlerを使ったGem作成メモ (自分用) - ただのにっき(2012-02-18)](http://sho.tdiary.net/20120218.html#p02)
+- [RubyのOptionParserの底力を知る - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20140819/ruby_optparser_true_power)
