@@ -18,6 +18,14 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 - [CoffeeScriptってなんぞ？](http://www.slideshare.net/hayatomizuno/coffeescript-12241689)
 
+## Template Engine
+
+### [Handlebars.js: Minimal Templating on Steroids](http://handlebarsjs.com/)
+ロジックレスなテンプレート言語「Mustache」の拡張ライブラリ
+- [Handlebars.jsの基礎 | be-hase.com](http://be-hase.com/javascript/43/)
+- [Handlebars.jsの基本的な使い方のメモ - console.lealog();](http://lealog.hateblo.jp/entry/2012/12/09/093059)
+- [Try Handlebars.js in your web browser](http://tryhandlebarsjs.com/)
+
 ## 便利
 
 - [Welcome to JSON Blob | create, edit, view, format, and share JSON](http://jsonblob.com/)
