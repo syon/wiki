@@ -25,7 +25,7 @@
 * [動くCSSのためのメモ。](http://lopan.jp/css-animation/) すごいまとめ
 * [Animatable](http://leaverou.github.io/animatable/) 各プロパティのアニメーション効果を確認できる
 * [HTML5 × CSS3 × jQueryを真面目に勉強 – #9 CSS3アニメーション（Transition） ｜ Developers.IO](http://dev.classmethod.jp/ria/html5/html5-x-css3-x-jquery-9-css3transition/)
-* [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
+
 
 ## Font
 
@@ -112,3 +112,7 @@ white-space: nowrap;
 
 * [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
     - [position: absolute; の指定で要素が上下左右中央配置になる理由 | WWW WATCH](http://hyper-text.org/archives/2014/08/position_absolute_center_layout.shtml)
+
+### パララックス
+- [[CSS]パララックスのエフェクトをスクリプト無し、CSSで実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/pure-css-parallax-by-keithclark.html)
+    - * [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
