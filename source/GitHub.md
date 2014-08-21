@@ -39,3 +39,14 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
     - [gist.io · #3135754](http://gist.io/3135754)
 - [Gistub をインストールしてみた - akishin999の日記](http://d.hatena.ne.jp/akishin999/20130208/1360277414)
 - [コードスニペット管理ツール「GistBox」が良いね！とっても良いね！ | OZPAの表4](http://ozpa-h4.com/2014/03/20/gistbox/)
+
+
+## [HUBOT](https://hubot.github.com/)
+
+- [GitHub社謹製！ bot開発・実行フレームワーク「Hubot」：連載｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/serial/01/hubot)
+    - 第1回　Hubotとは何か
+    - 第2回　インストールとHello World
+    - 第3回　Hubotを色々なサービスと繋げてみる
+    - 第4回　Hubotのスクリプトを書いてみる
+    - 第5回　実用的なHubotのスクリプトを書いてみる
+- [チャットボットでチーム開発効率化入門（1）：GitHub製フレームワークHubotの概要とインストール、チャットアプリと連携する基本的な使い方 (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/20/news035.html)
