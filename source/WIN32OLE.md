@@ -105,3 +105,6 @@ cf. [module WIN32OLE::VARIANT](http://docs.ruby-lang.org/ja/2.1.0/class/WIN32OLE
         -  IE.Document.body
         -  IE.Document.frames
     - タグエレメントの使い方
+
+- [JavaScriptのクリックイベントを発火させる方法 - ゆうなんとかさんの雑記帳的な。](http://yuuxxxx.hatenablog.com/entry/2013/09/20/224801)
+    - `fireEvent("onblur")`
