@@ -2,6 +2,8 @@
 
 <pre>
 netstat -ano
+
+netstat -ano | findstr /i :80
 </pre>
 
 <dl>
