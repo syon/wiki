@@ -20,6 +20,13 @@ puts ie.document.title
 puts ie.document.body.methods
 puts ie.document.body.ole_methods
 ```
+```ruby
+require 'win32ole'
+require 'pp'
+require 'win32ole_pp'
+
+hoge.ole_methods.map do |m| puts m; end
+```
 
 #### window
 
