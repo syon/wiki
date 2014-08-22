@@ -10,14 +10,11 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 #### [Ruby · Styleguide](https://github.com/styleguide/ruby)
 GitHubのRubyコーディング規約
 
-### まとめ
+## まとめ
 
 - [2013年新学期にRubyを始めるエンジニアが読むべきサイトまとめ - satooshi@blog](http://blog.satooshi.jp/blog/2013/04/08/before-you-get-started-ruby-programming/)
 
-#### [Ruby · Styleguide](https://github.com/styleguide/ruby)
-GitHubのRubyコーディング規約
-
-#### 記法
+### 記法
 
 - [知って得する！５５のRubyのトリビアな記法](http://melborne.github.io/2013/03/04/ruby-trivias-you-should-know-4/)
 - [Rubyで使われる記号の意味（正規表現の複雑な記号は除く）](http://docs.ruby-lang.org/ja/1.8.7/doc/symref.html)
@@ -36,6 +33,10 @@ GitHubのRubyコーディング規約
 - [Rubyにおけるスコープのおはなし](http://melborne.github.io/2013/09/24/rubys-scope/)  
   インスタンス変数(`@`)、クラス変数(`@@`)、グローバル変数(`$`)
 - [Rubyのモジュールメソッドの作り方 - Qiita](http://qiita.com/ionis_h/items/5f26248ea4e154cce424)
+
+### Books
+
+- [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)
 
 ## Install Ruby
 
