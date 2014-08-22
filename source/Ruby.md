@@ -34,6 +34,17 @@ GitHubのRubyコーディング規約
   インスタンス変数(`@`)、クラス変数(`@@`)、グローバル変数(`$`)
 - [Rubyのモジュールメソッドの作り方 - Qiita](http://qiita.com/ionis_h/items/5f26248ea4e154cce424)
 
+
+### よく使う
+
+#### 文字列操作
+
+```ruby
+# 抽出
+"Hello, World".slice /W.+$/  #=> "World"
+"Hello, World".slice /w.+$/i #=> "World"
+```
+
 ### Books
 
 - [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)
