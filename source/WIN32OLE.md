@@ -25,7 +25,7 @@ require 'win32ole'
 require 'pp'
 require 'win32ole_pp'
 
-hoge.ole_methods.map do |m| puts m; end
+hoge.ole_methods.map{|m| puts m}
 ```
 
 #### window
