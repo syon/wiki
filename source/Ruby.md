@@ -153,6 +153,10 @@ pp [].methods.sort
 =end
 </pre>
 
+#### CSV
+- [Ruby標準添付ライブラリcsvのCSV.tableメソッドが最強な件について](http://melborne.github.io/2013/01/24/csv-table-method-is-awesome/)
+
+
 ## Rubyワンライナー
 
 - [Rubyワンライナー入門 - maeharinの日記](http://d.hatena.ne.jp/maeharin/20130113/ruby_oneliner)
