@@ -8,6 +8,24 @@ $ gem update --system
 $ gem update bundler
 ```
 
+### すべてのGemをアンインストールする
+
+#### Mac / Linux
+```bash
+gem uni $(gem li --no-versions)
+```
+- [Ruby - インストールされている gem を全て削除する。 - Qiita](http://qiita.com/yuki24/items/2e6258b7c6a5b13b7d16)
+
+#### Windows
+```bash
+gem li --no-versions | findstr /bi ^[a-z] | gem uni -aIx
+```
+- [Windows TIPS：findstrで正規表現を検索する - ＠IT](http://www.atmarkit.co.jp/ait/articles/0412/18/news018.html)
+
+#### 最初から入っているGem
+`bigdecimal`, `io-console`, `json`, `minitest`, `rake`, `rdoc`
+
+
 ## ~/.gemrc
 
 - [Ruby - gemrcの--no-riと--no-rdoc、deprecatedなoptionなのでみなおしたほうがいいかもですよ - Qiita](http://qiita.com/kei_q/items/d13235157fcfc435489d)
