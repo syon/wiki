@@ -39,6 +39,11 @@
 - [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
 
 
+## センサー
+
+- [センサーの種類と用途 | 特集 ｜ORIGINALMIND オリジナルマインド](http://www.originalmind.co.jp/special/sensor/)
+
+
 ## [IRKit](http://getirkit.com/)
 
 Open Source WiFi Connected Infrared Remote Controller
