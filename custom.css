@@ -27,7 +27,7 @@ body {
   padding: 0 25px;
 }
 .markdown-body h3 {
-  left: -26px;
+  left: -22px;
 }
 .markdown-body h3:before {
   content: "\f111";
