@@ -3,6 +3,10 @@
 - [Bluetooth in Ruby (Mac/Cross Platform) - Stack Overflow](http://stackoverflow.com/questions/1662915/bluetooth-in-ruby-mac-cross-platform)
 - [音楽に合わせて電気を流すiOSアプリ - Over&Out その後](http://d.hatena.ne.jp/shu223/20140805/1407196139)
 
+#### iBeacon
+
+- [企画とエンジニアが知っておかないといけない「iBeacon」の話 #iBeacon #yahoo #iOS7｜CodeIQ MAGAZINE](https://codeiq.jp/magazine/2014/05/10303/)
+
 ### Input Device
 
 - [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
