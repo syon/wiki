@@ -2,10 +2,14 @@
 
 - [Bluetooth in Ruby (Mac/Cross Platform) - Stack Overflow](http://stackoverflow.com/questions/1662915/bluetooth-in-ruby-mac-cross-platform)
 - [音楽に合わせて電気を流すiOSアプリ - Over&Out その後](http://d.hatena.ne.jp/shu223/20140805/1407196139)
+- [その設定でバッテリーは本当に節約されているのか？ - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20131011/really_battery_saving)  
+  iPhoneのバッテリー消費の検証実験
 
 #### iBeacon
 
 - [企画とエンジニアが知っておかないといけない「iBeacon」の話 #iBeacon #yahoo #iOS7｜CodeIQ MAGAZINE](https://codeiq.jp/magazine/2014/05/10303/)
+- [iOS 7の隠れキラーコンテンツとなる近距離無線通信「iBeacon」とは？ - GIGAZINE](http://gigazine.net/news/20130911-ibeacon/)
+- [iBeaconとは？ | iBeaconなら「ストアビーコン」](http://smartphone-ec.net/ibeacon/system.html)
 
 ### Input Device
 
