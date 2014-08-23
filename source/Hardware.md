@@ -30,6 +30,9 @@
 - [企画とエンジニアが知っておかないといけない「iBeacon」の話 #iBeacon #yahoo #iOS7｜CodeIQ MAGAZINE](https://codeiq.jp/magazine/2014/05/10303/)
 - [iOS 7の隠れキラーコンテンツとなる近距離無線通信「iBeacon」とは？ - GIGAZINE](http://gigazine.net/news/20130911-ibeacon/)
 - [iBeaconとは？ | iBeaconなら「ストアビーコン」](http://smartphone-ec.net/ibeacon/system.html)
+- [iBeaconの解説 - Reinforce-Lab.'s Blog](http://reinforce-lab.github.io/blog/2013/10/21/ibeacon/)
+- [iBeacon Advent Calendar 2013 - Qiita](http://qiita.com/advent-calendar/2013/ibeacon)
+
 
 ## Input Device
 
