@@ -1,5 +1,7 @@
 [[docker.png|align=center]]
 
+### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
+
 ## News
 
 - [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
@@ -18,6 +20,7 @@
 - [[翻訳] Dockerについてよくある勘違い | TechRacho](http://techracho.bpsinc.jp/hachi8833/2014_06_16/17982)
 - [Docker専用ツールのまとめ(PaaSとUI、OS、コンテナ管理ツール、ホスティングなど)](http://wslash.com/?p=5744)
 - [Docker と LXC - Qiita](http://qiita.com/Surgo/items/709a07d68c6eafbad267)
+- [「Docker」--その正体、そして人気の理由とは？ - ZDNet Japan](http://japan.zdnet.com/virtualization/sp/35052286/)
 
 ### Mac
 
