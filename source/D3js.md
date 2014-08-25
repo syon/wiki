@@ -40,6 +40,11 @@
 - [タッチ操作に対応した画像ビューワーをJavaScriptで作るならD3.jsが便利 - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/12/13/touch-viewer/)
 - [D3.js で自作クラスにイベント発行機能を追加する - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2014/04/02/d3-event-dispatch/)
 
+##### GUNMA GIS GEEK
+- [データビジュアライゼーション（D3.js）を学ぶための教材まとめ - NAVER まとめ](http://matome.naver.jp/odai/2135289597995104801)
+- [D3.js Wrapper Library - NAVER まとめ](http://matome.naver.jp/odai/2138966107937611601)
+- [D3.js プラグインまとめ - NAVER まとめ](http://matome.naver.jp/odai/2138966193538794601)
+
 #### Calendar Heat map
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
 - [kamisama/cal-heatmap · GitHub](https://github.com/kamisama/cal-heatmap)
