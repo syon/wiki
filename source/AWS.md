@@ -9,3 +9,4 @@
     * 突発的なピーク対策どうすればいいの？
         * ピークはチャンス
         * チャンスを逃さないための対策
+* [AWSのセキュリティが気になるなら読んでおくべきAWSセキュリティのベストプラクティス - yoshidashingo](http://yoshidashingo.hatenablog.com/entry/2014/08/24/211825)
