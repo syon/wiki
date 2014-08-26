@@ -7,6 +7,7 @@
 - [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
 - [Docker、IBM、Microsoft、RedHatがGoogleのコンテナ管理フレームワークKubernetesにこぞって開発参加する理由 - Qiita](http://qiita.com/kazunori279/items/ebe8ea24601e606f8048)
 - [Docker専用の軽量Linux「CoreOS」がついに安定版リリース。AWS、Google Compute Engine、さくらのクラウドなどで利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerlinuxcoreosawsgoogle_compute_engine.html)
+- [［速報］VMwareがDockerと協業発表。エンタープライズにおけるコンテナ環境の実現へ。Kubernetesにも参加を表明。VMworld 2014 － Publickey](http://www.publickey1.jp/blog/14/vmwaredockerkubernetes.html)
 
 ## まとめ
 
