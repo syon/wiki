@@ -6,6 +6,7 @@
 - [Web MIDI APIが拓くWeb音楽の世界 - 大音学会 2013](http://www.slideshare.net/ryoyakawai/web-midi-api-2013)
     - [ryoyakawai/WebMIDIAPIWrapper](https://github.com/ryoyakawai/WebMIDIAPIWrapper)
     - [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls)
+- [yamaha-webmusic/webmusicplatform](https://github.com/yamaha-webmusic/webmusicplatform)
 
 ### MIDI over Bluetooth LE
 
