@@ -34,6 +34,11 @@
 - [iBeacon Advent Calendar 2013 - Qiita](http://qiita.com/advent-calendar/2013/ibeacon)
 
 
+## Arduino
+
+- [Arduinoで始めるWeb技術者のためのIoT入門（4）：JavaScriptで家電を操作するための赤外線信号の基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/27/news036.html)
+
+
 ## Input Device
 
 - [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
