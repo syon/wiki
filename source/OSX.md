@@ -38,6 +38,8 @@
 ## 作業効率化
 - [ApplescriptとRubyでもう僕は移動しない - hp12c](http://d.hatena.ne.jp/keyesberry/20100315/p1)
 - [テキスト入力が死ぬほどはかどるMacショートカットキー15個 | Find Job ! Startup](http://www.find-job.net/startup/mac-shortcut)
+- [Sunskysoft - Shupapan｜Shupapan](http://sunsky3s.s41.xrea.com/shupapan/)  
+  連番処理、検索・置換、文字変換、拡張子処理、タグリネームなどのリネーム処理を備えたリネームソフト
 
 ## メンテナンス
 
