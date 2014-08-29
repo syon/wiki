@@ -9,6 +9,7 @@
 
 ## Tips
 
+- [Gitチートシート - Qiita](http://qiita.com/ktaro/items/1d8c8ae698a88b1d6f0f)
 - [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
 - [Gitはファイルの移動を追跡できない - 永遠に未完成](http://d.hatena.ne.jp/thinca/20090217/1234799036)
 ```bash
