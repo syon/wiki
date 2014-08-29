@@ -66,6 +66,8 @@ Open Source WiFi Connected Infrared Remote Controller
 - [赤外線学習リモコンの信号定義データの合成（ソニーCSチューナー編）](http://www.geocities.jp/shrkn65/remocon/sony_cs.htm)
 - [IRKit：物欲日記：So-netブログ](http://efox.blog.so-net.ne.jp/2014-02-07)
 - [Sony SIRC decoder](http://picprojects.org.uk/projects/sirc/)
+- [[PC-OP-RS1]SONYフォーマットを合成する(Perlで) | えぬてぃえすブログ](http://blog.nts-ltd.co.jp/archives/260)
+- [仙石浩明の日記: 赤外線リモコンを Linux からコントロール](http://www.gcd.org/blog/2007/01/113/)
 
 
 ## Links
