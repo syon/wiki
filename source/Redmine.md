@@ -1,4 +1,3 @@
-
 ## TIPS
 
 #### テーマの変更
@@ -77,3 +76,4 @@ bundle exec rake tmp:sessions:clear
 
 - [Redmine2.4.1に設定したもの - azuriteのブログ](http://azurite.hatenablog.jp/entry/2013/12/13/Redmine2.4.1%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE)
 - [Excel から Redmine の情報を取得する方法 - 地平線に行く](http://d.hatena.ne.jp/chiheisen/20130421/1366543773)
+- [Redmine を使ってプロジェクト管理する方法 - yasainet.net](http://yasainet.net/archives/267)
