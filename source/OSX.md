@@ -36,6 +36,7 @@
 - [知らない人は損してると思うMacの使い方](http://alfalfalfa.com/archives/1147302.html)
 
 ## 作業効率化
+- [マウスを自在にコントロールするAppleScript - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120126/library_mouse_scpt)
 - [ApplescriptとRubyでもう僕は移動しない - hp12c](http://d.hatena.ne.jp/keyesberry/20100315/p1)
 - [テキスト入力が死ぬほどはかどるMacショートカットキー15個 | Find Job ! Startup](http://www.find-job.net/startup/mac-shortcut)
 - [Sunskysoft - Shupapan｜Shupapan](http://sunsky3s.s41.xrea.com/shupapan/)  
