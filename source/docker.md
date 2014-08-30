@@ -22,6 +22,7 @@
 - [Docker専用ツールのまとめ(PaaSとUI、OS、コンテナ管理ツール、ホスティングなど)](http://wslash.com/?p=5744)
 - [Docker と LXC - Qiita](http://qiita.com/Surgo/items/709a07d68c6eafbad267)
 - [「Docker」--その正体、そして人気の理由とは？ - ZDNet Japan](http://japan.zdnet.com/virtualization/sp/35052286/)
+- [Dockerで遊んでみよっかー YAPC::Asia Tokyo 2014](http://www.slideshare.net/kazeburo/docker-yapcasia-tokyo-2014)
 
 ### Mac
 
