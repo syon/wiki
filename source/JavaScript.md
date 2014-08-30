@@ -148,6 +148,11 @@ setTimeout(function(){
 },3000);
 </pre>
 
+### エラー収集
+
+- [大手Webサービスがクライアント側で発生したJavaScriptのエラーをどう収集しているのか まとめ - Qiita](http://qiita.com/grapswiz/items/4e97968f3d3df97a4c76)
+
+
 ## JSON
 
 - [JSON Editor](http://braincast.nl/samples/jsoneditor/)
