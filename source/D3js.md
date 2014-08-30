@@ -91,6 +91,8 @@
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
 - [D3.jsで地図を作る。](http://kenjispecial.wordpress.com/2013/12/15/d3/)
 - [高崎市と前橋市のAED設置施設一覧に緯度経度を付加してみた | GUNMA GIS GEEK](http://shimz.me/blog/other/3406)
+- [全国市区町村界データ | データ製品 | 製品 | ESRIジャパン株式会社](http://www.esrij.com/products/data/japan-shp/)
+- [DIVA-GIS | free, simple & effective](http://www.diva-gis.org/)
 
 ### 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)
