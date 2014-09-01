@@ -46,9 +46,12 @@
 
 ## IoT (Internet of Things)
 
+### [Goji Smart Lock for the Home](http://www.gojiaccess.com/)
 - [IoTは「サービスのモノ化」と考えたほうがわかりやすい - THE BRIDGE（ザ・ブリッジ）](http://thebridge.jp/2014/07/iot_service)
 - [スマホと連携し鍵の遠隔操作から一元管理まで可能なドアロックシステム「Goji Smart Lock」 - GIGAZINE](http://gigazine.net/news/20130617-goji-smart-lock/)
-- [Lockitron](https://lockitron.com/)
+
+### [Lockitron](https://lockitron.com/)
+- [鍵の開閉が携帯電話・スマホからできて複数人使用も可能な「Lockitron」 - GIGAZINE](http://gigazine.net/news/20130619-lockitron/)
 
 
 ## センサー
