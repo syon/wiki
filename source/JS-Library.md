@@ -7,6 +7,8 @@
 
 ### [Underscore.js](http://underscorejs.org/)
 _. ではじまるJSのユーティリティライブラリ
+- [［Underscore.js］テンプレートとオブジェクトから文字列を生成する - Build Insider](http://www.buildinsider.net/web/bookjslib111/101)
+- [Backbone.jsで外部ファイルをテンプレートに指定する方法 - エピゴーネンで](http://epigonen190.blog.fc2.com/blog-entry-57.html)
 
 ### [Two.js](http://jonobr1.github.io/two.js/)
 SVG、Canvas、WebGLのどの環境でも同じAPIを通してベクトル方式の二次元描画が可能なJavaScriptライブラリ。アニメーションも。
