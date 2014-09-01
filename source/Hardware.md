@@ -44,7 +44,9 @@
 - [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
 
 
-## IoT (Internet of Things)
+## Smart Lock
+- [Comparable Matrix Between Smart Locks: Lockitron, Goji, August and Kevo | phillihp’s tech blog – Phil’s Tech Blog](http://phillihp.com/2013/06/23/comparable-matrix-between-smart-locks-lockitron-goji-august-and-kevo/)
+- [ドアを進化させる「スマートロック」5選（動画） « WIRED.jp](http://wired.jp/2013/06/21/smart-locks/)
 
 ### [Goji Smart Lock for the Home](http://www.gojiaccess.com/)
 - [IoTは「サービスのモノ化」と考えたほうがわかりやすい - THE BRIDGE（ザ・ブリッジ）](http://thebridge.jp/2014/07/iot_service)
@@ -52,6 +54,11 @@
 
 ### [Lockitron](https://lockitron.com/)
 - [鍵の開閉が携帯電話・スマホからできて複数人使用も可能な「Lockitron」 - GIGAZINE](http://gigazine.net/news/20130619-lockitron/)
+
+### [August Smart Lock](http://www.august.com/)
+- [ソーシャル機能も備えるスマート鍵「August Smart Lock」 « WIRED.jp](http://wired.jp/2013/06/02/august-smart-lock/)
+
+### [Kevo Smart Lock - A Bluetooth Electronic Deadbolt from Kwikset](http://www.kwikset.com/Kevo/Default.aspx#.VAQFt3V_sak)
 
 
 ## センサー
