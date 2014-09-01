@@ -48,6 +48,7 @@
 
 - [IoTは「サービスのモノ化」と考えたほうがわかりやすい - THE BRIDGE（ザ・ブリッジ）](http://thebridge.jp/2014/07/iot_service)
 - [スマホと連携し鍵の遠隔操作から一元管理まで可能なドアロックシステム「Goji Smart Lock」 - GIGAZINE](http://gigazine.net/news/20130617-goji-smart-lock/)
+- [Lockitron](https://lockitron.com/)
 
 
 ## センサー
