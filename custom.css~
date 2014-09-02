@@ -37,9 +37,6 @@ body {
   font: normal normal 10px FontAwesome;
   color: #ddd;
 }
-.markdown-body h3 .fa-link {
-  color: #fff;
-}
 .markdown-body h3 a:not([class="anchor"]) {
   color: #333;
   text-decoration: none;
