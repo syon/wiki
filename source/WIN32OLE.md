@@ -11,6 +11,44 @@ while ie.busy == true; sleep 0.5; end
 puts ie.document.title
 ```
 
+#### AUTOIE
+
+```ruby
+require './AUTOIE.rb'
+include AUTOIE
+```
+```ruby
+module AUTOIE
+
+  def ie_wait()
+    while @ie.busy == true; sleep 0.5; end
+  end
+
+  def self.find_ie_by_url(url)
+    sleep 1
+    shell = WIN32OLE.new("Shell.Application")
+    windows = shell.Windows
+    ie = nil
+    windows.each do |w|
+      if w.locationURL.include?(url)
+        ie = w
+        puts "------------------------------------------------------------"
+        puts "  ole_type.name: #{ie.ole_type.name}"  #=> IWebBrowser2
+        puts "   locationName: #{ie.locationName}"
+        puts "    locationURL: #{ie.locationURL}"
+        puts "------------------------------------------------------------"
+        break
+      end
+    end
+    if ie.nil?
+      puts "---- No Window has detected. ----"
+    end
+    @ie = ie
+    ie
+  end
+
+end
+```
 
 ### TIPS
 
