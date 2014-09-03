@@ -105,6 +105,7 @@
 - [[勉強会・セミナー|Seminar]]
 
 ### Life
+- [[Life]]
 - [[電子書籍|ebook]]
 
 ### Windows
