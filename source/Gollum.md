@@ -12,6 +12,8 @@
 このサイト http://syon-wiki.herokuapp.com は Gollum で構築されています。  
 - ソースコード(forked): https://github.com/syon/gollum
 - 記事の Markdown ファイル: https://github.com/syon/wiki/tree/master/source
+- Gollum に至るまでの経緯: __[蓄積したノウハウをどう管理するか - X X X](http://syonx.hatenablog.com/entry/2014/07/30/010000)__
+
 
 ## Features
 * Markdown, MediaWiki, Textileなど大抵の記法で書ける。
