@@ -7,7 +7,13 @@
   <p>A simple, Git-powered wiki with a sweet API and local frontend.</p>
 </div>
 
-### Features
+### syon/wiki
+
+このサイト http://syon-wiki.herokuapp.com は Gollum で構築されています。  
+- ソースコード(forked): https://github.com/syon/gollum
+- 記事の Markdown ファイル: https://github.com/syon/wiki/tree/master/source
+
+## Features
 * Markdown, MediaWiki, Textileなど大抵の記法で書ける。
 * 基本的にgitリポジトリ一つで完結しており、MySQLなどのDBが不要で、簡単にprivate wikiを立ち上げられる。
 * セットアップが非常に楽。
