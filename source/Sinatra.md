@@ -173,3 +173,12 @@ somepage.haml
 - [SinatraでJSONを返す](http://d.hatena.ne.jp/rightgo09_ruby/20130828/p1)
 - [Sinatraのハンドラ内でem-http-requestを使う - daily gimite](http://d.hatena.ne.jp/Gimite/20101017/1287298216)
 - [Fiberを使ってem-http-requestとかを同期的に呼び出す - daily gimite](http://d.hatena.ne.jp/Gimite/20110514/1305374959)
+- [Sinatraがデフォルトでは外部から繋がらなくなってたよ - Qiita](http://qiita.com/u1_fukui/items/b86b21f6ed39f4c10d5d)
+    - 実行オプションを使う
+```bash
+$ bundle exec ruby hoge.rb -e production
+```
+    - rubyのコードの中で設定する
+```ruby
+set :environment, :production
+```
