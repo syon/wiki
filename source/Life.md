@@ -17,6 +17,14 @@
 ### [Noke – FŪZ Designs](http://fuzdesigns.com/pages/Noke)
 - [鍵が不要でスマホを近づけるだけで解錠できるBluetooth搭載の南京錠「Noke」 - GIGAZINE](http://gigazine.net/news/20140825-noke/)
 
+
+## 紛失防止
+
+### [Stick-N-Find ステッカー・ファインド](http://mbridge.jp/)
+- [スマホと連動して失ったモノの場所を教えてくれる「StickNFind」を実際に使ってみました - GIGAZINE](http://gigazine.net/news/20140610-sticknfind/)
+- [失くし物撲滅デバイス「StickNFind」が3ヶ月経ってようやく届いたので早速レビューを書いてみようじゃないか！](http://number333.org/2013/04/10/stick-n-find-review/)
+- [スマホで忘れ物防止タグ「StickNFind」レビュー | スターミント](http://starmint.net/sticknfind.html)
+
 ## 宅配便の配達状況
 - [宅配便の配達状況をマメに知らせてくれるiPhoneアプリに惚れた！ - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/252/252377/)
 - [配達状況をひと目で確認できるiPhoneアプリに惚れた！](http://weekly.ascii.jp/elem/000/000/011/11143/)
