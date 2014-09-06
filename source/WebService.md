@@ -34,6 +34,8 @@
     - [無料でJPG、PNG、GIF、SVG画像を圧縮して小さくしてくれる「Compressor」 - GIGAZINE](http://gigazine.net/news/20140527-compressor/)
 - [Panorama Converter](http://gonchar.me/blog/goncharposts/2150)  
   360°画像をキューブマップテクスチャに変換
+- [Frame: Awesome Product Shots](http://frame.lab25.co.uk/)  
+  スクリーンショットを Mac や iPhone の写真に合成する
 
 #### フォトブック
 
