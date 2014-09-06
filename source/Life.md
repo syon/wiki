@@ -14,6 +14,8 @@
 
 ### [Kevo Smart Lock - A Bluetooth Electronic Deadbolt from Kwikset](http://www.kwikset.com/Kevo/Default.aspx#.VAQFt3V_sak)
 
+### [Noke – FŪZ Designs](http://fuzdesigns.com/pages/Noke)
+- [鍵が不要でスマホを近づけるだけで解錠できるBluetooth搭載の南京錠「Noke」 - GIGAZINE](http://gigazine.net/news/20140825-noke/)
 
 ## 宅配便の配達状況
 - [宅配便の配達状況をマメに知らせてくれるiPhoneアプリに惚れた！ - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/252/252377/)
