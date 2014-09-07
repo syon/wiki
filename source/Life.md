@@ -17,6 +17,8 @@
 - [What's the measurements on the lockitron?](https://twitter.com/lockitron/status/291319031372337152)  
   the dimensions are roughly 6.7” tall by 4.1” wide and 1.65” deep - so you need ~3.75" clearance  
   6.7" x 4.1" x 1.65" (17.0cm x 10.4cm x 4.2cm) 鍵穴から 9.5cm の余裕？
+    - [https://lockitron.com/compatibility.pdf](https://lockitron.com/compatibility.pdf)  
+      紙でサイズ感を測るためのPDF
 
 ### [August Smart Lock](http://www.august.com/)
 - [ソーシャル機能も備えるスマート鍵「August Smart Lock」 « WIRED.jp](http://wired.jp/2013/06/02/august-smart-lock/)
