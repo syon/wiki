@@ -107,8 +107,7 @@ CLCLのオプション > ウィンドウ から設定を追加する。
 ## テキストエディタ
 
 ### サクラエディタ
-- [[サクラエディタ]]
-    - [- 設定]([サクラエディタ)]
+- __[[サクラエディタ|Sakura-Editor]]__
 
 ### SublimeText2
 - [「第0回 Sublime Text 2 勉強会」で紹介されたプラグインまとめ - The Powerful Code](http://powerful-code.com/blog/2012/11/plugins-for-st2/)
