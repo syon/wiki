@@ -5,9 +5,15 @@
 ### [Goji Smart Lock for the Home](http://www.gojiaccess.com/)
 - [IoTは「サービスのモノ化」と考えたほうがわかりやすい - THE BRIDGE（ザ・ブリッジ）](http://thebridge.jp/2014/07/iot_service)
 - [スマホと連携し鍵の遠隔操作から一元管理まで可能なドアロックシステム「Goji Smart Lock」 - GIGAZINE](http://gigazine.net/news/20130617-goji-smart-lock/)
+- [Goji Smartlock hands-on at CES 2014 | Engadget - YouTube](https://www.youtube.com/watch?v=ykkOOjurZ5Y)
+- [Goji Locks Give You Digital Door Keys - YouTube](https://www.youtube.com/watch?v=6m4LzX7b6ig)
 
 ### [Lockitron](https://lockitron.com/)
 - [鍵の開閉が携帯電話・スマホからできて複数人使用も可能な「Lockitron」 - GIGAZINE](http://gigazine.net/news/20130619-lockitron/)
+- [Lockitron - Keyless Entry Using Your Phone - YouTube](https://www.youtube.com/watch?v=D1L3o88GKew)  
+  公式動画
+- [Lockitron Review - Keyless Entry Using Your Phone - YouTube](https://www.youtube.com/watch?v=jmn6A7HStH4)  
+  開封から設置までの動画
 
 ### [August Smart Lock](http://www.august.com/)
 - [ソーシャル機能も備えるスマート鍵「August Smart Lock」 « WIRED.jp](http://wired.jp/2013/06/02/august-smart-lock/)
