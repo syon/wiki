@@ -1,4 +1,5 @@
 ## Smart Lock
+- __[スマートロック「Lockitron」の調査・購入検討 - X X X](http://syonx.hatenablog.com/entry/2014/09/07/151447)__
 - [Comparable Matrix Between Smart Locks: Lockitron, Goji, August and Kevo | phillihp’s tech blog – Phil’s Tech Blog](http://phillihp.com/2013/06/23/comparable-matrix-between-smart-locks-lockitron-goji-august-and-kevo/)
 - [ドアを進化させる「スマートロック」5選（動画） « WIRED.jp](http://wired.jp/2013/06/21/smart-locks/)
 
