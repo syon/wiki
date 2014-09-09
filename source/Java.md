@@ -38,7 +38,7 @@
 ### リフレクション
 
 #### [BeanUtils - Commons](http://commons.apache.org/proper/commons-beanutils/)
-The Java language provides Reflection and Introspection APIs (see the `java.lang.reflect` and `java.beans` packages in the JDK Javadocs). However, these APIs can be quite complex to understand and utilize. The BeanUtils component provides easy-to-use wrappers around these capabilities.
+Easy-to-use wrappers around the Java reflection and introspection APIs.
 
 - [＠IT：Java TIPS -- リクエストデータをJavaBeansにセット（Commons活用）](http://www.atmarkit.co.jp/fjava/javatips/090jakarta010.html)  
   Commons BeanUtils を使用したサンプル
