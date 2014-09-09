@@ -27,7 +27,6 @@ Provides extra functionality for classes in java.lang.
 - Javadoc: [Overview (Apache Commons Lang 3.3.2 API)](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html)
     - [StringUtils](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html?org/apache/commons/lang3/StringUtils.html)
 
-
 #### [BeanUtils](http://commons.apache.org/proper/commons-beanutils/)
 Easy-to-use wrappers around the Java reflection and introspection APIs.
 
@@ -36,6 +35,8 @@ Easy-to-use wrappers around the Java reflection and introspection APIs.
 
 #### [DbUtils - JDBC Utility Component](http://commons.apache.org/proper/commons-dbutils/)
 JDBC helper library.
+
+- [DBの値を自動でJavaオブジェクトに変換するライブラリ「DBUtils」のご紹介 （1/4）：CodeZine](http://codezine.jp/article/detail/7584)
 
 
 ### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
