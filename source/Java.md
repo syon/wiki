@@ -40,6 +40,10 @@
 #### [BeanUtils - Commons](http://commons.apache.org/proper/commons-beanutils/)
 The Java language provides Reflection and Introspection APIs (see the `java.lang.reflect` and `java.beans` packages in the JDK Javadocs). However, these APIs can be quite complex to understand and utilize. The BeanUtils component provides easy-to-use wrappers around these capabilities.
 
+- [＠IT：Java TIPS -- リクエストデータをJavaBeansにセット（Commons活用）](http://www.atmarkit.co.jp/fjava/javatips/090jakarta010.html)  
+  Commons BeanUtils を使用したサンプル
+
+<!---->
 - [Javaのオブジェクトの値をリフレクションでMapに格納するメモ | simultechnology.blog](http://simultechnology.blendmix.jp/blog/archives/1199)
 - [文字列で指定したメソッドを呼び出すには？ － ＠IT](http://www.atmarkit.co.jp/fdotnet/dotnettips/389methodinvoke/methodinvoke.html)
 - [JDK5.0でreflectionを使用しようとすると警告される理由 - くろのまったりシステム開発日記。](http://d.hatena.ne.jp/kuronekojima/20080304/1204599672)
