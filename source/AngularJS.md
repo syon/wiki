@@ -1,4 +1,3 @@
-
 ## Overview
 
 - [AngularJS 20min #ng_jp // Speaker Deck](https://speakerdeck.com/naoya/angularjs-20min-number-ng-jp)
@@ -10,6 +9,8 @@
   Learn from examples
 
 - [AngularJS 1.2 日本語リファレンス | js STUDIO](http://js.studio-kingdom.com/angularjs)
+
+- [AngularJSリンク集 - albatrosary's blog](http://albatrosary.hateblo.jp/entry/2014/09/07/214630)
 
 
 ## Usage
