@@ -65,6 +65,11 @@ Easy-to-use wrappers around the Java reflection and introspection APIs.
   メソッド名を動的に指定して実行
 
 
+### NVL
+
+- [[java]JAVAでOracleのNVL()と同じ事を行う処理 | アマシィ](http://amaxi.sitemix.jp/blog/archives/1622)
+
+
 ## Tips
 
 ### 複数のjarファイルを1つにまとめる
