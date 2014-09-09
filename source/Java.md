@@ -14,6 +14,20 @@
 - Java SE 8
 
 
+## ライブラリ
+
+- [＠IT：Java TIPS -- EclipseでライブラリとJavadocを関連付ける](http://www.atmarkit.co.jp/fjava/javatips/072eclipse024.html)
+
+### [Apache Commons - Apache Commons](http://commons.apache.org/)
+The Commons is an Apache project focused on all aspects of reusable Java components.
+
+### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
+
+- [Overview (POI API Documentation)](http://poi.apache.org/apidocs/overview-summary.html)
+- [POIのHSSFを使ってExcelに画像を挿入 - No Programming, No Life](http://npnl.hatenablog.jp/entry/20081122/1227337357)
+- [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
+
+
 ## Java Coding
 
 ### for文
@@ -50,13 +64,6 @@ Easy-to-use wrappers around the Java reflection and introspection APIs.
 - [メモ用Javaとか java 【private , getDeclaredMethod , invoke】](http://okbabybaby.blog77.fc2.com/blog-entry-19.html)  
   メソッド名を動的に指定して実行
 
-## ライブラリ
-
-### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
-
-- [Overview (POI API Documentation)](http://poi.apache.org/apidocs/overview-summary.html)
-- [POIのHSSFを使ってExcelに画像を挿入 - No Programming, No Life](http://npnl.hatenablog.jp/entry/20081122/1227337357)
-- [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
 
 ## Tips
 
