@@ -18,8 +18,25 @@
 
 - [＠IT：Java TIPS -- EclipseでライブラリとJavadocを関連付ける](http://www.atmarkit.co.jp/fjava/javatips/072eclipse024.html)
 
-### [Apache Commons - Apache Commons](http://commons.apache.org/)
+### [Apache Commons](http://commons.apache.org/)
 The Commons is an Apache project focused on all aspects of reusable Java components.
+
+#### [Lang](http://commons.apache.org/proper/commons-lang/)
+Provides extra functionality for classes in java.lang.
+
+- Javadoc: [Overview (Apache Commons Lang 3.3.2 API)](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html)
+    - [StringUtils](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html?org/apache/commons/lang3/StringUtils.html)
+
+
+#### [BeanUtils](http://commons.apache.org/proper/commons-beanutils/)
+Easy-to-use wrappers around the Java reflection and introspection APIs.
+
+- [＠IT：Java TIPS -- リクエストデータをJavaBeansにセット（Commons活用）](http://www.atmarkit.co.jp/fjava/javatips/090jakarta010.html)  
+  Commons BeanUtils を使用したサンプル
+
+#### [DbUtils - JDBC Utility Component](http://commons.apache.org/proper/commons-dbutils/)
+JDBC helper library.
+
 
 ### [Apache POI - the Java API for Microsoft Documents](http://poi.apache.org/)
 
@@ -50,14 +67,8 @@ The Commons is an Apache project focused on all aspects of reusable Java compone
 ```
 
 ### リフレクション
+cf. Apache Commons - BeanUtils
 
-#### [BeanUtils - Commons](http://commons.apache.org/proper/commons-beanutils/)
-Easy-to-use wrappers around the Java reflection and introspection APIs.
-
-- [＠IT：Java TIPS -- リクエストデータをJavaBeansにセット（Commons活用）](http://www.atmarkit.co.jp/fjava/javatips/090jakarta010.html)  
-  Commons BeanUtils を使用したサンプル
-
-<!---->
 - [Javaのオブジェクトの値をリフレクションでMapに格納するメモ | simultechnology.blog](http://simultechnology.blendmix.jp/blog/archives/1199)
 - [文字列で指定したメソッドを呼び出すには？ － ＠IT](http://www.atmarkit.co.jp/fdotnet/dotnettips/389methodinvoke/methodinvoke.html)
 - [JDK5.0でreflectionを使用しようとすると警告される理由 - くろのまったりシステム開発日記。](http://d.hatena.ne.jp/kuronekojima/20080304/1204599672)
