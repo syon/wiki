@@ -75,6 +75,7 @@ cf. Apache Commons - BeanUtils
 - [JDK5.0でreflectionを使用しようとすると警告される理由 - くろのまったりシステム開発日記。](http://d.hatena.ne.jp/kuronekojima/20080304/1204599672)
 - [メモ用Javaとか java 【private , getDeclaredMethod , invoke】](http://okbabybaby.blog77.fc2.com/blog-entry-19.html)  
   メソッド名を動的に指定して実行
+- [Java でリストをマップに変換する | UB Lab.](http://www.united-bears.co.jp/blog/archives/2556)
 
 
 ### NVL
