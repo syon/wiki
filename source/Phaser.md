@@ -36,8 +36,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
     - Firefox OS, Tizen, and Kindle
     - Native Apps and Desktop EXEs
 - It's Just Plain JavaScript
-    - [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
-    - [Photon Storm » Blog Archive » Advanced Phaser and TypeScript Projects](http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects)
+    - [#TypeScript](#TypeScript)
 - Easy Asset Loading
     - Images
     - Sprite Sheets (fixed sized frames)
@@ -114,6 +113,14 @@ this.player.animations.play('left');
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
+
+### TypeScript
+
+#### [Phaser × TypeScript で快適なゲーム開発環境を構築する - X X X](http://syonx.hatenablog.com/entry/2014/09/12/003000)
+
+- [Photon Storm » Blog Archive » How to use Phaser with TypeScript](http://www.photonstorm.com/phaser/how-to-use-phaser-with-typescript)
+- [Photon Storm » Blog Archive » Advanced Phaser and TypeScript Projects](http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects)
+- [Adventures in Phaser with TypeScript–Particles](http://www.gamefromscratch.com/post/2014/09/05/Adventures-in-Phaser-with-TypeScript-Particles.aspx)
 
 ### Tile Map
 
