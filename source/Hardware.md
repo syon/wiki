@@ -38,6 +38,8 @@
 
 - [Arduinoで始めるWeb技術者のためのIoT入門（4）：JavaScriptで家電を操作するための赤外線信号の基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/27/news036.html)
 
+### [LightBlue Bean | Zero wires. Infinite uses.](http://punchthrough.com/bean/)
+- [Make: Japan | Cortado登場 – ケーブルがいらないArduino](http://makezine.jp/blog/2013/12/an-early-look-at-the-cortado-the-arduino-youll-never-plug-in.html)
 
 ## littleBits
 
