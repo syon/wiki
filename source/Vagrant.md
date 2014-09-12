@@ -40,6 +40,13 @@ usr/pw: vagrant/vagrant
     $ vagrant ssh
     $ vagrant ssh-config
 
+SSHの鍵置き場は`~/.ssh/`。  
+このディレクトリにある `config`, `known_hosts` 以外のものは鍵ファイルで、複数ある場合は`config`に登録しておく。  
+```bash
+Permission denied (publickey,password).
+```
+カッコ内はサーバ側が許可している認証方式。公開鍵認証 ("publickey")、パスワード認証 ("password")。
+
 
 ### Vagrantfile
 
