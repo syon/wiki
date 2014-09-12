@@ -28,7 +28,8 @@
     $ vagrant up                       # Vagrantfileの設定内容に基づいてVM起動
     $ vagrant halt                     # VM終了
 
-box を変更した後は、Vagrantfile の内容を再度設定しなおす必要がある。
+box を変更した後は、Vagrantfile の内容を再度設定しなおす必要がある。  
+usr/pw: vagrant/vagrant
 
 #### Manage
 
