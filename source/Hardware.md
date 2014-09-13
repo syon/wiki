@@ -69,3 +69,4 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 
 - [Sony Japan | ニュースリリース | スマートフォンなどからカメラをWi-Fi経由で操作するアプリケーション開発用のAPI公開](http://www.sony.co.jp/SonyInfo/News/Press/201309/13-109/index.html)
 - [【趣味のインターネット地図ウォッチ】 第194回：iBeaconで人流解析、名古屋PARCOに300個のビーコン発信機 - INTERNET Watch](http://internet.watch.impress.co.jp/docs/column/chizu/20140814_662154.html)
+- [Intel、指先に乗る極小x86コンピュータ「Edison」を正式発表 ～日本でも10月発売 - PC Watch](http://pc.watch.impress.co.jp/docs/news/20140910_665900.html)
