@@ -40,7 +40,7 @@ VirtualBoxのメニューバー > デバイス > Guest Additions のCDイメー�
 
 ### 端末でのコマンド一覧
 
-- [[UNIXコマンド]]
+- → __[[UNIXコマンド|UNIX-command]]__
 - [VIPでUbuntu!!@ ウィキ - 端末でのコマンド一覧](http://www37.atwiki.jp/ubuntuireyouze/pages/17.html)
 - [Linuxコマンド集 - 【 hostname 】 ホスト名を表示，設定する：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230798/)
 
@@ -172,7 +172,9 @@ Ubuntu DHCP IPアドレス取得設定例
 
 - [How to Find and Kill a Process that is Using a Particular Port in Ubuntu | Technology is good](http://geekbrigade.wordpress.com/2009/02/26/how-to-find-and-kill-a-process-that-is-using-a-particular-port-in-ubuntu/)
 
-    $ sudo netstat -lpn |grep :8080
+```bash
+$ sudo netstat -lpn |grep :8080
+```
 
 ### Proxy
 
