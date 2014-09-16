@@ -45,6 +45,12 @@ GitHubのRubyコーディング規約
 "Hello, World".slice /w.+$/i #=> "World"
 ```
 
+#### オブジェクトを JSON に変換
+```ruby
+JSON.generate(obj)
+JSON.pretty_generate(obj) # 整形
+```
+
 ### Books
 
 - [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)

@@ -37,6 +37,8 @@
 ## Arduino
 
 - [Arduinoで始めるWeb技術者のためのIoT入門（4）：JavaScriptで家電を操作するための赤外線信号の基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/27/news036.html)
+- [XBeeを始めて買うとき最低限知っておきたい6つのこと](http://nanoappli.com/blog/archives/4184)
+- [Arduino Uno用保護バンパー - DMM3Dプリント](http://make.dmm.com/item/34212/)
 
 ### [LightBlue Bean | Zero wires. Infinite uses.](http://punchthrough.com/bean/)
 Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度センサ、更にATmega328Pを載せたBTペリフェラル。プリオーダー時は送料含めて1個\2,800。技適（技術基準適合）を通っていない。
@@ -64,29 +66,13 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 - [センサーの種類と用途 | 特集 ｜ORIGINALMIND オリジナルマインド](http://www.originalmind.co.jp/special/sensor/)
 
 
-## [IRKit](http://getirkit.com/)
+## 3D プリント
 
-Open Source WiFi Connected Infrared Remote Controller
-
-- __[気づいたら IRKit GUI つくってた - X X X](http://syonx.hatenablog.com/entry/2014/08/12/011046)__
-    - [HTTP、JavaScriptで家電を自動操縦、ホットな学習リモコンサーバIRKitの在庫復活！](http://hitoriblog.com/?p=24257)
-    - [全てを司る全能感。iPhoneを家電のリモコンに変えるデバイス「IRkit」を全力でオススメします。 | iPhone・Macの情報発信ブログ "NUMBER333"](http://number333.org/2014/06/20/irkit/)
-    - [iPhoneで操作できる安価で高機能なクラウドリモコンの決定版「IRKit」｜Mac - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/243/243041/)
-    - [Make: Japan | iPhone/iPadから家電を操作する「IRKit」— ウェブサービスを作る感覚でハードウェアを作る](http://makezine.jp/blog/2014/07/irkit.html)
-
-### IRKit for BRAVIA
-
-- [無線通信技術：家電向けリモコン技術の主流が30年ぶり交代、赤外線方式からRF方式へ - EE Times Japan](http://eetimes.jp/ee/articles/0906/30/news096.html)
-- [向きを気にせず操作できる無線信号の「おき楽リモコン」 | ブラビア | ソニー](http://www.sony.jp/bravia/products/KDL-46NX800/feature_4.html#L2_345)
-- [赤外線学習リモコンの信号定義データの合成（ソニーCSチューナー編）](http://www.geocities.jp/shrkn65/remocon/sony_cs.htm)
-- [IRKit：物欲日記：So-netブログ](http://efox.blog.so-net.ne.jp/2014-02-07)
-- [Sony SIRC decoder](http://picprojects.org.uk/projects/sirc/)
-- [[PC-OP-RS1]SONYフォーマットを合成する(Perlで) | えぬてぃえすブログ](http://blog.nts-ltd.co.jp/archives/260)
-- [仙石浩明の日記: 赤外線リモコンを Linux からコントロール](http://www.gcd.org/blog/2007/01/113/)
-
+- [つくりたいもの、ほしいもの、ネットから3Dプリント！ - DMM.com](http://make.dmm.com/)
 
 ## Links
 
 - [IoTやるならまず知っておきたいパーツ屋・オンラインショップ - Qiita](http://qiita.com/kazuph/items/86a1f88e06ff874abe68)
 - [Sony Japan | ニュースリリース | スマートフォンなどからカメラをWi-Fi経由で操作するアプリケーション開発用のAPI公開](http://www.sony.co.jp/SonyInfo/News/Press/201309/13-109/index.html)
 - [【趣味のインターネット地図ウォッチ】 第194回：iBeaconで人流解析、名古屋PARCOに300個のビーコン発信機 - INTERNET Watch](http://internet.watch.impress.co.jp/docs/column/chizu/20140814_662154.html)
+- [Intel、指先に乗る極小x86コンピュータ「Edison」を正式発表 ～日本でも10月発売 - PC Watch](http://pc.watch.impress.co.jp/docs/news/20140910_665900.html)
