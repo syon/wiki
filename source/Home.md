@@ -112,7 +112,6 @@
 - [[Windows 7|Windows7]]
 - [[Windows 7 - 導入ソフト|Windows7-app]]
     - [[AutoHotKey]]
-        - [[AutoHotKey - スクリプト|AutoHotKey-scripts]]
     - [[Excel]]
 - [[コマンドプロンプト|command-prompt]]
 - [[VBScript]]
