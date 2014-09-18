@@ -17,7 +17,13 @@ puts ie.document.title
 require './AUTOIE.rb'
 include AUTOIE
 ```
+__AUTOIE.rb__
 ```ruby
+# coding: utf-8
+require 'win32ole'
+require 'pp'
+require 'win32ole_pp'
+
 module AUTOIE
 
   def ie_wait()
