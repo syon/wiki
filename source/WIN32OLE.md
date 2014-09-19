@@ -131,6 +131,25 @@ ie.document.parentWindow.introduce._invoke 0, ['John', 20], [WIN32OLE::VARIANT::
 ```
 cf. [module WIN32OLE::VARIANT](http://docs.ruby-lang.org/ja/2.1.0/class/WIN32OLE=3a=3aVARIANT.html)
 
+### モーダルダイアログ（alert, confirm）のボタン対処
+__main.rb__
+```ruby
+Thread.start { `push-enter.cmd` }
+sleep 1.5
+ie.document.parentWindow.alert("Hi.")
+```
+__push-enter.cmd__
+```bash
+push-enter.vbs
+```
+__push-enter.vbs__
+<pre>
+Set sh = WScript.CreateObject("WScript.Shell")
+WScript.Sleep 1500
+sh.AppActivate("The Window Title")
+WScript.Sleep 1500
+sh.SendKeys "{ENTER}"
+</pre>
 
 ## Links
 
