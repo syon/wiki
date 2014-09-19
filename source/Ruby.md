@@ -128,17 +128,25 @@ $ bundle exec ruby sample.rb
 - [ファイルを扱う作業をRakeで便利にしよう！（パート1：概要編） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-1.html)
 - [ファイルを扱う作業をRakeで便利にしよう！（パート2：実践編1） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-2.html)
 
-## TIPS
 
-#### 対話型 Ruby 処理系の起動
+## irb
 
-irb: "Interactive Ruby"
+"Interactive Ruby" ― 対話型 Ruby 処理系
 
-<pre>
+```bash
 $ irb
-</pre>
+```
 
 exit で終了
+
+- [configuration - IRb: how to start an interactive ruby session with pre-loaded classes - Stack Overflow](http://stackoverflow.com/questions/2652514/irb-how-to-start-an-interactive-ruby-session-with-pre-loaded-classes)  
+  ライブラリを自動読み込みする
+```bash
+$ irb -r 'myclass.rb'
+```
+
+
+## TIPS
 
 #### コマンドライン引数
 
