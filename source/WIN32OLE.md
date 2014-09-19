@@ -113,14 +113,7 @@ end
 ie.document.parentwindow.alert("This is current 'ie' target.")
 ```
 
-## Links
-
-- [Rubyでwin32oleを使う。（基本->IEのDOMにアクセスするまで） - それマグで！](http://takuya-1st.hatenablog.jp/entry/20091221/1261364439)  
-  irbによるサンプルあり。
-
-- [win32ole-pp - WIN32OLE オブジェクトを pp で表示する - \*Trace Output\*](http://d.hatena.ne.jp/miyamuko/20070225/p1)
-    - `WIN32OLE#to_s`をちょっと賢くします。
-    - `WIN32OLE#pretty_print`を追加します。これで WIN32OLE オブジェクトを`pp`で見やすく表示できます。
+### JavaScript の関数を呼び出す
 
 - [rubyからJavaScriptの関数を起動する方法は?](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/37161)
 ```js
@@ -137,6 +130,16 @@ ie.document.parentWindow.sayHello._invoke 0, ['Hello'], [WIN32OLE::VARIANT::VT_B
 ie.document.parentWindow.introduce._invoke 0, ['John', 20], [WIN32OLE::VARIANT::VT_BSTR, WIN32OLE::VARIANT::VT_INT]
 ```
 cf. [module WIN32OLE::VARIANT](http://docs.ruby-lang.org/ja/2.1.0/class/WIN32OLE=3a=3aVARIANT.html)
+
+
+## Links
+
+- [Rubyでwin32oleを使う。（基本->IEのDOMにアクセスするまで） - それマグで！](http://takuya-1st.hatenablog.jp/entry/20091221/1261364439)  
+  irbによるサンプルあり。
+
+- [win32ole-pp - WIN32OLE オブジェクトを pp で表示する - \*Trace Output\*](http://d.hatena.ne.jp/miyamuko/20070225/p1)
+    - `WIN32OLE#to_s`をちょっと賢くします。
+    - `WIN32OLE#pretty_print`を追加します。これで WIN32OLE オブジェクトを`pp`で見やすく表示できます。
 
 - [Rubyist Magazine - Win32OLE 活用法 【第 6 回】 Web 自動巡回](http://magazine.rubyist.net/?0008-Win32OLE=)
     - Ajax サイトでの自動制御
