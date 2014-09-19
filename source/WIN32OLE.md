@@ -1,4 +1,4 @@
-### 基本
+## 基本
 
 ```ruby
 require 'win32ole'
@@ -11,7 +11,7 @@ while ie.busy == true; sleep 0.5; end
 puts ie.document.title
 ```
 
-#### AUTOIE
+### AUTOIE
 
 ```ruby
 require './AUTOIE.rb'
@@ -58,9 +58,9 @@ module AUTOIE
 end
 ```
 
-### TIPS
+## TIPS
 
-#### メソッド一覧
+### メソッド一覧
 
 ```ruby
 puts ie.document.body.methods
@@ -74,19 +74,19 @@ require 'win32ole_pp'
 hoge.ole_methods.map{|m|p m};0
 ```
 
-#### window
+### window
 
 ```ruby
 window = ie.document.ParentWindow
 ```
 
-#### frame
+### frame
 
 ```ruby
 ie.document.frames.item(0).document.getElementsByName
 ```
 
-#### 子ウィンドウ
+### 子ウィンドウ
 
 OS上のWIN32OLEウィンドウを対象に指定のウィンドウを探索し、変数`ie`に格納し直すことで操作対象とする。
 
@@ -113,7 +113,7 @@ end
 ie.document.parentwindow.alert("This is current 'ie' target.")
 ```
 
-### Links
+## Links
 
 - [Rubyでwin32oleを使う。（基本->IEのDOMにアクセスするまで） - それマグで！](http://takuya-1st.hatenablog.jp/entry/20091221/1261364439)  
   irbによるサンプルあり。
