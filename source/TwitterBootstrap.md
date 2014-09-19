@@ -1,6 +1,8 @@
 ## Intro
 - [これからTwitter Bootstrapをはじめる人のためのエントリまとめ - 大人になったら肺呼吸](http://d.hatena.ne.jp/replication/20120226/1330224012)
 - [twitter bootstrap railsを使ったら職が見つかり彼女も出来て背も3センチ伸びました。 - ppworks blog](http://ppworks.hatenablog.jp/entry/2012/02/19/033644)
+- [Bootstrap](http://www.slideshare.net/428design/bootstrap-39267140)  
+  わかりやすい解説
 
 ## Themes
 
