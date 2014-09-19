@@ -6,6 +6,7 @@
 
 - [逆引きRuby - ディレクトリ](http://www.namaraii.com/rubytips/?%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8%A5%EA=)  
 Dirクラスによりディレクトリの作成、削除、ファイル一覧取得などを行うことができます。
+- [逆引きRuby - 例外](http://www.namaraii.com/rubytips/?%E4%BE%8B%E5%A4%96)
 
 #### [Ruby · Styleguide](https://github.com/styleguide/ruby)
 GitHubのRubyコーディング規約
