@@ -48,6 +48,8 @@ module AUTOIE
     end
     if ie.nil?
       puts "---- No Window has detected. ----"
+      ie = WIN32OLE.new("InternetExplorer.Application")
+      ie.visible = true
     end
     @ie = ie
     ie
