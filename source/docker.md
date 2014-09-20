@@ -9,6 +9,10 @@
 - [Docker専用の軽量Linux「CoreOS」がついに安定版リリース。AWS、Google Compute Engine、さくらのクラウドなどで利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerlinuxcoreosawsgoogle_compute_engine.html)
 - [［速報］VMwareがDockerと協業発表。エンタープライズにおけるコンテナ環境の実現へ。Kubernetesにも参加を表明。VMworld 2014 － Publickey](http://www.publickey1.jp/blog/14/vmwaredockerkubernetes.html)
 
+## Tutorial
+
+- [Docker入門 (全11回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_docker)
+
 ## まとめ
 
 - [dockerについて社内勉強会で話しました - 圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/entry/2014/01/30/161032)
