@@ -2,6 +2,10 @@
 
 ### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 
+#### Boot2Docker
+
+- __[Windowsな人がDockerを体験するのに最適な「Boot2Docker」 - X X X](http://syonx.hatenablog.com/entry/2014/09/21/060000)__
+
 
 ## News
 
@@ -37,7 +41,6 @@
 
 ### Windows
 
-- __[Windowsな人がDockerを体験するのに最適な「Boot2Docker」 - X X X](http://syonx.hatenablog.com/entry/2014/09/21/060000)__
 - [Windows + Vagrant + VirtualBox + Docker - ✗✗✗](http://syonx.hatenablog.com/entry/2014/02/18/010757)
 - [windowsでもansibleがしたいのでvagrant経由でdockerを使って二重仮想環境を構築する - After Coding](http://saisa.hateblo.jp/entry/2013/12/10/153651)
 - [WindowsのVagrant上でDockerを使う - Yoshimopedia](http://yoshimov.com/tips/windows-vagrant-docker/)
