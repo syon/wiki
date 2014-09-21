@@ -2,6 +2,7 @@
 
 ### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 
+
 ## News
 
 - [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
@@ -9,9 +10,11 @@
 - [Docker専用の軽量Linux「CoreOS」がついに安定版リリース。AWS、Google Compute Engine、さくらのクラウドなどで利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerlinuxcoreosawsgoogle_compute_engine.html)
 - [［速報］VMwareがDockerと協業発表。エンタープライズにおけるコンテナ環境の実現へ。Kubernetesにも参加を表明。VMworld 2014 － Publickey](http://www.publickey1.jp/blog/14/vmwaredockerkubernetes.html)
 
+
 ## Tutorial
 
 - [Docker入門 (全11回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_docker)
+
 
 ## まとめ
 
@@ -34,6 +37,7 @@
 
 ### Windows
 
+- __[Windowsな人がDockerを体験するのに最適な「Boot2Docker」 - X X X](http://syonx.hatenablog.com/entry/2014/09/21/060000)__
 - [Windows + Vagrant + VirtualBox + Docker - ✗✗✗](http://syonx.hatenablog.com/entry/2014/02/18/010757)
 - [windowsでもansibleがしたいのでvagrant経由でdockerを使って二重仮想環境を構築する - After Coding](http://saisa.hateblo.jp/entry/2013/12/10/153651)
 - [WindowsのVagrant上でDockerを使う - Yoshimopedia](http://yoshimov.com/tips/windows-vagrant-docker/)
