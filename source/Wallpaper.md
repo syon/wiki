@@ -1,1 +1,3 @@
 - [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)
+- [10+ HD Blurry/Blurred Background Packs For Web & Graphic Designers | 365 Web Resources](https://365webresources.com/10-hd-blurryblurred-background-packs-web-graphic-designers/)
+- [10+ High Quality Polygon Background Packs For Free Download | 365 Web Resources](https://365webresources.com/10-high-quality-polygon-background-packs-free-download/)
