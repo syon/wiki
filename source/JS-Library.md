@@ -48,6 +48,8 @@ CSS3トランジション
 ### [Velocity.js](http://julian.com/research/velocity/)
 jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現コードの`$.animate()`を`$.Velocity()`に変えるだけでもパフォーマンスUP
 
+- [Velocity.jsによるフェーズ有りアニメーションの実装 « LINE Engineers' Blog](http://developers.linecorp.com/blog/?p=3230)
+
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
