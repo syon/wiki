@@ -25,9 +25,6 @@ SVG、Canvas、WebGLのどの環境でも同じAPIを通してベクトル方式
 ### [Moment.js | Parse, validate, manipulate, and display dates in javascript.](http://momentjs.com/)
 日付処理ライブラリ。日本語も対応。
 
-### [ElementTransitions.js](http://dan-silver.github.io/ElementTransitions.js/)
-CSS3トランジション
-
 ### Helium
 [納品前の確認に最適、使用されていないCSSのセレクタを見つけ出すスクリプト -Helium | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-helium-for-discovering-unused-css.html)
 
@@ -40,9 +37,16 @@ Draws simple SVG flow chart diagrams from textual representation of the diagram
 ### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
 jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
 
+## Animations
+
 ### [☆ sweep.js ☆](http://rileyjshaw.com/sweep/)
 HSL/[HUSL](http://www.boronine.com/husl/)色空間で色の from - to をアニメーション
 
+### [ElementTransitions.js](http://dan-silver.github.io/ElementTransitions.js/)
+CSS3トランジション
+
+### [Velocity.js](http://julian.com/research/velocity/)
+jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現コードの`$.animate()`を`$.Velocity()`に変えるだけでもパフォーマンスUP
 
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
