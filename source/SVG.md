@@ -21,6 +21,7 @@ A lightweight JavaScript library for manipulating and animating svg
 
 - [Retina対応にSVGは本当に使えるのか？ – Rriver](http://parashuto.com/rriver/responsive-web/is-svg-good-for-high-res-screen-solutions)
 - [アイコンフォントからSVGへ！より手軽にベクター画像を表示しよう | Webクリエイターボックス](http://www.webcreatorbox.com/tech/svg-vector/)
+- [SVGアイコンを実用するために知っておきたい、リンク周りの記述方法 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/svg-icon-link/)
 
 ### SVG Browser Support
 
