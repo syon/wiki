@@ -19,6 +19,9 @@
 > - 重要なことは、データが視覚化を制御しているということです。決してその逆ではありません
 > [[d3js_scale.png]]
 
+### Reference
+
+- [API Reference · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/API-Reference)
 
 ### SVG
 
