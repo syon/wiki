@@ -1,3 +1,9 @@
+#### イベント発火
+see also: [[JavaScript#タッチパネル対応]]
+```js
+$( "#foo" ).trigger( "click" );
+```
+
 #### アンカーのクリックイベントで、初期動作（この場合はページ遷移）を中止
 
 - [jQuery.Event - jQuery 日本語リファレンス](http://semooh.jp/jquery/cont/doc/event/#event.preventDefault)
