@@ -148,6 +148,17 @@ setTimeout(function(){
 },3000);
 </pre>
 
+### タッチパネル対応
+```js
+var supportTouch  = 'ontouchend' in document;
+var EV_TOUCHSTART = supportTouch ? 'touchstart' : 'mousedown';
+var EV_TOUCHMOVE  = supportTouch ? 'touchmove' : 'mousemove';
+var EV_TOUCHEND   = supportTouch ? 'touchend' : 'mouseup';
+
+$(document).on(EV_TOUCHEND, '#target', function(){...
+```
+- [touch, click, pointerの実装 - タッチイベントとマウスイベント | CodeGrid](https://app.codegrid.net/entry/touch-mouse)
+
 ### エラー収集
 
 - [大手Webサービスがクライアント側で発生したJavaScriptのエラーをどう収集しているのか まとめ - Qiita](http://qiita.com/grapswiz/items/4e97968f3d3df97a4c76)
