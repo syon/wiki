@@ -4,6 +4,11 @@ see also: [[JavaScript#タッチパネル対応]]
 $( "#foo" ).trigger( "click" );
 ```
 
+#### データ変更イベント
+```js
+$(document).on('change', 'select[name="hoge"]', function(){
+```
+
 #### アンカーのクリックイベントで、初期動作（この場合はページ遷移）を中止
 
 - [jQuery.Event - jQuery 日本語リファレンス](http://semooh.jp/jquery/cont/doc/event/#event.preventDefault)
