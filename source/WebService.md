@@ -24,6 +24,7 @@
 - [配色の悩みを少しでも軽くするための、『色』に関するWEBサービスやツール色々！ | バンクーバーのうぇぶ屋](http://webya.opdsgn.com/webdesign/timesavingtoolsandservicesforcoloring/)
 - [colourcode - find your colour scheme](http://colourco.de/)
 - [「Webサイトの配色で困った！」→「HUE/360使えば良いじゃない」 | 56docブログ](http://blog.56doc.net/Entry/553/)
+- [最近のUIデザインで使われている落ち着いたパステルや同一色相のグラデーションなど、人気のあるカラーのまとめ | コリス](http://coliss.com/articles/build-websites/operation/design/best-colors-for-recent-ui-design.html)
 
 ## 画像
 
