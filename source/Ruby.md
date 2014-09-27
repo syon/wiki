@@ -165,6 +165,8 @@ exit で終了
 $ irb -r 'myclass.rb'
 ```
 
+- [irb を快適に使うための Tips - すがブロ](http://sugamasao.hatenablog.com/entry/20091207/1260143043)
+
 
 ## TIPS
 
