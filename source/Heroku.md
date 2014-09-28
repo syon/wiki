@@ -1,15 +1,28 @@
 [[Heroku.png|align=center]]
 
-## [Heroku | Cloud Application Platform](https://www.heroku.com/)
+#### [Heroku | Cloud Application Platform](https://www.heroku.com/)
 
-### Setup
+
+## Setup
 
 - [Sinatra + PostgreSQL + Unicorn な Web サーバーを Heroku に構築する ｜ Developers.IO](http://dev.classmethod.jp/server-side/ruby-on-rails/sinatra-postgresql-unicorn-on-heroku/)
 ```bash
 $ git push heroku master
 ```
 
-### PostgreSQL
+
+## Create App
+
+```bash
+$ cd myapp
+```
+
+```bash
+$ heroku apps:create myapp
+```
+
+
+## PostgreSQL
 
 作成対象のHerokuアプリディレクトリに移動
 
