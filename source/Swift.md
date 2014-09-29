@@ -32,6 +32,7 @@
 - [プログラミング言語Swift日本語チュートリアル ~ 後編（Apple公式ドキュメントSwift Tour±α） - こんにゃくマガジン](http://xavier.hateblo.jp/entry/2014/06/14/201418)
 - [SwiftのArrayがヤバイ - Qiita](http://qiita.com/koher/items/6f54eafac59793e7c364)
 - [大事なことは全部MLが教えてくれた ～ Apple の Swift の mutability 周りの件を理解する - Oh, you `re no (fun _ → more)](http://d.hatena.ne.jp/camlspotter/20140611/1402457362)
+- [SwiftでのiOSアプリ開発](http://www.slideshare.net/mokemokechicken/swifti-os)
 
 ## Sample Code
 
