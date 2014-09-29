@@ -45,7 +45,7 @@ GitHubのRubyコーディング規約
 "Hello, World".slice /W.+$/  #=> "World"
 "Hello, World".slice /w.+$/i #=> "World"
 
-# 含む true/false
+# 含む
 "Hello, World" =~ /Hello/  #=> 0
 "Hello, World" =~ /hello/  #=> nil
 "Hello, World" =~ /hello/i #=> 0
