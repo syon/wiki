@@ -38,12 +38,32 @@ GitHubのRubyコーディング規約
 
 ### よく使う
 
-#### 文字列操作
+#### 正規表現
 
 ```ruby
 # 抽出
 "Hello, World".slice /W.+$/  #=> "World"
 "Hello, World".slice /w.+$/i #=> "World"
+
+# 含む true/false
+"Hello, World" =~ /Hello/  #=> 0
+"Hello, World" =~ /hello/  #=> nil
+"Hello, World" =~ /hello/i #=> 0
+
+# 完全一致
+"Hello, World" =~ /^Hello$/        #=> nil
+"Hello, World" =~ /^Hello, World$/ #=> 0
+```
+
+#### true / false
+
+```ruby
+!!(1)   #=> true
+!!(0)   #=> true
+!!(-1)  #=> true
+!!(nil) #=> false
+!!([])  #=> true
+!!({})  #=> true
 ```
 
 #### オブジェクトを JSON に変換
