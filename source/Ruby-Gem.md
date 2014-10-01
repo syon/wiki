@@ -36,6 +36,8 @@ update: --no-document
 
 ## Gem - スクレイピング
 
+- [まだmechanizeで消耗してるの? WebDriverで銀行をスクレイピング（ProtractorとWebdriverIOを例に） - 詩と創作・思索のひろば (Poetry, Writing and Contemplation)](http://motemen.hatenablog.com/entry/2014/10/01/scrape-by-protractor-webdriverio)
+
 ### Nokogiri
 
 CSSセレクタでDOMにアクセスできる。
