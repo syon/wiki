@@ -3,6 +3,9 @@
 - [昨今の自分用Webアプリケーションひな形 - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20130503/1367581629)  
   bower & sinatra & slim + sass + coffee
 
+- [Sinatra Pattern 20130415](http://www.slideshare.net/sonots/sinatra-pattern-20130415)  
+  ちっちゃくはじめておっきく育てるSinatraアプリの作り方
+
 ## Reference
 
 - [Ruby - Sinatraの使い方あれこれ - Qiita](http://qiita.com/weed/items/7c83a795e37bdf52cfef)
