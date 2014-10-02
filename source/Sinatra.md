@@ -141,7 +141,8 @@ somepage.haml
 
 - [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
 - [速習テンプレートSlim(HTML作成編) - Qiita](http://qiita.com/yterajima/items/53fd0387279510ff082a)
-
+- [HTML2slim](https://html2slim.herokuapp.com/)
+- [slim2HTML](http://slim2html.raving.systems/)
 
 ## ActiveRecord
 
