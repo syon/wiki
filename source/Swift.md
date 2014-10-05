@@ -8,8 +8,12 @@
 
 - [The Swift Programming Language: About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)  
   Swiftの言語仕様書（英語）
+
 - [Twitter / iOSSwift: First #Swift Cheat Sheet comes ...](https://twitter.com/iOSSwift/status/473768737561391105)  
   Swift Cheat Sheet and Quick Reference
+
+- [Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/)  
+  サンプルコードと共にプレビュー画面も掲載
 
 ## Sites
 
