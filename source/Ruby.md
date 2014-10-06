@@ -203,7 +203,40 @@ pp [].methods.sort
 
 #### CSV
 - [Ruby標準添付ライブラリcsvのCSV.tableメソッドが最強な件について](http://melborne.github.io/2013/01/24/csv-table-method-is-awesome/)
+    - [Ruby 2.1.0 リファレンスマニュアル class CSV::Table](http://docs.ruby-lang.org/ja/2.1.0/class/CSV=3a=3aTable.html)
 
+```ruby
+CSV.table("data.tsv", { :col_sep => "\t", :quote_char => "\"" }) # needs header row
+```
+
+#### Array
+
+要素数を指定して取得
+```ruby
+[1,2,3,4,5].take(3)  #=> [1, 2, 3]
+[1,2,3,4,5].first(3) #=> [1, 2, 3]
+```
+
+### Time
+
+#### ActiveSupport による日時演算
+```ruby
+gem 'activesupport'
+require 'active_support/all'
+
+Time.now                #=> 2014-10-06 21:39:10 +0900
+Time.now.since(3.hours) #=> 2014-10-07 00:39:10 +0900
+```
+
+#### ActiveSupport による UTC(String) → JST(String) 変換
+9時間進めて JST 表記にする
+```ruby
+gem 'activesupport'
+require 'active_support/all'
+
+Time.strptime("2014-10-06 12:39:10 UTC", "%F %T UTC").since(9.hours).strftime("%F %T JST")
+#=> "2014-10-06 21:39:10 JST"
+```
 
 ## Rubyワンライナー
 
