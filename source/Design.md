@@ -2,7 +2,25 @@
 
 - [Style Guides for Websites :: [ FLAT ] Design | ONO TAKEHIKO from aguije inc.](http://flat.is/design/2014/05/style-guides-for-websites/)  
   Webサイトのデザイン スタイルガイド
+    - [Next FontShop](http://next.fontshop.com/styleguide/globals)
+    - [Lonely Planet Travel Guides and Travel Information](http://rizzo.lonelyplanet.com/styleguide/)
+    - [Starbucks Coffee Company](http://www.starbucks.com/static/reference/styleguide/)
+    - [Sandstone introduction — Mozilla Style Guide — Mozilla](http://www.mozilla.org/en-US/styleguide/websites/sandstone/)
+    - [BBC – GEL (Global Experience Language)](http://www.bbc.co.uk/gel)
+    - [Styleguides for the Web — Paul Robert Lloyd](http://paulrobertlloyd.com/about/styleguide/)
+    - [Style Guide South Tees Hospitals NHS Foundation Trust](http://southtees.nhs.uk/style-guide/)
+    - [Styleguide | Clearleft · User Experience Consultants](http://clearleft.com/styleguide/)
+    - [Code for America Style Guide](http://style.codeforamerica.org/)
+    - [Styleguide | Yelp](http://www.yelp.com/styleguide)
+    - [Web | Ubuntu Design](http://design.ubuntu.com/web)
+    - [New York University](http://www.nyu.edu/employees/resources-and-services/media-and-communications/styleguide/website.html)
+    - [Home – Ohio State Brand Guidelines](http://brand.osu.edu/)
+    - [Brand Identity Guidelines | Oregon State University](http://oregonstate.edu/brand/node/10)
+    - [Mapbox styleguide | Mapbox](https://www.mapbox.com/base/)
+    - [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/)
 - [Google Design](http://www.google.com/design/)
+- [Project NameStyle Guide](http://www.monolinea.com/projects/styleguide/)
+
 
 ## UI
 
