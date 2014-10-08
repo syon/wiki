@@ -25,8 +25,26 @@ $ git log --follow
 $ git rebase -i HEAD~4
 ```
 
-### SSH認証キーの設定
-サービスごとに鍵を分ける例。パスフレーズなし。
+### Gitコミット時の名前とメールアドレス
+#### グローバル設定を変更する
+`ホームディレクトリ/.gitconfig`で定義する情報を変更するコマンド
+```bash
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+#### ローカルリポジトリ設定を変更する
+`リポジトリ/.git/config`で定義する情報を変更するコマンド
+```bash
+$ git config user.name "John Doe"
+$ git config user.email johndoe@example.com
+```
+- [Gitコミットを任意の名前とメールアドレスで行うコマンド - Y-Ken Studio](http://y-ken.hatenablog.com/entry/git-commit-as-different-user)
+
+
+## SSH認証キーの設定
+
+GitHubをサンプルとした、サービスごとに鍵を分ける例。パスフレーズなし。
+
 ```bash
 $ cd ~/.ssh
 ```
