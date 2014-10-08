@@ -24,3 +24,68 @@ $ git log --follow
 ```bash
 $ git rebase -i HEAD~4
 ```
+
+### SSH認証キーの設定
+サービスごとに鍵を分ける例。パスフレーズなし。
+```bash
+$ cd ~/.ssh
+```
+```bash
+$ ssh-keygen -t rsa -C "sample@example.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/Syon/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase): <ENTER> ※パスフレーズなし
+Enter same passphrase again: <ENTER> ※パスフレーズなし
+```
+```bash
+$ ls
+config          id_rsa          id_rsa.pub
+```
+```bash
+$ chmod 600 id_rsa
+```
+```bash
+$ (ファイル名変更)
+```
+```bash
+$ ls
+config          github_rsa      github_rsa.pub
+```
+`config`ファイルを編集
+```bash
+Host github.com
+  Hostname github.com
+  IdentityFile ~/.ssh/github_rsa
+  User git
+
+Host heroku.com
+  Hostname heroku.com
+  IdentityFile ~/.ssh/heroku_rsa
+  User git
+
+Host bitbucket.org
+  Hostname bitbucket.org
+  IdentityFile ~/.ssh/bitbucket_rsa
+  User git
+```
+クリップボードに公開鍵コピー
+```bash
+$ pbcopy < github_rsa.pub
+```
+
+GitHub サイトの設定で `Add SSH key` して公開鍵を設置
+- https://github.com/settings/ssh
+
+接続確認
+<pre>
+$ ssh git@github.com
+PTY allocation request failed on channel 0
+Hi syon! You've successfully authenticated, but GitHub does not provide shell access.
+Connection to github.com closed.
+</pre>
+完了
+
+#### cf.
+- [SSH認証キー](http://morizyun.github.io/blog/ssh-key-bitbucket-github/)
+- [SSHの公開鍵を作成しGithubに登録する手順 - mon_sat at Co-Edo](http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github)
+- [GitHub: SSH鍵認証しているはずなのにパスワードを求められるを解決する方法 | deadwood](http://www.d-wood.com/blog/2013/08/29_4522.html)
