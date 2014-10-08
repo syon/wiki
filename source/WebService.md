@@ -44,6 +44,9 @@
 - [Favicon Generator - Generate favicon pictures and HTML](http://realfavicongenerator.net/)  
   iPhone, iPad, Androidのホーム画面やWindows8のタイル表示、Windowsのタスクバー表示にも対応
 
+- [Convert Picture to Svg - Picsvg](http://picsvg.com/)  
+  [このクオリティはスゴイ！JPEG, GIF, PNG画像をベクターに変換する無料のオンラインサービス -PicSVG | コリス](http://coliss.com/articles/web-services/online-convert-picture-to-svg-picsvg.html)
+
 ### フォトブック
 
 - [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
