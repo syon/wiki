@@ -46,6 +46,11 @@ JDBC helper library.
 - [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
 
 
+## JSP / Servlet
+
+- [Java Solution FAQ：セッションの開始・継続・終了](http://www.atmarkit.co.jp/fjava/javafaq/session/session04.html)
+- [＠IT：Java TIPS -- リダイレクトとフォワードの違いを知る](http://www.atmarkit.co.jp/fjava/javatips/062jspservlet029.html)
+
 ## Java Coding
 
 ### for文
