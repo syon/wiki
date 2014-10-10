@@ -85,3 +85,11 @@ set hhmm=%tm:~0,2%%tm:~3,2%
 <pre>
 cd /d %~dp0
 </pre>
+
+
+## コマンド
+
+### copy / xcopy / robocopy
+- [コマンドプロンプト copy - [ファイルをコピーする]](http://www.k-tanaka.net/cmd/copy.php)
+- [コマンドプロンプト xcopy - [ファイルをディレクトリ構造ごとコピーする]](http://www.k-tanaka.net/cmd/xcopy.php)
+- [Windowsのコマンドラインでファイルコピーするならxcopyよりrobocopy - WEBお笑いエンジニアの日記](http://d.hatena.ne.jp/turkey_hate/20130712)
