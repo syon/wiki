@@ -163,6 +163,13 @@ $(document).on(EV_TOUCHEND, '#target', function(){...
 
 - [大手Webサービスがクライアント側で発生したJavaScriptのエラーをどう収集しているのか まとめ - Qiita](http://qiita.com/grapswiz/items/4e97968f3d3df97a4c76)
 
+### trim
+```js
+target = target.replace(/(^\s+)|(\s+$)/g, "");
+```
+```js
+target = $.trim(target);
+```
 
 ## JSON
 
