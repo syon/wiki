@@ -45,6 +45,10 @@ GitHubのRubyコーディング規約
 "Hello, World".slice /W.+$/  #=> "World"
 "Hello, World".slice /w.+$/i #=> "World"
 
+# マッチ＆抽出
+"Hello, World. Hey, John.".match(%r{Hey, (.*).})[1] #=> "John"
+"/path/to/article?q=hello".match(%r{.*/article\?q=(.*)})[1] #=> "hello"
+
 # 含む
 "Hello, World" =~ /Hello/  #=> 0
 "Hello, World" =~ /hello/  #=> nil
