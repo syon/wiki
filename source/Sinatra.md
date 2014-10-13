@@ -191,6 +191,20 @@ somepage.haml
 - [チュートリアル - sinatraへ簡易アカウント管理機能を追加する - Qiita](http://qiita.com/kaz3439/items/d908fb6ec7fb4aa15fe3)  
   ログインの実装サンプル。ユーザ認証はメルアドとパスワード。
 
+## Unicorn
+- [Design Recipe 別館 Blog - Rack アプリケーション向けの HTTP サーバ Unicorn の基本操作](http://blog.designrecipe.jp/2011/07/30/unicorn/)
+
+#### Unicornの停止
+```bash
+$ ps -ef | grep unicorn | grep -v grep
+hoge      7299     1  0 22:13 ?        00:00:04 unicorn master -c unicorn.conf -D
+hoge      7303  7299  0 22:13 ?        00:00:03 unicorn worker[0] -c unicorn.conf -D
+hoge      7306  7299  0 22:13 ?        00:00:03 unicorn worker[1] -c unicorn.conf -D
+
+$ kill -QUIT 7299
+```
+
+
 ## TIPS
 
 - [SinatraでJSONを返す](http://d.hatena.ne.jp/rightgo09_ruby/20130828/p1)
