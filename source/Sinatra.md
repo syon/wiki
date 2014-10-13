@@ -83,6 +83,25 @@ get '/subdir' do
 end
 ```
 
+### ConfigFile
+- [Sinatra::ConfigFile (part of Sinatra::Contrib)](http://www.sinatrarb.com/contrib/config_file.html)
+
+config.yml
+```yml
+greeting: Welcome
+```
+```ruby
+require "sinatra"
+require "sinatra/config_file"
+
+config_file 'path/to/config.yml'
+
+get '/' do
+  @greeting = settings.greeting
+  haml :index
+end
+```
+
 ## Haml
 
 #### [HTML2Haml | Convert HTML Snippets to Haml](http://html2haml.heroku.com/)
