@@ -51,6 +51,8 @@
 
 - [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
 
+### 資料画像
+- [Beautiful Maps](http://mapsdesign.tumblr.com/)
 
 ## 名前
 
