@@ -63,7 +63,8 @@ config          id_rsa          id_rsa.pub
 $ chmod 600 id_rsa
 ```
 ```bash
-$ (ファイル名変更)
+$ mv id_rsa github_rsa
+$ mv id_rsa.pub github_rsa.pub
 ```
 ```bash
 $ ls
