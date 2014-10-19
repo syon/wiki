@@ -21,6 +21,10 @@ $ cd myapp
 $ heroku apps:create myapp
 ```
 
+#### リポジトリを Heroku App と紐づける
+```bash
+$ heroic git:remote --app APPNAME
+```
 
 ## PostgreSQL
 
