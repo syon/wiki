@@ -51,3 +51,7 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
     - 第4回　Hubotのスクリプトを書いてみる
     - 第5回　実用的なHubotのスクリプトを書いてみる
 - [チャットボットでチーム開発効率化入門（1）：GitHub製フレームワークHubotの概要とインストール、チャットアプリと連携する基本的な使い方 (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/20/news035.html)
+
+
+## [GitLab](https://about.gitlab.com/)
+- [GitHubクローンのGitLabを５分でインストールした - アルパカDiary](http://d.hatena.ne.jp/toritori0318/20140523/1400863038)
