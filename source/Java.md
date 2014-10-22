@@ -57,9 +57,57 @@ JDBC helper library.
 
 ## Java Coding
 
-### for文
+### JavaのList・Mapのfor文
+#### Listのfor文
+```java
+List<String> list = new ArrayList<String>();
 
-- [JavaのList・Mapのfor文処理覚書 - よんちゅBlog](http://yonchu.hatenablog.com/entry/20110216/1297857882)
+// 拡張for文：推奨
+for (String item : list) {
+}
+
+// イテレータ：拡張for文が使えない場合に使用(要素の追加や削除が必要な場合など)
+for (Iterator<String> it = list.iterator(); it.hasNext(); ) {
+    String item = it.next();
+}
+
+// インデックス：非推奨
+for (int i = 0, size = list.size(); i < size; i++) {
+    String item = list.get(i);
+}
+```
+#### Mapのfor文
+```java
+Map<String, ValueClass> map = new HashMap<String, ValueClass>();
+
+// 拡張for文：キーをループ
+for (String key : map.keySet()) {
+}
+
+// 拡張for文：値をループ
+for (ValueClass val : map.values()) {
+}
+
+// 拡張for文：キーと値をループ
+for (Map.Entry<String, ValueClass> entry : map.entrySet()) {
+    String key = entry.getKey();
+    ValueClass val = entry.getValue();
+}
+```
+#### 配列のfor文
+```java
+SomeClass array[] = { new SomeClass(), new SomeClass() };
+
+// 拡張for文：推奨
+for (SomeClass item : array) {
+}
+
+// インデックス：非推奨
+for (int i = 0, len = array.length(); i < size; i++) {
+    SomeClass item = array[i];
+}
+```
+via - [JavaのList・Mapのfor文処理覚書 - よんちゅBlog](http://yonchu.hatenablog.com/entry/20110216/1297857882)
 
 ### Map
 
