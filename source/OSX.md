@@ -25,7 +25,35 @@
 ## 環境
 
 ### Homebrew
+
+#### Install Homebrew
+- http://brew.sh  
+  インストール用Rubyコマンドをコピペしてターミナルで実行
+
+#### Homebrew Cask
 - [エンジニア Mac アプリ 環境 おすすめ - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/090517)
+- [みんなhomebrew-caskって知ってるか？ - Qiita](http://qiita.com/ryurock/items/1432578d364985f6cb06)
+- [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
+
+```bash
+brew install caskroom/cask/brew-cask
+brew install git
+
+brew install zsh
+curl -L http://install.ohmyz.sh | sh
+
+brew install heroku-toolbelt
+brew install ruby-build
+brew install rbenv
+git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+
+brew cask install dropbox
+brew cask install google-chrome
+brew cask install github
+brew cask install iterm2
+```
 
 
 ## Tips
