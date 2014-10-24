@@ -76,6 +76,15 @@ JSON.generate(obj)
 JSON.pretty_generate(obj) # 整形
 ```
 
+#### 日付・時刻の計算
+```ruby
+require 'active_support/time'
+
+Time.now           #=> 2014-10-24 20:50:15 +0900
+Time.now + 3.hours #=> 2014-10-24 23:50:15 +0900
+```
+via - [Rubyで日付の計算するならactive_support使っとけって世間で言われてるけどマジだわ - yachibit.log](http://yachibit.hatenablog.jp/entry/2013/06/08/030926)
+
 ### Books
 
 - [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)
