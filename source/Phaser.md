@@ -180,3 +180,5 @@ else {
 }
 ```
 `forceLandscape`は意図する挙動がよくわからない。有効にすると、iPhoneを縦(portrait)にしたとき縦に引き伸ばされてしまう。
+    - [Loading HD graphics on Hi-res devices - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/2789-loading-hd-graphics-on-hi-res-devices/)  
+      Retina対応するためにはまずゲーム自体をRetina解像度で作る。Phaserは自由にスケールできる。
