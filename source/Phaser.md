@@ -114,7 +114,7 @@ this.player.animations.play('left');
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
 
-### Tutorials
+### Tips
 
 - [Fullscreen Scaling in Phaser | tjkopena](http://www.rocketshipgames.com/blogs/tjkopena/2014/10/fullscreen-scaling-in-phaser/)
 
