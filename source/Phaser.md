@@ -110,6 +110,10 @@ this.player.animations.play('left');
     - [How to make a Flappy Bird in HTML5 - Part 3](http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-3/)
 :::: ([DEMO on syon/works](http://syon.github.io/works/game/4/))
 
+- codevinsky
+    - [Phaser 2.0 Tutorial: Flappy Bird (Part 1)](http://www.codevinsky.com/phaser-2-0-tutorial-flappy-bird-part-1/)
+    - [Phaser 2.0 Tutorial: Flappy Bird (Part 2)](http://www.codevinsky.com/phaser-2-0-tutorial-flappy-bird-part-2/)
+
 - [HTML5 Mobile Game Development with Phaser | Zenva Academy](https://academy.zenva.com/product/html5-mobile-game-development-with-phaser/)
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
