@@ -35,6 +35,9 @@ Noto is Google’s font family that aims to support all the world’s languages.
 ### Text Effect
 - [Textillate.js](http://jschr.github.io/textillate/)
 
+### まとめ
+- [ガーリーなかわいいフォントからシンプルなものまで、高品質な新作フリーフォントのまとめ -2014年10月 | コリス](http://coliss.com/articles/freebies/freebies-font-2014-oct.html)
+
 ### Articles
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
 
