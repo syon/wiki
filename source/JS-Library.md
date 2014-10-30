@@ -37,6 +37,14 @@ Draws simple SVG flow chart diagrams from textual representation of the diagram
 ### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
 jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
 
+
+## Modal
+
+### [SimpleModal / Eric Martin / ericmmartin.com](http://www.ericmmartin.com/projects/simplemodal/)
+
+### [Simple Modal - Another window modal](http://simplemodal.plasm.it/)
+
+
 ## Animations
 
 ### [☆ sweep.js ☆](http://rileyjshaw.com/sweep/)
