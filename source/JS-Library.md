@@ -7,6 +7,7 @@
 
 ### [Underscore.js](http://underscorejs.org/)
 _. ではじまるJSのユーティリティライブラリ
+#### [Underscore.js - template](http://underscorejs.org/#template)
 - [［Underscore.js］テンプレートとオブジェクトから文字列を生成する - Build Insider](http://www.buildinsider.net/web/bookjslib111/101)
 - [Backbone.jsで外部ファイルをテンプレートに指定する方法 - エピゴーネンで](http://epigonen190.blog.fc2.com/blog-entry-57.html)
 
