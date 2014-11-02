@@ -53,3 +53,6 @@
     - Rack::RewriteでHerokuのURLから独自ドメインにリダイレクトする
 - [Middleman on Heroku (with Nginx) – Random Errata](http://randomerrata.com/post/67140752129/nginx-heart-middleman)
     - Nginx buildpack
+
+## Articles
+- [Middleman + SinatraでALOHA FISHMANSのサイトをリニューアルしました - blog.katsuma.tv](http://blog.katsuma.tv/2014/03/aloha_fishmans_by_middleman_and_sinatra.html)
