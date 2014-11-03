@@ -109,3 +109,6 @@
 - [Export d3js/SVG as SVG/PDF](http://d3export.housegordon.org/)  
   D3.js → SVG, PDF, PNG ダウンロード
 - [SVG を PNG に変換するやつ (Ruby-GNOME2/RSVG on Sinatra) - X X X](http://syonx.hatenablog.com/entry/2014/07/26/191359)
+
+### Excel
+- [Excel上でD3.jsを使ったグラフを表示する「E2D3」を使ってオリジナルなグラフを表示してみた。 | GUNMA GIS GEEK](http://shimz.me/blog/d3-js/3820)
