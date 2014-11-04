@@ -171,6 +171,10 @@ target = target.replace(/(^\s+)|(\s+$)/g, "");
 target = $.trim(target);
 ```
 
+### Form
+- [HTML5のValidationでsubmitボタンの状態を変更する - Qiita](http://qiita.com/r7kamura/items/6f68305c01e9c0a02d91)
+
+
 ## JSON
 
 - [JSON Editor](http://braincast.nl/samples/jsoneditor/)
