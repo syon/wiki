@@ -6,6 +6,9 @@
 - [Sinatra Pattern 20130415](http://www.slideshare.net/sonots/sinatra-pattern-20130415)  
   ちっちゃくはじめておっきく育てるSinatraアプリの作り方
 
+- [sinatra ですぐにアプリケーションの実装に入れるようにするための準備 - Studio3104::BLOG.new]  (http://studio3104.hatenablog.com/entry/2014/11/04/012457)  
+  Sinatra + slim + sass + coffee + bower + grunt + foreman
+
 ## Reference
 
 - [Ruby - Sinatraの使い方あれこれ - Qiita](http://qiita.com/weed/items/7c83a795e37bdf52cfef)
