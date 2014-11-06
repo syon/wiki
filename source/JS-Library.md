@@ -59,6 +59,9 @@ jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現�
 
 - [Velocity.jsによるフェーズ有りアニメーションの実装 « LINE Engineers' Blog](http://developers.linecorp.com/blog/?p=3230)
 
+### [jQuery WebGL Ripples](http://sirxemic.github.io/jquery.ripples/)
+- [[JS]エフェクトの美しさがスゴイ！Webページを水面にし、波紋を生み出すスクリプト -jQuery Ripple | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-ripples.html)
+
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
