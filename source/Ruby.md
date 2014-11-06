@@ -277,3 +277,4 @@ echo %path% | ruby -F; -ane 'puts $F'
 ## Ruby技術者認定試験
 ### [Rubyアソシエーション: Ruby技術者認定試験制度](http://www.ruby.or.jp/ja/certification/examination/)
 - [Ruby技術者認定試験Silverに卒業単位やばい学生だけど合格できたお話【試験合格記】 | メモ帳代わりのブログ](http://www.absolute-keitarou.net/blog/?p=785)
+- [Rubyアソシエーション: Ruby技術者認定試験再受験無料キャンペーン](http://www.ruby.or.jp/ja/news/20141105.html)
