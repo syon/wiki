@@ -19,6 +19,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
 ### Iconic Font
 - [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
 - [Devicons | The developer's iconic font](http://vorillaz.github.io/devicons/)
+- [Twitter、872個の絵文字をオープンソース化 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1411/07/news079.html)
 
 ### 日本語フリーフォント
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
