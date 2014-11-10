@@ -199,6 +199,9 @@ somepage.haml
 
 #### Unicornの停止
 ```bash
+$ kill -QUIT `cat unicorn.pid`
+```
+```bash
 $ ps -ef | grep unicorn | grep -v grep
 hoge      7299     1  0 22:13 ?        00:00:04 unicorn master -c unicorn.conf -D
 hoge      7303  7299  0 22:13 ?        00:00:03 unicorn worker[0] -c unicorn.conf -D
@@ -206,7 +209,6 @@ hoge      7306  7299  0 22:13 ?        00:00:03 unicorn worker[1] -c unicorn.con
 
 $ kill -QUIT 7299
 ```
-
 
 ## TIPS
 
