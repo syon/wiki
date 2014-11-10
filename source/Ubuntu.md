@@ -230,6 +230,10 @@ $ sudo netstat -lpn |grep :8080
     user-session=ubuntu
     greeter-setup-script=/usr/bin/synergyc -n clientname serveraddress
 
+#### 再起動
+
+    $ synergyc --restart -n clientname serveraddress
+
 ### Proxy Server (Squid)
 
 #### Install
