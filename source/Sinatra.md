@@ -26,8 +26,12 @@
     - Cookieの利用
     - ファイル添付
 - [チュートリアル - sinatraへ簡易アカウント管理機能を追加する - Qiita](http://qiita.com/rhzk/items/d908fb6ec7fb4aa15fe3)
-- [Rack::Session::Cookieを使う - 橋本詳解](http://d.hatena.ne.jp/shokai/20110324/1300999147)
 - [Sinatra＋ActiveRecord＋SQLite3で，軽量なWeb-DB連携例 | tamo's blog](http://tamosblog.wordpress.com/2012/10/26/sinatra/)
+
+#### Rack
+- [そうだRack作ろう。](http://www.slideshare.net/kazumax1218/rack-37493113)  
+  Rackとは何か、Rackアプリ/ミドルウェア
+- [Rack::Session::Cookieを使う - 橋本詳解](http://d.hatena.ne.jp/shokai/20110324/1300999147)
 
 ### Heroku
 - [[Heroku]]
