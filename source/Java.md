@@ -49,6 +49,26 @@ JDBC helper library.
 - [POIのHSSFを使ってExcelに画像を挿入 - No Programming, No Life](http://npnl.hatenablog.jp/entry/20081122/1227337357)
 - [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
 
+#### テンプレートExcelファイルを用意してデータを埋め込んでダウンロードするサンプル
+```java
+FileInputStream fis = new FileInputStream( "C:\\TemplateBook.xlsx" );
+Workbook workbook = WorkbookFactory.create( fis );
+Sheet sheet = workbook.getSheet( "Sheet1" );
+int i = 0;
+for (Row row : sheet) {
+	for (Cell cell : row) {
+		cell.setCellValue( "_" + i + "_" );
+		i++;
+	}
+}
+ByteArrayOutputStream baos = new ByteArrayOutputStream();
+workbook.write( baos );
+response.setContentType( "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" );
+response.setHeader( "Content-Disposition", "attachment; filename=\"YourBook.xlsx\"" );
+// :
+// :
+response.flushBuffer();
+```
 
 ## JSP / Servlet
 
