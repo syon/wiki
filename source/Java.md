@@ -56,10 +56,26 @@ JDBC helper library.
 - [＠IT：Java TIPS -- リダイレクトとフォワードの違いを知る](http://www.atmarkit.co.jp/fjava/javatips/062jspservlet029.html)
 
 ### HTTP - Request
+
+#### RequestDispatcher
+
 <dl>
-  <dt>RequestDispatcher#forward</dt>
+  <dt>forward</dt>
   <dd>渡されたリクエストを維持したまま別の JSP / Servlet に引き渡す</dd>
 </dl>
+
+#### Content-Disposition
+
+__RFC1806: The Content-Disposition Header__
+- [https://www.ietf.org/rfc/rfc1806.txt](https://www.ietf.org/rfc/rfc1806.txt)
+- [RFC1806 日本語訳 - [RFC/技術資料] ぺんたん info](http://pentan.info/doc/rfc/j1806.html)
+
+> <dl>
+  <dt>inline</dt>
+  <dd>もしディスプレイ上にメッセージが自動的に表示される事を意図しているなら、bodypart は `inline' としてマークされるべきである。マルチパートメッセージの普通のセマンティクスから、inline bodypart が存在する順序で提示されるべきである。</dd>
+  <dt>attachment</dt>
+  <dd>bodypart はメールメッセージのメインボディから分割されていることを示すために `attachment' として明示することができ、それらの表示は自動的ではなくユーザアクションしだいとすべきである。MUA はその代わりに、ビットマップ端末のユーザには添付データのアイコン表現を、キャラクタ端末には添付データの表示や保存を選択できるようにリストを提示するかもしれない。</dd>
+> </dl>
 
 ### HTTP - Response
 
