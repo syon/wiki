@@ -69,6 +69,7 @@ response.setHeader( "Content-Disposition", "attachment; filename=\"YourBook.xlsx
 // :
 response.flushBuffer();
 ```
+MIME type of `.xlsx` - [Description of the default settings for the MimeMap property and for the ScriptMaps property in IIS](http://support.microsoft.com/kb/936496/en-us)
 
 ## JSP / Servlet
 
