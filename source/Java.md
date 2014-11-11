@@ -55,6 +55,19 @@ JDBC helper library.
 - [Java Solution FAQ：セッションの開始・継続・終了](http://www.atmarkit.co.jp/fjava/javafaq/session/session04.html)
 - [＠IT：Java TIPS -- リダイレクトとフォワードの違いを知る](http://www.atmarkit.co.jp/fjava/javatips/062jspservlet029.html)
 
+### HTTP - Request
+<dl>
+  <dt>RequestDispatcher#forward</dt>
+  <dd>渡されたリクエストを維持したまま別の JSP / Servlet に引き渡す</dd>
+</dl>
+
+### HTTP - Response
+
+> java.lang.IllegalStateException: Response has already been committed
+
+ファイルのダウンロード処理を行なっているときに起きる。クライアント（ブラウザなど）にレスポンスを引渡し済みですよ、という意味。
+
+
 ## Java Coding
 
 ### JavaのList・Mapのfor文
