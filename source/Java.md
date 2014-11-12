@@ -207,3 +207,14 @@ cf. Apache Commons - BeanUtils
 - [複数のjarファイルを1つに纏める - koichi’s swap memory](http://d.hatena.ne.jp/koichiarchi/20080116/1200447205)
 - [Fat Jar Eclipse Plug-In](http://fjep.sourceforge.net/)
 - [クラウドサービスプラットフォーム Cosminexus：Eclipse開発で使用するJARをユーザー･ライブラリーとしてまとめる：ソフトウェア：日立](http://www.hitachi.co.jp/Prod/comp/soft1/cosminexus/useful/tips/100304_eclipse-user-library.html)
+
+#### 手順メモ
+0. Pluginインストール
+0. Eclipseをclean起動
+0. 適当な新Javaプロジェクトをつくる
+0. プロジェクトに適当なフォルダをつくる
+0. まとめたいjarをそこに全部いれる
+0. プロジェクトフォルダ右クリック「Fat Jar のビルド」
+0. ダイアログが出たらまとめjarの名前つける
+0. 対象に追加してチェック
+0. 実行しておわり
