@@ -75,6 +75,7 @@
 - [Every ColorBrewer Scale](http://bl.ocks.org/mbostock/5577023)
 - [SORTING](http://sorting.at/)
 - [アルゴリズムとプログラミングをビジュアルで一挙に理解できる「VisuAlgo」 - GIGAZINE](http://gigazine.net/news/20140819-visualgo/)
+- [郊外住宅地の見えない空き家](http://www3.nhk.or.jp/news/akiya/)
 
 ## データ
 - [【e-Stat】 政府統計の総合窓口 GL01010101](http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do)
