@@ -41,6 +41,7 @@
 - [SwiftのArrayがヤバイ - Qiita](http://qiita.com/koher/items/6f54eafac59793e7c364)
 - [大事なことは全部MLが教えてくれた ～ Apple の Swift の mutability 周りの件を理解する - Oh, you `re no (fun _ → more)](http://d.hatena.ne.jp/camlspotter/20140611/1402457362)
 - [SwiftでのiOSアプリ開発](http://www.slideshare.net/mokemokechicken/swifti-os)
+- [Swiftで遊んでますか？ - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2014/11/12/170041) "playground"
 
 ## Sample Code
 
