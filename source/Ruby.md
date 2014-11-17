@@ -205,6 +205,9 @@ require 'pp'
 pp [].methods.sort
 </pre>
 
+##### pry
+- [Ruby - ググるよりもまずはpry - Qiita](http://qiita.com/Kokudori/items/2b36068cdf2e40e75c2d)
+
 #### ブロックコメント
 
 <pre>
