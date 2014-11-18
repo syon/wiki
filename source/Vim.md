@@ -16,6 +16,7 @@
 
 - [Vim Advent Calendar 2012 まとめ - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131130/1385820282)
 - [Vim Advent Calendar 2013 : Vim を使っている/始めたいなら読んでおきたい Web の記事 - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131201/1385823937)
+- [新卒エンジニアに Vim とかについて座学をした - ravelllの日記](http://ravelll.hatenadiary.jp/entry/2014/11/10/145401)
 
 ### Tips
 
