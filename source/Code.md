@@ -1,10 +1,15 @@
 ### Reference
 
+- [TECHSCORE(テックスコア)](http://www.techscore.com/)  
+  Java,Ruby,SQLなど、Webアプリ開発エンジニアのための技術情報サイト
+
+#### Dash
 - [DevDocs](http://devdocs.io/)  
   Web版Dash的なもの
 
-- [TECHSCORE(テックスコア)](http://www.techscore.com/)  
-  Java,Ruby,SQLなど、Webアプリ開発エンジニアのための技術情報サイト
+- [Velocity - The Documentation and Docset Viewer for Windows](http://velocity.silverlakesoftware.com/)  
+  Windows版Dash
+
 
 ### Color Scheme
 
