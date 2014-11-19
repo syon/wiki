@@ -6,6 +6,9 @@
 
 - __[Windowsな人がDockerを体験するのに最適な「Boot2Docker」 - X X X](http://syonx.hatenablog.com/entry/2014/09/21/060000)__
 
+#### Dockership 
+- [Dockership](http://docker.sh/ip/)  
+  Dockership is a tool for easily deploying Docker containers to one or multiple Docker servers.
 
 ## News
 
