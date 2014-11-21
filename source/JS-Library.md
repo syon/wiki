@@ -38,6 +38,8 @@ Draws simple SVG flow chart diagrams from textual representation of the diagram
 ### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
 jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
 
+### [Fancytree](https://github.com/mar10/fancytree/)
+ツリー表示
 
 ## Modal
 
