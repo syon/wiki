@@ -86,6 +86,7 @@ this.player.animations.play('left');
 
 - [VVVVVV - A game by Terry Cavanagh](http://thelettervsixtim.es/) (Flash)
 - [チップチューン女子・TORIENAのMVが話題！ ドット絵による驚愕の作画量](http://kai-you.net/article/7400)
+- [ICON » チップチューン・ガール、TORIENAのドット絵ミュージック・ビデオはいかにして作られたのか？ 〜 m7kenjiが語るPhotoshopとFlashを駆使したプロダクション](http://icon.jp/archives/9078)
 
 ### Articles
 
