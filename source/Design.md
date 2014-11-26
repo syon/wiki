@@ -90,3 +90,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ## Effect
 
 - [EffectHub.com: Your best source for gaming](http://effecthub.com/)
+
+## Photoshop
+
+- [水彩絵の具ペイントの質感を実現！無料PSデザインキット「Aquarelle Designer Kit」 - Photoshop VIP](http://photoshopvip.net/archives/71010)
