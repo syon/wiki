@@ -19,6 +19,7 @@
     - [Mapbox styleguide | Mapbox](https://www.mapbox.com/base/)
     - [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/)
 - [Google Design](http://www.google.com/design/)
+    - [Googleのアイコンデザイン思想を学ぶ | ビジュアルシンキング](http://www.visualthinking.jp/archives/18943)
 - [Project NameStyle Guide](http://www.monolinea.com/projects/styleguide/)
 
 
