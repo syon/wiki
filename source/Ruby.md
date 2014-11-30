@@ -11,6 +11,10 @@ Dirクラスによりディレクトリの作成、削除、ファイル一覧�
 #### [Ruby · Styleguide](https://github.com/styleguide/ruby)
 GitHubのRubyコーディング規約
 
+### 本
+- [Amazon.co.jp： Effective Ruby あなたのRubyをより輝かせる48の特別な方法: Peter J. Jones, arton, 長尾 高弘: 本](http://www.amazon.co.jp/dp/4798139823)
+
+
 ## まとめ
 
 - [2013年新学期にRubyを始めるエンジニアが読むべきサイトまとめ - satooshi@blog](http://blog.satooshi.jp/blog/2013/04/08/before-you-get-started-ruby-programming/)
