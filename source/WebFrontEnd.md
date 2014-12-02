@@ -23,6 +23,7 @@
 ## ブラウザ
 
 - [ブラウザにやさしいHTML/CSS](http://www.slideshare.net/TakeharuIgari/htmlcss-34506501)
+- [Send beacon data in Chrome 39](http://updates.html5rocks.com/2014/10/Send-beacon-data-in-Chrome-39)
 
 ## 設計
 
