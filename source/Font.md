@@ -38,6 +38,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
 
 ### まとめ
 - [ガーリーなかわいいフォントからシンプルなものまで、高品質な新作フリーフォントのまとめ -2014年10月 | コリス](http://coliss.com/articles/freebies/freebies-font-2014-oct.html)
+- [美しいフォントは日本の宝！プロユース向けの日本語フォントを扱っているベンダー各社のまとめ | コリス](http://coliss.com/articles/build-websites/operation/design/japanese-fonts-for-professional.html)
 
 ### Articles
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
