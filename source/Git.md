@@ -8,6 +8,7 @@
 - [Gitチートシート - Qiita](http://qiita.com/ktaro/items/1d8c8ae698a88b1d6f0f)
 - [Git の diff を美しく表示するために必要なたった 1 つの設定 #git - 詩と創作・思索のひろば](http://motemen.hatenablog.com/entry/2013/11/26/Git_%E3%81%AE_diff_%E3%82%92%E7%BE%8E%E3%81%97%E3%81%8F%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%9F%E3%81%A3%E3%81%9F_1_%E3%81%A4%E3%81%AE%E8%A8%AD)
 - [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
+- [Gitのコミットメッセージの書き方 - Qiita](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
 - [Gitはファイルの移動を追跡できない - 永遠に未完成](http://d.hatena.ne.jp/thinca/20090217/1234799036)
 ```bash
 $ git log --follow
