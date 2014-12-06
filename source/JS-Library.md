@@ -64,9 +64,15 @@ jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現�
 ### [jQuery WebGL Ripples](http://sirxemic.github.io/jquery.ripples/)
 - [[JS]エフェクトの美しさがスゴイ！Webページを水面にし、波紋を生み出すスクリプト -jQuery Ripple | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-ripples.html)
 
+
 ## Text関連
 ### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
 
 ### [Text Effects | Fourdesire 四合願](http://team.fourdesire.com/playgrounds/texteffects)
 ランダムな文字を次々に表示し、一つのテキストをアニメーションで生成します。
+
+
+## 3D
+### Away3D
+- [WebGL版Away3D入門―第5回 モデルデータの読み込み – ICS LAB](http://ics-web.jp/lab/archives/3520)
