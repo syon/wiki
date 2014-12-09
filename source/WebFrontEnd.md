@@ -29,6 +29,7 @@
 ## 設計
 
 - [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
+- [とあるサイトの高速化についてフロントエンドでやったことまとめ。 | Toro_Unit](http://www.torounit.com/blog/2014/11/27/1870/)
 
 ## 文字コード
 
