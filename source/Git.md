@@ -23,6 +23,7 @@ $ git log --follow
 $ git rebase -i HEAD~4
 ```
 - [［初心者向け］こんなときどうする⁉︎ GitのTips26選！ - Qiita](http://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd)
+- [キャリア1年未満だった僕が、社内にGitの運用を布教するために読みあさったもの ( +ちょ〜簡単に各Gitの運用方法のメリット・デメリット ) - Qiita](http://qiita.com/h0ng0yut0/items/d0ef7224abc5e07525d4)
 
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
