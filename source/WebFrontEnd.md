@@ -30,6 +30,7 @@
 
 - [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
 - [とあるサイトの高速化についてフロントエンドでやったことまとめ。 | Toro_Unit](http://www.torounit.com/blog/2014/11/27/1870/)
+- [VirtualDom - なぜ仮想DOMという概念が俺達の魂を震えさせるのか - Qiita](http://qiita.com/mizchi/items/4d25bc26def1719d52e6)
 
 ## 文字コード
 
