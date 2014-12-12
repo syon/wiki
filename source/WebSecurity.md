@@ -10,6 +10,7 @@
 - [正規表現によるバリデーションでは ^ と $ ではなく \A と \z を使おう | 徳丸浩の日記](http://blog.tokumaru.org/2014/03/z.html)
 - [JavaScript: / の \ によるエスケープのみによるセキュリティ対策は禁止 | yohgaki's blog](http://blog.ohgaki.net/should-not-escape-slash-by-backslash)
 - [今夜つける HTTPレスポンスヘッダー （セキュリティ編） - うさぎ文学日記](http://d.hatena.ne.jp/sen-u/20131130/p1)
+- [他人事ではないWebセキュリティ](http://www.slideshare.net/hasegawayosuke/kobe-itfes)
 
 
 ### Fiddler
