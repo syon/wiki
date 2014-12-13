@@ -57,6 +57,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ### まとめ
 - [UIデザインで困らないために押さえておくべき7つのWEBサービス](http://blog.layer8.sh/ja/2012/04/08/7-useful-items-for-better-user-interface-design/)
 - [ブログデザインを考える：１行の字数とWEB幅 - tarのブログるっ by @tarVolcano](http://tar.blogru.me/entry/2014/05/22/080100)
+- [ゴージャスなUIデザインを作成する7つのルール - Photoshop VIP](http://photoshopvip.net/archives/71031)
 
 
 ## Font
