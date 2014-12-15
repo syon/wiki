@@ -174,6 +174,9 @@ target = $.trim(target);
 ### Form
 - [HTML5のValidationでsubmitボタンの状態を変更する - Qiita](http://qiita.com/r7kamura/items/6f68305c01e9c0a02d91)
 
+### Hidden field
+- [Create a hidden field in JavaScript - Stack Overflow](http://stackoverflow.com/questions/1000795/create-a-hidden-field-in-javascript)
+
 
 ## JSON
 
