@@ -5,7 +5,7 @@
 ## Articles
 
 - [Herokuのメリット、デメリット - Qiita](http://qiita.com/shu_0115/items/0106198f7a0be2f2a509)
-
+- [プロフェッショナルのための実践Heroku入門 - Talpa memorandum](http://kahei.org/blog/2014/09/heroku.html)
 
 ## Setup
 
