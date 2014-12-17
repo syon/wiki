@@ -76,3 +76,8 @@ jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現�
 ## 3D
 ### Away3D
 - [WebGL版Away3D入門―第5回 モデルデータの読み込み – ICS LAB](http://ics-web.jp/lab/archives/3520)
+
+
+## WebGL
+- [生WebGL入門:初音ミクの美麗3Dモデルを表示する(前編) » nmi.jp](http://nmi.jp/archives/582)
+- [WebGL開発者必見！ Flash Stage3Dとの比較から見えてくるWebGLのあり方について – ICS LAB](http://ics-web.jp/lab/archives/3865)
