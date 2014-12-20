@@ -37,6 +37,7 @@ update: --no-document
 ## Gem - スクレイピング
 
 - [まだmechanizeで消耗してるの? WebDriverで銀行をスクレイピング（ProtractorとWebdriverIOを例に） - 詩と創作・思索のひろば (Poetry, Writing and Contemplation)](http://motemen.hatenablog.com/entry/2014/10/01/scrape-by-protractor-webdriverio)
+- [Webスクレイピングの法律周りの話をしよう！ - Qiita](http://qiita.com/nezuq/items/3cc9772118ad112c18dc)
 
 ### Nokogiri
 
