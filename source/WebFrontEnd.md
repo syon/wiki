@@ -20,6 +20,9 @@
 - [メンテナブルCSS | 株式会社サイバーエージェント](http://www.cyberagent.co.jp/recruit/techreport/report/id=7926)
 - [ウェブ制作者の困ったを解決するコードが盛りだくさん、スニペットを共有するサービス -Code Pad | コリス](http://coliss.com/articles/build-websites/operation/work/share-code-snippets-codepad.html)
 
+## HTTP
+- [Kazuho's Weblog: なぜHTTPSはHTTPより速いのか](http://blog.kazuhooku.com/2014/12/httpshttp.html)
+
 ## ブラウザ
 
 - [ブラウザにやさしいHTML/CSS](http://www.slideshare.net/TakeharuIgari/htmlcss-34506501)
