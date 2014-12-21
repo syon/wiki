@@ -42,6 +42,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
 
 ### Articles
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
+- [Ubuntu忘備録: RuneAMN_Proの話 - #LOVEFONT Advent Calendar 2014-](http://blog.michinari-nukazawa.com/2014/12/lovefont2014-runeamn-font-devel.html)
 
 #### Preview installed fonts
 - [PCにインストールされているフォントを簡単プレビュー | Font viewer: ドラクエ二次創作小説｜無料Webアプリ - Script Boy](http://script.boy.jp/typeface-viewer.html)
