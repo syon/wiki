@@ -30,6 +30,7 @@ A lightweight JavaScript library for manipulating and animating svg
 - [SVGアイコンを実用するために知っておきたい、リンク周りの記述方法 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/svg-icon-link/)
 - [SVGクリッピングマスクにチャレンジ！静止画像も動画も、SVGで切り抜こう！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/svg-mask/)
 - [球面パーティクル　 (SVG） - jsdo.it - Share JavaScript, HTML5 and CSS](http://jsdo.it/gaziya/x1AR)
+- [Elastic SVG Elements | Codrops](http://tympanus.net/codrops/2014/12/15/elastic-svg-elements/)
 
 
 ### SVG Browser Support
