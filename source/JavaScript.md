@@ -21,6 +21,10 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 - [CoffeeScriptってなんぞ？](http://www.slideshare.net/hayatomizuno/coffeescript-12241689)
 
+### TypeScript
+
+- [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
+
 
 ## Template Engine
 
