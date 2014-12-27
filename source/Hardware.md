@@ -33,6 +33,7 @@
 - [iBeaconの解説 - Reinforce-Lab.'s Blog](http://reinforce-lab.github.io/blog/2013/10/21/ibeacon/)
 - [iBeacon Advent Calendar 2013 - Qiita](http://qiita.com/advent-calendar/2013/ibeacon)
 - [Node.js - たった6行!最も簡単にiBeaconの電波を「発信」する方法 - Qiita](http://qiita.com/Morikuma_Works/items/a0dd3cfcd1eef8dbd492)
+- [iBeacon と BLE - Over&Out その後](http://d.hatena.ne.jp/shu223/20141208/1418051009)
 
 
 ## Arduino
