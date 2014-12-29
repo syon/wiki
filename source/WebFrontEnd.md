@@ -28,6 +28,8 @@
 - [ブラウザにやさしいHTML/CSS](http://www.slideshare.net/TakeharuIgari/htmlcss-34506501)
 - [Send beacon data in Chrome 39](http://updates.html5rocks.com/2014/10/Send-beacon-data-in-Chrome-39)
 - [フロントエンドエンジニアになってから11ヶ月間で覚えたちょっと捗るChromeの使い方 - Qiita](http://qiita.com/dayoshix/items/0d4043bf7dbaa1dc9184)
+- [[フロントエンド] ブラウザレンダリングの仕組みを理解して、ブラウザに優しいJavaScriptを書こう - YoheiM .NET](http://www.yoheim.net/blog.php?q=20140703)
+
 
 ## 設計
 
