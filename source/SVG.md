@@ -45,3 +45,5 @@ A lightweight JavaScript library for manipulating and animating svg
 - [Trianglify by @qrohlf](http://qrohlf.com/trianglify/)
 - [Poly Maker](http://lab.aerotwist.com/canvas/poly-maker/)
 - [SVGをアップして継ぎ目なしのデザインパターンを作ってくれる『Plain Pattern』 | IDEA*IDEA](http://www.ideaxidea.com/archives/2014/09/plain_pattern.html)
+- [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)  
+  透過PNG画像を jpeg + SVG filter に変換して軽量化
