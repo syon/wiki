@@ -7,6 +7,8 @@
 - [Herokuのメリット、デメリット - Qiita](http://qiita.com/shu_0115/items/0106198f7a0be2f2a509)
 - [プロフェッショナルのための実践Heroku入門 - Talpa memorandum](http://kahei.org/blog/2014/09/heroku.html)
 - [仕組みもわかる 初めてのHerokuアプリケーションづくり！ Gitでのデプロイもさらりとこなす （1/3）：CodeZine](http://codezine.jp/article/detail/8187)
+- [Java WebアプリケーションをHerokuへデプロイする #herokujp - #侍ズム](http://samuraism.jp/diary/2014/10/15/1413361980000.html)
+
 
 ## Setup
 
