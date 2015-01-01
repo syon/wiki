@@ -23,6 +23,7 @@
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
   <li>[[Yeoman]]
+  <li>[[React]]
 </ul>
 </div>
 
