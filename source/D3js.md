@@ -88,6 +88,7 @@
 - [鉄道やバスの運行情報をオープンデータ化、鉄道会社などが研究会を発足 -INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/20130819_611700.html)
 - [【マーケッター必見！】市場調査や企画書作成に役立つ統計データ20選！](http://keiei.freee.co.jp/2014/08/19/statictics/)
 - [駅データ 無料ダウンロード 『駅データ.jp』](http://www.ekidata.jp/) XML/JSON APIあり
+- [愛知県の駅の１日の利用者数ベスト200ワースト200](http://alfalfalfa.com/archives/7723985.html)
 
 ## 地図
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
