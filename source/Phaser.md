@@ -92,12 +92,13 @@ this.player.animations.play('left');
     - [今年50のゲームを作って分かった面白いゲームを作る方法 - ABAの日誌](http://d.hatena.ne.jp/ABA/20141223#p1)
 - [Ferdy The Cat!](http://www.ferdythecat.com/)
 
-### Articles
+### Sites & Articles
 
 - [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
 - [『VVVVVV』 クリエイター Terry Cavanagh ミニマリストの想い、追究 | AUTOMATON](http://jp.automaton.am/articles/one-man-dev/creator-01-terry-cavanagh/)
 - [夏休みをゲーム制作に費やした少女たちがいた――16歳と19歳が生み出した傑作『クロエのレクイエム』誕生秘話:ニコニコ自作ゲームフェス:ニコニコ自作ゲームフェス(ニコニコ自作ゲームフェス) - ニコニコチャンネル:ゲーム](http://ch.nicovideo.jp/indies-game/blomaga/ar611037)
 - [フリーソフト超激辛ゲームレビュー](http://gekikarareview.com/)
+- [ニコニコ自作ゲームフェス(ニコニコ自作ゲームフェス) - ニコニコチャンネル:ゲーム](http://ch.nicovideo.jp/indies-game)
 
 ### Tutorials
 
