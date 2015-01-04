@@ -52,6 +52,7 @@
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
 - [kamisama/cal-heatmap · GitHub](https://github.com/kamisama/cal-heatmap)
 - [【D3.js + node.js】 ブログのデータをGithub風のカレンダーに表示する | GUNMA GIS GEEK](http://shimz.me/blog/node-js/2975)
+- [Day / Hour Heatmap](http://bl.ocks.org/tjdecke/5558084)
 
 ### レーダーチャート
 - [Eurozone crisis](http://www.larsko.org/v/euc/)
