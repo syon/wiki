@@ -31,6 +31,7 @@ A lightweight JavaScript library for manipulating and animating svg
 - [SVGクリッピングマスクにチャレンジ！静止画像も動画も、SVGで切り抜こう！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/svg-mask/)
 - [球面パーティクル　 (SVG） - jsdo.it - Share JavaScript, HTML5 and CSS](http://jsdo.it/gaziya/x1AR)
 - [Elastic SVG Elements | Codrops](http://tympanus.net/codrops/2014/12/15/elastic-svg-elements/)
+- [PDF 2 SVG Converter](http://pramodhkp.github.io/pdf2svg/)
 
 
 ### SVG Browser Support
