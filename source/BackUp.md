@@ -1,7 +1,7 @@
 ## 参考記事
 - [tappli blog: Googleアカウントを消されてしまった話](http://blog.tappli.com/article/69534410.html)
 - [家庭内ストレージ／NASのあれこれ。保存方法からバックアップ対象まで - プログラマになりたい](http://d.hatena.ne.jp/dkfj/20130901/1377999275)
-
+- [ssig33.com - 自宅で大容量ストレージを運用する](http://ssig33.com/text/%E8%87%AA%E5%AE%85%E3%81%A7%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%92%E9%81%8B%E7%94%A8%E3%81%99%E3%82%8B)
 
 ## パスワード管理
 
