@@ -10,6 +10,7 @@
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
     - [Chart.js Retina対応 | 田植え日記](http://syon.github.io/2014/08/13/)
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
+- [美しいグラフやレポートが作れるWebツール「Visage」（クローズドベータ） | ビジュアルシンキング](http://www.visualthinking.jp/archives/18612)
 
 ## Learning D3.js
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
