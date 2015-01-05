@@ -121,3 +121,6 @@ white-space: nowrap;
 ### パララックス
 - [[CSS]パララックスのエフェクトをスクリプト無し、CSSで実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/pure-css-parallax-by-keithclark.html)
     - * [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
+
+## Articles
+- [本の虫: rebeccapurpleがCSS 4 colorに提案された経緯](http://cpplover.blogspot.jp/2014/06/rebeccapurplecss-4-color.html)
