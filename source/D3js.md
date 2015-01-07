@@ -12,6 +12,7 @@
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
 - [美しいグラフやレポートが作れるWebツール「Visage」（クローズドベータ） | ビジュアルシンキング](http://www.visualthinking.jp/archives/18612)
 - [データビジュアライゼーション・ツール20選 | lab.sugimototatsuo.com](http://lab.sugimototatsuo.com/2013/08/top-20-data-visualisation-tools/)
+- [タスク、プロジェクト管理の表示に便利なガントチャートライブラリまとめ | hifive開発者ブログ](http://blog.htmlhifive.com/2014/09/18/gantt-chart-library-suitable-for-task-project-management/)
 
 ## Learning D3.js
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
