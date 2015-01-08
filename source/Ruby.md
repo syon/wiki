@@ -183,6 +183,7 @@ $ irb -r 'myclass.rb'
 ```
 
 - [irb を快適に使うための Tips - すがブロ](http://sugamasao.hatenablog.com/entry/20091207/1260143043)
+- [configuration - IRb: how to start an interactive ruby session with pre-loaded classes - Stack Overflow](http://stackoverflow.com/questions/2652514/irb-how-to-start-an-interactive-ruby-session-with-pre-loaded-classes)
 
 
 ## TIPS
