@@ -199,6 +199,7 @@ cf. Apache Commons - BeanUtils
 
 ## Eclipse
 - [Eclipseのショートカットキー](http://so-zou.jp/software/tech/tool/ide/eclipse/shortcut/)
+- [新人研修でドヤ顔で披露したらウケたEclipseのショートカット集 - Qiita](http://qiita.com/arai-wa/items/c2eb7387b5bf37b4ace4)
 
 
 ## Tips
