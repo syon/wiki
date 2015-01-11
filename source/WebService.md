@@ -8,6 +8,12 @@
 - [Asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)  
   ターミナルの操作を記録して共有
 
+
+## API
+
+- [最近のWebアプリ開発に使う「API」7選が、スゴ過ぎて革命が起きそうなレベル！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/21/54236/)
+
+
 ## カラー
 
 ### 変換
