@@ -17,6 +17,7 @@
 
 - [実はFiddlerがすごすぎたので、機能まとめ紹介 - digital matter](http://blog.loadlimits.info/2009/09/%e5%ae%9f%e3%81%affiddler%e3%81%8c%e3%81%99%e3%81%94%e3%81%99%e3%81%8e%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81%e6%a9%9f%e8%83%bd%e3%81%be%e3%81%a8%e3%82%81%e7%b4%b9%e4%bb%8b/)
 - [脆弱性の見つけ方（初心者向け脆弱性検査入門） - WEB系情報セキュリティ学習メモ](http://securitymemo.blog.fc2.com/blog-entry-38.html)
+- [HTTPのパケットを確認したり、書き換える事が出来るWeb Debugging Proxy「Fiddler」の勉強会に行って来ました - 強火で進め](http://d.hatena.ne.jp/nakamura001/20141025/1414235842)
 
 ### Nmap
 ポートスキャンツール
