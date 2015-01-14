@@ -7,3 +7,4 @@
 - [リアルな DOM はなぜ遅いのか - steps to phantasien](http://steps.dodgson.org/b/2014/12/11/why-is-real-dom-slow/)
 - [reactjs - react-jadeでjadeテンプレートから仮想DOMを出力する - Qiita](http://qiita.com/mizchi/items/4e17b54cd9cc70d747cc)
 - [React.js: an interactive tutorial to get started](http://projs.hackhat.com/react-js-an-interactive-tutorial-to-get-started/)
+- [React JS and why it's awesome](http://www.slideshare.net/AndrewHull/react-js-and-why-its-awesome)
