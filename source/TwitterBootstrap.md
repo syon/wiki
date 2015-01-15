@@ -45,3 +45,5 @@
 - [Material Design for Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)
 
 - [商用も無料！Bootstrapをベースに最近のトレンドを取り入れた新作テンプレートのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/best-templates-for-bootstrap-2014.html)
+
+- [Bootstrapで行こう！すごい無料HTMLテンプレート24個まとめ 2014年12月度 - Photoshop VIP](http://photoshopvip.net/archives/71636)
