@@ -43,6 +43,7 @@
 - [SwiftでのiOSアプリ開発](http://www.slideshare.net/mokemokechicken/swifti-os)
 - [Swiftで遊んでますか？ - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2014/11/12/170041) "playground"
 - [え!? Swift使ってるのにそんな書きかたしてるのですか!? // Speaker Deck](https://speakerdeck.com/yuseinishiyama/e-swiftshi-tuterufalsenisonnashu-kikatasiterufalsedesuka)
+- [作って学ぶSwift/iOSアプリ入門 - CAMPHOR- Tech Blog](http://tech.camph.net/how-to-make-ios-app-with-swift/)
 
 ## Sample Code
 
