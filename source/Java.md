@@ -32,6 +32,10 @@ Provides extra functionality for classes in java.lang.
 - Javadoc: [Overview (Apache Commons Lang 3.3.2 API)](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html)
     - [StringUtils](http://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html?org/apache/commons/lang3/StringUtils.html)
 
+#### [IO](http://commons.apache.org/proper/commons-io/)
+
+- [Java - 知らないと損しそうなApache Commonsの機能集 - Qiita](http://qiita.com/horimislime/items/a9b9cf89e13cc9639ff2)
+
 #### [BeanUtils](http://commons.apache.org/proper/commons-beanutils/)
 Easy-to-use wrappers around the Java reflection and introspection APIs.
 
