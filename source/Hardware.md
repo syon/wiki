@@ -67,6 +67,7 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 ## センサー
 
 - [センサーの種類と用途 | 特集 ｜ORIGINALMIND オリジナルマインド](http://www.originalmind.co.jp/special/sensor/)
+- [FF10の雷除けを自動化した話 - panchiga's blog](http://panchiga.hatenablog.com/entry/2014/12/09/092254)
 
 
 ## 3D プリント
