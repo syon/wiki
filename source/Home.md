@@ -71,6 +71,7 @@
   </ul>
   <li>[[Java]]
   <li>[[VBA]]
+  <li>[[VBS]]
   <li>[[正規表現|RegExp]]
   <li>[[Git]]
   <li>[[GitHub]]
