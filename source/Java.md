@@ -76,6 +76,13 @@ response.flushBuffer();
 ```
 MIME type of `.xlsx` - [Description of the default settings for the MimeMap property and for the ScriptMaps property in IIS](http://support.microsoft.com/kb/936496/en-us)
 
+
+## 文法
+
+- [2010-06-23 - sardineの日記](http://d.hatena.ne.jp/sardine/20100623)  
+  静的初期化子（スタティック・イニシャライザ）
+
+
 ## JSP / Servlet
 
 - [Java Solution FAQ：セッションの開始・継続・終了](http://www.atmarkit.co.jp/fjava/javafaq/session/session04.html)
