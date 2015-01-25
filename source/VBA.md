@@ -103,6 +103,7 @@ pdftk *.pdf cat output hoge.pdf
 - [pdftk（pdfツールキット）でpdfファイルを結合 - グズてつのぼやき](http://d.hatena.ne.jp/gzutetsu/20100703/p1)
 - [エクセルのマクロでPDFファイルを印刷 | Office系ソフトのQ&A【OKWave】](http://okwave.jp/qa/q3415031.html)
 - [VBでPDFファイルを編集する | Visual BasicのQ&A【OKWave】](http://okwave.jp/qa/q194124.html)
+- [テストエビデンス取得自動化の秘技（前編）：Selenium VBAを使って自動でブラウザーを操作してスクショをExcelに張り付けてみた (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/21/news103.html)
 
 ## Webサービス
 
