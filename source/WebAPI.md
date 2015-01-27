@@ -14,7 +14,7 @@
 
 #### はてブAPI
 - [はてブAPIでwebサービスを作りたい全ての人に向けて書きました - Syncer](http://syncer.jp/hatebu-api-matome)
-
+- [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
 
 
 ## APIs
