@@ -45,6 +45,7 @@
 - [え!? Swift使ってるのにそんな書きかたしてるのですか!? // Speaker Deck](https://speakerdeck.com/yuseinishiyama/e-swiftshi-tuterufalsenisonnashu-kikatasiterufalsedesuka)
 - [作って学ぶSwift/iOSアプリ入門 - CAMPHOR- Tech Blog](http://tech.camph.net/how-to-make-ios-app-with-swift/)
 - [Swiftを使ってテトリスをつくる方法を丁寧に解説したサイト「Swiftris」](http://www.softantenna.com/wp/software/swiftris/)
+- [[iOS 8/Xcode 6] SwiftではじめるiOS開発 #1 [Table View] ｜ Developers.IO](http://dev.classmethod.jp/references/ios-8-xcode-6-swift-listview/)
 
 ## Sample Code
 
