@@ -55,3 +55,4 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
 
 ## [GitLab](https://about.gitlab.com/)
 - [GitHubクローンのGitLabを５分でインストールした - アルパカDiary](http://d.hatena.ne.jp/toritori0318/20140523/1400863038)
+- [Docker で 自動バックアップ付きの gitlabサイト を構築 - Qiita](http://qiita.com/essa/items/87b6ae3f892a79b9c560)
