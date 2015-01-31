@@ -17,6 +17,9 @@
 - [Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/)  
   サンプルコードと共にプレビュー画面も掲載
 
+- [Swift / デザインパターン ｜ 特集カテゴリー ｜ Developers.IO](http://dev.classmethod.jp/referencecat/ios8-swift-design-pattern/)
+
+
 ## Sites
 
 - [Learn Swift - Tutorials, Code Samples, References and more!](http://www.learnswift.tips/)  
