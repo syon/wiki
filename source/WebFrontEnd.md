@@ -46,6 +46,7 @@
 ## まとめ
 
 - [ペパボのフロントエンドスタンダード](http://pepabo.github.io/docs/frontend/standard.html)
+- [10年以上Java屋してたおっさんが 今年からフロントエンジニアやっている話](http://www.slideshare.net/dayoshi/20140821)
 
 ## 作品
 
