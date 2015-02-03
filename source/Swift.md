@@ -50,6 +50,7 @@
 - [Swiftを使ってテトリスをつくる方法を丁寧に解説したサイト「Swiftris」](http://www.softantenna.com/wp/software/swiftris/)
 - [[iOS 8/Xcode 6] SwiftではじめるiOS開発 #1 [Table View] ｜ Developers.IO](http://dev.classmethod.jp/references/ios-8-xcode-6-swift-listview/)
 - [Apple新言語「Swift」ことはじめ。勉強用リンクまとめ。 | イリテク](http://iritec.jp/objective-c/9068/)
+- [Swiftでenumとジェネリクスを活用したかっこいいAPIクライアントを書く - Hatena Developer Blog](http://developer.hatenastaff.com/entry/smart-api-client-with-swift-using-enum-and-generics)
 
 
 ## Sample Code
