@@ -81,6 +81,7 @@ MIME type of `.xlsx` - [Description of the default settings for the MimeMap prop
 
 - [2010-06-23 - sardineの日記](http://d.hatena.ne.jp/sardine/20100623)  
   静的初期化子（スタティック・イニシャライザ）
+- [RuntimeExceptionとは : JavaA2Z](http://www.kab-studio.biz/Programing/JavaA2Z/Word/00000124.html)
 
 
 ## JSP / Servlet
