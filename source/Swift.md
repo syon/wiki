@@ -19,6 +19,9 @@
 
 - [Swift / デザインパターン ｜ 特集カテゴリー ｜ Developers.IO](http://dev.classmethod.jp/referencecat/ios8-swift-design-pattern/)
 
+- [Style guide & coding conventions for Swift projects](https://github.com/jarinosuke/swift-style-guide/blob/master/README_JP.md)  
+  Github社の Swift コーディング規約（日本語訳）
+
 
 ## Sites
 
