@@ -1,3 +1,8 @@
+## 代行サービス
+- [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)
+- [お洗濯代行サービス　お洗濯宅配サービス　ウオッシュ＆フォールド](http://www.wash-fold.com/)
+
+
 ## リモコン
 
 ### [IRKit](http://getirkit.com/)
@@ -55,11 +60,6 @@ Open Source WiFi Connected Infrared Remote Controller
 
 ### [Noke – FŪZ Designs](http://fuzdesigns.com/pages/Noke)
 - [鍵が不要でスマホを近づけるだけで解錠できるBluetooth搭載の南京錠「Noke」 - GIGAZINE](http://gigazine.net/news/20140825-noke/)
-
-
-
-## 収納サービス
-- [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)
 
 
 ## 紛失防止
