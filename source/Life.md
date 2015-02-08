@@ -57,6 +57,11 @@ Open Source WiFi Connected Infrared Remote Controller
 - [鍵が不要でスマホを近づけるだけで解錠できるBluetooth搭載の南京錠「Noke」 - GIGAZINE](http://gigazine.net/news/20140825-noke/)
 
 
+
+## 収納サービス
+- [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)
+
+
 ## 紛失防止
 
 ### [Stick-N-Find ステッカー・ファインド](http://mbridge.jp/)
