@@ -137,7 +137,8 @@
 - [[MIDI]]
 
 ### Sounds
--  [[効果音|SoundEffect]]
+- [[Music]]
+- [[効果音|SoundEffect]]
 
 ### バックアップ
 - [[BackUp]]
