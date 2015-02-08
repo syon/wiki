@@ -30,6 +30,10 @@
 - [フロントエンドエンジニアになってから11ヶ月間で覚えたちょっと捗るChromeの使い方 - Qiita](http://qiita.com/dayoshix/items/0d4043bf7dbaa1dc9184)
 - [[フロントエンド] ブラウザレンダリングの仕組みを理解して、ブラウザに優しいJavaScriptを書こう - YoheiM .NET](http://www.yoheim.net/blog.php?q=20140703)
 
+### viewport
+
+- [これがスマートフォン向けサイトを作るときの viewport 設定３パターンだ - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/02/15/viewport/)
+
 ### パフォーマンス・高速化・最適化
 
 - [ブラウザのパフォーマンスを限界まで高める HTMLコーディングの考え方](http://www.slideshare.net/kawada_hiroshi/html-40678123)
