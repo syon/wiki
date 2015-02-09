@@ -106,6 +106,7 @@
 - [人口減少地図：日本経済新聞](http://www.nikkei.com/edit/interactive/population2014/map.html)
 - [【D3.js】Google Mapにsvgを使ってマスクをかける | GUNMA GIS GEEK](http://shimz.me/blog/d3-js/3770)
 - [ゼンリンの「いつもNAVI－API」を使って地図を表示してみた。 | GUNMA GIS GEEK](http://shimz.me/blog/map/3847)
+- [Heat mapで動きが活発な地域を可視化する - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150207/1423240309)
 
 ## 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)
