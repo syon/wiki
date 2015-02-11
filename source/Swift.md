@@ -35,6 +35,12 @@
 
 - [iTunes - Books - The Swift Programming Language by Apple Inc.](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 
+
+## Libraries
+
+- [iPhone - Swiftで作られたイケてるUIライブラリたち - Qiita](http://qiita.com/susieyy/items/1f28531a1c58d9158896)
+
+
 ## Articles
 
 - [新しいプログラミング言語 Swift ｜ Developers.IO](http://dev.classmethod.jp/smartphone/swift/)
