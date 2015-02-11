@@ -81,6 +81,9 @@
 - [アルゴリズムとプログラミングをビジュアルで一挙に理解できる「VisuAlgo」 - GIGAZINE](http://gigazine.net/news/20140819-visualgo/)
 - [郊外住宅地の見えない空き家](http://www3.nhk.or.jp/news/akiya/)
 - [Word Cloud Generator](http://www.jasondavies.com/wordcloud/#%2F%2Fwww.jasondavies.com%2Fwordtree%2Fcat-in-the-hat.txt)
+- [earth :: an animated map of global wind, weather, and ocean conditions](http://earth.nullschool.net/)  
+  リアルタイム風向マップ
+
 
 ## データ
 - [【e-Stat】 政府統計の総合窓口 GL01010101](http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do)
