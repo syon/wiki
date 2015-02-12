@@ -26,6 +26,8 @@ Ruby on Railsの哲学をJavaで実現することを目的としたフレーム
 - [「Scala＋Play 2.0でWebアプリ開発入門」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/scalaplay.html)
 - [ScalaのWebアプリケーションフレームワーク「Play Framework」入門：CodeZine](http://codezine.jp/article/detail/7580)
 - [Node.js vs Play Framework (with Japanese subtitles)](http://www.slideshare.net/brikis98/nodejs-vs-play-framework-with-japanese-subtitles)
+- [PlayFrameworkに関する168件の投稿 - Qiita](http://qiita.com/tags/playframework)
+- [【#Play】Play Framework 2.3 (Scala) を使った Web システム開発入門 #Play_ja #Scala #rpscala - Qiita](http://qiita.com/kukita/items/6326f1439abec013a479)
 
 
 ## ライブラリ
