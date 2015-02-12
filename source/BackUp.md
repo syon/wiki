@@ -15,6 +15,9 @@
 
 ## Google
 
+### 公式の「アカウント ツール」でバックアップ
+- [GmailやGoogleドライブの大切なデータを丸ごとバックアップする方法 - たのしいiPhone！ AppBank](http://www.appbank.net/2014/02/01/iphone-news/743922.php)
+
 ### Gmail :: Gmvault
 - [Gmailをローカルにバックアップ・復元できるソフト｢Gmvault｣ | フリーソフト,Windows PC活用情報局](http://antarespc.com/tool/gmvault.html)
 - [Gmvault: gmail backup](http://gmvault.org/gmail_setup.html)
