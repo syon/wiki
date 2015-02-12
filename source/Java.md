@@ -22,10 +22,10 @@
 Build Modern & Scalable Web Apps with Java and Scala  
 Ruby on Railsの哲学をJavaで実現することを目的としたフレームワーク
 
-#### 連載記事
 - [Javaの常識を変えるPlay framework入門](http://www.atmarkit.co.jp/fjava/index/index_play.html)
 - [「Scala＋Play 2.0でWebアプリ開発入門」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/scalaplay.html)
 - [ScalaのWebアプリケーションフレームワーク「Play Framework」入門：CodeZine](http://codezine.jp/article/detail/7580)
+- [Node.js vs Play Framework (with Japanese subtitles)](http://www.slideshare.net/brikis98/nodejs-vs-play-framework-with-japanese-subtitles)
 
 
 ## ライブラリ
