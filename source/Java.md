@@ -18,6 +18,14 @@
 - [Maven | TECHSCORE(テックスコア)](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/index/)
 
 
+## [Play Framework](https://www.playframework.com/)
+Build Modern & Scalable Web Apps with Java and Scala  
+Ruby on Railsの哲学をJavaで実現することを目的としたフレームワーク
+
+- [Javaの常識を変えるPlay framework入門](http://www.atmarkit.co.jp/fjava/index/index_play.html)
+- [「Scala＋Play 2.0でWebアプリ開発入門」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/scalaplay.html)
+
+
 ## ライブラリ
 
 - __[Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ - Qiita](http://qiita.com/disc99/items/727b51dbe737602a5c91)__
