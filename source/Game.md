@@ -11,6 +11,9 @@
 ### Sites
 
 - [動く小説投稿サイトDenkinovel（デンキノベル）](http://denkinovel.com/)
+- [Games for programmers | CodinGame](http://www.codingame.com/start)  
+  コードを書いてゲームを攻略。たくさんのゲームがある。
+    - [プログラミングの勉強を本気でWebゲーム化した「CodinGame」が時間泥棒確定！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/03/53923/)
 
 ### Articles
 
