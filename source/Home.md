@@ -71,7 +71,7 @@
   </ul>
   <li>[[Java]]
   <li>[[VBA]]
-  <li>[[VBS]]
+  <li>[[VBScript]]
   <li>[[正規表現|RegExp]]
   <li>[[Git]]
   <li>[[GitHub]]
@@ -142,7 +142,6 @@
   <li>[[AutoHotKey]]
   <li>[[Excel]]
   <li>[[コマンドプロンプト|command-prompt]]
-  <li>[[VBScript]]
   <li>[[Cygwin]]
 </ul>
 <h4>Apple</h4>
