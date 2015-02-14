@@ -77,6 +77,12 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 
 - [つくりたいもの、ほしいもの、ネットから3Dプリント！ - DMM.com](http://make.dmm.com/)
 
+
+## 録画
+
+- [linuxで立てる録画サーバに必要なことまとめ（録画編） - kariaの日記 @ Alice::Diary](http://karia.hatenablog.jp/entry/2014/10/28/044718)
+
+
 ## Links
 
 - [IoTやるならまず知っておきたいパーツ屋・オンラインショップ - Qiita](http://qiita.com/kazuph/items/86a1f88e06ff874abe68)
