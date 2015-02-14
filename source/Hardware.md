@@ -50,9 +50,11 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 - [めもめもLightblue Beanが届いた！](http://minori246.blog.fc2.com/blog-entry-7.html)
 - [ROBOMIC（ブログ）: 無線（LightBlue Bean）](http://micono.cocolog-nifty.com/blog/lightblue_bean/index.html)
 
+
 ## littleBits
 
 - [littleBits - cloudBitとIFTTTで「おとうさんいまどこメーター」を作る - Qiita](http://qiita.com/kazunori279/items/7dbbb525ab0cf6d5d9b5)
+- [ASCII.jp：夏だ！　シンセだ！　「リトルビッツ」で遊ぼう！ (1/4)](http://ascii.jp/elem/000/000/917/917704/)
 
 
 ## Input Device
@@ -68,6 +70,7 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 
 - [センサーの種類と用途 | 特集 ｜ORIGINALMIND オリジナルマインド](http://www.originalmind.co.jp/special/sensor/)
 - [FF10の雷除けを自動化した話 - panchiga's blog](http://panchiga.hatenablog.com/entry/2014/12/09/092254)
+- [Arduinoで始めるWeb技術者のためのIoT入門（3）：夏休みの子どもの自由研究に最適！ 植物からメールをもらおう (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/01/news019.html)
 
 
 ## 3D プリント
