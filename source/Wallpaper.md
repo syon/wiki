@@ -1,5 +1,9 @@
-- [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)
 
+### Gradation
+
+- [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)
+- [Deep Ocean Wallpaper by ZhioN360 on DeviantArt](http://zhion360.deviantart.com/art/Deep-Ocean-Wallpaper-193429221)
+- [Tones by Slurpaza on DeviantArt](http://slurpaza.deviantart.com/art/Tones-370950717)
 
 ### [Polygon Backgrounds](https://www.google.co.jp/search?q=Polygon+Backgrounds&qscrl=1&tbm=isch)
 - [Trianglify by @qrohlf](http://qrohlf.com/trianglify/)
@@ -12,3 +16,6 @@
 ### 作品
 - [The Colour Clock](http://thecolourclock.co.uk/)  
   一秒単位で色が変わって行くシンプルな時計。スクリーンセーバーもある。
+
+### サイト
+- [ForWallpaper.com](http://jp.forwallpaper.com/)
