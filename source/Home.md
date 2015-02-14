@@ -96,6 +96,10 @@
 <hr class="clearfloat">
 
 <div class="floating">
+<h3>Game</h3>
+<ul>
+  <li>[[Game]]
+</ul>
 <h3>Design</h3>
 <ul>
   <li>[[Design]]
