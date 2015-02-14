@@ -95,51 +95,67 @@
 
 <hr class="clearfloat">
 
-### Design
-- [[Design]]
-    - [[Font]]
-- [[Wallpaper]]
-- [[QuartzComposer]]
+<div class="floating">
+<h3>Design</h3>
+<ul>
+  <li>[[Design]]
+  <li>[[Font]]
+  <li>[[Wallpaper]]
+  <li>[[QuartzComposer]]
+</ul>
+<h3>Sounds</h3>
+<ul>
+  <li>[[Music]]
+  <li>[[効果音|SoundEffect]]
+  <li>[[MIDI]]
+</ul>
+<h3>ハードウェア</h3>
+<ul>
+  <li>[[Hardware]]
+</ul>
+</div>
 
-### Webサービス
-- [[Webサービス|WebService]]
-- [[Web API|WebAPI]]
-- [[作業用BGM|BGM]]
-- [[勉強会・セミナー|Seminar]]
+<div class="floating">
+<h3>Life</h3>
+<ul>
+  <li>[[Life]]
+  <li>[[電子書籍|ebook]]
+  <li>[[Webサービス|WebService]]
+  <li>[[Web API|WebAPI]]
+  <li>[[作業用BGM|BGM]]
+  <li>[[勉強会・セミナー|Seminar]]
+  <li>[[torne]]
+</ul>
+<h4>バックアップ</h4>
+<ul>
+  <li>[[BackUp]]
+  <li>[[MediaWiki]]
+</ul>
+</div>
 
-### Life
-- [[Life]]
-- [[電子書籍|ebook]]
-
-### Windows
-- [[Windows 7|Windows7]]
-- [[Windows 7 - 導入ソフト|Windows7-app]]
-    - [[AutoHotKey]]
-    - [[Excel]]
-- [[コマンドプロンプト|command-prompt]]
-- [[VBScript]]
-- [[Cygwin]]
-
-### Apple
-- [[OS X|OSX]]
-- [[Mac App|Mac-App]]
-- [[iOS]]
-- [[iOS App|iOS-App]]
-- [[Swift]]
-
-### Linux
-- [[Ubuntu]]
-- [[CentOS]]
-
-### ハードウェア
-- [[Hardware]]
-- [[torne]]
-- [[MIDI]]
-
-### Sounds
-- [[Music]]
-- [[効果音|SoundEffect]]
-
-### バックアップ
-- [[BackUp]]
-- [[MediaWiki]]
+<div class="floating">
+<h3>OS</h3>
+<h4>Windows</h4>
+<ul>
+  <li>[[Windows 7|Windows7]]
+  <li>[[Windows 7 - 導入ソフト|Windows7-app]]
+  <li>[[AutoHotKey]]
+  <li>[[Excel]]
+  <li>[[コマンドプロンプト|command-prompt]]
+  <li>[[VBScript]]
+  <li>[[Cygwin]]
+</ul>
+<h4>Apple</h4>
+<ul>
+  <li>[[OS X|OSX]]
+  <li>[[Mac App|Mac-App]]
+  <li>[[iOS]]
+  <li>[[iOS App|iOS-App]]
+  <li>[[Swift]]
+</ul>
+<h4>Linux</h4>
+<ul>
+  <li>[[Ubuntu]]
+  <li>[[CentOS]]
+</ul>
+</div>
