@@ -84,6 +84,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 ### Icon
 
 - [Free Download : RetinaIcon 300 Free Icons ( following Apple’s iOS guidelines) | Designbeep](http://designbeep.com/2014/07/31/free-download-retinaicon-300-free-icons-following-apples-ios-guidelines/)
+- [【保存版】デザインにも提案資料にも ”めっちゃ使える” アイコン素材サイト17選 | ビットエーブログ - 株式会社BITA](http://bita.jp/blog/icon_collection_site)
 
 ### Tips
 
