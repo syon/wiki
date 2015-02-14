@@ -12,6 +12,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   ベースとなっている Pixi.js のサンプル。レンダリング結果の雰囲気がつかめる。
 - [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)  
   HTML5ベースのゲームエンジン一覧。比較がしやすい。
+- __[HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)__
 
 ### Phaser Sites
 
@@ -84,21 +85,8 @@ this.player.animations.play('left');
 
 #### 参考作品
 
-- [VVVVVV - A game by Terry Cavanagh](http://thelettervsixtim.es/) (Flash)
-- [チップチューン女子・TORIENAのMVが話題！ ドット絵による驚愕の作画量](http://kai-you.net/article/7400)
-- [ICON » チップチューン・ガール、TORIENAのドット絵ミュージック・ビデオはいかにして作られたのか？ 〜 m7kenjiが語るPhotoshopとFlashを駆使したプロダクション](http://icon.jp/archives/9078)
-- [I have created 50 games in 2014 - ABA Games](http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/)
-    - [1年間で50個も作ったパズル・アクション・シューティングゲームなどがプレイし放題 - GIGAZINE](http://gigazine.net/news/20141225-50-aba-games/)
-    - [今年50のゲームを作って分かった面白いゲームを作る方法 - ABAの日誌](http://d.hatena.ne.jp/ABA/20141223#p1)
-- [Ferdy The Cat!](http://www.ferdythecat.com/)
+- → __[[Game]]__
 
-### Sites & Articles
-
-- [HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)
-- [『VVVVVV』 クリエイター Terry Cavanagh ミニマリストの想い、追究 | AUTOMATON](http://jp.automaton.am/articles/one-man-dev/creator-01-terry-cavanagh/)
-- [夏休みをゲーム制作に費やした少女たちがいた――16歳と19歳が生み出した傑作『クロエのレクイエム』誕生秘話:ニコニコ自作ゲームフェス:ニコニコ自作ゲームフェス(ニコニコ自作ゲームフェス) - ニコニコチャンネル:ゲーム](http://ch.nicovideo.jp/indies-game/blomaga/ar611037)
-- [フリーソフト超激辛ゲームレビュー](http://gekikarareview.com/)
-- [ニコニコ自作ゲームフェス(ニコニコ自作ゲームフェス) - ニコニコチャンネル:ゲーム](http://ch.nicovideo.jp/indies-game)
 
 ### Tutorials
 
