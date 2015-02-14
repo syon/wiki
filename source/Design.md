@@ -60,6 +60,13 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [ゴージャスなUIデザインを作成する7つのルール - Photoshop VIP](http://photoshopvip.net/archives/71031)
 
 
+## Theme
+
+### 和風
+- [和菓子の造形から学ぶ、和風デザインのヒント | 簡デザ −かんたんデザインブログ−](http://kandeza.com/inspiration/wagashidesign/)
+- [和モダンの作り方~Road to modanyaki~ | 簡デザ −かんたんデザインブログ−](http://kandeza.com/inspiration/japanese-modern-style/)
+
+
 ## Font
 
 - [[Font]]
