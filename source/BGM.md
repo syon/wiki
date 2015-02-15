@@ -22,3 +22,4 @@
 
 #### Articles
 - [作業効率UP！ 環境音が聞けるWebサービス30選](http://yuma-z.com/blog/2014/04/ambient_sound/)
+- [アンビエントとかいう音楽のジャンルｗｗｗｗｗｗｗｗ](http://alfalfalfa.com/archives/7657883.html)
