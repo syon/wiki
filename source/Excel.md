@@ -3,6 +3,12 @@
 - [仕事が捗る！知ってると重宝するExcel（エクセル）の使い方記事まとめ | nanapi](http://nanapi.jp/109323/)
 - [【名言続出】田中亨氏のExcel講義が面白すぎる - NAVER まとめ](http://matome.naver.jp/odai/2137837284176430301)
 
+
+## アドイン
+
+- __[RelaxTools Addin for Excel 2007/2010/2013 | Excelを魔改造する230以上の機能を体系化したアドイン](http://software.opensquare.net/relaxtools/)__
+
+
 ## 使い方の知識
 
 ### キーボードショートカット
