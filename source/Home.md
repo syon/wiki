@@ -15,6 +15,7 @@
       <li>[[jQuery]]
       <li>[[AngularJS]]
       <li>[[D3.js|D3js]]
+      <li>[[Three.js|Threejs]]
       <li>[[famo.us|Famous]]
       <li>[[気になるJSライブラリ|JS-Library]]
       <li>[[Bookmarklet]]
