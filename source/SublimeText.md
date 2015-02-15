@@ -11,6 +11,7 @@
 - [Sublime textでコードをなるべく楽に綺麗に書くための機能紹介 3つ | megane9988のブログ](http://megane-blog.com/2014/08/15/1284)
 - [プログラミングやマークアップで特に役立つ、Sublime Textの標準機能 - Build Insider](http://www.buildinsider.net/small/sublimetext/02)
 - [Sublime Text 3 で日本語を検索したとき文字が消える不具合を直す - MEMOGRAPHIX](http://memo.sanographix.net/post/101061111635)
+- [[Sublime Text]お気に入りテーマ・ショートカット・パッケージ｜Sublime Text Advent Calendar 2014 | tipsBear](http://tipsbear.com/sublime-thankyou/)
 
 ### Theme
 - [Predawn - A Sublime Text Theme](http://jamiewilson.io/predawn/)
