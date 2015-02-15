@@ -111,6 +111,8 @@
 - [【D3.js】Google Mapにsvgを使ってマスクをかける | GUNMA GIS GEEK](http://shimz.me/blog/d3-js/3770)
 - [ゼンリンの「いつもNAVI－API」を使って地図を表示してみた。 | GUNMA GIS GEEK](http://shimz.me/blog/map/3847)
 - [Heat mapで動きが活発な地域を可視化する - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150207/1423240309)
+- [情報を可視化する「地図系Webアプリ」の開発事例9選がオモシロイ！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/12/10/54714/)
+
 
 ## 3D
 - [D3.js, Three.js and CSS 3D Transforms — delimited](http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms)
