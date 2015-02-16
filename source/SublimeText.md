@@ -15,6 +15,7 @@
 
 ### Theme
 - [Predawn - A Sublime Text Theme](http://jamiewilson.io/predawn/)
+- [コードが見やすく使いやすいSublime Text 2/3のテーマのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/sublime-text-themes-for-developer-2014.html)
 
 ### Tips
 - [Sublime Textで今いるインデントに縦線を引く | Border/memo](http://brdr-mmrndm.tumblr.com/post/80456872825/sublime-text)
