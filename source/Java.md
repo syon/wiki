@@ -245,6 +245,28 @@ cf. Apache Commons - BeanUtils
 0. 対象に追加してチェック
 0. 実行しておわり
 
+### JAR・WAR・EAR の違い
+> JAR, WAR, EAR はいずれもJava仕様に準拠して定義されたZIP形式の圧縮ファイルである。
+全てZIPファイルなので、解凍ツールなどで解凍して中身を見ることができる。
+WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められている。
+特徴をまとめると、以下の通り:
+- JARファイル  
+  クラスファイルや設定ファイル(XML形式のものなど)がまとめられている。  
+  多くのクラスライブラリはこの形式で配布されている。  
+  WEBアプリケーションにおいては、MVCモデルにおける"M"の部分がまとめられる。  
+  ※ "JAR"はJava ARchiveの略
+- WARファイル  
+  MVCモデルにおける"VC"の部分がまとめられる。  
+  すなわち、クラスファイル(servlet)、設定ファイルのほか、JSPやHTMLファイルも含まれる。  
+  また、web.xmlが含まれ、TomcatなどのアプリケーションサーバにWARファイルを配布すると、これを元にデプロイされる。  
+  ※ "WAR"は[Web Application Archive](http://javasystem.blog4.fc2.com/blog-entry-17.html)の略
+- EARファイル  
+  複数のWARファイル、(EJB)JARファイルを含む。  
+  また、application.xmlが含まれ、アプリケーションサーバを含んだJ2EEコンテナ(JBoss, WebSphereなど)に配布すると、これを元にデプロイされる。  
+  ※ "EAR"は"Enterprise Archive"の略
+
+- [あるシステム屋による開発の記録　JAR, WAR, EAR の違いについて](http://javasystem.blog4.fc2.com/blog-entry-3.html)
+
 
 ## Articles
 - [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)
