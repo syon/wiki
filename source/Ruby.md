@@ -18,6 +18,7 @@ Ruby関連の厳選リンク集
 ### 本
 - [Amazon.co.jp： Effective Ruby あなたのRubyをより輝かせる48の特別な方法: Peter J. Jones, arton, 長尾 高弘: 本](http://www.amazon.co.jp/dp/4798139823)
 - [これからRubyを勉強する人が絶対読んでおきたい書籍9冊＋α | Find Job ! Startup](http://www.find-job.net/startup/ruby-books)
+- [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)
 
 
 ## まとめ
