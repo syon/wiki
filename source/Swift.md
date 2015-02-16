@@ -64,6 +64,7 @@
 - [Apple新言語「Swift」ことはじめ。勉強用リンクまとめ。 | イリテク](http://iritec.jp/objective-c/9068/)
 - [Swiftでenumとジェネリクスを活用したかっこいいAPIクライアントを書く - Hatena Developer Blog](http://developer.hatenastaff.com/entry/smart-api-client-with-swift-using-enum-and-generics)
 - [第1回　Swiftを学ぶための情報源とPlayground：Swift移行時に引っかかりそうなことを解決する！｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/feature/01/changeover-to-Swift/0001)
+- [WatchKitを実際にさわってみてわかったこと](http://www.slideshare.net/t26v0748/watch-kit-20150214?ref=http://dev.classmethod.jp/smartphone/ios-all-stars-report/)
 
 
 ## Sample Code
