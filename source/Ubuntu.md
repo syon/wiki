@@ -215,6 +215,12 @@ $ sudo netstat -lpn |grep :8080
 
     $ sh /etc/network/if-up.d/static-routes
 
+#### traceroute
+```sh
+$ sudo apt-get install traceroute
+```
+
+
 ## 環境構築
 
 - [Ruby on Rails 3.2 を Ubuntu にインストールする手順をかなり丁寧に説明してみました - Rails 雑感 - Ruby on Rails with OIAX](http://www.oiax.jp/rails/zakkan/rails_3_2_installation_on_ubuntu.html)
