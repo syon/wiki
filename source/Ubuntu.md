@@ -190,7 +190,11 @@ $ sudo netstat -lpn |grep :8080
     export HTTPS_PROXY="https://hostname:port/"
     export FTP_PROXY="ftp://hostname:port/"
 
+
 ### ルーティング
+
+- [route - ルーティングテーブルの表示／設定を行う](http://www.atmarkit.co.jp/fnetwork/netcom/route/route.html)
+- [Linuxコマンド集 - 【 route 】 ルーティング・テーブルを表示・設定する：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230874/)
 
 例: 「デフォルトのインターフェースを eth1 とし、eth0 を解除する」
 
@@ -216,6 +220,7 @@ $ sudo netstat -lpn |grep :8080
     $ sh /etc/network/if-up.d/static-routes
 
 #### traceroute
+ネットワークの経路情報を確認する
 ```sh
 $ sudo apt-get install traceroute
 ```
