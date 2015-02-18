@@ -4,6 +4,7 @@
     - [AutoHotkey](http://www.autohotkey.com/)
     - [uberOptions: Enable all options on all buttons in SetPoint](http://uberoptions.net/) (LogicoolマウスSetPoint拡張)
 - まとめ
+    - [AutoHotkey by Joe DF | ZEEF](https://autohotkey.zeef.com/joe.df)
     - [AutoHotkeyJp](https://sites.google.com/site/autohotkeyjp/)
     - [流行らせるページ跡地](http://lukewarm.s101.xrea.com/)
     - [AutoHotkeyを流行らせるページ](http://ahk.xrea.jp/)
