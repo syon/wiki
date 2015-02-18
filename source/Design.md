@@ -1,4 +1,6 @@
-## Style Guides
+## Web Design
+
+### Style Guides
 
 - [Style Guides for Websites :: [ FLAT ] Design | ONO TAKEHIKO from aguije inc.](http://flat.is/design/2014/05/style-guides-for-websites/)  
   Webサイトのデザイン スタイルガイド
@@ -21,6 +23,9 @@
 - [Google Design](http://www.google.com/design/)
     - [Googleのアイコンデザイン思想を学ぶ | ビジュアルシンキング](http://www.visualthinking.jp/archives/18943)
 - [Project NameStyle Guide](http://www.monolinea.com/projects/styleguide/)
+
+### Articles
+- [PCサイトのUIデザインにおける12のトレンド | sogilog](http://baigie.me/sogitani/2015/02/pc-site-trend-2015/)
 
 
 ## UI
