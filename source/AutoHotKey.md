@@ -1,7 +1,8 @@
 ### Links
 
 - 入手
-    - [AutoHotkey](http://www.autohotkey.com/)
+    - [www.autohotkey.com](http://www.autohotkey.com/)
+    - [ahkscript.org](http://ahkscript.org/)
     - [uberOptions: Enable all options on all buttons in SetPoint](http://uberoptions.net/) (LogicoolマウスSetPoint拡張)
 - まとめ
     - [AutoHotkey by Joe DF | ZEEF](https://autohotkey.zeef.com/joe.df)
