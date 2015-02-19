@@ -1,4 +1,3 @@
-
 ### Gradation
 
 - [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)
@@ -19,3 +18,4 @@
 
 ### サイト
 - [ForWallpaper.com](http://jp.forwallpaper.com/)
+- [Romain Guy](http://www.curious-creature.com/)
