@@ -69,6 +69,9 @@ Open Source WiFi Connected Infrared Remote Controller
 
 ## 紛失防止
 
+### [Pixie](https://www.getpixie.com/)
+- [スマートフォンのカメラで落とし物までの距離が表示できる追跡タグ「Pixie」 - GIGAZINE](http://gigazine.net/news/20150204-pixie/)
+
 ### [Stick-N-Find ステッカー・ファインド](http://mbridge.jp/)
 - __[貴重品の紛失防止に StickNFind（ステッカー・ファインド）の購入を検討しました - X X X](http://syonx.hatenablog.com/entry/2014/09/06/195323)__
     - [スマホと連動して失ったモノの場所を教えてくれる「StickNFind」を実際に使ってみました - GIGAZINE](http://gigazine.net/news/20140610-sticknfind/)
