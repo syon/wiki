@@ -38,6 +38,7 @@
 
 - [ブラウザのパフォーマンスを限界まで高める HTMLコーディングの考え方](http://www.slideshare.net/kawada_hiroshi/html-40678123)
 - [HTML5 - Webフロントエンド表示速度、最速化手法まとめ - Qiita](http://qiita.com/zaru/items/51ee8a5be22b75a42927)
+- [ハイパフォーマンス・アニメーション - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/speed/high-performance-animations/)
 
 
 ## 設計
