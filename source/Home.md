@@ -88,6 +88,7 @@
 
 <h4>Editor</h4>
 <ul>
+  <li>[[キーボード|Keyboard]]
   <li>[[テキストエディタ|TextEditor]]
   <li>[[Vim]]
   <li>[[SublimeText]]
