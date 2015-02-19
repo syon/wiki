@@ -75,7 +75,13 @@ Open Source WiFi Connected Infrared Remote Controller
     - [失くし物撲滅デバイス「StickNFind」が3ヶ月経ってようやく届いたので早速レビューを書いてみようじゃないか！](http://number333.org/2013/04/10/stick-n-find-review/)
     - [スマホで忘れ物防止タグ「StickNFind」レビュー | スターミント](http://starmint.net/sticknfind.html)
 
-## 宅配便の配達状況
+
+## 宅配
+
+#### [クリックポスト - 日本郵便](http://www.post.japanpost.jp/service/clickpost/)
+クリックポストとは、クリックポストWebサイトにアクセスし、利用登録の申込み及び運賃決済の手続を行った上、自宅等のプリンタからクリックポスト専用の宛名ラベルを印字して荷物に貼付し、郵便ポスト等に差し出し、受取人さまのご自宅等の郵便受箱に投かんするサービスです。追跡サービスの提供及び日曜日・祝日の配達も行います。__日本全国一律164円__です。
+
+### 宅配便の配達状況
 - [宅配便の配達状況をマメに知らせてくれるiPhoneアプリに惚れた！ - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/252/252377/)
 - [配達状況をひと目で確認できるiPhoneアプリに惚れた！](http://weekly.ascii.jp/elem/000/000/011/11143/)
 - [宅配便の配達状況 API](http://thira.plavox.info/transport/api/)
