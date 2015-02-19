@@ -72,6 +72,9 @@
 - [【翻訳】サーバの適切な名前の付け方 | POSTD](http://postd.cc/a-proper-server-naming-scheme/)
     - [Mnemonic encoding wordlist](http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt)  
       ここに紹介されている1633の単語は、音声的に互いに異なる短い（4-7文字）単語で、電話越しでも理解しやすく、国際的にも認識が容易なものです。またMnemonicのリストにある単語を使うと、複雑な構造を持つ単語に比べて、文字を前後逆にしたりスペルを間違ったりする可能性を大きく減らすことができます。
+- [ギリシャ文字の読み方](http://mirahouse.jp/begin/greek.html)
+- [NATOフォネティックコード - Wikipedia](http://ja.wikipedia.org/wiki/NATO%E3%83%95%E3%82%A9%E3%83%8D%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%89)
+
 
 ## ダミーデータ、ジェネレータ
 
