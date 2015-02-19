@@ -11,5 +11,13 @@
 - [ニコニ立体](http://3d.nicovideo.jp/)
     - [ニコニ立体ちゃん特設サイト - ニコニ立体](http://3d.nicovideo.jp/alicia/)
 
+
+## Libraries
+
+#### [nosir/obelisk.js](https://github.com/nosir/obelisk.js)  
+[[obeliskjs.png]]
+Obelisk.js is a JavaScript library for building isometric pixel objects.
+
+
 ## Animations
 - [motions - あなたに「気持ちいい動き」のインスピレーションを](http://motions.me/)
