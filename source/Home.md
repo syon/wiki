@@ -88,6 +88,7 @@
 
 <h4>Editor</h4>
 <ul>
+  <li>[[テキストエディタ|TextEditor]]
   <li>[[Vim]]
   <li>[[SublimeText]]
   <li>[[サクラエディタ|Sakura-Editor]]
