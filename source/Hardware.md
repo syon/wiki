@@ -83,6 +83,12 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 - [linuxで立てる録画サーバに必要なことまとめ（録画編） - kariaの日記 @ Alice::Diary](http://karia.hatenablog.jp/entry/2014/10/28/044718)
 
 
+
+## 連携・ペアリング
+
+- [Node.jsとSocket.IOによるPCとスマホブラウザのペアリングデモ – ICS LAB](http://ics-web.jp/lab/archives/4320)
+
+
 ## Links
 
 - [IoTやるならまず知っておきたいパーツ屋・オンラインショップ - Qiita](http://qiita.com/kazuph/items/86a1f88e06ff874abe68)
