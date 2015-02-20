@@ -7,6 +7,7 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 
 ### Guide
 
+- [これから始める人のためのNginx（2）：Nginxのインストールと基本設定 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/24/news003.html)
 - [入門！ nginx - tumblr](http://shim0mura.hatenadiary.jp/entry/20120110/1326198429)
 - [nginx入門](http://www.slideshare.net/ttkzw/nginx-primer)
 
@@ -20,6 +21,10 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
   Windows版もインストールはzip解凍してexe起動するだけ。自動起動のためスタートアップにショートカットを入れた。
 
 - [これから始める人のためのNginx（2）：Nginxのインストールと基本設定 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/24/news003.html)
+
+### Memo
+
+- Webコンテンツを置くドキュメントルートは`/usr/share/nginx/html/`
 
 ### Modules
 
