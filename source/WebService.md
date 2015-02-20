@@ -82,6 +82,8 @@
 - [Placehold.it - Quick and simple image placeholders](http://www.placehold.it/)
     - http://placehold.it/640x340/27709b/ffffff
 - [Dynamic Dummy Image Generator - DummyImage.com](http://dummyimage.com/)
+- [Unsplash It](https://unsplash.it/)  
+  縦横のサイズを指定してサンプル写真をダウンロードできます。グレースケールやブラーなどをかけるオプションも用意されています。綺麗な写真が多いので、写真を扱うアプリなどの検証の際に重宝しそうです。
 
 ### Articles
 - [ダミー文章、ダミーデータ、ダミー画像を作ってくれるジェネレータまとめ【WEB制作】 - NAVER まとめ](http://matome.naver.jp/odai/2133396164637378001)
