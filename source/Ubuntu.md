@@ -169,6 +169,10 @@ Ubuntu DHCP IPアドレス取得設定例
 
 ```sh
 $ sudo ufw enable
+```
+80番ポートを開ける
+```sh
+$ sudo ufw allow 80/tcp
 $ sudo ufw status
 ```
 
