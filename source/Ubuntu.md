@@ -166,7 +166,8 @@ Ubuntu DHCP IPアドレス取得設定例
 
 ### ポート開放確認
 
-    $ ufw status
+    $ sudo ufw enable
+    $ sudo ufw status
 
 ### プロセス・ポート確認
 
