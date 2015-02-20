@@ -21,6 +21,11 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 
 - [これから始める人のためのNginx（2）：Nginxのインストールと基本設定 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/24/news003.html)
 
+### Modules
+
+- [h5ai · a modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee · larsjung.de](http://larsjung.de/h5ai/)  
+  ApacheとかNginxの「Index of 〜」ページをキレイにするやつ
+
 ### Tips
 
 - [Nginx導入時、サクッと対応しておくと良いかもしれない - Qiita](http://qiita.com/kidachi_/items/985efebba639713c562e)
