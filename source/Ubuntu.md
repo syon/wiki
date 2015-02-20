@@ -165,9 +165,12 @@ Ubuntu DHCP IPアドレス取得設定例
     $ sudo /etc/init.d/networking restart
 
 ### ポート開放確認
+- [ubuntuによるポート開放についてubuntuはインストールすると... - Yahoo!知恵袋](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11105647616)
 
-    $ sudo ufw enable
-    $ sudo ufw status
+```sh
+$ sudo ufw enable
+$ sudo ufw status
+```
 
 ### プロセス・ポート確認
 
