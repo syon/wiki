@@ -90,6 +90,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [Pexels · Find Free High Quality Photos](http://www.pexels.com/)  
   CC0 License（無料・商用利用可・表示不要）の高品質な画像を検索
 - [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
+- [ロイヤリティフリー写真限定！完全無料のフォトストックサイトStockSnap - Photoshop VIP](http://photoshopvip.net/archives/73663)
 
 ### Texture / Pattern
 
