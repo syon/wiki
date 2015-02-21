@@ -23,6 +23,8 @@ Noto is Google’s font family that aims to support all the world’s languages.
 #### etc.
 - [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
   TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
+- [ウェブ・フォントの読み込み - Weblog - Hail2u.net](http://hail2u.net/blog/webdesign/loading-web-fonts.html)
+
 
 ## Iconic Font
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
@@ -31,9 +33,18 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [Twitter、872個の絵文字をオープンソース化 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1411/07/news079.html)
 - [無料で商用利用できる161種類のSVG形式のアイコンパック「GlyphPack」 - GIGAZINE](http://gigazine.net/news/20141210-glyphpack-icon-pack/)
 
+
+## 欧文書体
+- [2014年、フォント好きのための高品質なすごいフリーフォントのまとめ | コリス](http://coliss.com/articles/freebies/2014-best-of-free-fonts-for-roman.html)
+
+
 ## 日本語フリーフォント
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
 - [商用も無料でリンク不要の日本語フォント・こども丸ゴシックと、無料で手に入るフォント配布サイトの早見表 - かちびと.net](http://kachibito.net/web-design/kodomo-gosick.html)
+- [インパクトが大きい！ちょっと変わった日本語フリーフォント10選 | creive【クリーブ】](http://creive.me/archives/5475/)
+- [【イラストレーター】商用フリーPOPフォント10選 | 東京都のWeb制作会社のブログ](http://3media.biz/promotion/free-pop-fonts.html)
+- [商用利用無料！丸っこくてかわいいフリーの日本語フォント -ぼくたちのゴシック2 | コリス](http://coliss.com/articles/freebies/freebies-font-boku2.html)
+
 
 ## etc.
 
@@ -52,11 +63,14 @@ Noto is Google’s font family that aims to support all the world’s languages.
 ### Text Effect
 - [Textillate.js](http://jschr.github.io/textillate/)
 
+
 ## まとめ
 - [ガーリーなかわいいフォントからシンプルなものまで、高品質な新作フリーフォントのまとめ -2014年10月 | コリス](http://coliss.com/articles/freebies/freebies-font-2014-oct.html)
 - [美しいフォントは日本の宝！プロユース向けの日本語フォントを扱っているベンダー各社のまとめ | コリス](http://coliss.com/articles/build-websites/operation/design/japanese-fonts-for-professional.html)
 
 ## Articles
+- [Type Project | 株式会社スクウェア・エニックス プロデューサー 吉田 直樹氏／リードUI 皆川 裕史氏](http://typeproject.com/interviews/square-enix)
+- [デジタル時代の横書き明朝体「TP明朝」　「アルドノア・ゼロ」が採用、ディスプレイにも文学的なたたずまいを - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1502/09/news032.html)
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
 - [Ubuntu忘備録: RuneAMN_Proの話 - #LOVEFONT Advent Calendar 2014-](http://blog.michinari-nukazawa.com/2014/12/lovefont2014-runeamn-font-devel.html)
 
