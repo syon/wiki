@@ -31,6 +31,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
   TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
 - [ウェブ・フォントの読み込み - Weblog - Hail2u.net](http://hail2u.net/blog/webdesign/loading-web-fonts.html)
+- [【WordPress】Webフォントありのブログを高速化した、たった1つのこと | せめて、人間らしく](http://atleastjazzpiano.info/wp/technical/wordpress_web-font_speed-up/)
 
 
 ## Iconic Font
@@ -74,14 +75,18 @@ Noto is Google’s font family that aims to support all the world’s languages.
 ## まとめ
 - [ガーリーなかわいいフォントからシンプルなものまで、高品質な新作フリーフォントのまとめ -2014年10月 | コリス](http://coliss.com/articles/freebies/freebies-font-2014-oct.html)
 - [美しいフォントは日本の宝！プロユース向けの日本語フォントを扱っているベンダー各社のまとめ | コリス](http://coliss.com/articles/build-websites/operation/design/japanese-fonts-for-professional.html)
+- [[†¶∴‰⁂]記号などの特殊文字読み方と用途は？ - NAVER まとめ](http://matome.naver.jp/odai/2131444557887718201)
 
 ## Articles
 - [Type Project | 株式会社スクウェア・エニックス プロデューサー 吉田 直樹氏／リードUI 皆川 裕史氏](http://typeproject.com/interviews/square-enix)
 - [デジタル時代の横書き明朝体「TP明朝」　「アルドノア・ゼロ」が採用、ディスプレイにも文学的なたたずまいを - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1502/09/news032.html)
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
 - [Ubuntu忘備録: RuneAMN_Proの話 - #LOVEFONT Advent Calendar 2014-](http://blog.michinari-nukazawa.com/2014/12/lovefont2014-runeamn-font-devel.html)
+- [フォントの基本的な選び方 | Arch](http://www.ar-ch.org/mt/archives/2012/04/post-6.html)
+
 
 ## Preview installed fonts
 - [PCにインストールされているフォントを簡単プレビュー | Font viewer: ドラクエ二次創作小説｜無料Webアプリ - Script Boy](http://script.boy.jp/typeface-viewer.html)
 - [Jsでクライアントマシンのフォント一覧情報を得るTIP | Knowledge base func](http://iteahelper.com/blog/2012/02/10/js%e3%81%a7%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e4%b8%80%e8%a6%a7%e6%83%85%e5%a0%b1%e3%82%92%e5%be%97%e3%82%8b/)
 - [kuippa/FlexFontsdlgHelper](https://github.com/kuippa/FlexFontsdlgHelper)
+- [wordmark.it - helps you choose fonts!](http://wordmark.it/)
