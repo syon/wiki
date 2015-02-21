@@ -71,6 +71,7 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [和菓子の造形から学ぶ、和風デザインのヒント | 簡デザ −かんたんデザインブログ−](http://kandeza.com/inspiration/wagashidesign/)
 - [和モダンの作り方~Road to modanyaki~ | 簡デザ −かんたんデザインブログ−](http://kandeza.com/inspiration/japanese-modern-style/)
 - [和風デザインWebサイトの制作ポイントや素材を実例とともにまとめました | Webクリエイターボックス](http://www.webcreatorbox.com/inspiration/japanese-web-design/)
+- [日本の伝統色 和色大辞典 - Traditional colors of Japan](http://www.colordic.org/w/)
 
 ### Gothic & Lolita
 - [ゴスロリなどに代表される、ビジュアル系のデザインを簡単に分析 | 簡デザ −かんたんデザインブログ−](http://kandeza.com/inspiration/gothiclolita-design/)
