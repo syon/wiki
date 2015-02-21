@@ -41,6 +41,10 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント - itouhiroはてなブログ](http://itouhiro.hatenablog.com/entry/20130602/font)
 - [漢字も使えるファミコン風の8×8フォント『美咲フォント』が感動するレベルだった件 | アイデアハッカー](http://ideahacker.net/2013/01/21/4215/)
 
+### 古代文字
+- [第10回 カンバンが読めません／ルーン文字｜究極の文字をめざして｜みんなのミシマガジン](http://www.mishimaga.com/kyukyokunomoji/010.html)
+- [第23回 偽古代文字を作ろう／ハイリア文字｜究極の文字をめざして｜みんなのミシマガジン](http://www.mishimaga.com/kyukyokunomoji/023.html)
+
 ### Kerning
 - [Kern Type, the kerning game](http://type.method.ac/)
 - [［JS］日本語のどんなWebフォントでも美しくカーニングできるスクリプト -jQuery.Kerning.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-kerning-for-japanese.html)
