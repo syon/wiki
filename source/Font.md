@@ -16,16 +16,19 @@ Noto is Google’s font family that aims to support all the world’s languages.
 #### [Google Fonts](https://www.google.com/fonts)
 - [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  Google Web Fontの説明
 
-#### [SPUN GOLD :: [ FLAT ]](http://spungold.flat.is/)
-- [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
-- [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
-
 #### [fonts.com](http://www.fonts.com/ja)
 - [月額10ドルで20,000種類のWebフォント使い放題、fonts.comに課金した - MEMOGRAPHIX](http://memo.sanographix.net/post/106045710670)
 - [TypeProject - Fonts.com](http://www.fonts.com/ja/font/typeproject)  
     - [AXIS Font Latin - Fonts.com](http://www.fonts.com/ja/font/typeproject/axis-font-latin)
     - [AXIS Font Japanese - Fonts.com](http://www.fonts.com/ja/font/typeproject/axis-font-japanese)
     - [TP Mincho - Fonts.com](http://www.fonts.com/ja/font/typeproject/tp-mincho)
+
+#### [ウェブフォントファン](http://webfontfan.com/)
+- [無料日本語ウェブフォントJapanSans](http://webfontfan.com/japansans/)
+
+#### [SPUN GOLD :: [ FLAT ]](http://spungold.flat.is/)
+- [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
+- [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
 
 #### etc.
 - [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
@@ -55,6 +58,8 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [商用利用無料！丸っこくてかわいいフリーの日本語フォント -ぼくたちのゴシック2 | コリス](http://coliss.com/articles/freebies/freebies-font-boku2.html)
 - [フリーフォント - フロップデザインフォント無料ダウンロード日本語ウェブフォント](http://www.flopdesign.com/freefont/flopdesignfont.html)
 - [漢字が使えるフリーの和文フォント242種類をまとめてみた。 - buena suerte!](http://blog.livedoor.jp/cie/archives/52129474.html)
+- [商用でも無料で使える2種類の日本語フォント「刻明朝」「刻ゴシック」 - GIGAZINE](http://gigazine.net/news/20140327-koku-min-koku-go/)
+- [ほのかフォント｜オールド系フォント無料ダウンロード](http://font.gloomy.jp/)
 
 
 ## etc.
