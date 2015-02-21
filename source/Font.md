@@ -32,6 +32,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
   TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
 - [ウェブ・フォントの読み込み - Weblog - Hail2u.net](http://hail2u.net/blog/webdesign/loading-web-fonts.html)
 - [【WordPress】Webフォントありのブログを高速化した、たった1つのこと | せめて、人間らしく](http://atleastjazzpiano.info/wp/technical/wordpress_web-font_speed-up/)
+- [Webフォントをキレイに見せるテクニックを2つ紹介(Chrome編)](http://dtp.jdash.info/archives/51924296.html)
 
 
 ## Iconic Font
@@ -52,6 +53,8 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [インパクトが大きい！ちょっと変わった日本語フリーフォント10選 | creive【クリーブ】](http://creive.me/archives/5475/)
 - [【イラストレーター】商用フリーPOPフォント10選 | 東京都のWeb制作会社のブログ](http://3media.biz/promotion/free-pop-fonts.html)
 - [商用利用無料！丸っこくてかわいいフリーの日本語フォント -ぼくたちのゴシック2 | コリス](http://coliss.com/articles/freebies/freebies-font-boku2.html)
+- [フリーフォント - フロップデザインフォント無料ダウンロード日本語ウェブフォント](http://www.flopdesign.com/freefont/flopdesignfont.html)
+- [漢字が使えるフリーの和文フォント242種類をまとめてみた。 - buena suerte!](http://blog.livedoor.jp/cie/archives/52129474.html)
 
 
 ## etc.
