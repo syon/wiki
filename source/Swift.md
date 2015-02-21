@@ -66,6 +66,7 @@
 - [第1回　Swiftを学ぶための情報源とPlayground：Swift移行時に引っかかりそうなことを解決する！｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/feature/01/changeover-to-Swift/0001)
 - [WatchKitを実際にさわってみてわかったこと](http://www.slideshare.net/t26v0748/watch-kit-20150214?ref=http://dev.classmethod.jp/smartphone/ios-all-stars-report/)
 - [堅牢で使いやすいAPIクライアントをSwiftで実装したい](http://blog.ishkawa.org/2015/02/17/1424099641/)
+- [Swiftで会社の受付アプリを作った話とCADisplayLink | 株式会社VASILY(ヴァシリー)](http://tech.vasily.jp/swift_reception/)
 
 
 ## Sample Code
