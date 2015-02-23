@@ -50,6 +50,7 @@
 - [データビジュアライゼーション（D3.js）を学ぶための教材まとめ - NAVER まとめ](http://matome.naver.jp/odai/2135289597995104801)
 - [D3.js Wrapper Library - NAVER まとめ](http://matome.naver.jp/odai/2138966107937611601)
 - [D3.js プラグインまとめ - NAVER まとめ](http://matome.naver.jp/odai/2138966193538794601)
+- [【D3.js】トランジション終了時にコールバックを呼ぶ | #GUNMAGISGEEK](http://shimz.me/blog/d3-js/4100)
 
 ### Calendar Heat map
 - [Cal-HeatMap : Calendar Heat map with d3.js](http://kamisama.github.io/cal-heatmap/v2/)
