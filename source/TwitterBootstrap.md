@@ -40,10 +40,15 @@
 
 - [Maverix Bootstrap Theme - BootstrapをベースにしたMac OSX風UIテーマ MOONGIFT](http://www.moongift.jp/2014/06/maverix-bootstrap-theme-bootstrap%e3%82%92%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ab%e3%81%97%e3%81%9fmac-osx%e9%a2%a8ui%e3%83%86%e3%83%bc%e3%83%9e/)
 
-- [商用も無料！Bootstrapをベースに最近のトレンドを取り入れた新作テンプレートのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/best-templates-for-bootstrap-2014.html)
-
 - [Material Design for Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)
 
-- [商用も無料！Bootstrapをベースに最近のトレンドを取り入れた新作テンプレートのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/best-templates-for-bootstrap-2014.html)
 
+### まとめ
+
+- [商用も無料！Bootstrapをベースに最近のトレンドを取り入れた新作テンプレートのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/best-templates-for-bootstrap-2014.html)
 - [Bootstrapで行こう！すごい無料HTMLテンプレート24個まとめ 2014年12月度 - Photoshop VIP](http://photoshopvip.net/archives/71636)
+- [【Bootstrap製】最新ウェブテク採用の無料HTML5／CSS3テンプレート素材Boxify - Photoshop VIP](http://photoshopvip.net/archives/72866)
+- [Bootstrapを利用した、ダッシュボード向け無料HTMLテンプレート素材15個まとめ - Photoshop VIP](http://photoshopvip.net/archives/64037)
+- [フラットなBootstrapテーマ『Bootflat』 | IDEA*IDEA](http://www.ideaxidea.com/archives/2014/03/bootflat.html)
+- [Bootstrap利用、高品質＆クリエイティブな無料HTMLテンプレート素材まとめ - Photoshop VIP](http://photoshopvip.net/archives/58440)
+- [ここまでできる！Bootstrapで作られた国内のレスポンシブWebデザインのサイトまとめ20個 | A40](http://katoshun.com/blog/rwd-20131222.html)
