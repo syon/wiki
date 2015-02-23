@@ -2,6 +2,9 @@
 
 - [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
 
+## Intro
+- [Introduction To React // Speaker Deck](https://speakerdeck.com/hokaccha/introduction-to-react)
+
 ## Articles
 - [React.jsを触った感想 - axross blog](http://blog.axross.org/entry/2014/12/25/100000)
 - [リアルな DOM はなぜ遅いのか - steps to phantasien](http://steps.dodgson.org/b/2014/12/11/why-is-real-dom-slow/)
