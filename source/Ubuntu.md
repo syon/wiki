@@ -264,7 +264,9 @@ $ sudo apt-get install traceroute
 - [Proxyサーバの設定（squid）：tech.ckme.co.jp](http://tech.ckme.co.jp/proxy.shtml)
 - [Squidによるプロキシサーバーの構築](http://linux.kororo.jp/cont/server/squid.php)
 
-`$ sudo vim /etc/squid3/squid.conf`
+```sh
+$ sudo vim /etc/squid3/squid.conf
+```
 
     # Example rule allowing access from your local networks.
     # Adapt to list your (internal) IP networks from where browsing
@@ -281,7 +283,15 @@ $ sudo apt-get install traceroute
     # And finally deny all other access to this proxy
     http_access deny all
 
-`$ sudo service squid3 restart`
+```sh
+$ sudo service squid3 restart
+```
+
+#### ポート開放
+
+```sh
+$ sudo ufw allow 3128
+```
 
 #### 動作確認
 
