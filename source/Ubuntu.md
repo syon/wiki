@@ -283,6 +283,13 @@ $ sudo apt-get install traceroute
 
 `$ sudo service squid3 restart`
 
+#### 動作確認
+
+```sh
+$ sudo netstat -lpn | grep squid
+```
+
+
 ## エラー対処
 
 - [Ubuntu Server 12.04: 警告「Setting locale failed」への対処法](http://d.hatena.ne.jp/tkrd/20120828/1346123699)  
