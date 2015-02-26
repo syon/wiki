@@ -2,8 +2,11 @@
 
 - [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
 
+
 ## Intro
 - [Introduction To React // Speaker Deck](https://speakerdeck.com/hokaccha/introduction-to-react)
+- [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+
 
 ## Articles
 - [React.jsを触った感想 - axross blog](http://blog.axross.org/entry/2014/12/25/100000)
