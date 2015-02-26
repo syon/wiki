@@ -40,6 +40,13 @@
 - [HTML5 - Webフロントエンド表示速度、最速化手法まとめ - Qiita](http://qiita.com/zaru/items/51ee8a5be22b75a42927)
 - [ハイパフォーマンス・アニメーション - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/speed/high-performance-animations/)
 
+### Service Worker
+> Service Worker はブラウザが Web ページとは別にバックグラウンドで実行するスクリプトで、Web ページやユーザのインタラクションを必要としない機能を Web にもたらします。将来的にはプッシュメッセージ、バックグラウンド同期、ジオフェンシングなどが導入されるでしょう。しかし最初は、ネットワークリクエストへの介入や処理機能と、レスポンスをプログラムから操作できるキャッシュ機能に限定されます。
+> この API にとてもわくわくするのは、オフライン体験をサポートし、そしてその体験を開発者が完全にコントロールできることにあります。
+
+- [Service Worker の紹介: Service Worker の使い方 - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/service-worker/introduction/)
+- [Service worker が拓く mobile web の新しいかたち](http://www.slideshare.net/kinukox/service-worker-mobile-web)
+
 
 ## 設計
 
