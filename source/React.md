@@ -8,6 +8,8 @@
 - [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 - [Isomorphic Web Apps and React.js](http://jsforallof.us/2015/02/23/isomorphic-web-apps-and-react-js/)
 
+## Learning
+- [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
 
 ## Articles
 - [React.jsを触った感想 - axross blog](http://blog.axross.org/entry/2014/12/25/100000)
