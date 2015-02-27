@@ -2,12 +2,12 @@
 
 ## Install
 
-Ubuntu
+#### Ubuntu
 ```sh
 $ sudo apt-get install squid
 ```
 
-OSX (Homebrew)
+#### OSX (Homebrew)
 ```sh
 $ brew install squid
 ```
@@ -61,3 +61,21 @@ $ sudo netstat -lpn | grep squid
 0. `ERR_ACCESS_DENIED`などのファイル（中身はHTML）を作成
     - `/usr/share/squid3/errors/Japanese`のファイル群を参考に
 0. restart
+
+
+## Default directory path
+
+#### Ubuntu
+- error_directory
+    - `/usr/share/squid3/errors/Japanese`
+
+#### OSX (Homebrew)
+- error_directory
+    - `/usr/local/opt/squid/share/errors/ja-jp`
+
+
+## Articles
+- [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
+- [squid で特定のサイトをアクセス拒否する](http://futuremix.org/2005/07/squid-access-deny)
+- [Squidでニコ動を高速化＆時報回避する方法 » NezBlog](http://blog.nezweb.net/archives/118)
+- [認証付きプロキシを強要されるOSXユーザがsquildで幸せになれた話 - Qiita](http://qiita.com/kmats@github/items/8a41c942e079c7a95919)
