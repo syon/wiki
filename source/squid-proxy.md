@@ -2,7 +2,16 @@
 
 ## Install
 
-    $ sudo apt-get install squid
+Ubuntu
+```sh
+$ sudo apt-get install squid
+```
+
+OSX (Homebrew)
+```sh
+$ brew install squid
+```
+
 
 ## Config
 
