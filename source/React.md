@@ -19,3 +19,4 @@
 - [React JS and why it's awesome](http://www.slideshare.net/AndrewHull/react-js-and-why-its-awesome)
 - [Integrating D3.js visualizations in a React app - Nicolas Hery](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 - [Using React.js to draw dynamic SVGs](http://biesnecker.com/2014/10/22/using-reactjs-to-draw-dynamic-svgs/)
+- [React / SVG / Canvas でパフォーマンス比較してみた。 - ましまろブログ](http://mashimallow.hatenablog.com/entry/2015/02/02/225250)
