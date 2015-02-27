@@ -1,8 +1,10 @@
 [[React.png|align=center]]
 
-#### [A JavaScript library for building user interfaces | React](http://facebook.github.io/react/)
-
-- [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
+<div id="gollum-heading">
+  <h2>
+    <a href="http://facebook.github.io/react/">A JavaScript library for building user interfaces | React</a>
+  </h2>
+</div>
 
 
 ## Intro
@@ -10,8 +12,14 @@
 - [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 - [Isomorphic Web Apps and React.js](http://jsforallof.us/2015/02/23/isomorphic-web-apps-and-react-js/)
 
+
 ## Learning
 - [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
+
+
+## CSS Framework for React
+- [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
+
 
 ## Articles
 - [React.jsを触った感想 - axross blog](http://blog.axross.org/entry/2014/12/25/100000)
