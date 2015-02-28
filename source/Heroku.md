@@ -8,7 +8,7 @@
 - [プロフェッショナルのための実践Heroku入門 - Talpa memorandum](http://kahei.org/blog/2014/09/heroku.html)
 - [仕組みもわかる 初めてのHerokuアプリケーションづくり！ Gitでのデプロイもさらりとこなす （1/3）：CodeZine](http://codezine.jp/article/detail/8187)
 - [Java WebアプリケーションをHerokuへデプロイする #herokujp - #侍ズム](http://samuraism.jp/diary/2014/10/15/1413361980000.html)
-
+- [最近の Rack サーバ事情について - willnet.in](http://willnet.in/156) :: unicorn or puma
 
 ## Setup
 
