@@ -1,5 +1,14 @@
 # Squid
 
+[[Squid.jpg|align=center]]
+
+<div id="gollum-heading">
+  <h4>
+    <a href="http://www.squid-cache.org/">squid : Optimising Web Delivery</a>
+  </h4>
+</div>
+
+
 ## Install
 
 #### Ubuntu
