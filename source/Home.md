@@ -56,6 +56,11 @@
   <li>[[AWS]]
   <li>[[Heroku]]
 </ul>
+
+<h4>Server</h4>
+<ul>
+  <li>[[Squid (Proxy)|squid-proxy]]
+</ul>
 </div>
 
 <div class="floating">
