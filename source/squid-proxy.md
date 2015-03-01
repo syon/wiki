@@ -83,6 +83,10 @@ $ sudo netstat -lpn | grep squid
     - `/usr/local/opt/squid/share/errors/ja-jp`
 
 
+## Tips
+- [Reload Squid Proxy Server Without Restarting Squid Daemon](http://www.cyberciti.biz/faq/howto-linux-unix-bsd-appleosx-reload-squid-conf-file/)
+
+
 ## Articles
 - [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
 - [squid で特定のサイトをアクセス拒否する](http://futuremix.org/2005/07/squid-access-deny)
