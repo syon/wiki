@@ -1,6 +1,14 @@
 ## 代行サービス
-- [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)
-- [お洗濯代行サービス　お洗濯宅配サービス　ウオッシュ＆フォールド](http://www.wash-fold.com/)
+
+#### [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)
+
+- minikura MONO
+    - スタッフがボックスを開封して30点までのアイテム撮影
+    - Webでアイテムを1点ごとにギャラリー保管
+- minikura クリーニングパック
+    - ファッション専用minikura。高品質ドライクリーニング＋保管のパック
+
+#### [お洗濯代行サービス　お洗濯宅配サービス　ウオッシュ＆フォールド](http://www.wash-fold.com/)
 
 
 ## IoT
