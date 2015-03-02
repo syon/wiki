@@ -61,6 +61,16 @@
 ### 資料画像
 - [Beautiful Maps](http://mapsdesign.tumblr.com/)
 
+
+## 動画
+
+### 変換
+
+#### [YouTube変換 - ClipConverter.cc](http://www.clipconverter.cc/jp/)
+
+> ClipConverterは、一般的なフォーマットに、ほぼすべての音声,動画サイトのURLを変換することができる無料のオンライン変換アプリケーションです。 現在 直接ダウンロード、 YouTube (HQ,HD), Google Video, Sevenload, MySpace, Dailymotion (HQ), Vimeo (HQ), Metacafe, MyVideo, YouPorn, Pornhub, Veoh のサイト で利用できます。
+
+
 ## 名前
 
 - [FF14 Character Name Generator](http://fandango.exp.jp/name-generator.php)  
