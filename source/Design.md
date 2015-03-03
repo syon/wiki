@@ -94,6 +94,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
   CC0 License（無料・商用利用可・表示不要）の高品質な画像を検索
 - [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
 - [ロイヤリティフリー写真限定！完全無料のフォトストックサイトStockSnap - Photoshop VIP](http://photoshopvip.net/archives/73663)
+- [プレゼンテーションに使う画像の探し方 - Qiita](http://qiita.com/TAKAKING22/items/20c006206d2ce23a5608)  
+  リンク集
 
 ### Texture / Pattern
 
