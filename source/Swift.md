@@ -22,6 +22,9 @@
 - [Style guide & coding conventions for Swift projects](https://github.com/jarinosuke/swift-style-guide/blob/master/README_JP.md)  
   Github社の Swift コーディング規約（日本語訳）
 
+- [Web API を利用する iOS アプリ作成 · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md)  
+  「はてな教科書」は、はてなでWeb開発を行うエンジニアのために作られた、1週間程度の期間でWebアプリケーション開発の基本を身につけるための教科書です。
+
 
 ## Sites
 
@@ -75,3 +78,5 @@
 - [fullstackio/FlappySwift](https://github.com/fullstackio/FlappySwift)
 - [iPhone - SwiftのRSS Readerを100行で作ったよ - Qiita](http://qiita.com/susieyy/items/749c4ac5d82d765c12c6)
 - [iOS 8 の新機能のサンプルコード集『iOS8-Sampler』を公開しました - Over&Out その後](http://d.hatena.ne.jp/shu223/20140918/1410979802)
+- [hatena/ios-Intern-Bookmark-Simple-Swift-2014](https://github.com/hatena/ios-Intern-Bookmark-Simple-Swift-2014)  
+  はてなインターン2014版サンプルブックマークiOSアプリ(Swift- シンプル版)
