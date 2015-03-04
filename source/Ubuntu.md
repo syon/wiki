@@ -8,6 +8,8 @@
   <dd>ワークスペース切り替え</dd>
 </dl>
 
+- [スクリーンショットを撮る | Memo on the Web](http://motw.mods.jp/Linux/screenshot.html)
+
 ### キーボード
 
 - [Ubuntu 12.04 LTS で使えるキーボードショートカット一覧 - Sickly Life はてな版](http://d.hatena.ne.jp/itiri/20120512/1336829456)
