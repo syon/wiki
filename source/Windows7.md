@@ -39,9 +39,10 @@
 
 ## ネットワーク
 
-### ルーティング・テーブル
-
+### ルーティング
 - [＠IT：Windows TIPS -- Tips：ルーティング・テーブルを操作する](http://www.atmarkit.co.jp/fwin2k/win2ktips/266routing/routing.html)
+- [スタティックルーティング ( route add とは )](http://www.infraexpert.com/study/routing4.html)
+- [Anonymous weblog - PC and OS - Windows7のNIC2枚刺しのルーティング](http://black.mydns.jp/anon/blog/2012/09/pc-and-os---windows7nic2.html)
 
 ### アドホックモード通信
 
