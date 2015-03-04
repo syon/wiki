@@ -9,6 +9,7 @@
 
 ## Intro
 - [Introduction To React // Speaker Deck](https://speakerdeck.com/hokaccha/introduction-to-react)
+    - [今話題のReact.jsはどのようなWebアプリケーションに適しているか？ Introduction To React─ Frontrend Conference](http://html5experts.jp/hokaccha/13301/)
 - [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 - [Isomorphic Web Apps and React.js](http://jsforallof.us/2015/02/23/isomorphic-web-apps-and-react-js/)
 
