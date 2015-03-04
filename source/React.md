@@ -24,6 +24,12 @@
 - [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 
 
+## Components
+
+#### [D3 Components for React](https://github.com/codesuki/react-d3-components)
+- [React D3 Components Examples](http://codesuki.github.io/react-d3-components/example.html)
+
+
 ## Articles
 - [React.jsを触った感想 - axross blog](http://blog.axross.org/entry/2014/12/25/100000)
 - [リアルな DOM はなぜ遅いのか - steps to phantasien](http://steps.dodgson.org/b/2014/12/11/why-is-real-dom-slow/)
