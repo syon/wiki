@@ -12,6 +12,7 @@
     - [今話題のReact.jsはどのようなWebアプリケーションに適しているか？ Introduction To React─ Frontrend Conference](http://html5experts.jp/hokaccha/13301/)
 - [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 - [Isomorphic Web Apps and React.js](http://jsforallof.us/2015/02/23/isomorphic-web-apps-and-react-js/)
+- [Ajaxを劇的に簡単にするReact.js – @masuidrive blog](http://blog.masuidrive.jp/2015/03/03/react/)
 
 
 ## Learning
