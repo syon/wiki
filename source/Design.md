@@ -114,13 +114,17 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 
 - [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
 
+
 ## Effect
 
 - [EffectHub.com: Your best source for gaming](http://effecthub.com/)
 
+
 ## Photoshop
 
 - [水彩絵の具ペイントの質感を実現！無料PSデザインキット「Aquarelle Designer Kit」 - Photoshop VIP](http://photoshopvip.net/archives/71010)
+- [写真加工を完全マスター！すごい無料PSアクション40個まとめ 2015年3月度 - Photoshop VIP](http://photoshopvip.net/archives/74248)
+
 
 ## Slide
 
