@@ -23,9 +23,12 @@
 ### Compass
 * [CodekitでCompass+Sassコーディングをはじめる :: ［ FLAT ］ Develop | ONO TAKEHIKO from aguije inc.](http://flat.is/develop/2014/05/codekit-compass-sass/)
 
+
 ## 学習
-* [CSS： marginの正しい理解 (CSSのmarginが難しい) | Web Design KOJIKA17](http://kojika17.com/2012/08/margin-of-css.html)
-* [印刷用CSSをまとめてみた。 - TRANS](http://trans.hatenablog.jp/entry/20061208/p1)
+
+- [CSS： marginの正しい理解 (CSSのmarginが難しい) | Web Design KOJIKA17](http://kojika17.com/2012/08/margin-of-css.html)
+- [印刷用CSSをまとめてみた。 - TRANS](http://trans.hatenablog.jp/entry/20061208/p1)
+- [理解しておきたい、CSSによるインラインレイアウトの仕組み（font-size／line-height編）Inline Layout─Frontrend Conference | HTML5Experts.jp](http://html5experts.jp/takazudo/13339/)
 
 ### CSS Animation
 - [動くCSSのためのメモ。](http://lopan.jp/css-animation/) すごいまとめ
@@ -34,6 +37,7 @@
 - [SCSSとCompassでおしゃれなCSSパーティクルを作ってみた – ICS LAB](http://ics-web.jp/lab/archives/1808)
 - [[CSS]box-shadowを使って、三連リングのようなカワイイ囲いを作るテクニック | コリス](http://coliss.com/articles/build-websites/operation/css/ring-css-used-box-shadow-by-fixcl.html)
 - [Canvasと戯れる　第2話「Canvasでグラデーションのアニメーションを作ろう」 · DevJam](http://devjam.net/blog/368)
+
 
 ## Font
 
