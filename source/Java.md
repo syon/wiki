@@ -29,9 +29,15 @@ Ruby on Railsの哲学をJavaで実現することを目的としたフレーム
 - [PlayFrameworkに関する168件の投稿 - Qiita](http://qiita.com/tags/playframework)
 - [【#Play】Play Framework 2.3 (Scala) を使った Web システム開発入門 #Play_ja #Scala #rpscala - Qiita](http://qiita.com/kukita/items/6326f1439abec013a479)
 
+#### Install
+- [Play のインストール (2.3.x)](https://www.playframework.com/documentation/ja/2.3.x/Installing)  
+  Play 2.3 から `activator` コマンドによるインストールに変更されている
+- [Windows - Typesafe ActivatorでPlay framework 2実行環境を整える - Qiita](http://qiita.com/nownabe/items/996df00392e60b5ea3e0)
+
 ### Scala
 - [スケーラブルで関数型でオブジェクト指向なScala入門](http://www.atmarkit.co.jp/fjava/index/index_scala.html)  
   Scalaの特徴を紹介し、基本構文や関数、クラスなど、Scalaの基本的な機能について解説する入門連載
+- [Play Frameworkを使ってみて知ったScalaの正体 - まーぽんって誰がつけたの？](http://mpon.hatenablog.com/entry/2014/07/19/230810)
 
 
 ## ライブラリ
