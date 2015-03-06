@@ -8,11 +8,11 @@
 * [HTML5 & CSS3 Web Design](http://fmbip.com/litmus/)
 
 ## CSS Framework
-* __[[TwitterBootstrap]]__
-* [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
-* [Semantic UI](http://semantic-ui.com/)
-* [Introduction - Material design - Google design guidelines](https://www.google.com/design/spec/material-design/introduction.html)
-    * [Material UI - Material Design React Components](http://material-ui.com/#/)
+- → __[[TwitterBootstrap]]__
+- [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
+- [Semantic UI](http://semantic-ui.com/)
+- → __[[Design]]__
+
 
 ## CSS Code
 
