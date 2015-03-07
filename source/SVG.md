@@ -33,6 +33,7 @@ A lightweight JavaScript library for manipulating and animating svg
 - [球面パーティクル　 (SVG） - jsdo.it - Share JavaScript, HTML5 and CSS](http://jsdo.it/gaziya/x1AR)
 - [Elastic SVG Elements | Codrops](http://tympanus.net/codrops/2014/12/15/elastic-svg-elements/)
 - [PDF 2 SVG Converter](http://pramodhkp.github.io/pdf2svg/)
+- [HTML5 と SVG で考える、これからの画像アクセシビリティ](http://www.slideshare.net/ssuser99dc16/html5fun-svg-accessibility)
 
 
 ### SVG Browser Support
