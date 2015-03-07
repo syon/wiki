@@ -75,12 +75,16 @@ $ sudo netstat -lpn | grep squid
 ## Default directory path
 
 #### Ubuntu
+- squid
+    - `?`
 - squid.conf
     - `/etc/squid3/squid.conf`
 - error_directory
     - `/usr/share/squid3/errors/Japanese`
 
 #### OSX (Homebrew)
+- squid
+    - `/usr/local/sbin/squid`
 - squid.conf
     - `/usr/local/etc/squid.conf`
 - error_directory
