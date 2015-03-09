@@ -3,6 +3,9 @@
 
 ## Note
 
+#### [Is Polymer production ready?](https://www.polymer-project.org/resources/faq.html#readiness)
+> Polymer is currently in “developer preview.”
+
 #### [Browser Compatibility - Polymer](https://www.polymer-project.org/resources/compatibility.html)
 
 > Unlike other frameworks, __Polymer and its polyfills are intended to work in the latest version of [“evergreen” browsers](http://www.yeti.co/blog/evergreen-web-browser/)__. This means that your favorite browser might not be supported.
