@@ -164,6 +164,9 @@ $ bundle exec ruby sample.rb
 
 - [Proxy経由のgem install - 京の路](http://blog.matake.jp/archives/proxygem_install)
 
+## 開発環境
+- [Rubyプログラミングが快適になるVim環境を0から構築する - Qiita](http://qiita.com/mogulla3/items/42a7f6c73fa4a90b1df3)
+
 ## Gem
 - [[Ruby-Gem]]
 
