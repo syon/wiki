@@ -1,3 +1,6 @@
+#### → __[[Ruby-Gem]]__
+
+
 ## リファレンス
 
 #### [逆引きRuby](http://www.namaraii.com/rubytips/)
@@ -164,11 +167,10 @@ $ bundle exec ruby sample.rb
 
 - [Proxy経由のgem install - 京の路](http://blog.matake.jp/archives/proxygem_install)
 
+
 ## 開発環境
 - [Rubyプログラミングが快適になるVim環境を0から構築する - Qiita](http://qiita.com/mogulla3/items/42a7f6c73fa4a90b1df3)
 
-## Gem
-- [[Ruby-Gem]]
 
 ## Rake
 - [ファイルを扱う作業をRakeで便利にしよう！（パート1：概要編） - るびくる＆RBのRubyプログラミング大作戦！ - rubicle.net](http://rubicle.net/rubicle_talk_1-1.html)
