@@ -24,6 +24,11 @@
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
   <li>[[Yeoman]]
+</ul>
+
+<h4>Web Components</h4>
+<ul>
+  <li>[[Polymer]]
   <li>[[React]]
 </ul>
 </div>
