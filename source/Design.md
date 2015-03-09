@@ -1,11 +1,7 @@
 ## [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 
 #### Code
-
-- [Polymer](https://www.polymer-project.org/)
-    - [Quiz App](https://polymer-topeka.appspot.com/)
-    - [Paper Elements Sampler](https://www.polymer-project.org/components/paper-elements/demo.html#core-toolbar)
-    - [Paper Calculator](https://www.polymer-project.org/components/paper-calculator/demo.html)
+- → __[[Polymer]]__
 - [Material UI - Material Design React Components](http://material-ui.com/#/)
 - Sample
     - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
