@@ -13,9 +13,9 @@
 - [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
 - [Semantic UI](http://semantic-ui.com/)
 - [Bourbon - A Sass Mixin Library](http://bourbon.io/)
-    - [Bourbon Neat](http://neat.bourbon.io/)
-    - [Bitters - Predefined Styles for Bourbon](http://bitters.bourbon.io/)
-    - [Refills - Patterns](http://refills.bourbon.io/)
+    - [Neat](http://neat.bourbon.io/): A lightweight semantic __grid framework__ for Sass and Bourbon.
+    - [Bitters](http://bitters.bourbon.io/): __Scaffold__ styles, variables and structure for Bourbon projects.
+    - [Refills](http://refills.bourbon.io/): __Components and patterns__ built with Bourbon and Neat.
 
 
 ## CSS Code
