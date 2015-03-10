@@ -44,6 +44,11 @@ jQueryのajax通信時にプログレスバーを表示できるプラグイン�
 ### [Intro.js](http://usablica.github.io/intro.js/)
 [5分で完了！Webサイトに簡単にチュートリアルが作れるIntro.jsの使い方 | ランサーズ（Lancers）エンジニアブログ](http://engineer.blog.lancers.jp/2015/02/introjs/)
 
+### [Slideout.js](https://mango.github.io/slideout/)
+A touch slideout navigation menu for your mobile web apps.
+
+- [[JS]極シンプルなマークアップで、コンテンツを横にスライドさせナビゲーションを表示するスクリプト -Slideout.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-slideout.html)
+
 
 ## Modal
 
