@@ -74,6 +74,8 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
     - this
     - スコープとクロージャ
 - [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
+- [JavaScript Promiseの本](http://azu.github.io/promises-book/)
+
 
 ## 便利スクリプト
 
