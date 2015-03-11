@@ -15,3 +15,7 @@
 - [Quiz App](https://polymer-topeka.appspot.com/)
 - [Paper Elements Sampler](https://www.polymer-project.org/components/paper-elements/demo.html#core-toolbar)
 - [Paper Calculator](https://www.polymer-project.org/components/paper-calculator/demo.html)
+
+
+## Articles
+- [Material Design と Polymer - HTML5とか勉強会に登壇してきた ::ハブろぐ](http://havelog.ayumusato.com/misc/e609-material_design_html5toka.html)
