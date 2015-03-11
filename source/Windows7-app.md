@@ -104,6 +104,9 @@ CLCLのオプション > ウィンドウ から設定を追加する。
 
 ### Everything
 
+### [Preme for Windows](http://www.premeforwindows.com/)
+
+
 ## テキストエディタ
 
 ### サクラエディタ
