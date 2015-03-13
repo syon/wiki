@@ -122,7 +122,8 @@
 ## TIPS
 
 ### ファイル出力
-- [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
+- [D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)  
+  SVGで作られたグラフをCanvasに変換し、PNGとして保存する
 - [Export d3js/SVG as SVG/PDF](http://d3export.housegordon.org/)  
   D3.js → SVG, PDF, PNG ダウンロード
 - [SVG を PNG に変換するやつ (Ruby-GNOME2/RSVG on Sinatra) - X X X](http://syonx.hatenablog.com/entry/2014/07/26/191359)
