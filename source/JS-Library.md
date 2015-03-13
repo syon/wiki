@@ -49,6 +49,9 @@ A touch slideout navigation menu for your mobile web apps.
 
 - [[JS]極シンプルなマークアップで、コンテンツを横にスライドさせナビゲーションを表示するスクリプト -Slideout.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-slideout.html)
 
+### [FileSaver.js demo](http://eligrey.com/demos/FileSaver.js/)
+- [D3.jsで作成したグラフ(SVG)を画像として保存する | Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
+
 
 ## Modal
 
