@@ -25,7 +25,7 @@ $ sudo apt-get install nodejs
 
 ### Update
 
-- [npmでnode.jsのアップグレード - Qiita](http://qiita.com/_shimizu/items/26589028ed3ea7e5b359)
+- [linux - How can I update Node.js and NPM to the next versions? - Stack Overflow](http://stackoverflow.com/questions/6237295/how-can-i-update-node-js-and-npm-to-the-next-versions)
 
 ```bash
 $ sudo npm cache clean -f
