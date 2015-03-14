@@ -38,11 +38,11 @@
 <ul>
   <li>[[Chef]]
   <li>[[Vagrant]]
-  <li>[[docker]]
+  <li>[[Docker|docker]]
   <li>[[LogManagement]]<br>Fluentd + Elasticsearch + Kibana
-  <li>[[nginx]]
+  <li>[[Nginx|nginx]]
   <li>[[CI]]
-  <li>[[node.js|nodejs]]
+  <li>[[Node.js|nodejs]]
   <li>[[Oracle]]
 </ul>
 
