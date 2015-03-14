@@ -44,6 +44,7 @@ $ npm install -g npm
 ```sh
 $ curl -L https://npmjs.org/install.sh | sudo sh
 ```
+※ 途中で`Password:`と聞かれる
 
 
 ## npm
