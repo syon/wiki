@@ -1,8 +1,11 @@
-# node.js
+# Node.js
 
 [[nodejs.png|align=center]]
 
 http://nodejs.org
+
+
+## Setup
 
 ### Setup on OSX
 
@@ -20,7 +23,19 @@ $ sudo apt-get update
 $ sudo apt-get install nodejs
 </pre>
 
-### npm
+### Update
+
+- [npmでnode.jsのアップグレード - Qiita](http://qiita.com/_shimizu/items/26589028ed3ea7e5b359)
+
+```bash
+$ sudo npm cache clean -f
+$ sudo npm install -g n
+$ sudo n stable
+$ node -v
+```
+
+
+## npm
 
 <dl>
   <dt>npm install -gオプションの意味</dt>
