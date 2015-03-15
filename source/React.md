@@ -16,6 +16,7 @@
 
 
 ## Learning
+- __[Reactの公式チュートリアルをやってみた＆メモ - syonx](http://syonx.hatenablog.com/entry/2015/03/15/060000)__
 - __[Awesome React](https://github.com/enaqx/awesome-react)__
 - [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
 
