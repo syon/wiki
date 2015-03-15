@@ -24,6 +24,7 @@ $ sudo apt-get install nodejs
 </pre>
 
 ## Update `node` & `npm`
+- __[Node.js と npm のアップデート – nocorica](http://blog.nocorica.jp/2015/03/nodejs-npm-update/)__
 
 #### node
 - [linux - How can I update Node.js and NPM to the next versions? - Stack Overflow](http://stackoverflow.com/questions/6237295/how-can-i-update-node-js-and-npm-to-the-next-versions)
