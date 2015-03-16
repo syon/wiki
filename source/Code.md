@@ -29,7 +29,10 @@
 
 ## Coding
 - [XMLParser vs XmlParser どちらが正解？表記が揺れるケースと対策 - Ph by codic team](http://blog.codic.jp/2014/11/13/about-camel-case/)
+
+#### Naming
 - [メソッド名をシンプルにするために、知っておくと便利な英語のprefixとsuffix - Ph by codic team](http://blog.codic.jp/2014/12/22/shoud-know-prefix-suffix-for-naming/)
+- [プログラミングで変数名や関数名のネーミングに迷ったときに便利なカンニングペーパーまとめ](http://nelog.jp/programming-words)
 
 
 ## Document formats
