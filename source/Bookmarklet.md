@@ -3,6 +3,7 @@
 - [Web便利ツール/URLエンコード・デコードフォーム - TAG index Webサイト](http://www.tagindex.com/tool/url.html) →　!function(){ ... }();
 - [WDF - Software : ブックマークレット作成スクリプト](http://www.eonet.ne.jp/~wdf/software/bookmarklet_creator.html)
 - [Bookmarkleter](http://chriszarate.github.io/bookmarkleter/)
+- [Hatena::Let](http://let.hatelabo.jp/)
 
 ### jQuerify
 <pre>
