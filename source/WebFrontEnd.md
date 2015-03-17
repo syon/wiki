@@ -8,36 +8,6 @@
 - [DevTools Tips](http://devtoolstips.com/)  
   Google Chrome DevTools
 
-#### Yeoman
-- [The web's scaffolding tool for modern webapps | Yeoman](http://yeoman.io/)
-- [Yeoman入門(第一部、yoを使う) - from scratch](http://yosuke-furukawa.hatenablog.com/entry/2013/07/04/085814)
-- [Gruntで始めるWeb開発爆速自動化入門（終）：あなたのWeb開発人生を変えるYeoman、Bower、Yoのインストールと使い方 - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/02/news040.html)
-
-
-## Module Loader
-
-#### RequireJS
-- [RequireJS](http://requirejs.org/)
-
-#### Browserify
-- [Browserify](http://browserify.org/)
-- [Browserify: それはrequire()を使うための魔法の杖 - Qiita](http://qiita.com/cognitom/items/4c63969b5085c90639d4)
-- [npmとbrowserifyを使ったクライアントサイドのウェブアプリ開発 | Web Scratch](http://efcl.info/2014/0120/res3605/)
-
-
-## Task Runner
-
-#### npm
-- [task automation with npm run](http://substack.net/task_automation_with_npm_run)
-
-#### Grunt
-- [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
-- [Gruntを使ってプロジェクトを自動化する、Myタスクメモ | tipsBear](http://tipsbear.com/grunt-task-memo/)  
-  丁寧な図解でわかりやすい解説
-
-#### Gulp
-- [gulp.js - the streaming build system](http://gulpjs.com/)
-- [gulpとかnpmのこととか by A Memorandum](http://protean.cc/getting-started-with-gulp-and-npm)
 
 ## HTML / CSS / JavaScript
 
