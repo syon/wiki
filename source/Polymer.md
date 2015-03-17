@@ -11,6 +11,11 @@
 > Unlike other frameworks, __Polymer and its polyfills are intended to work in the latest version of [“evergreen” browsers](http://www.yeti.co/blog/evergreen-web-browser/)__. This means that your favorite browser might not be supported.
 
 
+## Components
+#### [Google Web Components](http://googlewebcomponents.github.io/)
+A collection of web components for Google APIs & services. Built with Polymer.
+
+
 ## Demos
 - [Quiz App](https://polymer-topeka.appspot.com/)
 - [Paper Elements Sampler](https://www.polymer-project.org/components/paper-elements/demo.html#core-toolbar)
