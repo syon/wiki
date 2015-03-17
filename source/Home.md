@@ -23,7 +23,6 @@
   <li>[[SVG]]
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
-  <li>[[Yeoman]]
 </ul>
 
 <h4>Web Components</h4>
