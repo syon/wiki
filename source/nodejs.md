@@ -13,15 +13,19 @@ http://nodejs.org
 
 ### Setup on Ubuntu
 
-* [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
-* <code>npm</code>は含まれている模様
+- [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
+- <code>npm</code>は含まれている模様
+- [Ubuntu 14.04 に Node.jsをインストールする - Qiita](http://qiita.com/moris/items/281a588b9773357b27f7)
+
+> 標準パッケージ: `nodejs` というコマンド名になってしまい困ったことになる  
+> PPAリポジトリのパッケージ: 有志が最新版を入れてくれている  ※PPA: Personal Package Archives
 
 <pre>
-$ sudo apt-get install software-properties-common
 $ sudo add-apt-repository ppa:chris-lea/node.js
 $ sudo apt-get update
 $ sudo apt-get install nodejs
 </pre>
+
 
 ## Update `node` & `npm`
 - __[Node.js と npm のアップデート – nocorica](http://blog.nocorica.jp/2015/03/nodejs-npm-update/)__
