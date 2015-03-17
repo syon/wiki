@@ -13,8 +13,30 @@ http://nodejs.org
 
 ### Setup on Ubuntu
 
-- [Repository - なんなんなん行く？](https://sites.google.com/site/teyasn001/ubuntu-12-10/ripojitori)
-- <code>npm</code>は含まれている模様
+#### Install with: .tar.gz
+公式サイトからダウンロードした`node-v0.12.0.tar.gz`を使ってインストール
+
+```bash
+$ tar -xzf node-v0.12.0.tar.gz
+$ cd node-v0.x.x.tar.gz
+$ ./configure
+$ sudo make install
+```
+- [Node.js - Getting started on Ubuntu 14.04 (Trusty Tahr)](https://www.howtoforge.com/tutorial/nodejs-ubuntu-getting-started/)
+
+#### Install with: NodeSource
+NodeSource社のリポジトリからダウンロードしてインストール
+- [NodeSource - Enterprise Node.js Training, Support, Software & Consulting, Worldwide](https://nodesource.com/blog/nodejs-v012-iojs-and-the-nodesource-linux-repositories)
+
+```bash
+# Note the new setup script name for Node.js v0.12
+curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+
+# Then install with:
+sudo apt-get install -y nodejs
+```
+
+#### Install with: PPA Package
 - [Ubuntu 14.04 に Node.jsをインストールする - Qiita](http://qiita.com/moris/items/281a588b9773357b27f7)
 
 > 標準パッケージ: `nodejs` というコマンド名になってしまい困ったことになる  
@@ -25,6 +47,7 @@ $ sudo add-apt-repository ppa:chris-lea/node.js
 $ sudo apt-get update
 $ sudo apt-get install nodejs
 </pre>
+- `npm`は含まれている模様
 
 
 ## Update `node` & `npm`
