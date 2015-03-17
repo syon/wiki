@@ -8,9 +8,16 @@
 - [DevTools Tips](http://devtoolstips.com/)  
   Google Chrome DevTools
 
-### Browserify
+### Module Loader
+
+#### RequireJS
+- [RequireJS](http://requirejs.org/)
+
+#### Browserify
+- [Browserify](http://browserify.org/)
 - [Browserify: それはrequire()を使うための魔法の杖 - Qiita](http://qiita.com/cognitom/items/4c63969b5085c90639d4)
 - [npmとbrowserifyを使ったクライアントサイドのウェブアプリ開発 | Web Scratch](http://efcl.info/2014/0120/res3605/)
+
 
 ## HTML / CSS / JavaScript
 
