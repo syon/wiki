@@ -20,6 +20,7 @@
 - __[Reactの公式チュートリアルをやってみた＆メモ - syonx](http://syonx.hatenablog.com/entry/2015/03/15/060000)__
 - __[Awesome React](https://github.com/enaqx/awesome-react)__
 - [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
+- [JavaScript - React.js 実戦投入への道 - Qiita](http://qiita.com/icoxfog417/items/5d79b3336226aa51e30d)
 
 
 ## Component styling
