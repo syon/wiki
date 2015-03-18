@@ -59,7 +59,12 @@ $ sudo ufw allow 3128
 ### 動作確認
 
 ```sh
+# Ubuntu
 $ sudo netstat -lpn | grep squid
+```
+```sh
+# OSX
+$ lsof -i :3128
 ```
 
 ### エラーページのカスタマイズ
