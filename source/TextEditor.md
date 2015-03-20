@@ -14,3 +14,4 @@ HTML/JavaScript/CSS対応のWebIDE
 
 ## Brackets
 - [コーディングを超加速するBrackets便利エクステンションまとめ - WEBCRE8.jp](http://webcre8.jp/collect/brackets-extension-coding.html)
+- [Web制作が爆捗するBracketsプラグイン13選＆便利なプラグインを探すコツ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1503/20/news130.html)
