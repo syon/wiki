@@ -32,6 +32,7 @@
   A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References and more!
 - [RunSwift - Try Swift in the Browser](http://www.runswiftlang.com/)
 - [Swift入門 (全24回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_swift)
+- [Swiftyは、iPhone一つでSwift言語が学べる - TechCrunch](http://jp.techcrunch.com/2015/03/20/20150319swifty-teaches-apples-new-programming-language-on-your-iphone/)
 
 
 ## Books
