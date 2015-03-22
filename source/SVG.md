@@ -17,6 +17,7 @@ A lightweight JavaScript library for manipulating and animating svg
 - [マークアップ・エンジニアのためのSVG入門 - SVGコードの基本 | CodeGrid](https://app.codegrid.net/entry/svg-basic)  
   株式会社ピクセルグリッドによるシリーズ記事（有料購読）
 - [SVGを使いこなすための便利ツールいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/webinfo/svg-tools/)
+- [Webグラフィックをハックする（2）：10分でわかるSVG 基礎編 (1/5) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1206/01/news143.html)
 
 
 ### Articles
