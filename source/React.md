@@ -21,6 +21,7 @@
 - __[Awesome React](https://github.com/enaqx/awesome-react)__
 - [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
 - [JavaScript - React.js 実戦投入への道 - Qiita](http://qiita.com/icoxfog417/items/5d79b3336226aa51e30d)
+- [O'Reilly Japan - 入門 React](http://www.oreilly.co.jp/books/9784873117195/)
 
 
 ## Component styling
