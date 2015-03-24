@@ -41,6 +41,7 @@
 - [SCSSとCompassでおしゃれなCSSパーティクルを作ってみた – ICS LAB](http://ics-web.jp/lab/archives/1808)
 - [[CSS]box-shadowを使って、三連リングのようなカワイイ囲いを作るテクニック | コリス](http://coliss.com/articles/build-websites/operation/css/ring-css-used-box-shadow-by-fixcl.html)
 - [Canvasと戯れる　第2話「Canvasでグラデーションのアニメーションを作ろう」 · DevJam](http://devjam.net/blog/368)
+- [Some More Inspiration for Text Input Effects | Codrops](http://tympanus.net/codrops/2015/03/18/inspiration-text-input-effects-2/)
 
 
 ## Font
