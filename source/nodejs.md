@@ -7,7 +7,7 @@ http://nodejs.org
 
 ## Setup
 
-### Setup on OSX
+### Setup on OSX | Windows
 
 公式サイトからインストーラ使うのが手っ取り早い
 
