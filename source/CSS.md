@@ -18,6 +18,11 @@ $ gem install sass
 $ sass input.scss output.css
 ```
 
+#### [LibSass](http://libsass.org/)
+A C implementation of a Sass compiler
+- [libSass wrappers](http://sass-lang.com/libsass)
+    - [sass/node-sass](https://github.com/sass/node-sass)
+
 ### [Compass](http://compass-style.org/)
 
 > - ベンダープレフィックス自動生成
