@@ -87,6 +87,7 @@ $ curl -L https://npmjs.org/install.sh | sudo sh
 
 - [それでもNode.jsをやる // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/soredemonode-dot-jswoyaru)
 - [node.jsでファイル監視を手軽に行えるモジュール「chokidar」 | #GUNMAGISGEEK](http://shimz.me/blog/node-js/4123)
+- [UIテストの自動化！Node.jsとSeleniumでWebアプリのUIテスト環境構築 – ICS LAB](http://ics-web.jp/lab/archives/5759)
 
 #### Socket.IO
 - [Node.js＋Socket.IOで作る、通信対戦ができるHTML5ゲームシステムの作り方 - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/online_game_architecture_by_socketio/)
