@@ -23,6 +23,9 @@
 - [JavaScript - React.js 実戦投入への道 - Qiita](http://qiita.com/icoxfog417/items/5d79b3336226aa51e30d)
 - [O'Reilly Japan - 入門 React](http://www.oreilly.co.jp/books/9784873117195/)
 
+#### Flux
+- [reactjs - React.jsとFlux - Qiita](http://qiita.com/koba04/items/b32ba449d753fdb2b597)
+
 
 ## Component styling
 - [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
