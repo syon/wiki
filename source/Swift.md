@@ -72,6 +72,7 @@
 - [堅牢で使いやすいAPIクライアントをSwiftで実装したい](http://blog.ishkawa.org/2015/02/17/1424099641/)
 - [Swiftで会社の受付アプリを作った話とCADisplayLink | 株式会社VASILY(ヴァシリー)](http://tech.vasily.jp/swift_reception/)
 - [WebエンジニアのためのSwift言語入門 – ICS LAB](http://ics-web.jp/lab/archives/5755)
+- [Yosemite + Xcode 6.2 で Swift+QuartzComposerスクリーンセーバを作る | Kanolab](http://kano-lab.org/archives/3467)
 
 
 ## Sample Code
