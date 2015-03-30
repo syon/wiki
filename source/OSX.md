@@ -22,7 +22,10 @@
 0. Safariのタブの設定
 0. ログイン時やスリープ後のパスワード入力を省略する
 
+
 ## 環境
+
+- [MacBook Proを買って最初にしたこと](http://blog.akihiko.me/2015/03/01/mbp-first-step/)
 
 ### Homebrew
 
