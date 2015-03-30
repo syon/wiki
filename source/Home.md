@@ -46,6 +46,7 @@
   <li>[[CI]]
   <li>[[Node.js|nodejs]]
   <li>[[Oracle]]
+  <li>[[MongoDB]]
 </ul>
 
 <h4>Web App Framework</h4>
