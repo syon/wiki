@@ -17,3 +17,4 @@
 
 - [Rails 4 へ移行してあらためて大切だと思ったこと + 役に立ったリンクを全力まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/20130923/1379930345)
 - [Railsチュートリアルすげー！！ - るびらな！](http://rubylearner.hatenablog.jp/entry/2014/11/28/000611)
+- [Railsアプリやgem作る時にいつも入れているgem一覧 - くりにっき](http://sue445.hatenablog.com/entry/2015/03/29/012855)
