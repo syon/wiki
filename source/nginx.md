@@ -42,3 +42,4 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 - [これから始める人のためのNginx（1）：高速・軽量・高機能……Nginxの基礎知識 (1/2) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/17/news013.html)
 - [nginxパフォーマンスチューニング〜静的コンテンツ配信編〜 - Qiita](http://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd)
 - [NginxでSSLの評価をA+にする手順 - 9mのブログ](http://blog.kksg.net/posts/nginx-secure-ssl)
+- [Nginx導入時、サクッと対応しておくと良いかもしれない - Qiita](http://qiita.com/kidach1/items/985efebba639713c562e)
