@@ -83,6 +83,14 @@ $ curl -L https://npmjs.org/install.sh | sudo sh
 </dl>
 
 
+## [NW.js](http://nwjs.io/)
+
+> NW.js is an app runtime based on Chromium and node.js. 
+
+- [nodeベースでGUIアプリを開発する「node-webkit」｜1 pixel｜サイバーエージェント公式クリエイターズブログ](http://ameblo.jp/ca-1pixel/entry-11765019318.html)
+- [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
+
+
 ## Articles
 
 - [それでもNode.jsをやる // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/soredemonode-dot-jswoyaru)
