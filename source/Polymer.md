@@ -24,3 +24,4 @@ A collection of web components for Google APIs & services. Built with Polymer.
 
 ## Articles
 - [Material Design と Polymer - HTML5とか勉強会に登壇してきた ::ハブろぐ](http://havelog.ayumusato.com/misc/e609-material_design_html5toka.html)
+- [PolymerでMaterial Designなチャットアプリを作ろう | HTML5Experts.jp](https://html5experts.jp/girlie_mac/12359/)
