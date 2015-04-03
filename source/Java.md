@@ -231,6 +231,11 @@ cf. Apache Commons - BeanUtils
 - [[java]JAVAでOracleのNVL()と同じ事を行う処理 | アマシィ](http://amaxi.sitemix.jp/blog/archives/1622)
 
 
+### File
+
+- [【Commons】FileUtilsで1行のコードでファイル読み込み : mwSoft blog](http://blog.mwsoft.jp/article/33331261.html)
+
+
 ## Eclipse
 - [Eclipseのショートカットキー](http://so-zou.jp/software/tech/tool/ide/eclipse/shortcut/)
 - [新人研修でドヤ顔で披露したらウケたEclipseのショートカット集 - Qiita](http://qiita.com/arai-wa/items/c2eb7387b5bf37b4ace4)
