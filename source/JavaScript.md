@@ -189,14 +189,16 @@ target = $.trim(target);
 - [Create a hidden field in JavaScript - Stack Overflow](http://stackoverflow.com/questions/1000795/create-a-hidden-field-in-javascript)
 
 ### Keys in Object
+- [[JavaScript] オブジェクトをループでまわす - Qiita](http://qiita.com/phi/items/98975e1bb4995c1f1bcf)
+
 ```js
 var theObj = {a:1, b:2, c:3}
 Object.keys(theObj)
-//=> ["a", "b", "c"]
+=> ["a", "b", "c"]
 Object.keys(theObj).map(function(d){console.log(d)})
-//=> a
-//   b
-//   c
+=> a
+   b
+   c
 ```
 
 
