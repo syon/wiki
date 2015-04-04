@@ -188,6 +188,17 @@ target = $.trim(target);
 ### Hidden field
 - [Create a hidden field in JavaScript - Stack Overflow](http://stackoverflow.com/questions/1000795/create-a-hidden-field-in-javascript)
 
+### Keys in Object
+```js
+var theObj = {a:1, b:2, c:3}
+Object.keys(theObj)
+//=> ["a", "b", "c"]
+Object.keys(theObj).map(function(d){console.log(d)})
+//=> a
+//   b
+//   c
+```
+
 
 ## JSON
 
