@@ -25,6 +25,8 @@
 - [(kassyi@C#er).Blog;: バージョン番号命名ルール](http://blog.kassyi.com/2009/10/blog-post_3334.html)
 - [Semantic Versioning 2.0.0](http://semver.org/)
 - [意外と知らないバージョン表記・数字の豆知識 - ＠IT](http://www.atmarkit.co.jp/fjava/column/andoh/andoh51.html)
+- [npm semantic version calculator](http://semver.npmjs.com/)  
+  `^2.2.1`とかの表記でどのバージョンにマッチするかがわかる
 
 
 ## Coding
