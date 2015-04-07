@@ -71,7 +71,7 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 - [センサーの種類と用途 | 特集 ｜ORIGINALMIND オリジナルマインド](http://www.originalmind.co.jp/special/sensor/)
 - [FF10の雷除けを自動化した話 - panchiga's blog](http://panchiga.hatenablog.com/entry/2014/12/09/092254)
 - [Arduinoで始めるWeb技術者のためのIoT入門（3）：夏休みの子どもの自由研究に最適！ 植物からメールをもらおう (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/01/news019.html)
-- __[JINS MEME（ミーム） DEVELOPERS | JINS - 眼鏡（メガネ・めがね）](https://developers.jins.com/ja/)__
+- __[JINS MEME（ミーム） | JINS - 眼鏡（メガネ・めがね）](https://www.jins-jp.com/jinsmeme/)__
 
 
 ## 3D プリント
