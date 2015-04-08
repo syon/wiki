@@ -30,6 +30,9 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [SPUN GOLD – A full scratched geometric font with the golden ratio flavor. :: [ FLAT ] Portfolio | ONO TAKEHIKO from aguije inc.](http://flat.is/portfolio/personal/2013/08/spun-gold/)
 - [超ハイクオリティな日本製フリーフォント「Spun Gold」と、その他日本製のおすすめフリーフォント - W3Q](http://w3q.jp/t/2560)
 
+#### 実装
+- [日本語Webフォントの革命 - 3846masa's memo](http://3846masa.hatenablog.jp/entry/2015/04/08/100000)
+
 #### etc.
 - [Create Your Own @font-face Kits | Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)  
   TTFフォントをアップロードしてWebフォント(WOFF, EOT, SVG)に変換
