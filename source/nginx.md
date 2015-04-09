@@ -43,3 +43,4 @@ nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP �
 - [nginxパフォーマンスチューニング〜静的コンテンツ配信編〜 - Qiita](http://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd)
 - [NginxでSSLの評価をA+にする手順 - 9mのブログ](http://blog.kksg.net/posts/nginx-secure-ssl)
 - [Nginx導入時、サクッと対応しておくと良いかもしれない - Qiita](http://qiita.com/kidach1/items/985efebba639713c562e)
+- [【翻訳】NginxでHTTPS：ゼロから始めてSSLの評価をA+にするまで（Part 2） -設定、Ciphersuite、パフォーマンス | POSTD](http://postd.cc/https-on-nginx-from-zero-to-a-plus-part-2-configuration-ciphersuites-and-performance/)
