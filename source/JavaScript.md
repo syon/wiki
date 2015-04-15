@@ -20,6 +20,9 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 ### CoffeeScript
 
 - [CoffeeScriptってなんぞ？](http://www.slideshare.net/hayatomizuno/coffeescript-12241689)
+- [cookpad/styleguide](https://github.com/cookpad/styleguide/blob/master/coffeescript.ja.md) クックパッド CoffeeScript スタイルガイド
+    - [CoffeeScript スタイルガイドの公開とその目的 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2015/04/15/092710)
+
 
 ### TypeScript
 
