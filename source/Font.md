@@ -98,7 +98,17 @@ Noto is Google’s font family that aims to support all the world’s languages.
 
 
 ## Preview installed fonts
+
+#### Sites
+- __[wordmark.it - helps you choose fonts!](http://wordmark.it/)__  
+  using: `detect_fonts.swf`
+- __[flipping typical - compare the fonts you have](http://flippingtypical.com/)__  
+  using: `FontList.swf`(gabriel/font-detect-js)
+
+#### Links
+- [JavaScriptでフォント名一覧を取得する3つの方法 | TAKESAKO @ Yet another Cybozu Labs](http://developer.cybozu.co.jp/takesako/2007/03/javascript_geta.html)
+- [Kazuho@Cybozu Labs: JavaScript から Flash の便利な機能を使う方法](http://labs.cybozu.co.jp/blog/kazuho/archives/2007/03/flashy.php)
 - [PCにインストールされているフォントを簡単プレビュー | Font viewer: ドラクエ二次創作小説｜無料Webアプリ - Script Boy](http://script.boy.jp/typeface-viewer.html)
 - [Jsでクライアントマシンのフォント一覧情報を得るTIP | Knowledge base func](http://iteahelper.com/blog/2012/02/10/js%e3%81%a7%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e4%b8%80%e8%a6%a7%e6%83%85%e5%a0%b1%e3%82%92%e5%be%97%e3%82%8b/)
 - [kuippa/FlexFontsdlgHelper](https://github.com/kuippa/FlexFontsdlgHelper)
-- [wordmark.it - helps you choose fonts!](http://wordmark.it/)
+- [gabriel/font-detect-js](https://github.com/gabriel/font-detect-js)
