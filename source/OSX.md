@@ -27,6 +27,9 @@
 
 - [MacBook Proを買って最初にしたこと](http://blog.akihiko.me/2015/03/01/mbp-first-step/)
 
+### Serverkit
+- [ServerkitでMacの環境構築を自動化する - Qiita](http://qiita.com/r7kamura/items/591e96861f025fb22998)
+
 ### Homebrew
 
 #### Install Homebrew
