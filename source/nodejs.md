@@ -82,6 +82,14 @@ $ curl -L https://npmjs.org/install.sh | sudo sh
   <dd>npm installで-gオプションを指定した場合はグローバルインストールと呼ばれ、Mac OS X環境では/usr/local/lib/node_modulesにライブラリがインストールされます。同時に同ディレクトリにパスが通るようになり、どこからでもコマンドが呼び出せるようになります。<br> ― <a href="http://d.hatena.ne.jp/replication/20110607/1307458180">npm installコマンドの-gオプションについて - 大人になったら肺呼吸</a></dd>
 </dl>
 
+#### No `sudo`
+- [Introduction to npm - How To Node - NodeJS](http://howtonode.org/introduction-to-npm)
+
+```sh
+$ sudo chown -R $USER /usr/local
+```
+
+#### Tips
 - [npm semantic version calculator](http://semver.npmjs.com/)  
   `^2.2.1`とかの表記でどのバージョンにマッチするかがわかる
 
