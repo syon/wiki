@@ -17,6 +17,9 @@
 $ git push heroku master
 ```
 
+#### Ruby versions
+- [Heroku Ruby Support | Heroku Dev Center](https://devcenter.heroku.com/articles/ruby-support)
+
 
 ## Create App
 
