@@ -40,7 +40,12 @@
 </html>
 ```
 
+
+## Favicon
+- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+- [クリエイティブなファビコンを設置しよう | Webクリエイターボックス](http://www.webcreatorbox.com/tech/favicon/)
+
+
 ## メモ
 
 - [Safari HTML Reference: Supported Meta Tags](http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html)
-- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
