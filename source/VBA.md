@@ -127,3 +127,11 @@ pdftk *.pdf cat output hoge.pdf
 - [「EXCEL VBA」を使って、「Google（http://www.google.co.jp/）.. - 人力検索はてな](http://q.hatena.ne.jp/1171778340)
 - [Excel(エクセル)VBA入門：セルにコメントを付ける](http://www.eurus.dti.ne.jp/yoneyama/Excel/vba/vba_comment.html)
 - [シート名一覧を作成したい:Excel VBA・エクセルマクロのサンプル](http://www.relief.jp/itnote/archives/000960.php)
+
+
+## AddIns
+
+- [Excelマクロ/クラシック色カラーパレット - DoldoWorkz](http://moondoldo.com/DoldoWorkz/?Excel%E3%83%9E%E3%82%AF%E3%83%AD%2F%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E8%89%B2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88)
+- [MS Office 関係 - HARD DAY'S NIGHT](https://sites.google.com/site/mznetlab/home/officedev)
+- [エクセルExcel2007 - 詳細表示 - 午後わてんのブログ - Yahoo!ブログ](http://blogs.yahoo.co.jp/gogowaten/folder/524997.html)
+- [Creating right click menu for an Excel 2007 & 2010 Add in - Excel Frome](http://excelfrome.co.uk/2014/06/hello-world/)
