@@ -135,3 +135,4 @@ pdftk *.pdf cat output hoge.pdf
 - [MS Office 関係 - HARD DAY'S NIGHT](https://sites.google.com/site/mznetlab/home/officedev)
 - [エクセルExcel2007 - 詳細表示 - 午後わてんのブログ - Yahoo!ブログ](http://blogs.yahoo.co.jp/gogowaten/folder/524997.html)
 - [Creating right click menu for an Excel 2007 & 2010 Add in - Excel Frome](http://excelfrome.co.uk/2014/06/hello-world/)
+- [Excel のリボンUIを業務アプリとして使う - Qiita](http://qiita.com/tomochan154/items/3614b6f3ebc9ef947719)
