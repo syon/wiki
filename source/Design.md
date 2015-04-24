@@ -10,6 +10,7 @@
 #### Articles
 - [Googleマテリアル・デザインをはじめよう！参考にしたい無料素材やアイデアまとめ - Photoshop VIP](http://photoshopvip.net/archives/67403)
 - [Google Design の Google Web Designer ツールを使ってみた ‹ nuuno](http://nuuno.net/note/google-web-designer/)
+- [マテリアルデザイン採用でUIを一新した「Sleipnir Mobile for Android 3.0」リリース - GIGAZINE](http://gigazine.net/news/20141224-sleipnir-mobile-android-3/)
 
 
 ## Web Design
