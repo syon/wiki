@@ -15,6 +15,8 @@
 
 ## Web Design
 
+- [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
+
 ### Style Guides
 
 - [Style Guides for Websites :: [ FLAT ] Design | ONO TAKEHIKO from aguije inc.](http://flat.is/design/2014/05/style-guides-for-websites/)  
