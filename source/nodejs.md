@@ -109,5 +109,9 @@ $ sudo chown -R $USER /usr/local
 - [UIテストの自動化！Node.jsとSeleniumでWebアプリのUIテスト環境構築 – ICS LAB](http://ics-web.jp/lab/archives/5759)
 - [Node.js - フロントエンド開発の３ステップ（npmことはじめ） - Qiita](http://qiita.com/hashrock/items/15f4a4961183cfbb2658)
 
+#### Express
+- [Node.js(Express4) + Heroku + PostgreSQLでTwitter botとサイト作った時のメモ(準備編) - Memo/](http://memo.brdr.jp/post/116650871021/node-js-express4-heroku-postgresql-twitter)
+- [Node.js(Express4) + Heroku + PostgreSQLでTwitter botとサイト作った時のメモ(Tips編) - Memo/](http://memo.brdr.jp/post/117233031311/node-js-express4-heroku-postgresql-twitter)
+
 #### Socket.IO
 - [Node.js＋Socket.IOで作る、通信対戦ができるHTML5ゲームシステムの作り方 - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/online_game_architecture_by_socketio/)
