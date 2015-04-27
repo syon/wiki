@@ -102,6 +102,13 @@ $ sudo chown -R $USER /usr/local
 - [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
 
 
+## [Electron](http://electron.atom.io/)
+
+> Build cross platform desktop apps with web technologies
+
+- [Electron(旧atom shell)基礎+入門](http://www.slideshare.net/mainya/electronatom-shell)
+
+
 ## Articles
 
 - [それでもNode.jsをやる // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/soredemonode-dot-jswoyaru)
