@@ -22,6 +22,8 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [CoffeeScriptってなんぞ？](http://www.slideshare.net/hayatomizuno/coffeescript-12241689)
 - [cookpad/styleguide](https://github.com/cookpad/styleguide/blob/master/coffeescript.ja.md) クックパッド CoffeeScript スタイルガイド
     - [CoffeeScript スタイルガイドの公開とその目的 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2015/04/15/092710)
+- [すぐに分かる CoffeeScript によるクラスの書き方 ｜ Developers.IO](http://dev.classmethod.jp/client-side/javascript/class-in-coffeescript/)
+- [CoffeeScriptでjQuery使うときのメモ | webOpixel](http://www.webopixel.net/javascript/660.html)
 
 
 ### TypeScript
