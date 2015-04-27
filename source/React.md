@@ -16,6 +16,7 @@
 - [Isomorphic Web Apps and React.js](http://jsforallof.us/2015/02/23/isomorphic-web-apps-and-react-js/)
 - [Ajaxを劇的に簡単にするReact.js – @masuidrive blog](http://blog.masuidrive.jp/2015/03/03/react/)
 - [reactjs - React 雑感 - Qiita](http://qiita.com/naoya@github/items/a4d54f5ab008c3fa4055)
+- [React概論 // Speaker Deck](https://speakerdeck.com/naoya/reactgai-lun)
 
 
 ## Learning
