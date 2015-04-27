@@ -28,6 +28,7 @@
 
 #### Flux
 - [reactjs - React.jsとFlux - Qiita](http://qiita.com/koba04/items/b32ba449d753fdb2b597)
+- [ReactとFluxのこと // Speaker Deck](https://speakerdeck.com/geta6/reacttofluxfalsekoto)
 
 
 ## Component styling
