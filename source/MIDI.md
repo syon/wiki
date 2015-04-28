@@ -17,6 +17,7 @@
 > 電子楽器ではレイテンシの程度（この場合、人間の操作と音の出るタイミングにずれが生じること）が重要だが、公開されたセッションムービーでは「実に低遅延（really low latency）でセンシティブ」だという。
 
 - [元ヤマハ技術者達が開発する世界初の電源不要ワイヤレスMIDI、mi.1 : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51896666.html#more)
+- [進化するBluetooth MIDI。QUICCO SOUNDのmi.1はレイテンシーを感じないレベルへ : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51935581.html)
 
 ### WebMidiLink
 
