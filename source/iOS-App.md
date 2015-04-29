@@ -30,3 +30,7 @@
 
 ### 開発関連まとめ
 - [iOS7の超絶勉強になるアプリ開発チュートリアルまとめ - Less is Best](http://yss44.hatenablog.com/entry/2014/01/20/194343)
+
+
+## Articles
+- [iOS用の業務アプリ開発を勧めない理由（ワケ）【opinions】 - GMBA](http://gmba.jp/2015-02-19-15-20-41/44-opinions/1219-opinion-oishi-vol2.html)
