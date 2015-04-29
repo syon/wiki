@@ -65,6 +65,7 @@ Noto is Google’s font family that aims to support all the world’s languages.
 - [商用でも無料で使える2種類の日本語フォント「刻明朝」「刻ゴシック」 - GIGAZINE](http://gigazine.net/news/20140327-koku-min-koku-go/)
 - [ほのかフォント｜オールド系フォント無料ダウンロード](http://font.gloomy.jp/)
 - [2015年版！漢字が使えて無料日本語フォント５０種](http://k-tsubo.com/web-design/3923/)
+- [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
 
 
 ## etc.
