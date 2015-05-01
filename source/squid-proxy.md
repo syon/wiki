@@ -96,8 +96,11 @@ $ lsof -i :3128
     - `/usr/local/opt/squid/share/errors/ja-jp`
 - pid
     - `/usr/local/var/run/squid.pid`
-- NCSA Auth
-    - `/usr/local/opt/squid/libexec/basic_ncsa_auth`
+- auth programs
+    - basic (NCSA)  
+      `/usr/local/opt/squid/libexec/basic_ncsa_auth`
+    - digest  
+      `/usr/local/opt/squid/libexec/digest_file_auth`
 
 
 ## Tips
