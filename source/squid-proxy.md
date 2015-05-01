@@ -94,6 +94,10 @@ $ lsof -i :3128
     - `/usr/local/etc/squid.conf`
 - error_directory
     - `/usr/local/opt/squid/share/errors/ja-jp`
+- pid
+    - `/usr/local/var/run/squid.pid`
+- NCSA Auth
+    - `/usr/local/opt/squid/libexec/basic_ncsa_auth`
 
 
 ## Tips
