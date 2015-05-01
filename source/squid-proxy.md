@@ -107,6 +107,12 @@ $ lsof -i :3128
 - [Reload Squid Proxy Server Without Restarting Squid Daemon](http://www.cyberciti.biz/faq/howto-linux-unix-bsd-appleosx-reload-squid-conf-file/)
 
 
+## Memo
+- `acl myaclname` で定義して `http_access allow myaclname` で利用
+- `http_access` は上から評価され、マッチするとそこで切り上げる。  
+  例えば allow localnet の下に allow password を記述しても、localnet 内の端末は常に許可される。
+
+
 ## Articles
 - [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
 - [squid で特定のサイトをアクセス拒否する](http://futuremix.org/2005/07/squid-access-deny)
