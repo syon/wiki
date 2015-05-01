@@ -54,9 +54,14 @@
   <li>[[Ruby on Rails]]
   <li>[[Sinatra]]
     <ul>
-      <li>[[Middleman]]
       <li>[[Gollum]]
     </ul>
+</ul>
+
+<h4>Static Site Generator</h4>
+<ul>
+  <li>[[Static Site Generator]]
+  <li>[[Middleman]]
 </ul>
 
 <h4>Cloud Platform</h4>
