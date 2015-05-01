@@ -7,3 +7,7 @@
 ### Bikeshed Discussion
 「瑣末なことほど議論が紛糾する現象」
 - [自転車置場の議論 - bkブログ](http://0xcc.net/blog/archives/000135.html)
+
+
+## Basic
+- [非エンジニアのためのこれだけは押さえておきたいWEBサービスの基礎技術](http://www.slideshare.net/tech-camp/ss-47269649)
