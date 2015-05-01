@@ -10,6 +10,7 @@
 ### 3D Model
 - [ニコニ立体](http://3d.nicovideo.jp/)
     - [ニコニ立体ちゃん特設サイト - ニコニ立体](http://3d.nicovideo.jp/alicia/)
+- [アニエスのハイクオリティMMDモデル無料配布！｜ブレイブリーセカンド｜SQUARE ENIX](http://www.jp.square-enix.com/second/mmd-download.html)
 
 
 ## Libraries
