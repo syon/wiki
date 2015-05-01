@@ -12,6 +12,7 @@
 - [今夜つける HTTPレスポンスヘッダー （セキュリティ編） - うさぎ文学日記](http://d.hatena.ne.jp/sen-u/20131130/p1)
 - [他人事ではないWebセキュリティ](http://www.slideshare.net/hasegawayosuke/kobe-itfes)
 - [色んなXSS | Nootropic.me-blog](http://nootropic.me/blog/2015/02/16/%E8%89%B2%E3%82%93%E3%81%AAxss/)
+- [SHA1でハッシュ化したパスワードは危険になった | yohgaki's blog](http://blog.ohgaki.net/password-hashed-only-by-sha1-is-not-safe)
 
 
 ### Fiddler
