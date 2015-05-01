@@ -107,6 +107,7 @@ $ sudo chown -R $USER /usr/local
 > Build cross platform desktop apps with web technologies
 
 - [Electron(旧atom shell)基礎+入門](http://www.slideshare.net/mainya/electronatom-shell)
+- [実践Isomorphic(+ Electron) // Speaker Deck](https://speakerdeck.com/mizchi/shi-jian-isomorphic-plus-electron)
 
 
 ## Articles
