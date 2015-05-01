@@ -18,7 +18,14 @@
 </pre>
 
 
-### Articles
+## Network
+
+#### LAN内で利用されているIPアドレスを調べる
+
+    $ arp -a
+
+
+## Articles
 
 - [標準コマンドから乗り換えよう！より良いLinuxコマンドラインユーティリティー11選 | 俺的備忘録 〜なんかいろいろ〜](http://orebibou.com/2014/08/%e6%a8%99%e6%ba%96%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89%e3%81%8b%e3%82%89%e4%b9%97%e3%82%8a%e6%8f%9b%e3%81%88%e3%82%88%e3%81%86%ef%bc%81%e3%82%88%e3%82%8a%e8%89%af%e3%81%84linux%e3%82%b3%e3%83%9e/)
 - [Unixデーモンの仕組み](https://engineering.otobank.co.jp/2015/03/12/daemon/)
