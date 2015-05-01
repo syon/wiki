@@ -106,6 +106,11 @@ $ lsof -i :3128
 ## Tips
 - [Reload Squid Proxy Server Without Restarting Squid Daemon](http://www.cyberciti.biz/faq/howto-linux-unix-bsd-appleosx-reload-squid-conf-file/)
 
+`kill -HUP`だとうまく機能しなかった、`--help`も効かないのでそのうち調べる
+```sh
+$ kill $(cat /usr/local/var/run/squid.pid)
+```
+
 
 ## Memo
 - `acl myaclname` で定義して `http_access allow myaclname` で利用
