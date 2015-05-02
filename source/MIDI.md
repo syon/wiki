@@ -24,3 +24,6 @@
 - [WebMidiLink - 1.Introduction | g200kg Music & Software](http://www.g200kg.com/en/docs/webmidilink/)
 - [syon/web-midi-link](https://github.com/syon/web-midi-link)
 - [Webでポリシンセ作るときのテンプレ作った - aikeの日記](http://d.hatena.ne.jp/aike/20140909)
+
+## Libraries
+- [Beep.js](http://beepjs.com/)
