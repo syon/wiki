@@ -1,12 +1,12 @@
-### Web MIDI API
+### API
 
-- [Web MIDI API (日本語訳)](http://g200kg.github.io/web-midi-api-ja/)
-- [ブラウザとMIDIの出会いが拓くWebとMusicの新しい世界「HTML5 Conference 2013」 | HTML5Experts.jp](http://html5experts.jp/miyuki-baba/3758/)
-- [Web MIDI API 実験室](http://haramikata.jougennotuki.com/)
-- [Web MIDI APIが拓くWeb音楽の世界 - 大音学会 2013](http://www.slideshare.net/ryoyakawai/web-midi-api-2013)
-    - [ryoyakawai/WebMIDIAPIWrapper](https://github.com/ryoyakawai/WebMIDIAPIWrapper)
-    - [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls)
-- [yamaha-webmusic/webmusicplatform](https://github.com/yamaha-webmusic/webmusicplatform)
+#### Web MIDI API
+
+- → __[[Audio|audio]]__
+
+#### WebMidiLink
+
+- → __[[Audio|audio]]__
 
 ### MIDI over Bluetooth LE
 
@@ -18,9 +18,3 @@
 
 - [元ヤマハ技術者達が開発する世界初の電源不要ワイヤレスMIDI、mi.1 : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51896666.html#more)
 - [進化するBluetooth MIDI。QUICCO SOUNDのmi.1はレイテンシーを感じないレベルへ : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51935581.html)
-
-### WebMidiLink
-
-- [WebMidiLink - 1.Introduction | g200kg Music & Software](http://www.g200kg.com/en/docs/webmidilink/)
-- [syon/web-midi-link](https://github.com/syon/web-midi-link)
-- [Webでポリシンセ作るときのテンプレ作った - aikeの日記](http://d.hatena.ne.jp/aike/20140909)
