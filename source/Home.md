@@ -131,7 +131,7 @@
 </ul>
 <h3>Sounds</h3>
 <ul>
-  <li>[[Sound|sound]]
+  <li>[[Audio|audio]]
   <li>[[Music]]
   <li>[[効果音|SoundEffect]]
   <li>[[MIDI]]
