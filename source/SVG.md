@@ -9,6 +9,9 @@ The JavaScript SVG library for the modern web.
 #### [svg.js](http://www.svgjs.com/)
 A lightweight JavaScript library for manipulating and animating svg
 
+#### [CairoSVG](http://cairosvg.org/)
+CairoSVG is a SVG converter based on Cairo. It can export SVG files to PDF, PostScript and PNG files.
+
 
 ### まとめ
 
