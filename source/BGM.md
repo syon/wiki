@@ -23,3 +23,4 @@
 #### Articles
 - [作業効率UP！ 環境音が聞けるWebサービス30選](http://yuma-z.com/blog/2014/04/ambient_sound/)
 - [アンビエントとかいう音楽のジャンルｗｗｗｗｗｗｗｗ](http://alfalfalfa.com/archives/7657883.html)
+- [【作業BGM】本気で作業したい人のために（新しく追加しました） - NAVER まとめ](http://matome.naver.jp/odai/2133596327777856401)
