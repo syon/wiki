@@ -110,6 +110,10 @@ $ lsof -i :3128
 ```sh
 $ kill $(cat /usr/local/var/run/squid.pid)
 ```
+reload the squid after making changes to squid.conf file
+```sh
+$ /usr/local/sbin/squid -k reconfigure
+```
 
 
 ## Memo
