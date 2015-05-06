@@ -22,3 +22,11 @@ Obelisk.js is a JavaScript library for building isometric pixel objects.
 
 ## Animations
 - [motions - あなたに「気持ちいい動き」のインスピレーションを](http://motions.me/)
+
+
+## Works
+
+#### [OutsideOfSociety](http://oos.moxiecode.com/blog/)
+- [Autumn](http://oos.moxiecode.com/js_webgl/autumn/)
+- [Replicate](http://oos.moxiecode.com/js_webgl/replicate/)
+- [Spring](http://oos.moxiecode.com/js_webgl/spring/)
