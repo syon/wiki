@@ -99,6 +99,7 @@
 
 <h4>Shell</h4>
 <ul>
+  <li>[[Shell]]
   <li>[[UNIXコマンド|UNIX command]]
   <li>[[zsh]]
   <li>[[tmux]]
