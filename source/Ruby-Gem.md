@@ -35,6 +35,20 @@ update: --no-document
 ```
 
 
+## Bundler
+
+### config
+`$ bundle install --path vendor/bundle`が面倒なときは
+
+```sh
+$ bundle config --global path vendor/bundle
+
+$ cat .bundle/config
+---
+BUNDLE_PATH: vendor/bundle
+```
+
+
 ## Gem便利情報
 - [Gems - すべてのプロジェクトでいれておくべく7つの開発用Gem - Qiita](http://qiita.com/icb54615/items/374f76b38f673fab7744)
 
