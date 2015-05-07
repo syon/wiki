@@ -38,7 +38,8 @@ update: --no-document
 ## Bundler
 
 ### config
-`$ bundle install --path vendor/bundle`が面倒なときは
+
+`$ bundle install --path vendor/bundle`の入力が面倒なときは
 
 ```sh
 $ bundle config --global path vendor/bundle
@@ -47,6 +48,7 @@ $ cat .bundle/config
 ---
 BUNDLE_PATH: vendor/bundle
 ```
+これで、`$ bundle install`とだけ入力すれば`vendor/bundle`にGemがインストールされる。
 
 
 ## Gem便利情報
