@@ -34,6 +34,16 @@ install: --no-document
 update: --no-document
 ```
 
+
+## Gem便利情報
+- [Gems - すべてのプロジェクトでいれておくべく7つの開発用Gem - Qiita](http://qiita.com/icb54615/items/374f76b38f673fab7744)
+
+#### Gemfile
+```ruby
+gem 'awesome_print', require: 'ap' # require 'ap' で呼び出せるようになる
+```
+
+
 ## Gem - スクレイピング
 
 - [まだmechanizeで消耗してるの? WebDriverで銀行をスクレイピング（ProtractorとWebdriverIOを例に） - 詩と創作・思索のひろば (Poetry, Writing and Contemplation)](http://motemen.hatenablog.com/entry/2014/10/01/scrape-by-protractor-webdriverio)
