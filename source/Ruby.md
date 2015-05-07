@@ -51,6 +51,10 @@ Ruby関連の厳選リンク集
 
 ### よく使う
 
+#### Encoding
+
+    # coding: utf-8
+
 #### 正規表現
 
 ```ruby
