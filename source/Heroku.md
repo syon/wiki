@@ -20,6 +20,11 @@ $ git push heroku master
 #### Ruby versions
 - [Heroku Ruby Support | Heroku Dev Center](https://devcenter.heroku.com/articles/ruby-support)
 
+#### Keep alive
+- keyword: `HEROKU_URL`
+- [無料でお手軽Cron！Google Apps Scriptを使ってみる。 - きじとら](http://kijtra.com/article/cron-by-google-apps-script/)
+- [HerokuのDynoが寝ないようにする - Qiita](http://qiita.com/hanachin_/items/2f88f6079af0b35ed5e3)
+
 
 ## Create App
 
