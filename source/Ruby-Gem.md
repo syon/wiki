@@ -113,3 +113,4 @@ ruby-oci8 はOracle Database用の ruby インターフェースです。Oracle8
 
 - [Bundlerを使ったGem作成メモ (自分用) - ただのにっき(2012-02-18)](http://sho.tdiary.net/20120218.html#p02)
 - [RubyのOptionParserの底力を知る - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20140819/ruby_optparser_true_power)
+- [GistでGemを公開する - Qiita](http://qiita.com/r7kamura/items/5e7d082d8e0d0471d71d#show-all-stockers)
