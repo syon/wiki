@@ -49,3 +49,8 @@
 ## メモ
 
 - [Safari HTML Reference: Supported Meta Tags](http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html)
+
+#### schema.org
+- [schema.org 日本語訳 - ホーム](http://schema-ja.appspot.com/)
+
+> スキーマとは、ウェブマスターがページをマークアップすることによって大手検索プロバイダーに認識されやすくなるHTMLタグです。 Bing、Google、Yahoo! などの検索エンジンサイトはこのマークアップを通してより質の高い検索結果を出すことができ、またユーザは探したいページを簡単に見つけられるようになります。
