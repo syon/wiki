@@ -130,6 +130,10 @@ function getParameterByName(name) {
 
 - [JavaScript とかによるブラウザ判定方法のまとめ - etc9](http://d.hatena.ne.jp/Naotsugu/20110927/1317140891)
 
+### EventListener
+
+- [JavaScript - addEventListener / removeEventListener サンプル – nocorica](http://blog.nocorica.jp/2015/05/js-eventlistener/)
+
 ### 高速化
 
 - [一行で IE の JavaScript を高速化する方法 - IT戦記](http://d.hatena.ne.jp/amachang/20071010/1192012056)
