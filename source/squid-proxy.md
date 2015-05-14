@@ -115,6 +115,11 @@ reload the squid after making changes to squid.conf file
 $ /usr/local/sbin/squid -k reconfigure
 ```
 
+### Black List / White List
+- [squid で特定のサイトをアクセス拒否する](http://futuremix.org/2005/07/squid-access-deny)
+- [squid で特定のサイトのみアクセスを許可する](http://futuremix.org/2005/07/squid-access-allow)
+- [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
+
 
 ## Memo
 - `acl myaclname` で定義して `http_access allow myaclname` で利用
@@ -123,8 +128,6 @@ $ /usr/local/sbin/squid -k reconfigure
 
 
 ## Articles
-- [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
-- [squid で特定のサイトをアクセス拒否する](http://futuremix.org/2005/07/squid-access-deny)
 - [Squidでニコ動を高速化＆時報回避する方法 » NezBlog](http://blog.nezweb.net/archives/118)
 - [認証付きプロキシを強要されるOSXユーザがsquildで幸せになれた話 - Qiita](http://qiita.com/kmats@github/items/8a41c942e079c7a95919)
 - [proxyサーバ squidでアクセス時に認証を要求する設定 パソコン鳥のブログ/ウェブリブログ](http://vogel.at.webry.info/201306/article_19.html)
