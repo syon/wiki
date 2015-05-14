@@ -31,6 +31,10 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
 
 
+## Debug
+- [Best JavaScript Debugging Tools | jQueryHouse](http://jqueryhouse.com/best-javascript-debugging-tools/)
+
+
 ## Template Engine
 
 - [So you need a template engine..](http://garann.github.io/template-chooser/)  
