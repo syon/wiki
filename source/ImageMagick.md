@@ -10,3 +10,9 @@
   公式によるたくさんのコマンドサンプル
 - [Imagemagick how to call colours](http://www.rubblewebs.co.uk/imagemagick/notes/colours.php)  
   色の指定記法いろいろ
+
+### Example
+
+```sh
+$ convert.exe -size 100x100 xc:#FF0000 red.png
+```
