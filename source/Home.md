@@ -95,6 +95,7 @@
   <li>[[Git]]
   <li>[[GitHub]]
   <li>[[Redmine]]
+  <li>[[ImageMagick]]
 </ul>
 
 <h4>Shell</h4>
