@@ -63,6 +63,12 @@ A touch slideout navigation menu for your mobile web apps.
 ### [Simple Modal - Another window modal](http://simplemodal.plasm.it/)
 
 
+## Image
+
+#### [watermark.js](http://brianium.github.io/watermarkjs/)
+watermarks in the browser
+
+
 ## Animations
 
 ### [☆ sweep.js ☆](http://rileyjshaw.com/sweep/)
