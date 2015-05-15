@@ -6,7 +6,7 @@
 
 
 ## Create image
-- [Canvas Creation -- IM v6 Examples](http://www.imagemagick.org/Usage/canvas/)
+- [Canvas Creation -- IM v6 Examples](http://www.imagemagick.org/Usage/canvas/)  
   公式によるたくさんのコマンドサンプル
-- [Imagemagick how to call colours](http://www.rubblewebs.co.uk/imagemagick/notes/colours.php)
+- [Imagemagick how to call colours](http://www.rubblewebs.co.uk/imagemagick/notes/colours.php)  
   色の指定記法いろいろ
