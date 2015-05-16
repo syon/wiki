@@ -205,6 +205,13 @@ $ irb -r 'myclass.rb'
 - [irb を快適に使うための Tips - すがブロ](http://sugamasao.hatenablog.com/entry/20091207/1260143043)
 - [configuration - IRb: how to start an interactive ruby session with pre-loaded classes - Stack Overflow](http://stackoverflow.com/questions/2652514/irb-how-to-start-an-interactive-ruby-session-with-pre-loaded-classes)
 
+### Pry
+#### [Pry - an IRB alternative and runtime developer console](http://pryrepl.org/)
+
+- [Rubyistよ、irbを捨ててPryを使おう - TIM Labs](http://labs.timedia.co.jp/2011/12/rubyist-should-use-pry.html)
+- [Ruby - Pryコンソールのプロンプトをカラフルかつ便利にする - Qiita](http://qiita.com/okuramasafumi/items/900286cd4f07c1bbbb5d)
+- [Ruby - awesome_print を pry の表示のデフォルトに使う - Qiita](http://qiita.com/Linda_pp/items/d75d7c3953faa34a1f0e)
+
 
 ## TIPS
 
