@@ -11,6 +11,9 @@ Beep is a JavaScript toolkit for building browser-based synthesizers.
 #### [taglib-ruby](http://robinst.github.io/taglib-ruby/)
 Ruby library for reading and writing meta-data (tags) of many audio formats
 
+- [Class: TagLib::MPEG::File — Documentation for taglib-ruby (0.7.0)](http://www.rubydoc.info/gems/taglib-ruby/TagLib/MPEG/File)  
+  The file class for `.mp3` and other MPEG files.
+
 
 ## API
 
