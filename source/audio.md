@@ -2,8 +2,14 @@
 - [StaffPad - Write Naturally](http://staffpad.net/)
 
 ### Libraries
-- [SoundManager 2: JavaScript Sound For The Web](http://www.schillmania.com/projects/soundmanager2/)
-- [Beep.js](http://beepjs.com/)
+#### [SoundManager 2](http://www.schillmania.com/projects/soundmanager2/)
+JavaScript Sound For The Web
+
+#### [Beep.js](http://beepjs.com/)
+Beep is a JavaScript toolkit for building browser-based synthesizers.
+
+#### [taglib-ruby](http://robinst.github.io/taglib-ruby/)
+Ruby library for reading and writing meta-data (tags) of many audio formats
 
 
 ## API
