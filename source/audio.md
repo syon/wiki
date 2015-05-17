@@ -13,6 +13,7 @@ Ruby library for reading and writing meta-data (tags) of many audio formats
 
 - [Class: TagLib::MPEG::File — Documentation for taglib-ruby (0.7.0)](http://www.rubydoc.info/gems/taglib-ruby/TagLib/MPEG/File)  
   The file class for `.mp3` and other MPEG files.
+- [MP3ファイルのID3タグを一度に変更できるツールを作ってみた - yuumi3のお仕事日記](http://yuumi3.hatenablog.com/entry/2014/08/20/175825)
 
 
 ## API
