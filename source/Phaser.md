@@ -63,6 +63,13 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   It is our aim that the core of Phaser will eventually settle down and hit a nice stable equilibrium, where we're not likely to touch it much beyond fixes and browser updates.
     - A great example of this is the recently released [EasyStar](https://github.com/prettymuchbryce/easystarjs) path finding plugin ([easystar.js](http://easystarjs.com/))
 
+
+## Plugins
+
+#### [englercj/phaser-debug](https://github.com/englercj/phaser-debug)
+Simple debug module for the Phaser game framework.
+
+
 ## Learn By Example
 
 - [Phaser Examples](http://examples.phaser.io/)  
