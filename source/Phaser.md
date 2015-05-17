@@ -14,7 +14,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   HTML5ベースのゲームエンジン一覧。比較がしやすい。
 - __[HTML5ゲームエンジン「Phaser」が初心者とモバイルにやさしくていい感じです - X X X](http://syonx.hatenablog.com/entry/2014/07/05/103418)__
 
-### Phaser Sites
+## Phaser Sites
 
 - [Documentation](http://docs.phaser.io/)  
   ドキュメント。各クラスのdocもある。
@@ -28,7 +28,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
 - [Phaser Plugins](https://github.com/photonstorm/phaser-plugins)  
   "We are trying hard to keep the core of Phaser limited to only essential classes"
 
-### Overview
+## Overview
 
 [How to Learn the Phaser HTML5 Game Engine - Tuts+ Game Development Article](http://gamedevelopment.tutsplus.com/articles/how-to-learn-the-phaser-html5-game-engine--gamedev-13643)
 - What Platforms Can I Target With Phaser?
@@ -63,7 +63,7 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   It is our aim that the core of Phaser will eventually settle down and hit a nice stable equilibrium, where we're not likely to touch it much beyond fixes and browser updates.
     - A great example of this is the recently released [EasyStar](https://github.com/prettymuchbryce/easystarjs) path finding plugin ([easystar.js](http://easystarjs.com/))
 
-### Learn By Example
+## Learn By Example
 
 - [Phaser Examples](http://examples.phaser.io/)  
   公式サンプル集
@@ -83,12 +83,12 @@ this.player.animations.add('left', [6, 7], 10, true);
 this.player.animations.play('left');
 ```
 
-#### 参考作品
+## 参考作品
 
 - → __[[Game]]__
 
 
-### Tutorials
+## Tutorials
 
 - [Photon Storm » Blog Archive » Tutorial: Making your first Phaser game](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
 
@@ -112,11 +112,11 @@ this.player.animations.play('left');
 - [Multi-platform Games with PhaserJS | Eden Digital Agency](http://createdineden.com/blog/2014/may/01/multi-platform-games-with-phaserjs/)  
   Xcode の UIWebView を使った実装例あり。
 
-### Tips
+## Tips
 
 - [Fullscreen Scaling in Phaser | tjkopena](http://www.rocketshipgames.com/blogs/tjkopena/2014/10/fullscreen-scaling-in-phaser/)
 
-### TypeScript
+## TypeScript
 
 #### [Phaser × TypeScript で快適なゲーム開発環境を構築する - X X X](http://syonx.hatenablog.com/entry/2014/09/12/003000)
 
@@ -124,23 +124,23 @@ this.player.animations.play('left');
 - [Photon Storm » Blog Archive » Advanced Phaser and TypeScript Projects](http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects)
 - [Adventures in Phaser with TypeScript–Particles](http://www.gamefromscratch.com/post/2014/09/05/Adventures-in-Phaser-with-TypeScript-Particles.aspx)
 
-### Tile Map
+## Tile Map
 
-#### Editor
+### Editor
 
-##### [Tiled Map Editor](http://www.mapeditor.org/)
+#### [Tiled Map Editor](http://www.mapeditor.org/)
 - [Collisions and Collectables: How To Make a Tile-Based Game with Cocos2D 2.X Part 2 | Ray Wenderlich](http://www.raywenderlich.com/29460/collisions-and-collectables-how-to-make-a-tile-based-game-with-cocos2d-2-x-part-2)
 
-##### [Mighty Editor](http://mightyeditor.mightyfingers.com/)
+#### [Mighty Editor](http://mightyeditor.mightyfingers.com/)
 - [HTML5 Game Editor | Web Based | MightyFingers » Blog Archive » Game editor on Phaser.io](http://mightyfingers.com/blog/game-editor-o-phaser/)
 
-##### [Deadly Alien Map Editor](http://dambots.com/dame-editor/)
+#### [Deadly Alien Map Editor](http://dambots.com/dame-editor/)
 - [Photon Storm » Blog Archive » DAME 2 Released – My Favourite Game Map Editor!](http://www.photonstorm.com/game-development/software/dame-2-released-my-favourite-game-map-editor)
 
-##### [Toast Editor](http://toastedware.com/toasteditor/)
+#### [Toast Editor](http://toastedware.com/toasteditor/)
 - [Tutorial: Sketch your levels with Toast Editor and load them into Phaser HTML5 game framework • Toastedware](http://toastedware.com/?p=297)
 
-### iPhone対応
+## iPhone対応
 
 - iPhoneのタップに対応する
     - [How to capture a touch event on mobile device - Phaser - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/1764-how-to-capture-a-touch-event-on-mobile-device/)
