@@ -162,7 +162,12 @@ window.addEventListener("load", function() {
 if (typeof a === "undefined") {
 </pre>
 
-### 引数有りのsetTimeout()
+### setTimeout
+- [JavaScript - setTimeout(...,0)などの使いドコロ - Qiita](http://qiita.com/jkr_2255/items/17693ab77beea71a871c)
+
+> じつは、setTimeoutはJavaScriptの言語機能ではなくてブラウザ側の機能です。これも一種のイベントコールバックだと考えるとスッキリします。
+
+#### 引数有りのsetTimeout()
 
 - [引数有りのsetTimeout()について ＭＡｘＵｒａの落書き帳　～Ｓｃｒａｗｌ　Ｎｏｔｅ～](http://maxura.blog62.fc2.com/blog-entry-179.html)
 
