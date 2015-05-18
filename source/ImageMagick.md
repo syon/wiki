@@ -14,5 +14,5 @@
 ### Example
 
 ```sh
-$ convert.exe -size 100x100 xc:#FF0000 red.png
+$ convert -size 100x100 xc:#FF0000 red.png
 ```
