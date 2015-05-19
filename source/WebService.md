@@ -54,6 +54,9 @@
 - [PatternBolt](http://buseca.github.io/patternbolt/)  
   背景要素にCSSでSVGのパターンを被せるやつ
 
+- [waifu2x](http://waifu2x.udp.jp/)
+  深層畳み込みニューラルネットワークによる二次元画像のための超解像システム.
+
 ### フォトブック
 
 - [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
