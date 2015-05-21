@@ -114,6 +114,8 @@ iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を�
 - [ロイヤリティフリー写真限定！完全無料のフォトストックサイトStockSnap - Photoshop VIP](http://photoshopvip.net/archives/73663)
 - [プレゼンテーションに使う画像の探し方 - Qiita](http://qiita.com/TAKAKING22/items/20c006206d2ce23a5608)  
   リンク集
+- [Stokpic](http://stokpic.com/)  
+  Unlimited Royalty Free stock photos and images For Commercial use
 
 ### Texture / Pattern
 
