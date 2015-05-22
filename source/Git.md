@@ -45,6 +45,12 @@ $ git config user.email johndoe@example.com
 ```
 - [Gitコミットを任意の名前とメールアドレスで行うコマンド - Y-Ken Studio](http://y-ken.hatenablog.com/entry/git-commit-as-different-user)
 
+#### direnv
+
+- [direnvを使って複数のgitコミッタ名を切り替える - MANA-DOT](http://blog.manaten.net/entry/direnv_git_account)
+
+> あるディレクトリに .envrc というファイルを置いておくと、そのディレクトリ以下に cd した時に .envrc の内容の環境変数が読み込まれるという代物です。
+
 
 ## SSH認証キーの設定
 
