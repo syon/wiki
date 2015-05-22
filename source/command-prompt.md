@@ -102,6 +102,13 @@ cd /d %~dp0
 - [Windowsのコマンドラインでファイルコピーするならxcopyよりrobocopy - WEBお笑いエンジニアの日記](http://d.hatena.ne.jp/turkey_hate/20130712)
 
 ### setx
+```sh
+# ユーザー環境変数に値をセットする場合
+setx http_server http://localhost:3128
+# システム環境変数に値をセットする場合
+setx /M http_server http://localhost:3128
+```
+
 - [Windows - SETX コマンドで環境変数を永続的に設定する - Qiita](http://qiita.com/rohinomiya/items/cf5236678b3459da9017)
 - [setxで環境変数の値を設定する（基本編） － ＠IT](http://www.atmarkit.co.jp/fwin2k/win2ktips/1003setx/setx.html)
 - [uzulla/how_to_setup_path_on_windows · GitHub](https://github.com/uzulla/how_to_setup_path_on_windows)
