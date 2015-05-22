@@ -104,9 +104,9 @@ cd /d %~dp0
 ### setx
 ```sh
 # ユーザー環境変数に値をセットする場合
-setx http_server http://localhost:3128
+setx http_proxy http://localhost:3128
 # システム環境変数に値をセットする場合
-setx /M http_server http://localhost:3128
+setx /M http_proxy http://localhost:3128
 ```
 
 - [Windows - SETX コマンドで環境変数を永続的に設定する - Qiita](http://qiita.com/rohinomiya/items/cf5236678b3459da9017)
