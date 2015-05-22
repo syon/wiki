@@ -17,6 +17,10 @@
 
 - [Maven | TECHSCORE(テックスコア)](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/index/)
 
+#### Proxy settings
+- [Maven2にプロキシを教える](http://www.jxpath.com/maven2/step1/proxy.html)
+- `C:\java\apache-maven-3.3.3\conf\settings.xml`
+
 
 ## [Play Framework](https://www.playframework.com/)
 Build Modern & Scalable Web Apps with Java and Scala  
