@@ -1,3 +1,19 @@
+## DOM is ready
+
+```js
+$(function() {
+  // Document is ready
+});
+```
+```js
+jQuery(function( $ ) {
+  // Your code using failsafe $ alias here...
+});
+```
+
+
+## Events
+
 #### イベント発火
 see also: [[JavaScript#タッチパネル対応]]
 ```js
@@ -20,6 +36,9 @@ $("a").click(function(event){
   event.preventDefault();
 });
 ```
+
+
+## Elements
 
 #### クラス切り替え
 
