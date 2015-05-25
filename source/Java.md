@@ -22,6 +22,12 @@
 - `C:\java\apache-maven-3.3.3\conf\settings.xml`
 - `C:\Users\username\.m2\settings.xml`
 
+#### Oracle JDBC
+- [MavenでOracle JDBC(ojdbc.jar)を使うには | つかびーの技術日記](http://tsukaby.com/tech_blog/archives/99)
+
+```sh
+> mvn install:install-file -Dfile=path\to\ojdbc6.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0 -Dpackaging=jar
+```
 
 ## [Play Framework](https://www.playframework.com/)
 Build Modern & Scalable Web Apps with Java and Scala  
