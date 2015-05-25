@@ -30,6 +30,15 @@
 ```sh
 > mvn install:install-file -Dfile=path\to\ojdbc6.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0 -Dpackaging=jar
 ```
+pom.xml
+```sh
+    <dependency>
+        <groupId>com.oracle</groupId>
+        <artifactId>ojdbc6</artifactId>
+        <version>11.2.0</version>
+    </dependency>
+```
+
 
 ## [Play Framework](https://www.playframework.com/)
 Build Modern & Scalable Web Apps with Java and Scala  
