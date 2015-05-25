@@ -17,6 +17,9 @@
  wget http://www.example.com/ -O -
 </pre>
 
+### curl
+- [WebAPIリクエスト仕様書としてcurlコマンドのご提案 - Qiita](http://qiita.com/Hiraku/items/dfda2f8a5353b0742271)
+
 
 ## Network
 
