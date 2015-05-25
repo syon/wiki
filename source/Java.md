@@ -20,6 +20,7 @@
 #### Proxy settings
 - [Maven2にプロキシを教える](http://www.jxpath.com/maven2/step1/proxy.html)
 - `C:\java\apache-maven-3.3.3\conf\settings.xml`
+- `C:\Users\username\.m2\settings.xml`
 
 
 ## [Play Framework](https://www.playframework.com/)
