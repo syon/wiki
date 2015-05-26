@@ -40,6 +40,15 @@ pom.xml
 ```
 
 
+## Spring Boot
+- [今学ぶJava(1) - Spring Bootどうでしょう - syonx](http://syonx.hatenablog.com/entry/2015/05/05/034359)
+- [今学ぶJava(3) - Maven・Spring Boot体験 「Rubyでいうと…」 - syonx](http://syonx.hatenablog.com/entry/2015/05/06/022545)
+- [今学ぶJava(4) - Spring Boot + Thymeleaf - syonx](http://syonx.hatenablog.com/entry/2015/05/06/151032)
+- [今学ぶJava(5) - Spring Boot + データベース - syonx](http://syonx.hatenablog.com/entry/2015/05/06/192203)
+
+- [spring-boot - Spring Boot 使い方メモ - Qiita](http://qiita.com/opengl-8080/items/05d9490d6f0544e2351a)
+
+
 ## [Play Framework](https://www.playframework.com/)
 Build Modern & Scalable Web Apps with Java and Scala  
 Ruby on Railsの哲学をJavaで実現することを目的としたフレームワーク
