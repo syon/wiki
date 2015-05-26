@@ -48,6 +48,8 @@ A C implementation of a Sass compiler
     - [Refills](http://refills.bourbon.io/): __Components and patterns__ built with Bourbon and Neat.
 - [Primer](http://primercss.io/)  
   The CSS toolkit and guidelines that power GitHub.
+- [Outline](http://outlinecss.co.uk/)  
+  The clean & simple responsive CSS framework.
 
 
 ## CSS Code
