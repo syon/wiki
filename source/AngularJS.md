@@ -12,6 +12,9 @@
 
 - [AngularJSリンク集 - albatrosary's blog](http://albatrosary.hateblo.jp/entry/2014/09/07/214630)
 
+- [johnpapa/angular-styleguide · GitHub](https://github.com/johnpapa/angular-styleguide)  
+  Angular Style Guide
+
 
 ## Practice
 - [JavaScript - AngularJSモダンプラクティス - Qiita](http://qiita.com/armorik83/items/5542daed0c408cb9f605)
