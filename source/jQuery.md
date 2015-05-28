@@ -127,17 +127,28 @@ $('form').submit(function() {
 });
 ```
 
-### 繰り返し
+
+## Tips
+
+#### Version
+```js
+$.fn.jquery
+//=> 1.11.3
+```
+
+#### 繰り返し
 
 - [jQuery each関数による繰り返し処理 « jQuery« javascript « ActionScript3.0 プログラミング入門 for designers](http://gelsol.sub.jp/javascript/jquery/003.html)
 
-### Ajax
+
+## Ajax
 
 - [jQuery モダンAjaxな書き方を目指して　?deferredを使ったAJAX? - Hack Your Design!](http://blog.toshimaru.net/jquery-ajaxdeferredajax/)
 - [とほほのjQuery入門 ■ Ajax(Low-Level Interface)](http://www.tohoho-web.com/js/jquery/ajax.htm)
 - [MadCap　Java - JSONを使用しJavaサーブレットに対してAjax通信を行う](http://madcap-labo.com/java/json_ajax_sample.html)
 
-### Tips
+
+## Tips
 
 - [jQueryをロードする際のナイス！と思った書き方](http://dtp.jdash.info/archives/51941752.html)
 ```html
