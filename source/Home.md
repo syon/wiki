@@ -17,7 +17,6 @@
   <li>[[JavaScript]]
     <ul>
       <li>[[jQuery]]
-      <li>[[AngularJS]]
       <li>[[D3.js|D3js]]
       <li>[[Three.js|Threejs]]
       <li>[[famo.us|Famous]]
@@ -29,8 +28,10 @@
   <li>[[Phaser]]
 </ul>
 
-<h4>Web Components</h4>
+<h4>JS Framework</h4>
 <ul>
+  <li>[[JS Framework|js-framework]]
+  <li>[[AngularJS]]
   <li>[[Polymer]]
   <li>[[React]]
 </ul>
