@@ -136,6 +136,12 @@ MIME type of `.xlsx` - [Description of the default settings for the MimeMap prop
 
 ### JSON
 
+#### Jackson
+- [Jackson JSON Processor | Java プログラミング解説](http://so-zou.jp/software/tech/programming/java/package/json/jackson.htm)
+- [FasterXML/jackson-core · GitHub](https://github.com/FasterXML/jackson-core)
+- [FasterXML/jackson-databind · GitHub](https://github.com/FasterXML/jackson-databind)
+- [FasterXML/jackson-annotations · GitHub](https://github.com/FasterXML/jackson-annotations)
+
 #### [Google Gson](https://github.com/google/gson)
 - [Java - GSONの基本的な使い方 - Qiita](http://qiita.com/u-chida/items/cbdd040e4199a10936dc)
 - [google-gsonメモ - Qiita](http://qiita.com/yyoshikaw/items/850639ebf49ecfbc978c)
