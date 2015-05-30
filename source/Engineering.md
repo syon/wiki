@@ -11,3 +11,10 @@
 
 ## Basic
 - [非エンジニアのためのこれだけは押さえておきたいWEBサービスの基礎技術](http://www.slideshare.net/tech-camp/ss-47269649)
+
+
+## Data
+
+#### [willnet/gimei](https://github.com/willnet/gimei)
+
+> gimei は、日本人の名前や、日本の住所をランダムに返すライブラリです。テストの時などに使います。似たようなライブラリにfakerがあります。fakerはとても優れたライブラリで、多言語対応もしていますが、ふりがな(フリガナ)は流石に対応していません。gimei ふりがな(及びフリガナ)に対応しています。
