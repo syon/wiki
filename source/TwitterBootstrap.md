@@ -42,6 +42,7 @@
 
 - [Material Design for Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)
 
+- [Bootstrapで日本語をより美しく表示させることにこだわった無料のテーマ -Honoka | コリス](http://coliss.com/articles/build-websites/operation/work/bootstrap-theme-honoka.html)
 
 ### まとめ
 
