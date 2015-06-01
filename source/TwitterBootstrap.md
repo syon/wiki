@@ -4,6 +4,12 @@
 - [Bootstrap (SlideShare)](http://www.slideshare.net/428design/bootstrap-39267140)  
   わかりやすい解説
 
+
+## Plugin
+#### [Smoke](http://alfredobarron.github.io/smoke/#/)
+> Smoke is the most complete jQuery Plugin and designed for use with Bootstrap 3
+
+
 ## Themes
 
 ### Search
