@@ -57,6 +57,8 @@ Ruby関連の厳選リンク集
 
 #### 正規表現
 
+- [正規表現](http://docs.ruby-lang.org/ja/2.2.0/doc/spec=2fregexp.html)
+
 ```ruby
 # 抽出
 "Hello, World".slice /W.+$/  #=> "World"
