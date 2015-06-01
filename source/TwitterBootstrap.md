@@ -6,8 +6,11 @@
 
 
 ## Plugin
+
 #### [Smoke](http://alfredobarron.github.io/smoke/#/)
 > Smoke is the most complete jQuery Plugin and designed for use with Bootstrap 3
+
+フォームのバリデートや通知、モダンなプログレスバー、フルスクリーン機能、パネル等の機能を追加
 
 
 ## Themes
