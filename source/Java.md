@@ -94,6 +94,10 @@ Provides extra functionality for classes in java.lang.
 
 - [Java - 知らないと損しそうなApache Commonsの機能集 - Qiita](http://qiita.com/horimislime/items/a9b9cf89e13cc9639ff2)
 
+#### [FileUpload](http://commons.apache.org/proper/commons-fileupload/)
+
+- [Javaファイルアップロードメモ(Hishidama's FileUpload Memo)](http://www.ne.jp/asahi/hishidama/home/tech/apache/commons/fileup.html)
+
 #### [BeanUtils](http://commons.apache.org/proper/commons-beanutils/)
 Easy-to-use wrappers around the Java reflection and introspection APIs.
 
