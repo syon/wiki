@@ -18,3 +18,8 @@ Homebrewでインストール済みのパッケージをアップグレード
 
 ## TIPS
 - [bash スクリプトの先頭によく書く記述のおさらい | マネーフォワード エンジニアブログ](https://moneyforward.com/engineers_blog/2015/05/21/bash-script-tips/)
+
+
+## [fish shell](http://fishshell.com/)
+
+- [fishシェルがとても素晴らしかったので、お伝えします。 | megane9988のブログ](http://megane-blog.com/2014/12/15/1461)
