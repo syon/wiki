@@ -128,6 +128,15 @@ $('form').submit(function() {
 ```
 
 
+## Plugins
+
+#### [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
+
+> File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
+
+IE6以上対応で複数ファイルやドラッグアンドドロップ、プログレスバー、プレビュー等、非常に高機能なアップロードライブラリ。
+
+
 ## Tips
 
 #### Version
