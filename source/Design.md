@@ -3,6 +3,9 @@
 #### Code
 - → __[[Polymer]]__
 - [Material UI - Material Design React Components](http://material-ui.com/#/)
+    - __[React でマテリアルデザインを実装する Material UI を試してみる - syonx](http://syonx.hatenablog.com/entry/2015/03/29/171528)__
+- [LumX](http://ui.lumapps.com/)  
+  The first responsive front-end framework based on AngularJS & Google Material Design specifications.
 - Sample
     - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
     - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
