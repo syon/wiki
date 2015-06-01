@@ -1,6 +1,10 @@
 ## プログラミング用フォント
+
 #### [Ricty Diminished](https://github.com/yascentur/RictyDiminished)
 Ricty Diminished (リクティ・ディミニッシュト) は Ricty の姉妹フォントであり、Inconsolata と Migu 1M ではなく、Inconsolata と Circle M+ 1m を Ricty 生成スクリプトで合成したフォントです。
+
+#### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+Fira Code: monospaced font with programming ligatures
 
 
 ## Google
