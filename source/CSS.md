@@ -36,6 +36,11 @@ A C implementation of a Sass compiler
 - [今日から使える！ Sass/compass ゆるめ勉強会](http://www.slideshare.net/yuka2py/sasscompass-28389532)
 - [【Webデザイナ－・コーダー向け】すぐに使えるSCSS入門｜Compass基礎編 ｜ Developers.IO](http://dev.classmethod.jp/ria/html5/web-desiner-corder-scss-compass/)
 
+#### CSS Sprite
+- [Compassで簡単、CSSスプライト作成 - CSSスプライト作成の基礎 | CodeGrid](https://app.codegrid.net/entry/compass-sprite-1)
+    - 自動出力されたクラス（ファイル名ベース）を割り当てる方式 → 種類の違う静止アイコン
+    - 既存のクラス内にmixinをincludeしてbackground-positionを自動で割り当てる方式 → ボタンhoverなど
+
 
 ## CSS Framework
 - → __[[TwitterBootstrap]]__
