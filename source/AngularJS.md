@@ -51,3 +51,7 @@
   「入力フォームの例です。黒あん最中は50個まで、白あん最中は20個まで、粒あん最中は15個まで購入できます。5000円以上買うと、送料500円が無料になります。」
 - [AngularJSのFilterでAND検索を実装してみた | For X Developers](http://yutarotanaka.com/blog/angularjs-custom-filter/)
 - [AngularJS使い方メモ - Qiita](http://qiita.com/opengl-8080/items/2fe0a20c314b1c824cc5)
+
+#### monetize
+- [AngularJS & Adsense - Google グループ](https://groups.google.com/forum/#!topic/angular/eyVo4XU04uk)
+- [Real World Challenges in Single Page Apps](http://www.htmlxprs.com/post/16/real-world-challenges-in-single-page-apps)
