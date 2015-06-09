@@ -3,6 +3,13 @@
 - [Ruby on Rails 3.2 を Windows にインストールする手順をかなり丁寧に説明してみました - Rails 雑感 - Ruby on Rails with OIAX](http://www.oiax.jp/rails/zakkan/rails_3_1_installation_on_windows.html)
 - [Ruby on Rails チュートリアル：実例を使ってRailsを学ぼう - Michael Hartl (マイケル・ハートル)](http://railstutorial-ja.herokuapp.com/)
 
+## Debug
+
+Railsのコード途中やHamlなどテンプレートにこう書くとそこがブレークポイントになる
+```ruby
+binding.pry
+```
+
 ## 認証機能
 - [ASCIIcasts - “Episode 270 - Rails 3.1の認証機能”](http://ja.asciicasts.com/episodes/270-authentication-in-rails-3-1)  
   HTTPベーシック認証、secure_password、HTTPS
