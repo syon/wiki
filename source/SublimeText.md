@@ -7,9 +7,9 @@
 
 ## My Installing Packages
 #### Emmet
-> Please wait a bit while PyV8 binary is being downloaded
-
-- [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
+- `Please wait a bit while PyV8 binary is being downloaded`
+    - [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
+- [Sublime Text2『hayaku』+『Emmet』で変わるセカイ | toybox-design.net](http://toybox-design.net/?p=488)
 
 
 ## Settings
