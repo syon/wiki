@@ -4,8 +4,13 @@
   <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
 <dl>
 
+
 ## My Installing Packages
 #### Emmet
+> Please wait a bit while PyV8 binary is being downloaded
+
+- [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
+
 
 ## Links
 - [Sublime Text 2ってエディタがすごくイイ。Dreamweaverから乗り換えた時の初期設定とか使い方とかをメモ | Mnemoniqs Web Designer Blog](http://mnemoniqs.com/web/sublimetext2/)
