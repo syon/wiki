@@ -1,3 +1,13 @@
+## Usage
+<dl>
+  <dt>Install Package</dt>
+  <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
+<dl>
+
+## My Installing Packages
+#### Emmet
+
+## Links
 - [Sublime Text 2ってエディタがすごくイイ。Dreamweaverから乗り換えた時の初期設定とか使い方とかをメモ | Mnemoniqs Web Designer Blog](http://mnemoniqs.com/web/sublimetext2/)
 - [Sublime Text 2 Tips and Tricks (Updated) - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/sublime-text-2-tips-and-tricks--net-21519)
 - [Sublime Text 2 Basics](http://www.slideshare.net/gaspanik/sublime-text-2-basics)
@@ -13,9 +23,9 @@
 - [Sublime Text 3 で日本語を検索したとき文字が消える不具合を直す - MEMOGRAPHIX](http://memo.sanographix.net/post/101061111635)
 - [[Sublime Text]お気に入りテーマ・ショートカット・パッケージ｜Sublime Text Advent Calendar 2014 | tipsBear](http://tipsbear.com/sublime-thankyou/)
 
-### Theme
+## Theme
 - [Predawn - A Sublime Text Theme](http://jamiewilson.io/predawn/)
 - [コードが見やすく使いやすいSublime Text 2/3のテーマのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/sublime-text-themes-for-developer-2014.html)
 
-### Tips
+## Tips
 - [Sublime Textで今いるインデントに縦線を引く | Border/memo](http://brdr-mmrndm.tumblr.com/post/80456872825/sublime-text)
