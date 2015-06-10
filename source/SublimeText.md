@@ -20,8 +20,14 @@
     - [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
 - [Sublime Text2『hayaku』+『Emmet』で変わるセカイ | toybox-design.net](http://toybox-design.net/?p=488)
 
+#### SideBarEnhancements
+- [titoBouzout/SideBarEnhancements · GitHub](https://github.com/titoBouzout/SideBarEnhancements)
+
+
 ### Articles
 - [【追記】【寄せあつめ】今さらだけどSublime Text 2の基本とカスタマイズ【&Vim化】【4日目】 ｜ Developers.IO](http://dev.classmethod.jp/tool/html-corder-sublime-text-2-customize/)
+
+
 ## Settings
 
 ### Proxy
