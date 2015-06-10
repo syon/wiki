@@ -6,11 +6,14 @@
 
 
 ## My Installing Packages
+
 #### SublimeLinter
 - __[SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)__
     - `$ npm install -g csslint`
 - __[SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)__
     - `$ gem install scss_lint`
+- __[SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)__
+    - `$ npm install -g jshint`
 
 #### Emmet
 - `Please wait a bit while PyV8 binary is being downloaded`
