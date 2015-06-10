@@ -12,6 +12,23 @@
 - [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
 
 
+## Settings
+
+### Proxy
+
+- App
+    - `Preferences` > `Settings - User`
+- Package Control
+    - `Preferences` > `Package Settings` > `Package Control` > `Settings - User`
+
+```js
+{
+    "http_proxy": "http://localhost:3128",
+    "https_proxy": "http://localhost:3128",
+    :
+```
+
+
 ## Links
 - [Sublime Text 2ってエディタがすごくイイ。Dreamweaverから乗り換えた時の初期設定とか使い方とかをメモ | Mnemoniqs Web Designer Blog](http://mnemoniqs.com/web/sublimetext2/)
 - [Sublime Text 2 Tips and Tricks (Updated) - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/sublime-text-2-tips-and-tricks--net-21519)
