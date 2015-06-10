@@ -23,6 +23,13 @@
 #### SideBarEnhancements
 - [titoBouzout/SideBarEnhancements · GitHub](https://github.com/titoBouzout/SideBarEnhancements)
 
+#### IMESupport
+- [chikatoike/IMESupport · GitHub](https://github.com/chikatoike/IMESupport)
+
+#### Alignment
+プログラミングで変数や連想配列を定義する際に `=` の位置をそろえるパッケージ
+- [Sublime Alignment – a Sublime Text Package by wbond](http://wbond.net/sublime_packages/alignment)
+- [特におすすめしたい、Sublime Textのパッケージ - Build Insider](http://www.buildinsider.net/small/sublimetext/03)
 
 ### Articles
 - [【追記】【寄せあつめ】今さらだけどSublime Text 2の基本とカスタマイズ【&Vim化】【4日目】 ｜ Developers.IO](http://dev.classmethod.jp/tool/html-corder-sublime-text-2-customize/)
