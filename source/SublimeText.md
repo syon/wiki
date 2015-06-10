@@ -6,12 +6,19 @@
 
 
 ## My Installing Packages
+#### SublimeLinter
+- __[SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)__
+    - `$ npm install -g csslint`
+- __[SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)__
+    - `$ gem install scss_lint`
+
 #### Emmet
 - `Please wait a bit while PyV8 binary is being downloaded`
     - [emmetio/pyv8-binaries · GitHub](https://github.com/emmetio/pyv8-binaries#readme)
 - [Sublime Text2『hayaku』+『Emmet』で変わるセカイ | toybox-design.net](http://toybox-design.net/?p=488)
 
-
+### Articles
+- [【追記】【寄せあつめ】今さらだけどSublime Text 2の基本とカスタマイズ【&Vim化】【4日目】 ｜ Developers.IO](http://dev.classmethod.jp/tool/html-corder-sublime-text-2-customize/)
 ## Settings
 
 ### Proxy
