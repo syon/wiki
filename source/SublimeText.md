@@ -23,8 +23,8 @@
 
 ```js
 {
-    "http_proxy": "http://localhost:3128",
-    "https_proxy": "http://localhost:3128",
+    "http_proxy": "http://proxyserver:8080",
+    "https_proxy": "http://proxyserver:8080",
     :
 ```
 
