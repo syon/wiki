@@ -1,17 +1,11 @@
 ## Overview
 
-### [Java ‐ 通信用語の基礎知識](http://www.wdic.org/w/TECH/Java)  
-詳しい沿革が記載されている。
-- JDK 1.0
-- JDK 1.1
-- J2SE 1.2
-- J2SE 1.3
-- J2SE 1.4
-- J2SE 5.0
-- J2SE 5.1
-- Java SE 6
-- Java SE 7
-- Java SE 8
+### About Java
+#### [Java ‐ 通信用語の基礎知識](http://www.wdic.org/w/TECH/Java)  
+`JDK 1.0` `JDK 1.1` `J2SE 1.2` `J2SE 1.3` `J2SE 1.4` `J2SE 5.0` `J2SE 5.1` `Java SE 6` `Java SE 7` `Java SE 8`
+
+- [Javaって何だ？J2SDKとかJ2SEとかJ2EEとか、概念をわかっておこう](http://www.searchman.info/java_eclipse/1000.html)
+
 
 ## Maven
 
