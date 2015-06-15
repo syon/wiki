@@ -280,6 +280,7 @@ cf. Apache Commons - BeanUtils
 ### File
 
 - [【Commons】FileUtilsで1行のコードでファイル読み込み : mwSoft blog](http://blog.mwsoft.jp/article/33331261.html)
+- [Javaで1行ずつテキストデータを読み込むイディオムの変遷 - argius note](http://argius.hatenablog.jp/entry/2015/06/06/234315)
 
 
 ## Eclipse
