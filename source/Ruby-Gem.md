@@ -53,6 +53,10 @@ BUNDLE_PATH: vendor/bundle
 > `path` (`BUNDLE_PATH`): The location on disk to install gems. Defaults to $GEM_HOME in development and `vendor/bundle` when `--deployment` is used.  
 > ― [Bundler: The best way to manage a Ruby application's gems](http://bundler.io/v1.9/bundle_config.html) (v1.9)
 
+### 環境変数 `RUBYGEMS_GEMDEPS`
+- [bundler - いちいちbundle execしたくない 決定版 - Qiita](http://qiita.com/ymmtmdk/items/374d5319e8d5c9ab2ff4)  
+  Ruby 2.1.0 ～ & RubyGems 2.2.0 〜
+
 
 ## Gem便利情報
 - [Gems - すべてのプロジェクトでいれておくべく7つの開発用Gem - Qiita](http://qiita.com/icb54615/items/374f76b38f673fab7744)
