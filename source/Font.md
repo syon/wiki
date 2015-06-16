@@ -6,6 +6,11 @@ Ricty Diminished (リクティ・ディミニッシュト) は Ricty の姉妹�
 #### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 Fira Code: monospaced font with programming ligatures
 
+#### [Source Han Code JP](https://github.com/adobe-fonts/source-han-code-jp)
+Source Han Code JP（日本語メニューネーム：源ノ角ゴシック Code）は、Source Han Sansに含まれるプロポーショナル・ラテン・グリフを、Source Code Proのモノスペースのラテン・グリフに変更した派生フォントです。
+
+- [コーディングに最適な日本語対応の等幅フォントSource Han Code JPとは – ICS LAB](http://ics-web.jp/lab/archives/7010)
+
 
 ## Google
 
