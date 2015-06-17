@@ -67,6 +67,9 @@
 - [プログラミングやマークアップで特に役立つ、Sublime Textの標準機能 - Build Insider](http://www.buildinsider.net/small/sublimetext/02)
 - [Sublime Text 3 で日本語を検索したとき文字が消える不具合を直す - MEMOGRAPHIX](http://memo.sanographix.net/post/101061111635)
 - [[Sublime Text]お気に入りテーマ・ショートカット・パッケージ｜Sublime Text Advent Calendar 2014 | tipsBear](http://tipsbear.com/sublime-thankyou/)
+- [SublimeTextの教科書で紹介されてるプラグインまとめ - Qiita](http://qiita.com/maccotsan/items/f320036e19f8d3b798c1)
+- [特におすすめしたい、Sublime Textのパッケージ - Build Insider](http://www.buildinsider.net/small/sublimetext/03)
+
 
 ## Theme
 - [Predawn - A Sublime Text Theme](http://jamiewilson.io/predawn/)
