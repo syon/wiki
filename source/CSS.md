@@ -170,6 +170,16 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 white-space: nowrap;
 ```
 
+### はみ出した文字を省略
+```css
+td {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+```
+
 ### tableタグに cellspacing="0" を入れたくない
 * [table に指定しておきたい CSS メモ // understandard](http://www.understandard.net/css/css009.html)
 
