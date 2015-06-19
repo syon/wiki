@@ -226,13 +226,23 @@ $ irb -r 'myclass.rb'
 puts ARGV[0]
 </pre>
 
-#### ファイル出力
+### File
 
-<pre>
+#### 出力
+```ruby
 # r:読込 w:上書 a:追記
 open("log.txt", "a"){|f| f.write("文字列")}
-</pre>
+```
 
+#### Path
+- [Get Filename without extension from file path in Ruby - Stack Overflow](http://stackoverflow.com/questions/374326/get-filename-without-extension-from-file-path-in-ruby)
+
+```ruby
+File.basename("/home/gumby/work/ruby.rb")          #=> "ruby.rb"
+File.basename("/home/gumby/work/ruby.rb", ".rb")   #=> "ruby"
+```
+
+### Debug
 #### メソッド一覧
 
 <pre>
