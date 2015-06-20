@@ -10,6 +10,11 @@ jQuery(function( $ ) {
   // Your code using failsafe $ alias here...
 });
 ```
+```coffee
+# CoffeeScript
+$ ->
+  $('p').css('color', 'red')
+```
 
 
 ## Events
