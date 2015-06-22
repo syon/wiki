@@ -13,6 +13,17 @@ HTML/JavaScript/CSS対応のWebIDE
     - __[Atomでパッケージをインストールする方法とメニューの日本語化 – nocorica](http://blog.nocorica.jp/2015/03/atom-package-install/)__
 - [Atom がヤバイ！SublimeTextを余裕で凌駕してしまっていた件](http://www.geeks-dev.com/atom-%E3%81%8C%E3%83%A4%E3%83%90%E3%82%A4%EF%BC%81sublimetext%E3%82%92%E4%BD%99%E8%A3%95%E3%81%A7%E5%87%8C%E9%A7%95%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/)
 
+#### 選択範囲の色
+```scss
+atom-text-editor::shadow .highlights {
+  .selection .region {
+    background: fade(cyan, 30%);
+  }
+  .find-result .region {
+    border: 1px solid fade(cyan, 80%);
+  }
+}
+```
 
 ## Brackets
 - [コーディングを超加速するBrackets便利エクステンションまとめ - WEBCRE8.jp](http://webcre8.jp/collect/brackets-extension-coding.html)
