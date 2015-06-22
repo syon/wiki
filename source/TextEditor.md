@@ -15,12 +15,17 @@ HTML/JavaScript/CSS対応のWebIDE
 
 #### 選択範囲の色
 ```scss
-atom-text-editor::shadow .highlights {
-  .selection .region {
-    background: fade(cyan, 30%);
+atom-text-editor::shadow {
+  .gutter .cursor-line {
+    background-color: fade(cyan, 14%);
   }
-  .find-result .region {
-    border: 1px solid fade(cyan, 80%);
+  .highlights {
+    .selection .region {
+      background: fade(cyan, 30%);
+    }
+    .find-result .region {
+      border: 1px solid fade(cyan, 80%);
+    }
   }
 }
 ```
