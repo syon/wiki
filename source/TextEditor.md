@@ -9,7 +9,8 @@ HTML/JavaScript/CSS対応のWebIDE
 
 
 ## Atom
-- __[Atomでパッケージをインストールする方法とメニューの日本語化 – nocorica](http://blog.nocorica.jp/2015/03/atom-package-install/)__
+- __[Atom の日本語化パッケージ "Japanese Menu" を作りました - syonx](http://syonx.hatenablog.com/entry/2015/04/06/233111)__
+    - __[Atomでパッケージをインストールする方法とメニューの日本語化 – nocorica](http://blog.nocorica.jp/2015/03/atom-package-install/)__
 - [Atom がヤバイ！SublimeTextを余裕で凌駕してしまっていた件](http://www.geeks-dev.com/atom-%E3%81%8C%E3%83%A4%E3%83%90%E3%82%A4%EF%BC%81sublimetext%E3%82%92%E4%BD%99%E8%A3%95%E3%81%A7%E5%87%8C%E9%A7%95%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/)
 
 
