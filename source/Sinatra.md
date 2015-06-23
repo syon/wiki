@@ -228,3 +228,27 @@ $ bundle exec ruby hoge.rb -e production
 ```ruby
 set :environment, :production
 ```
+
+#### Singleton
+- [ruby - best/most elegant way to share objects between a stack of rack mounted apps/middlewares? - Stack Overflow](http://stackoverflow.com/questions/5517753/best-most-elegant-way-to-share-objects-between-a-stack-of-rack-mounted-apps-midd)
+```ruby
+class SharedObject
+  include Singleton
+
+  def test
+    @test ||= "hello world"
+  end
+end
+
+class App1 < Sinatra::Base
+  get '/' do
+    SharedObject.instance.test
+  end
+end
+```
+- [Ruby Singleton attr_accessor - Stack Overflow](http://stackoverflow.com/questions/17549320/ruby-singleton-attr-accessor)
+```ruby
+class Foo
+  singleton_class.class_eval{attr_accessor :bar}
+end
+```
