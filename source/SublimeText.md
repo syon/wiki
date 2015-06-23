@@ -7,6 +7,15 @@
 
 ## My Installing Packages
 
+#### Theme - Cobalt2
+- [wesbos/cobalt2](https://github.com/wesbos/cobalt2)
+    - `Preferences` → `Settings - User`
+```sh
+"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+"theme": "Cobalt2.sublime-theme",
+```
+
+
 #### SublimeLinter
 - __[SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)__
     - `$ npm install -g csslint`
