@@ -92,7 +92,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 ### grep
 
-<pre>
+```js
 function grep (pattern) {
     try {
         var regex = new RegExp(pattern, "i");
@@ -112,9 +112,10 @@ function grep (pattern) {
         // 正規表現の文法エラーを無視する
     }
 }
------------------------
+```
+```html
 <input type="text" name="pattern" onkeyup="grep(this.value)" style="width:10em; border:1px solid #E3E3E3;">
-</pre>
+```
 
 ### クエリストリングの値を取得
 
