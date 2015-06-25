@@ -31,6 +31,7 @@
 - [gulp.js - the streaming build system](http://gulpjs.com/)
 - [gulpとかnpmのこととか by A Memorandum](http://protean.cc/getting-started-with-gulp-and-npm)
 - [gulp.jsを使ってフロントエンドのビルドをする【webpack, stylus】 - yutaponのブログ](http://yutapon.hatenablog.com/entry/2014/12/06/123000)
+- [npm + gulp + bower でビルド自動化 - GeekFactory](http://int128.hatenablog.com/entry/2014/07/02/004543)
 
 
 ## Yeoman
