@@ -28,6 +28,7 @@
   丁寧な図解でわかりやすい解説
 
 #### Gulp
+- __[GulpでAngularアプリのビルド自動化 Bower + Jade + Coffee + Less - Qiita](http://qiita.com/syon/items/911c7c40d184d2349651)__
 - [gulp.js - the streaming build system](http://gulpjs.com/)
 - [gulpとかnpmのこととか by A Memorandum](http://protean.cc/getting-started-with-gulp-and-npm)
 - [gulp.jsを使ってフロントエンドのビルドをする【webpack, stylus】 - yutaponのブログ](http://yutapon.hatenablog.com/entry/2014/12/06/123000)
