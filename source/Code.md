@@ -35,6 +35,7 @@
 #### Naming
 - [メソッド名をシンプルにするために、知っておくと便利な英語のprefixとsuffix - Ph by codic team](http://blog.codic.jp/2014/12/22/shoud-know-prefix-suffix-for-naming/)
 - [プログラミングで変数名や関数名のネーミングに迷ったときに便利なカンニングペーパーまとめ](http://nelog.jp/programming-words)
+- [JavaScriptネーミングベストプラクティス](http://axross.me/javascript-naming-best-practice/)
 
 
 ## Document formats
