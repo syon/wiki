@@ -52,7 +52,7 @@
 
 <h4>Web App Framework</h4>
 <ul>
-  <li>[[Ruby on Rails]]
+  <li>[[Rails]]
   <li>[[Sinatra]]
     <ul>
       <li>[[Gollum]]
