@@ -105,6 +105,13 @@ pdftk *.pdf cat output hoge.pdf
 - [VBでPDFファイルを編集する | Visual BasicのQ&A【OKWave】](http://okwave.jp/qa/q194124.html)
 - [テストエビデンス取得自動化の秘技（前編）：Selenium VBAを使って自動でブラウザーを操作してスクショをExcelに張り付けてみた (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/21/news103.html)
 
+
+## JSON
+- [VBAでJSONを扱う](http://javascript.dohow.jp/advance/jsonvba.shtml)
+- [Excel VBAで、REST(JSON)データ取得 - ウィリアムのいたずらの開発日記](http://blog.goo.ne.jp/xmldtp/e/c7e3c3631d31206f818b30276d0f3091)
+- [VBA-tools/VBA-Web](https://github.com/VBA-tools/VBA-Web)
+
+
 ## Webサービス
 
 - [【ハウツー】Excel VBAでWebサービス - ExcelでTwitterと連携する (1) OAuth認証について | パソコン | マイナビニュース](http://news.mynavi.jp/articles/2011/09/16/excelweb/index.html)
