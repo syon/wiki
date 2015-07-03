@@ -182,16 +182,18 @@ td {
 ```
 
 ### tableタグに cellspacing="0" を入れたくない
-* [table に指定しておきたい CSS メモ // understandard](http://www.understandard.net/css/css009.html)
+- [table に指定しておきたい CSS メモ // understandard](http://www.understandard.net/css/css009.html)
 
 ### 中央寄せ
-* [Midway.js](https://github.com/BrandonJacoby/Midway.js)  
+- [Midway.js](https://github.com/BrandonJacoby/Midway.js)  
   Automatically center responsive elements.
 
-* [CSS 画像やテキスト要素を縦横中央配置する6つの方法 – How to Center Elements Horizontally and Vertically. | Stronghold](http://zxcvbnmnbvcxz.com/css-center-img-text/)
+- [CSS 画像やテキスト要素を縦横中央配置する6つの方法 – How to Center Elements Horizontally and Vertically. | Stronghold](http://zxcvbnmnbvcxz.com/css-center-img-text/)
 
-* [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
+- [CSSでblock要素を上下左右中央寄せにする、イマドキの方法。](http://c-brains.jp/blog/wsg/14/08/06-100100.php)
     - [position: absolute; の指定で要素が上下左右中央配置になる理由 | WWW WATCH](http://hyper-text.org/archives/2014/08/position_absolute_center_layout.shtml)
+
+- [How to Center in CSS](http://howtocenterincss.com/)
 
 ### パララックス
 - [[CSS]パララックスのエフェクトをスクリプト無し、CSSで実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/pure-css-parallax-by-keithclark.html)
