@@ -3,6 +3,7 @@
 - [twitter bootstrap railsを使ったら職が見つかり彼女も出来て背も3センチ伸びました。 - ppworks blog](http://ppworks.hatenablog.jp/entry/2012/02/19/033644)
 - [Bootstrap (SlideShare)](http://www.slideshare.net/428design/bootstrap-39267140)  
   わかりやすい解説
+- [Bootstrap 3でレスポンシブ対応のwebページをつくろう！グリッドシステムの基本な使い方 | コリス](http://coliss.com/articles/build-websites/operation/work/installing-bootstrap-and-grid-system-by-designmodo.html)
 
 
 ## Plugin
