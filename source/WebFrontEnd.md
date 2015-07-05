@@ -9,6 +9,10 @@
   Google Chrome DevTools
 
 
+## SPA
+- [SPAがネイティブアプリをぶっ壊す：HTML5/Javascriptが変えるWebの未来 - Qiita](http://qiita.com/KENJU/items/b65d671dc8f79cb42bb6)
+
+
 ## HTML / CSS / JavaScript
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
