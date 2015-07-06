@@ -7,6 +7,12 @@
 - [Javaって何だ？J2SDKとかJ2SEとかJ2EEとか、概念をわかっておこう](http://www.searchman.info/java_eclipse/1000.html)
 
 
+## Articles
+- [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)
+- [Javaエンジニアのためのアーキテクト講座-JJUG CCC 2014 Fall](http://www.slideshare.net/yusuke/jjugccc2014fall-architect)
+- [3つのフレームワークで学ぶエンタープライズJava開発入門（1）：Strutsを使い続けることの問題点＆現在有力なJava EE、Spring、Play Frameworkの基礎知識とアーキテクチャ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1507/02/news012.html)
+
+
 ## Maven
 
 - [Maven | TECHSCORE(テックスコア)](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/index/)
@@ -336,8 +342,3 @@ WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められて�
   ※ "EAR"は"Enterprise Archive"の略
 
 - [あるシステム屋による開発の記録　JAR, WAR, EAR の違いについて](http://javasystem.blog4.fc2.com/blog-entry-3.html)
-
-
-## Articles
-- [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)
-- [Javaエンジニアのためのアーキテクト講座-JJUG CCC 2014 Fall](http://www.slideshare.net/yusuke/jjugccc2014fall-architect)
