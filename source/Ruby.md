@@ -80,6 +80,33 @@ Ruby関連の厳選リンク集
 "Hello, World" =~ /^Hello, World$/ #=> 0
 ```
 
+#### String
+
+- [Rubyで%記法（パーセント記法）を使う - Qiita](http://qiita.com/mogulla3/items/46bb876391be07921743)
+- [Rubyでクオート、ダブルクオート以外でのStringの書き方 - Qiita](http://qiita.com/tsugi2009/items/dc974669e55a2cbe2809)
+
+```ruby
+str = %(Programming language "Ruby")
+puts str
+# => Programming language "Ruby"
+
+ruby = "Ruby"
+str2 = %(Programming language "#{ruby}")
+puts str2
+# => Programming language "Ruby"
+```
+
+| %  | desc |
+|----|----------------------------------------|
+| %  | ダブルクオートで囲う場合と同等。式展開される。 |
+| %q | シングルクオートで囲う場合と同等。式展開されない。 |
+| %W | スペース区切りで配列定義。式展開される。 |
+| %w | スペース区切りで配列定義。式展開されない。 |
+| %I | 要素がシンボルの配列を作る。式展開される。 |
+| %i | 要素がシンボルの配列を作る。式展開されない。 |
+| %x | コマンド出力を行う。バッククオートで囲った場合と同等。 |
+| %s | シンボル。式展開されない。 |
+
 #### true / false
 
 ```ruby
