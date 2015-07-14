@@ -84,6 +84,7 @@
 - [Word Cloud Generator](http://www.jasondavies.com/wordcloud/#%2F%2Fwww.jasondavies.com%2Fwordtree%2Fcat-in-the-hat.txt)
 - [earth :: an animated map of global wind, weather, and ocean conditions](http://earth.nullschool.net/)  
   リアルタイム風向マップ
+- [【D3.js】サーマーウォーズのワールドクロックを作る | #GUNMAGISGEEK](http://shimz.me/blog/d3-js/4360)
 
 
 ## データ
