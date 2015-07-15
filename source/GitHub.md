@@ -4,6 +4,9 @@
 [[git.io.png]]
 github.com ドメイン専用短縮URL。コマンドラインから使えばパスの文字列指定ができる。
 
+### [hub](https://github.com/github/hub)
+- [GitHubで既存のissueに対してpull requestする - Fujimura](http://blog.fujimuradaisuke.com/post/21428021798/github-issue-pull-request)
+
 
 ## GitHub Pages
 
