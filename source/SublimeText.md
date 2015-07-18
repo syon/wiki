@@ -7,6 +7,10 @@
 
 ## My Installing Packages
 
+#### Japanize
+
+- [SublimeText - Sublime Text を日本語化する(Mac) - Qiita](http://qiita.com/tak74/items/baa17a423c9969815c9f)
+
 #### Theme - Cobalt2
 - [wesbos/cobalt2](https://github.com/wesbos/cobalt2)
     - `Preferences` → `Settings - User`
