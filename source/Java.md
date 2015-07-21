@@ -11,6 +11,7 @@
 - [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)
 - [Javaエンジニアのためのアーキテクト講座-JJUG CCC 2014 Fall](http://www.slideshare.net/yusuke/jjugccc2014fall-architect)
 - [3つのフレームワークで学ぶエンタープライズJava開発入門（1）：Strutsを使い続けることの問題点＆現在有力なJava EE、Spring、Play Frameworkの基礎知識とアーキテクチャ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1507/02/news012.html)
+- [Javaのマイクロフレームワーク ― この新トレンドは見逃せない | インフラ・ミドルウェア | POSTD](http://postd.cc/java-micro-frameworks-the-new-trend-you-cant-ignore/)
 
 
 ## Maven
