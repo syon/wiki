@@ -18,6 +18,7 @@ Homebrewでインストール済みのパッケージをアップグレード
 
 ## TIPS
 - [bash スクリプトの先頭によく書く記述のおさらい | マネーフォワード エンジニアブログ](https://moneyforward.com/engineers_blog/2015/05/21/bash-script-tips/)
+- [bashで覚えておきたいショートカットキー(キーバインド) | 俺的備忘録 〜なんかいろいろ〜](http://orebibou.com/2015/06/bash%E3%81%A7%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%90%E3%82%A4/)
 
 
 ## [fish shell](http://fishshell.com/)
