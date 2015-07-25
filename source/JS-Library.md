@@ -86,6 +86,9 @@ jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現�
 #### [jQuery WebGL Ripples](http://sirxemic.github.io/jquery.ripples/)
 - [[JS]エフェクトの美しさがスゴイ！Webページを水面にし、波紋を生み出すスクリプト -jQuery Ripple | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-ripples.html)
 
+### Articles
+- [[JS]最近のWebサイトで見かける気持ちいいアニメーション、便利な仕掛けや機能を実装するスクリプトのまとめ | コリス](http://coliss.com/articles/build-websites/operation/javascript/javascript-best-2015-july.html)
+
 
 ## Text関連
 #### [Textillate.js](http://jschr.github.io/textillate/)
