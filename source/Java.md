@@ -250,6 +250,7 @@ via - [JavaのList・Mapのfor文処理覚書 - よんちゅBlog](http://yonchu.
 ### Map
 
 - [Java Map クラスの違い HashMap Hashtable TreeMap LinkedHashMap](http://kaworu.jpn.org/kaworu/2008-04-10-2.php)
+- [ConcurrentHashMapという選択 - 技術開発日記](http://kechanzahorumon.hatenadiary.com/entry/2012/10/23/112551)
 
 <table><tr><td> <strong>HashMap</strong></td><td> k=vの並びが適当 </td></tr><tr><td> <strong>Hashtable</strong></td><td> keyが降順(数が大から小へ数えた順番)になる </td></tr><tr><td> <strong>TreeMap</strong></td><td> keyが昇順(数が小から大へ)になる</td></tr><tr><td> <strong>LinkedHashMap</strong></td><td> k=vを入れた順番に並ぶ </td></tr></table>
 
