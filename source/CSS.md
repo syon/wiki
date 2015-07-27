@@ -144,6 +144,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 
 - [これがスマートフォン向けサイトを作るときの viewport 設定３パターンだ - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/02/15/viewport/)
 - [もう逃げない。HTMLのviewportをちゃんと理解する - Qiita](http://qiita.com/ryounagaoka/items/045b2808a5ed43f96607)
+- [[CSS]ビューポート(vw, vh)とパーセント(%)、レスポンシブに適した単位の賢い使い分け方法 | コリス](http://coliss.com/articles/build-websites/operation/css/viewport-vs-percentage-units-by-ire.html)
 
 ### Flexbox
 - [これからのCSSレイアウトはFlexboxで決まり！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox/)
