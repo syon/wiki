@@ -280,6 +280,21 @@ cf. Apache Commons - BeanUtils
 - [Java でリストをマップに変換する | UB Lab.](http://www.united-bears.co.jp/blog/archives/2556)
 
 
+### Singleton
+- [Singleton パターン - Wikipedia](https://ja.wikipedia.org/wiki/Singleton_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+```java
+final class Singleton {
+  private Singleton(){}
+  private static class SingletonHolder {
+    private static final Singleton instance = new Singleton();
+  }
+  public static Singleton getInstance() {
+    return SingletonHolder.instance;
+  }
+}
+```
+
+
 ### NVL
 
 - [[java]JAVAでOracleのNVL()と同じ事を行う処理 | アマシィ](http://amaxi.sitemix.jp/blog/archives/1622)
