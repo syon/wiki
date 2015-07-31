@@ -20,3 +20,4 @@
 
 ## APIs
 - [NHK番組表API](http://api-portal.nhk.or.jp/ja)
+- [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
