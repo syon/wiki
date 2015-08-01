@@ -42,6 +42,13 @@ A C implementation of a Sass compiler
     - 既存のクラス内にmixinをincludeしてbackground-positionを自動で割り当てる方式 → ボタンhoverなど
 
 
+## Stylus
+[Stylus — expressive, robust, feature-rich CSS preprocessor](http://learnboost.github.io/stylus/)
+
+- [Stylus入門したときのまとめ - Qiita](http://qiita.com/morishitter/items/b9a2d78c79c3c07de776)
+- [Tokyo Otaku ModeがStylusを使う理由 | Tokyo Otaku Mode Blog](http://blog.otakumode.com/2014/09/03/stylus/)
+
+
 ## CSS Framework
 - → __[[TwitterBootstrap]]__
 - → __[[Google Material Design|Design#Google Material Design]]__
