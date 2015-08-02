@@ -17,6 +17,11 @@ set define off    -- 置換変数'&'無効
 set NLS_LANG=Japanese_Japan.JA16SJIS  -- 文字化け対応
 ```
 
+## SQL
+
+- [SQL style guide by Simon Holywell](http://www.sqlstyle.guide/)
+
+
 ## 調査
 
 ### スキーマ一覧
