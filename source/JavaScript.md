@@ -29,6 +29,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 ### TypeScript
 
 - [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
+- [TypeScriptを使ってECMAScript 2015時代のJavaScriptを先取りしよう！ | HTML5Experts.jp](https://html5experts.jp/vvakame/16241/)
 
 
 ## Debug
