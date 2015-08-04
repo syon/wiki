@@ -52,6 +52,10 @@
 - [Service Worker の紹介: Service Worker の使い方 - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/service-worker/introduction/)
 - [Service worker が拓く mobile web の新しいかたち](http://www.slideshare.net/kinukox/service-worker-mobile-web)
 
+### Internet Explorer
+
+- [Internet Explorer 11 をビルトイン Administrator で使用すると、名前付きのウィンドウの名前が認識されない](https://support.microsoft.com/ja-jp/kb/2909974)
+
 
 ## Architecture
 
