@@ -115,7 +115,8 @@ JDBC helper library.
 
 - [Overview (POI API Documentation)](http://poi.apache.org/apidocs/overview-summary.html)
 - [POIのHSSFを使ってExcelに画像を挿入 - No Programming, No Life](http://npnl.hatenablog.jp/entry/20081122/1227337357)
-- [Javaで複数の画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
+- [Javaでの画像ファイルをリサイズしてExcelに一括貼り付け（POI） - Qiita](http://qiita.com/mojaie/items/ace880e817e80f7746c0)
+- [POI Cellメモ(Hishidama's Java POI Cell Memo)](http://www.ne.jp/asahi/hishidama/home/tech/apache/poi/cell.html)
 
 #### テンプレートExcelファイルを用意してデータを埋め込んでダウンロードするサンプル
 ```java
@@ -321,9 +322,9 @@ final class Singleton {
 
 ## Tips
 
-### 複数のjarファイルを1つにまとめる
+### のjarファイルを1つにまとめる
 
-- [複数のjarファイルを1つに纏める - koichi’s swap memory](http://d.hatena.ne.jp/koichiarchi/20080116/1200447205)
+- [のjarファイルを1つに纏める - koichi’s swap memory](http://d.hatena.ne.jp/koichiarchi/20080116/1200447205)
 - [Fat Jar Eclipse Plug-In](http://fjep.sourceforge.net/)
 - [クラウドサービスプラットフォーム Cosminexus：Eclipse開発で使用するJARをユーザー･ライブラリーとしてまとめる：ソフトウェア：日立](http://www.hitachi.co.jp/Prod/comp/soft1/cosminexus/useful/tips/100304_eclipse-user-library.html)
 
@@ -354,7 +355,7 @@ WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められて�
   また、web.xmlが含まれ、TomcatなどのアプリケーションサーバにWARファイルを配布すると、これを元にデプロイされる。  
   ※ "WAR"は[Web Application Archive](http://javasystem.blog4.fc2.com/blog-entry-17.html)の略
 - EARファイル  
-  複数のWARファイル、(EJB)JARファイルを含む。  
+  のWARファイル、(EJB)JARファイルを含む。  
   また、application.xmlが含まれ、アプリケーションサーバを含んだJ2EEコンテナ(JBoss, WebSphereなど)に配布すると、これを元にデプロイされる。  
   ※ "EAR"は"Enterprise Archive"の略
 
