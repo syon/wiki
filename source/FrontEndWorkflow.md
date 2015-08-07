@@ -21,6 +21,7 @@
 
 #### npm
 - [task automation with npm run](http://substack.net/task_automation_with_npm_run)
+- [gulp なしの Web フロントエンド開発 | アカベコマイリ](http://akabeko.me/blog/2015/08/dev-web-front-end-without-gulp/)
 
 #### Grunt
 - [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
