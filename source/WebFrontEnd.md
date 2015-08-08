@@ -18,6 +18,7 @@
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
     - [「Google HTML/CSS Style Guide」を適当に和訳してみた | REFLECTDESIGN](http://re-dzine.net/2012/05/google-htmlcss-style-guide/)
     - [Google HTML/CSS Style Guide の推奨ガイドラインまとめ | バシャログ。](http://c-brains.jp/blog/wsg/12/05/28-115046.php)
+    - [Googleが推薦するHTMLとCSSのコーディング方法 | 簡単ホームページ作成支援-Detaramehp](http://detarame.moo.jp/2012/08/07/google%E3%81%8C%E6%8E%A8%E8%96%A6%E3%81%99%E3%82%8Bhtml%E3%81%A8css%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%96%B9%E6%B3%95/)
 - [メンテナブルCSS | 株式会社サイバーエージェント](http://www.cyberagent.co.jp/recruit/techreport/report/id=7926)
 - [ウェブ制作者の困ったを解決するコードが盛りだくさん、スニペットを共有するサービス -Code Pad | コリス](http://coliss.com/articles/build-websites/operation/work/share-code-snippets-codepad.html)
 
