@@ -20,6 +20,9 @@
 ### curl
 - [WebAPIリクエスト仕様書としてcurlコマンドのご提案 - Qiita](http://qiita.com/Hiraku/items/dfda2f8a5353b0742271)
 
+### sed
+- [sedコマンドで覚えておきたい使い方12個 | 俺的備忘録 〜なんかいろいろ〜](http://orebibou.com/2015/07/sed%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%A7%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E4%BD%BF%E3%81%84%E6%96%B912%E5%80%8B/)
+
 
 ## Network
 
