@@ -56,6 +56,7 @@
 ### Internet Explorer
 
 - [Internet Explorer 11 をビルトイン Administrator で使用すると、名前付きのウィンドウの名前が認識されない](https://support.microsoft.com/ja-jp/kb/2909974)
+- [IE11のユーザエージェント問題 - 開発者側でできる対策 (判定方法の変更/互換性モードの利用) - ふろしき.js](http://furoshiki.hatenadiary.jp/entry/2013/11/11/224605)
 
 
 ## Architecture
