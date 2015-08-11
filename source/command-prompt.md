@@ -11,6 +11,8 @@
 ### Proxy
 
 - [Windows7でコマンドプロンプトからの接続で、HTTPプロキシ設定が反映されない＼(^o^)／ - (=゜ω゜)ノぃょぅ　にっき](http://d.hatena.ne.jp/nyanplus/20120622/1340343289)
+- [プロキシ サーバーを使用する環境にて Windows Update を実行すると通信エラーが発生する](https://support.microsoft.com/ja-jp/kb/2894304)
+- [WinHTTPプロキシの設定方法 - maruko2 Note.](http://www.maruko2.com/mw/WinHTTP%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95)
 
 ### 使用ポートチェック
 
