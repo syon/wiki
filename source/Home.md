@@ -91,6 +91,9 @@
     <li>[[ThinReports]]
   </ul>
   <li>[[Java]]
+  <ul>
+    <li>[[Apache POI|apache-poi]]
+  </ul>
   <li>[[VBA]]
   <li>[[VBScript]]
   <li>[[正規表現|RegExp]]
