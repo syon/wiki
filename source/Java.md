@@ -7,6 +7,9 @@
 - [Javaって何だ？J2SDKとかJ2SEとかJ2EEとか、概念をわかっておこう](http://www.searchman.info/java_eclipse/1000.html)
 
 
+## Library
+- → __[[Java Library|java-library]]__
+
 ## Articles
 - [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)
 - [Javaエンジニアのためのアーキテクト講座-JJUG CCC 2014 Fall](http://www.slideshare.net/yusuke/jjugccc2014fall-architect)
