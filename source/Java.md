@@ -216,7 +216,7 @@ final class Singleton {
 
 ## Tips
 
-### のjarファイルを1つにまとめる
+### jarファイルを1つにまとめる
 
 - [のjarファイルを1つに纏める - koichi’s swap memory](http://d.hatena.ne.jp/koichiarchi/20080116/1200447205)
 - [Fat Jar Eclipse Plug-In](http://fjep.sourceforge.net/)
