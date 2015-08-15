@@ -33,6 +33,7 @@
 - [RunSwift - Try Swift in the Browser](http://www.runswiftlang.com/)
 - [Swift入門 (全24回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_swift)
 - [Swiftyは、iPhone一つでSwift言語が学べる - TechCrunch](http://jp.techcrunch.com/2015/03/20/20150319swifty-teaches-apples-new-programming-language-on-your-iphone/)
+- [Objective CのソースコードをSwiftに一発変換してくれるサイト「Objective-C to Swift Converter」 ｜ ライフハッカー［日本版］](http://www.lifehacker.jp/2015/08/150812objective_cswiftobjective.html)
 
 
 ## Books
