@@ -23,7 +23,11 @@ Noto is Google’s font family that aims to support all the world’s languages.
 ## Web Font
 
 #### [Google Fonts](https://www.google.com/fonts)
-- [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  Google Web Fontの説明
+- [フォントの埋め込みと Google Web Fonts | プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-107.html)  
+Google Web Fontの説明
+
+#### [Font Library](http://coliss.com/articles/build-websites/operation/design/organize-google-fonts-font-library.html)
+- [Googleフォントで好みのフォントを見つけるのはなかなか大変だけど、これを利用すると簡単に探せる！ -Font Library | コリス](http://coliss.com/articles/build-websites/operation/design/organize-google-fonts-font-library.html)
 
 #### [fonts.com](http://www.fonts.com/ja)
 - [月額10ドルで20,000種類のWebフォント使い放題、fonts.comに課金した - MEMOGRAPHIX](http://memo.sanographix.net/post/106045710670)
