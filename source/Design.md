@@ -12,7 +12,8 @@
     - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
 
 #### Icons
-- [Material icons - Google Design](https://www.google.com/design/icons/)
+- [Material icons - Google Design](https://www.google.com/design/icons/) アイコンリスト
+    - [Material icons guide - Google design](https://google.github.io/material-design-icons/) 実装ガイド
 
 #### Articles
 - [Googleマテリアル・デザインをはじめよう！参考にしたい無料素材やアイデアまとめ - Photoshop VIP](http://photoshopvip.net/archives/67403)
