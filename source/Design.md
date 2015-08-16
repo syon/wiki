@@ -11,6 +11,9 @@
     - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
     - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
 
+#### Icons
+- [Material icons - Google Design](https://www.google.com/design/icons/)
+
 #### Articles
 - [Googleマテリアル・デザインをはじめよう！参考にしたい無料素材やアイデアまとめ - Photoshop VIP](http://photoshopvip.net/archives/67403)
 - [Google Design の Google Web Designer ツールを使ってみた ‹ nuuno](http://nuuno.net/note/google-web-designer/)
