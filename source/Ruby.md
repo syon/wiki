@@ -74,6 +74,7 @@ Ruby関連の厳選リンク集
 "Hello, World" =~ /hello/  #=> nil
 "Hello, World" =~ /hello/i #=> 0
 "Hello, World".include? "Hello" #=> true
+["dog", "cat", "mouse"].include? "cat" #=> true
 
 # 完全一致
 "Hello, World" =~ /^Hello$/        #=> nil
