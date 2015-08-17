@@ -109,7 +109,10 @@ auth_param digest realm proxy
 auth_param digest nonce_garbage_interval 5 minutes
 auth_param digest nonce_max_duration 30 minutes
 auth_param digest nonce_max_count 50
+
 acl password proxy_auth REQUIRED
+
+http_access allow password
 ```
 
 ## Tips
