@@ -102,6 +102,15 @@ $ lsof -i :3128
     - digest  
       `/usr/local/opt/squid/libexec/digest_file_auth`
 
+```sh
+auth_param digest program /usr/local/opt/squid/libexec/digest_file_auth /usr/local/opt/squid/passwd
+auth_param digest children 20 startup=0 idle=1
+auth_param digest realm proxy
+auth_param digest nonce_garbage_interval 5 minutes
+auth_param digest nonce_max_duration 30 minutes
+auth_param digest nonce_max_count 50
+acl password proxy_auth REQUIRED
+```
 
 ## Tips
 - [Reload Squid Proxy Server Without Restarting Squid Daemon](http://www.cyberciti.biz/faq/howto-linux-unix-bsd-appleosx-reload-squid-conf-file/)
