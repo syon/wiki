@@ -82,6 +82,9 @@ $ lsof -i :3128
 #### Ubuntu
 - squid
     - `?`
+- service
+    - `service squid start`
+    - `service squid stop`
 - squid.conf
     - `/etc/squid3/squid.conf`
 - error_directory
