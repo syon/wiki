@@ -151,16 +151,19 @@ via - [Rubyで日付の計算するならactive_support使っとけって世間�
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 $ sudo apt-get install ssh git build-essential libssl-dev
+
 $ git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
-$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-$ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-$ . .bashrc
+$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+$ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+
 $ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+
 $ rbenv install 2.0.0-p353
 $ rbenv global 2.0.0-p353
 $ rbenv rehash
 ```
-via - [Dockerをインストールする - Qiita](http://qiita.com/sudahiroshi/items/2f430cc61878c4c70119)
+- https://github.com/sstephenson/rbenv#installation
+    - `rbenv install` needs [ruby-build](https://github.com/sstephenson/ruby-build#readme)
 
 #### Ruby 1.9.3 のインストールでエラー発生
 
