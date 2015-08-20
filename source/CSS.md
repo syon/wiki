@@ -161,6 +161,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
     - 要素を上下左右、好きな順序に並び替えられる！
     - スペースの操作も自由自在！
     - 高さの異なる横並びの要素を、簡単に上下中央揃え！
+- [Flexboxを使った2カラム・3カラム・マルチレイアウトの基本と応用 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox-layout/)
 
 ### float
 * [CSSでfloatを解除する方法のまとめ: 小粋空間](http://www.koikikukan.com/archives/2013/03/28-005555.php)
