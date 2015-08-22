@@ -110,6 +110,7 @@ $ sudo chown -R $USER /usr/local
 - [実践Isomorphic(+ Electron) // Speaker Deck](https://speakerdeck.com/mizchi/shi-jian-isomorphic-plus-electron)
 - [Kobito for Windows をリリース + 技術的な補足, package.json... - Qiita Blog](http://blog.qiita.com/post/118842984159/kobito-for-windows-release-tech)
 - [初めてのElectron！ HTML5でデスクトップアプリを作成しよう – ICS LAB](http://ics-web.jp/lab/archives/7298)
+- [Building a desktop application with Electron — Developers Writing — Medium](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
 
 
 ## Articles
