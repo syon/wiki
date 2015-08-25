@@ -15,7 +15,10 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [今から３分で，HTML5のドラッグ＆ドロップAPIと File APIを習得しよう（JSの実装サンプル付き） - 主に言語とシステム開発に関して](http://d.hatena.ne.jp/language_and_engineering/20140330/HTMLfiveDragDropAndFileAPISample)
 
 
-## altJS
+## ECMAScript / altJS
+
+### ES6
+- [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
 
 ### CoffeeScript
 
