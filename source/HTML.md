@@ -57,3 +57,4 @@
 
 #### OGP
 - [はてなブログにおけるOGP調査 - みかづきブログ その3](http://kimizuka.hatenablog.com/entry/2015/08/24/215407)
+- [そのURLが表示される時 - ゆーすけべー日記](http://blog.yusuke.be/entry/2015/08/25/113430) also schema.org
