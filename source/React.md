@@ -61,3 +61,4 @@
 - [React.jsをCoffeeScriptとjadeで書く | uzimith.github.io](https://uzimith.github.io/2015/02/13/react-jade-coffee/)
 - [3, 4 日で React を案件に導入(先っちょだけ)した話 - Qiita](http://qiita.com/monpy/items/cd6ff929aa52a832df5c)
 - [reactjs - javascript再勉強のためにreact + ardaでマインスイーパーをつくったので気づきを忘れないようにメモ - Qiita](http://qiita.com/mmmpa/items/dfdf0f4de70b42ad1138)
+- [Reactのprops/stateとFluxのStore - mizchi's blog](http://mizchi.hatenablog.com/entry/2015/08/24/233919)
