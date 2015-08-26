@@ -30,6 +30,7 @@
 
 
 ## Coding
+- [プログラミングスタイルガイドのスタイルガイド - Qiita](http://qiita.com/yugui/items/960b0da38a15c4d6917b)
 - [XMLParser vs XmlParser どちらが正解？表記が揺れるケースと対策 - Ph by codic team](http://blog.codic.jp/2014/11/13/about-camel-case/)
 
 #### Naming
