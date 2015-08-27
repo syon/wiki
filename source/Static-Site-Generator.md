@@ -11,6 +11,8 @@ The definitive listing of Static Site Generators
 
 ブログ向け。
 
+- [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！ | 株式会社LIG](http://liginc.co.jp/web/programming/server/104594)
+
 
 ## Middleman
 - → __[[Middleman]]__
