@@ -36,16 +36,26 @@ select username from dba_users;
 select table_name from user_tables where table_name like 'TBL%';
 ```
 
-### Tables
+### 定義情報
+
+- [オラクル オブジェクト情報メモ(Hishidama's object of Oracle Memo)](http://www.ne.jp/asahi/hishidama/home/tech/oracle/object.html)
 
 ```sql
 select * from USER_TABLES;
 select * from USER_VIEWS;
 select * from USER_SYNONYMS;
+select * from USER_TRIGGERS;
+select * from USER_SEQUENCES;
+select * from USER_PROCEDURES;
+select * from USER_SOURCE;
 
-select * from DBA_TABLES where owner = 'SCOTT';
-select * from DBA_VIEWS where owner = 'SCOTT';
-select * from DBA_SYNONYMS where owner = 'SCOTT';
+select * from DBA_TABLES where OWNER = 'SCOTT';
+select * from DBA_VIEWS where OWNER = 'SCOTT';
+select * from DBA_SYNONYMS where OWNER = 'SCOTT';
+select * from DBA_TRIGGERS where OWNER = 'SCOTT';
+select * from DBA_SEQUENCES where OWNER = 'SCOTT';
+select * from DBA_PROCEDURES where OWNER = 'SCOTT';
+select * from DBA_SOURCE where OWNER = 'SCOTT';
 ```
 
 ### ファイル出力
