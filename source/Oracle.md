@@ -36,6 +36,14 @@ select username from dba_users;
 select table_name from user_tables where table_name like 'TBL%';
 ```
 
+### Tables
+
+```sql
+select * from user_tables;
+
+select * from dba_tables;
+```
+
 ### ファイル出力
 
 ```sql
@@ -224,7 +232,6 @@ ORDER BY
   , C.COLUMN_ID
 /
 ```
-
 
 ## Tips
 
