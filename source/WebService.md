@@ -99,6 +99,9 @@
   縦横のサイズを指定してサンプル写真をダウンロードできます。グレースケールやブラーなどをかけるオプションも用意されています。綺麗な写真が多いので、写真を扱うアプリなどの検証の際に重宝しそうです。
 - [eXorithm - Execute Algorithm: View / Run Algorithm unique_image](http://www.exorithm.com/algorithm/view/unique_image)
 
+### Personal data
+- [ランダムに名前を生成 - Fake Name Generator](http://ja.fakenamegenerator.com/)
+
 ### Articles
 - [ダミー文章、ダミーデータ、ダミー画像を作ってくれるジェネレータまとめ【WEB制作】 - NAVER まとめ](http://matome.naver.jp/odai/2133396164637378001)
 - [制作途中にお世話になる、ダミーテキスト・ダミー画像のジェネレーターいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/dummy/)
