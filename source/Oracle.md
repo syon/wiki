@@ -40,8 +40,10 @@ select table_name from user_tables where table_name like 'TBL%';
 
 ```sql
 select * from user_tables;
+select * from user_views;
 
-select * from dba_tables;
+select * from dba_tables where owner = 'SCOTT';
+select * from dba_views where owner = 'SCOTT';
 ```
 
 ### ファイル出力
