@@ -39,11 +39,13 @@ select table_name from user_tables where table_name like 'TBL%';
 ### Tables
 
 ```sql
-select * from user_tables;
-select * from user_views;
+select * from USER_TABLES;
+select * from USER_VIEWS;
+select * from USER_SYNONYMS;
 
-select * from dba_tables where owner = 'SCOTT';
-select * from dba_views where owner = 'SCOTT';
+select * from DBA_TABLES where owner = 'SCOTT';
+select * from DBA_VIEWS where owner = 'SCOTT';
+select * from DBA_SYNONYMS where owner = 'SCOTT';
 ```
 
 ### ファイル出力
