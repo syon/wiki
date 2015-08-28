@@ -95,6 +95,7 @@
     <li>[[Java Library|java-library]]
     <li>[[Apache POI|apache-poi]]
   </ul>
+  <li>[[Elixir]]
   <li>[[VBA]]
   <li>[[VBScript]]
   <li>[[正規表現|RegExp]]
