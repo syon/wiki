@@ -111,6 +111,7 @@ Google Web Fontの説明
 - [Futuraと宇宙 - MEMOGRAPHIX](http://memo.sanographix.net/post/86297944395)
 - [Ubuntu忘備録: RuneAMN_Proの話 - #LOVEFONT Advent Calendar 2014-](http://blog.michinari-nukazawa.com/2014/12/lovefont2014-runeamn-font-devel.html)
 - [フォントの基本的な選び方 | Arch](http://www.ar-ch.org/mt/archives/2012/04/post-6.html)
+- [Type Project | 都市フォントプロジェクト 東京](http://typeproject.com/projects/cityfont-tokyo)
 
 
 ## Preview installed fonts
