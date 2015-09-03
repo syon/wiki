@@ -26,6 +26,7 @@ CairoSVG is a SVG converter based on Cairo. It can export SVG files to PDF, Post
 ### Articles
 
 - [東京の鉄道路線図SVGを作りました＆パブリックドメインで配布します - Liner Note](http://note.openvista.jp/2014/svg-rail-map)
+- [SVGはFlashの代わりにはなりません、なりませんよ。 - 週刊SVG](http://ssvvgg.net/post/128179413430/svg%E3%81%AFflash%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%81%AF%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%82%88)
 
 
 ### Tips
