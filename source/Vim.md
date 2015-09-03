@@ -74,6 +74,8 @@ colorscheme molokai
 
 ## Command list
 
+### カーソルの移動とスクロール
+
 |Command|Description|
 |---|---|
 |`w`|次の単語の先頭に移動|
@@ -98,3 +100,5 @@ colorscheme molokai
 |`G`|ファイルの最終行に移動|
 |`14G`|行番号14に移動|
 |`:14<enter>`|行番号14に移動|
+
+### 編集
