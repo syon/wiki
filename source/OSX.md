@@ -22,6 +22,8 @@
 0. Safariのタブの設定
 0. ログイン時やスリープ後のパスワード入力を省略する
 
+- [iCloud を利用して自宅の Mac へ SSH する - talkabout](http://www.talkabout.jp/2012/10/icloud-mac-ssh.html)
+
 
 ## 環境
 
