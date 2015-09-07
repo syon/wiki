@@ -8,6 +8,7 @@
     - [今年50のゲームを作って分かった面白いゲームを作る方法 - ABAの日誌](http://d.hatena.ne.jp/ABA/20141223#p1)
 - [Ferdy The Cat!](http://www.ferdythecat.com/)
 - [Play StarShine 2, a free online game on Kongregate](http://www.kongregate.com/games/HeroInteractive/starshine-2)
+- [MASAMUNE GAMES -マサムネゲエムス-](http://masamune-games.net/)
 
 ### Sites
 
