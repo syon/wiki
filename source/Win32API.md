@@ -1,4 +1,3 @@
-
 ## リファレンス
 
 ### [Windows API List - MSDN](http://msdn.microsoft.com/en-us/library/ff818516(v=vs.85).aspx)
@@ -179,3 +178,6 @@ puts buf.unpack('A*').pack('A*')
     - Win32APIを使ってキーボード入力を行わせる
     - Win32APIを使って特定のウインドウをフォアグラウンドに出す、タイトルからウインドウを取得する
 - [VRubyでGetCursorPos - 近況](http://d.hatena.ne.jp/pekeq/20070420/p1)
+
+## Font
+- [c++ - Get list of fonts (Win32) - Stack Overflow](http://stackoverflow.com/questions/2702157/get-list-of-fonts-win32)
