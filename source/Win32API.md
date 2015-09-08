@@ -181,6 +181,7 @@ puts buf.unpack('A*').pack('A*')
 
 
 ## Font
+#### フォント名の列挙
 - [c++ - Get list of fonts (Win32) - Stack Overflow](http://stackoverflow.com/questions/2702157/get-list-of-fonts-win32)
 - [フォント - WisdomSoft](http://wisdom.sakura.ne.jp/system/winapi/win32/win131.html)
 - [タイプフェイス - WisdomSoft](http://wisdom.sakura.ne.jp/system/winapi/win32/win132.html)
