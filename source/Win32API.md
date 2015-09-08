@@ -181,3 +181,9 @@ puts buf.unpack('A*').pack('A*')
 
 ## Font
 - [c++ - Get list of fonts (Win32) - Stack Overflow](http://stackoverflow.com/questions/2702157/get-list-of-fonts-win32)
+
+
+## Links
+
+### Node.js
+- [node-win32api by idobatter](http://idobatter.github.io/node-win32api/)
