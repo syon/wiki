@@ -179,8 +179,14 @@ puts buf.unpack('A*').pack('A*')
     - Win32APIを使って特定のウインドウをフォアグラウンドに出す、タイトルからウインドウを取得する
 - [VRubyでGetCursorPos - 近況](http://d.hatena.ne.jp/pekeq/20070420/p1)
 
+
 ## Font
 - [c++ - Get list of fonts (Win32) - Stack Overflow](http://stackoverflow.com/questions/2702157/get-list-of-fonts-win32)
+- [フォント - WisdomSoft](http://wisdom.sakura.ne.jp/system/winapi/win32/win131.html)
+- [タイプフェイス - WisdomSoft](http://wisdom.sakura.ne.jp/system/winapi/win32/win132.html)
+- [プログラミング講座-第29章](http://www.geocities.jp/midorinopage/Beginner/beginner29.html)
+- [フォント名の列挙 - Program Tips](http://www.crimson-systems.com/tips/t049a.htm)
+- [Visual Basic でシンボルを除くフォント一覧を取得するサンプル - Yahoo!知恵袋](http://note.chiebukuro.yahoo.co.jp/detail/n202474)
 
 
 ## Links
