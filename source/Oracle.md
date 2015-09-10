@@ -95,6 +95,11 @@ ORA-28002: パスワードは、n日以内に期限切れになります。
 alter profile default limit password_life_time unlimited;
 ```
 
+### Invalid objects
+```sql
+select object_name, status from user_objects where status <> 'VALID';
+```
+
 
 ## TNS Listener
 

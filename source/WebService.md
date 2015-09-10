@@ -107,7 +107,14 @@
 - [制作途中にお世話になる、ダミーテキスト・ダミー画像のジェネレーターいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/dummy/)
 - [日本の全エンジニアに捧ぐ！現在公開されているテスト用ダミーデータ一覧 | Find Job ! Startup](http://www.find-job.net/startup/dummy-2013)
 - [これは使える！かわいい似顔絵・アバターが作成できるジェネレーター20選 | コリス](http://coliss.com/articles/web-services/portrait-generators-for-twitter-and-facebook.html)
-- [組見本用創作文](http://www.type-labo.jp/Kumimihon.html)
+
+#### 組見本
+
+- [組見本用創作文『問わずがたりの洋酒外史』](http://www.type-labo.jp/Kumimihon.html)
+    - [組見本用創作文とは](http://www.type-labo.jp/KumimihonREAD.html)
+
+> #### 問わずがたりの洋酒外史
+> 　洋酒といえば、誰でも最初に思い浮かべるのがウイスキー。いわば洋酒のシンボル的な存在なのだが、英語表記が［一般に〔米〕では Whiskey,〔英〕では Whisky.］であることはあまり知られていない。米英両国では、このスペルの差で自国産と輸入品を区別しているという。わが和製ウイスキーの“Whisky”という英国式表示は、手本にしたスコッチのフォルムに倣ったものであり、それ以上の意味はないようだ。カナ表記にしても、ごくまれに〈ウヰスキー〉という書き方を見かけるが、これとて差別化を意図したものではなく単にカナづかいの時代性にすぎない。
 
 ## Google検索
 

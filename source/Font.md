@@ -129,3 +129,4 @@ Google Web Fontの説明
 - [Jsでクライアントマシンのフォント一覧情報を得るTIP | Knowledge base func](http://iteahelper.com/blog/2012/02/10/js%e3%81%a7%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e4%b8%80%e8%a6%a7%e6%83%85%e5%a0%b1%e3%82%92%e5%be%97%e3%82%8b/)
 - [kuippa/FlexFontsdlgHelper](https://github.com/kuippa/FlexFontsdlgHelper)
 - [gabriel/font-detect-js](https://github.com/gabriel/font-detect-js)
+- [全標準フォント一覧 / もうパンツはかない](http://rinrin.saiin.net/~aor/fonts/allfonts)
