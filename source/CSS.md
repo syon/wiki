@@ -178,6 +178,35 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 ### 擬似クラスの:(hoge)-child系と:(hoge)-type系の違い
 * [【CSS】擬似クラスの:(hoge)-child系と:(hoge)-type系の違いをここいらでしっかり覚えておこうか。 | バシャログ。](http://c-brains.jp/blog/wsg/13/07/03-144934.php)
 
+### 背景画像
+- [[CSS]背景画像をブラウザいっぱいに表示するシンプルな最新テクニック | コリス](http://coliss.com/articles/build-websites/operation/css/css-responsive-full-background-image-by-sixrevisions.html)
+```css
+body {
+  /* 画像ファイルの指定 */
+  background-image: url(images/background-photo.jpg);
+   
+  /* 画像を常に天地左右の中央に配置 */
+  background-position: center center;
+   
+  /* 画像をタイル状に繰り返し表示しない */
+  background-repeat: no-repeat;
+   
+  /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
+  background-attachment: fixed;
+   
+  /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
+  background-size: cover;
+   
+  /* 背景画像が読み込まれる前に表示される背景のカラー */
+  background-color: #464646;
+}
+```
+```css
+body {
+  background: url(background-photo.jpg) center center / cover no-repeat fixed;
+}
+```
+
 ### 改行させない
 * [white-space－スタイルシートリファレンス](http://www.htmq.com/style/white-space.shtml)  
   ソース中の連続する半角スペース・タブ・改行を、1つの半角スペースとして表示します。ボックスの大きさが指定されている場合にも、自動的に改行されません。
