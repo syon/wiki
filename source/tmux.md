@@ -1,3 +1,12 @@
+### References
+
+#### [tmux - Manual Pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
+公式マニュアル
+
+<dl><dt>C-z ?</dt><dd>現在のキーバインドを表示</dd>
+
+- [tmux Ver.1.6 list-keys 説明一覧](http://n.blueblack.net/files/2012-07-20_04_comfortable_cui_environment_tmux/tmux_list_keys_info.txt)
+
 
 ## .tmux.conf
 
@@ -14,14 +23,13 @@
   <dd>Metaキー(Alt)を押しながら A を押す</dd>
 </dl>
 
+
 ## Usage
 
-### [tmux - Manual Pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
-公式マニュアル
-
-<dl><dt>C-z ?</dt><dd>現在のキーバインドを表示</dd>
-
-* [tmux Ver.1.6 list-keys 説明一覧](http://n.blueblack.net/files/2012-07-20_04_comfortable_cui_environment_tmux/tmux_list_keys_info.txt)
+### Session
+```sh
+$ tmux new -s my_session
+```
 
 ### ペイン
 
