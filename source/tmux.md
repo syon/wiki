@@ -3,16 +3,16 @@
 #### [tmux - Manual Pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
 公式マニュアル
 
-<dl><dt>C-z ?</dt><dd>現在のキーバインドを表示</dd>
+<dl><dt>C-z ?</dt><dd>現在のキーバインドを表示</dd></dl>
 
 - [tmux Ver.1.6 list-keys 説明一覧](http://n.blueblack.net/files/2012-07-20_04_comfortable_cui_environment_tmux/tmux_list_keys_info.txt)
 
 
 ## .tmux.conf
 
-* [tmuxのおすすめ設定 - Qiita](http://qiita.com/catatsuy/items/db0a471bf1eabaa21c36)
-* [tmuxのすすめ - catatsuyのBlog](http://blog.catatsuy.org/a/243)
-* [tmuxのペインやウィンドウ間を移動する方法 - MBA-HACK](http://mba-hack.blogspot.jp/2013/01/tmux.html)
+- [tmuxのおすすめ設定 - Qiita](http://qiita.com/catatsuy/items/db0a471bf1eabaa21c36)
+- [tmuxのすすめ - catatsuyのBlog](http://blog.catatsuy.org/a/243)
+- [tmuxのペインやウィンドウ間を移動する方法 - MBA-HACK](http://mba-hack.blogspot.jp/2013/01/tmux.html)
 
 ### 表記
 
