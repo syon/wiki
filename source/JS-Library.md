@@ -100,6 +100,11 @@ Very very lightweight progress bars
 #### [Text Effects | Fourdesire 四合願](http://team.fourdesire.com/playgrounds/texteffects)
 ランダムな文字を次々に表示し、一つのテキストをアニメーションで生成します。
 
+#### [azu/textlint](https://github.com/azu/textlint)
+
+- [textlintで日本語の文章をチェックする | Web Scratch](http://efcl.info/2015/09/10/introduce-textlint/)
+- [JavaScriptでルールを書けるテキスト/Markdownの校正ツール textlint を作った | Web Scratch](http://efcl.info/2014/12/30/textlint/)
+
 
 ## 3D
 #### Away3D
