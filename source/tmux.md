@@ -27,8 +27,22 @@
 ## Usage
 
 ### Session
+
+- [Bash - tmuxを使いこなそう（ウインドウ、ペイン、セッション、アタッチ、デタッチ） - Qiita](http://qiita.com/shoma2da/items/2e68c1e59938eb0c2f83)
+
 ```sh
 $ tmux new -s my_session
+
+$ tmux ls
+
+# Attach last session
+$ tmux a
+
+# Attach session by name
+$ tmux a -t my_session
+
+# Dettach
+C-z d
 ```
 
 ### ペイン
