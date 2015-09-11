@@ -70,3 +70,7 @@ C-z d
         <td><code>C-z-矢印</code></td><td>ペインのサイズ調整</td>
     </tr>
 </table>
+
+### コピーモード
+- [tmuxのコピーモードのキーバインドを考えてみた - Qiita](http://qiita.com/syui/items/6a9cbd39f221d3b996a3)
+- [株式会社シャノン技術ブログ: tmuxの紹介](http://shanon-tech.blogspot.jp/2012/05/tmux.html)
