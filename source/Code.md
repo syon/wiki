@@ -40,6 +40,10 @@
 - [プログラミング - うまくメソッド名を付けるための参考情報 - Qiita](http://qiita.com/KeithYokoma/items/2193cf79ba76563e3db6)
 
 
+## 文字コード
+- [符号化文字集合と文字符号化方式 - 「プログラマのための文字コード技術入門」を読んだ - $shibayu36->blog;](http://blog.shibayu36.org/entry/2015/09/14/102100)
+
+
 ## Document formats
 
 #### Markdown
