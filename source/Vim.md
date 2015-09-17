@@ -11,6 +11,7 @@
 - [個人的に参考にしているvimrc - Qiita](http://qiita.com/knt45/items/ea2823361bfd29c25937)
 - [これまでのVimの勉強内容まとめ - Qiita](http://qiita.com/letsspeak/items/fd33d0f2e0fb0afe4531)
 - [「Vim Bootstrap」を使っておけば、なんちゃって Vimmer も幸せになれる - 大学生からはじめるWeb開発](http://karur4n.hatenablog.com/entry/2014/08/19/202239)
+- [Route 477](http://route477.net/w/VimMemo.html)
 
 #### あとで読む
 
