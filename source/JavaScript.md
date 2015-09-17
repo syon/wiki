@@ -87,9 +87,12 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
     - this
     - スコープとクロージャ
 - [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
-- [JavaScript Promiseの本](http://azu.github.io/promises-book/)
 - [javascript:void(0)のまとめ: 小粋空間](http://www.koikikukan.com/archives/2015/03/11-002222.php)
+
+#### Promise
+- [JavaScript Promiseの本](http://azu.github.io/promises-book/)
 - [Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Blog](http://blog.otakumode.com/2014/09/17/nodejs-promise/)
+- [Promiseのアレ](http://takazudo.github.io/presentation-promise/#/)
 
 
 ## 便利スクリプト
