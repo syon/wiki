@@ -26,6 +26,7 @@
   <li>[[SVG]]
   <li>[[ActionScript]] Flash, AS, AIR
   <li>[[Phaser]]
+  <li>[[Electron]]
 </ul>
 
 <h4>JS Framework</h4>
