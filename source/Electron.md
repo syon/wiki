@@ -9,4 +9,4 @@
 - [Building a desktop application with Electron — Developers Writing — Medium](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
 - [Electron for the Mac App Store](http://www.saschawise.com/blog/2015/08/12/electron-for-the-mac-app-store.html)
 - [Electron + Mithrilで、ふつうのデスクトップアプリを作る - Qiita](http://qiita.com/shibukawa/items/e1836a8c98413448f746)
-
+- [Electronでデスクトップアプリを簡単構築 | Ryuzee.com](http://www.ryuzee.com/contents/blog/7042)
