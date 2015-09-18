@@ -36,6 +36,12 @@ select username from dba_users;
 select table_name from user_tables where table_name like 'TBL%';
 ```
 
+### Row count of all tables
+
+```sql
+select table_name, num_rows from user_tables order by 2 desc;
+```
+
 ### 定義情報
 
 - [オラクル オブジェクト情報メモ(Hishidama's object of Oracle Memo)](http://www.ne.jp/asahi/hishidama/home/tech/oracle/object.html)
