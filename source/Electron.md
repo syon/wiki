@@ -10,3 +10,4 @@
 - [Electron for the Mac App Store](http://www.saschawise.com/blog/2015/08/12/electron-for-the-mac-app-store.html)
 - [Electron + Mithrilで、ふつうのデスクトップアプリを作る - Qiita](http://qiita.com/shibukawa/items/e1836a8c98413448f746)
 - [Electronでデスクトップアプリを簡単構築 | Ryuzee.com](http://www.ryuzee.com/contents/blog/7042)
+- [Electronでアプリケーションを作ってみよう - Qiita](http://qiita.com/Quramy/items/a4be32769366cfe55778)
