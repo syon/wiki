@@ -101,6 +101,8 @@ $ sudo chown -R $USER /usr/local
 - [nodeベースでGUIアプリを開発する「node-webkit」｜1 pixel｜サイバーエージェント公式クリエイターズブログ](http://ameblo.jp/ca-1pixel/entry-11765019318.html)
 - [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
 
+## Electron
+- __[[Electron]]__
 
 ## Articles
 
