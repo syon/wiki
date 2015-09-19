@@ -24,6 +24,7 @@
 
 - [Web API を利用する iOS アプリ作成 · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md)  
   「はてな教科書」は、はてなでWeb開発を行うエンジニアのために作られた、1週間程度の期間でWebアプリケーション開発の基本を身につけるための教科書です。
+    - [「はてな教科書」にSwift 2の教科書を追加しました - Hatena Developer Blog](http://developer.hatenastaff.com/entry/2015/09/18/162337)
 
 
 ## Sites
