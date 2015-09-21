@@ -12,3 +12,4 @@
 - [Electronでデスクトップアプリを簡単構築 | Ryuzee.com](http://www.ryuzee.com/contents/blog/7042)
 - [Electronでアプリケーションを作ってみよう - Qiita](http://qiita.com/Quramy/items/a4be32769366cfe55778)
 - [Electronで東京アメッシュのビューワーアプリをつくった - kitak.blog](http://kitak.hatenablog.jp/entry/2015/08/17/105152)
+- [HTML5でクロスプラットフォームなデスクトップアプリを開発できる「Electron」とは (1/2)：CodeZine（コードジン）](http://codezine.jp/article/detail/8782)
