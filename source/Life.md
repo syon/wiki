@@ -102,3 +102,4 @@ Open Source WiFi Connected Infrared Remote Controller
 ## etc.
 - [Bring the Sun Indoors](http://sunnlight.com/)  
   太陽と連動するライト
+- [Javascriptで照明を操作 [Cylon.js x Philips Hue] - Qiita](http://qiita.com/n0bisuke/items/a2fc7953023f5928e367)
