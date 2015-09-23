@@ -75,6 +75,10 @@ route print
 - [route - ルーティングテーブルの表示／設定を行う](http://www.atmarkit.co.jp/fnetwork/netcom/route/route.html)
 - [＠IT：Windows TIPS -- Tips：ルーティング・テーブルを操作する](http://www.atmarkit.co.jp/fwin2k/win2ktips/266routing/routing.html)
 
+### ファイル検索
+- [whereコマンドでファイルを探す － ＠IT](http://www.atmarkit.co.jp/fwin2k/win2ktips/1151where/where.html)
+
+
 ## バッチ
 
 ### 日付・時刻の取得
