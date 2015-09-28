@@ -147,3 +147,4 @@ $ /usr/local/sbin/squid -k reconfigure
 - [認証付きプロキシを強要されるOSXユーザがsquildで幸せになれた話 - Qiita](http://qiita.com/kmats@github/items/8a41c942e079c7a95919)
 - [proxyサーバ squidでアクセス時に認証を要求する設定 パソコン鳥のブログ/ウェブリブログ](http://vogel.at.webry.info/201306/article_19.html)
 - [Squidでプロキシサーバーを構築](http://www.serverlog.jp/squid-proxy/)
+- [squid で上位プロキシへ要求を転送する（多段プロキシ）](http://www.geocities.jp/gronlijus/skill/other/squid/squid-forward.html)
