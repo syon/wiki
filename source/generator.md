@@ -10,6 +10,8 @@
 - [Unsplash It](https://unsplash.it/)  
   縦横のサイズを指定してサンプル写真をダウンロードできます。グレースケールやブラーなどをかけるオプションも用意されています。綺麗な写真が多いので、写真を扱うアプリなどの検証の際に重宝しそうです。
 - [eXorithm - Execute Algorithm: View / Run Algorithm unique_image](http://www.exorithm.com/algorithm/view/unique_image)
+- [Identicons! - GitHub](https://github.com/blog/1586-identicons)
+    - [Identicon - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Identicon)
 
 ### Personal data
 - [ランダムに名前を生成 - Fake Name Generator](http://ja.fakenamegenerator.com/)
