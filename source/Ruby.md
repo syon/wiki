@@ -257,6 +257,9 @@ $ irb -r 'myclass.rb'
 puts ARGV[0]
 </pre>
 
+### 例外
+- [Ruby - Railsアプリケーションにおけるエラー処理（例外設計）の考え方 - Qiita](http://qiita.com/jnchito/items/3ef95ea144ed15df3637)
+
 ### File
 
 #### 出力
