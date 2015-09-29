@@ -93,6 +93,8 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [JavaScript Promiseの本](http://azu.github.io/promises-book/)
 - [Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Blog](http://blog.otakumode.com/2014/09/17/nodejs-promise/)
 - [Promiseのアレ](http://takazudo.github.io/presentation-promise/#/)
+- [ES6 Promises in Depth](http://ponyfoo.com/articles/es6-promises-in-depth)  
+  Promiseの動きをビジュアライズしながら、`.then`や`.catch`がどのようなフローで処理されるかを解説している記事
 
 
 ## 便利スクリプト
