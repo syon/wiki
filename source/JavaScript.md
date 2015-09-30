@@ -149,6 +149,21 @@ function getParameterByName(name) {
 
 - [JavaScript - addEventListener / removeEventListener サンプル – nocorica](http://blog.nocorica.jp/2015/05/js-eventlistener/)
 
+### Parent window, Child window
+#### JavaScript access from child window to parent window
+```js
+/* Parent window */
+function parentfunc(arg) {
+  console.log(arg); // from child
+}
+```
+```js
+/* Child window */
+function triggerdfunc() {
+  window.opener.parentfunc('from child');
+}
+```
+
 ### 高速化
 
 - [一行で IE の JavaScript を高速化する方法 - IT戦記](http://d.hatena.ne.jp/amachang/20071010/1192012056)
