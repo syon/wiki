@@ -41,7 +41,8 @@
 - Keep up-to-date  
   → __[[Shell]]__
 
-- [homebrew/El_Capitan_and_Homebrew.md at master · Homebrew/homebrew · GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md)
+- [homebrew/El_Capitan_and_Homebrew.md at master · Homebrew/homebrew · GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md)  
+  El Capitan で Homebrew を使うときの注意点等について
 
 #### Homebrew Cask
 - [エンジニア Mac アプリ 環境 おすすめ - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/090517)
