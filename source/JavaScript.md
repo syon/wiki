@@ -20,6 +20,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 ### ES6
 - [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
 - [Babelで始める！モダンJavaScript開発 | HTML5Experts.jp](https://html5experts.jp/kyo_ago/16979/)
+- [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
 
 ### CoffeeScript
 
