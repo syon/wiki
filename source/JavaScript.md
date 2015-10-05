@@ -96,6 +96,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [Promiseのアレ](http://takazudo.github.io/presentation-promise/#/)
 - [ES6 Promises in Depth](http://ponyfoo.com/articles/es6-promises-in-depth)  
   Promiseの動きをビジュアライズしながら、`.then`や`.catch`がどのようなフローで処理されるかを解説している記事
+- [Promiseで簡単！JavaScript非同期処理入門【前編】 | HTML5Experts.jp](https://html5experts.jp/takazudo/17107/)
 
 
 ## 便利スクリプト
