@@ -55,6 +55,9 @@ A touch slideout navigation menu for your mobile web apps.
 #### [FileSaver.js demo](http://eligrey.com/demos/FileSaver.js/)
 - [D3.jsで作成したグラフ(SVG)を画像として保存する | Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
 
+#### [Handsontable](http://handsontable.com/)
+Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free JavaScript component.
+
 
 ## Modal
 
