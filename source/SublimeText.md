@@ -4,6 +4,20 @@
   <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
 <dl>
 
+### Proxy
+
+- App
+    - `Preferences` > `Settings - User`
+- Package Control
+    - `Preferences` > `Package Settings` > `Package Control` > `Settings - User`
+
+```js
+{
+    "http_proxy": "http://proxyserver:8080",
+    "https_proxy": "http://proxyserver:8080",
+    :
+```
+
 
 ## My Installing Packages
 
@@ -50,19 +64,6 @@
 
 ## Settings
 
-### Proxy
-
-- App
-    - `Preferences` > `Settings - User`
-- Package Control
-    - `Preferences` > `Package Settings` > `Package Control` > `Settings - User`
-
-```js
-{
-    "http_proxy": "http://proxyserver:8080",
-    "https_proxy": "http://proxyserver:8080",
-    :
-```
 
 
 ## Links
