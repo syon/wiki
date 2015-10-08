@@ -46,7 +46,6 @@ Edit the install code:
 "theme": "Cobalt2.sublime-theme",
 ```
 
-
 #### SublimeLinter
 - __[SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)__
     - `$ npm install -g csslint`
@@ -54,6 +53,9 @@ Edit the install code:
     - `$ gem install scss_lint`
 - __[SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)__
     - `$ npm install -g jshint`
+
+#### SassBeautify
+- [badsyntax/SassBeautify · GitHub](https://github.com/badsyntax/SassBeautify)
 
 #### Emmet
 - `Please wait a bit while PyV8 binary is being downloaded`
