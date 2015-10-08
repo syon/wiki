@@ -1,9 +1,12 @@
 ## Install
 
 ### Package Control
-- __[Installation - Package Control](https://packagecontrol.io/installation)__
-
-
+- __[Installation - Package Control](https://packagecontrol.io/installation)__  
+Edit the install code:
+```sh
+- ( urllib.request.ProxyHandler()) );
++ ( urllib.request.ProxyHandler({'http': 'http://<user>:<pass>@<proxyhost>:<port>'})) );
+```
 
 ### Proxy
 
