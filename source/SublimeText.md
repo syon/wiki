@@ -1,8 +1,9 @@
-## Usage
-<dl>
-  <dt>Install Package</dt>
-  <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
-<dl>
+## Install
+
+### Package Control
+- __[Installation - Package Control](https://packagecontrol.io/installation)__
+
+
 
 ### Proxy
 
@@ -17,6 +18,13 @@
     "https_proxy": "http://proxyserver:8080",
     :
 ```
+
+
+## Usage
+<dl>
+  <dt>Install Package</dt>
+  <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
+<dl>
 
 
 ## My Installing Packages
