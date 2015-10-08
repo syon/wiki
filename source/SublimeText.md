@@ -5,7 +5,7 @@
 Edit the install code:
 ```sh
 - ( urllib.request.ProxyHandler()) );
-+ ( urllib.request.ProxyHandler({'http': 'http://<user>:<pass>@<proxyhost>:<port>'})) );
++ ( urllib.request.ProxyHandler({'http': 'http://<user>:<pass>@<proxyserver>:<port>'})) );
 ```
 
 ### Proxy
@@ -19,6 +19,8 @@ Edit the install code:
 {
     "http_proxy": "http://proxyserver:8080",
     "https_proxy": "http://proxyserver:8080",
+    "proxy_username": "myname",
+    "proxy_password": "mypassword",
     :
 ```
 
