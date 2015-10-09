@@ -30,3 +30,9 @@ A C implementation of a Sass compiler
 - [Compassで簡単、CSSスプライト作成 - CSSスプライト作成の基礎 | CodeGrid](https://app.codegrid.net/entry/compass-sprite-1)
     - 自動出力されたクラス（ファイル名ベース）を割り当てる方式 → 種類の違う静止アイコン
     - 既存のクラス内にmixinをincludeしてbackground-positionを自動で割り当てる方式 → ボタンhoverなど
+
+
+## Tips
+
+#### Clearfix
+- [CSS Tip: A Better Clearfix with Sass - Treehouse Blog](http://blog.teamtreehouse.com/a-better-clearfix-with-sass)
