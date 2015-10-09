@@ -1,5 +1,4 @@
-## Sass
-[Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
+#### [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
 
 > Sass is an extension of CSS3 which adds nested rules, variables, mixins, selector inheritance, and more. Sass generates well formatted CSS and makes your stylesheets easier to organize and maintain.
 
@@ -13,7 +12,8 @@ A C implementation of a Sass compiler
 - [libSass wrappers](http://sass-lang.com/libsass)
     - [sass/node-sass](https://github.com/sass/node-sass)
 
-### [Compass](http://compass-style.org/)
+
+## [Compass](http://compass-style.org/)
 
 > - ベンダープレフィックス自動生成
 > - 画像をフォルダに置くだけでCSSスプライトを生成
