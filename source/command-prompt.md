@@ -123,3 +123,16 @@ setx /M http_proxy http://localhost:3128
 - [Windows - SETX コマンドで環境変数を永続的に設定する - Qiita](http://qiita.com/rohinomiya/items/cf5236678b3459da9017)
 - [setxで環境変数の値を設定する（基本編） － ＠IT](http://www.atmarkit.co.jp/fwin2k/win2ktips/1003setx/setx.html)
 - [uzulla/how_to_setup_path_on_windows · GitHub](https://github.com/uzulla/how_to_setup_path_on_windows)
+
+### Open Explorer
+```sh
+explorer <path>
+```
+
+#### easily use on Cmder
+```sh
+# path/to/cmder/bin/open.cmd
+@ECHO OFF
+explorer %1
+@ECHO ON
+```
