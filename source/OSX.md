@@ -77,6 +77,7 @@ brew cask install appcleaner
 - [Macのプレビュー.appで写真の「Exif」情報を表示する方法 / Inforati](http://inforati.jp/apple/mac-tips-techniques/multimedia-hints/how-to-show-exif-data-of-a-photo-with-mac-preview-app.html)
 - [ImageOptim — better Save For Web](http://imageoptim.com/) ◆Mac Exif 一括削除
 - [知らない人は損してると思うMacの使い方](http://alfalfalfa.com/archives/1147302.html)
+- [Geek Knowledge: （Linux等の）シェルスクリプトを Mac の Finder からダブルクリックで実行するには](http://hseisyu.blogspot.jp/2010/10/linux-mac-finder.html)
 
 ## 作業効率化
 - [マウスを自在にコントロールするAppleScript - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120126/library_mouse_scpt)
