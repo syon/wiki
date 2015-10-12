@@ -87,6 +87,9 @@ Idea と Visual という２種類の項目で評価されます。タグの分�
 #### [Mobile Patterns](http://www.mobile-patterns.com/)
 iOS に特化した UI ギャラリー。カテゴリを選ぶと App Store を意識した横スクロールの UI で閲覧できます。
 
+#### [iOS 9 GUI (iPhone) — Facebook Design Resources](http://facebook.github.io/design/ios9.html)
+Photoshop and Sketch templates of GUI elements found in the public release of iOS 9.
+
 ### まとめ
 - [UIデザインで困らないために押さえておくべき7つのWEBサービス](http://blog.layer8.sh/ja/2012/04/08/7-useful-items-for-better-user-interface-design/)
 - [ブログデザインを考える：１行の字数とWEB幅 - tarのブログるっ by @tarVolcano](http://tar.blogru.me/entry/2014/05/22/080100)
