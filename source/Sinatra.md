@@ -162,6 +162,10 @@ somepage.haml
 <pre>
 - content_for :title do "This is title" end
 </pre>
+<pre>
+- content_for :title do
+  = "This is title"
+</pre>
 
 ## Slim
 
