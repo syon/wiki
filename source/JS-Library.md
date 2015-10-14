@@ -129,3 +129,18 @@ Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free
 htmlテーブルヘッダの固定
 
 - CSS property: `padding`, `border` on __th__ and __td__ cause calc bug.
+- for making padding:
+```js
+$('[_fixedhead] th, [_fixedhead] td').wrapInner('<span class="FMCELL" />');
+FixedMidashi.create();
+```
+```scss
+th, td {
+  /* FixedMidashi requires padding left/right 0. */
+  padding: 4px 0;
+
+  .FMCELL {
+    padding: 0 4px;
+  }
+}
+```
