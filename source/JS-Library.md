@@ -55,9 +55,6 @@ A touch slideout navigation menu for your mobile web apps.
 #### [FileSaver.js demo](http://eligrey.com/demos/FileSaver.js/)
 - [D3.jsで作成したグラフ(SVG)を画像として保存する | Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
 
-#### [Handsontable](http://handsontable.com/)
-Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free JavaScript component.
-
 
 ## Modal
 
@@ -121,3 +118,12 @@ JavaScript animation, physics and input tracking
 - [生WebGL入門:初音ミクの美麗3Dモデルを表示する(前編) » nmi.jp](http://nmi.jp/archives/582)
 - [WebGL開発者必見！ Flash Stage3Dとの比較から見えてくるWebGLのあり方について – ICS LAB](http://ics-web.jp/lab/archives/3865)
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html)
+
+
+## Table
+
+#### [Handsontable](http://handsontable.com/)
+Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free JavaScript component.
+
+#### [FixedMidashi](http://hp.vector.co.jp/authors/VA056612/fixed_midashi/manual/index.html)
+htmlテーブルヘッダの固定
