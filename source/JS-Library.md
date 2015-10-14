@@ -127,3 +127,5 @@ Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free
 
 #### [FixedMidashi](http://hp.vector.co.jp/authors/VA056612/fixed_midashi/manual/index.html)
 htmlテーブルヘッダの固定
+
+- will be broken with CSS property: `padding`, `border`.
