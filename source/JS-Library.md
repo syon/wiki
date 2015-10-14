@@ -128,4 +128,4 @@ Excel-like spreadsheet for web apps. Handsontable is ready to use, open and free
 #### [FixedMidashi](http://hp.vector.co.jp/authors/VA056612/fixed_midashi/manual/index.html)
 htmlテーブルヘッダの固定
 
-- will be broken with `th` `td` CSS property: `padding`, `border`.
+- CSS property: `padding`, `border` on __th__ and __td__ cause calc bug.
