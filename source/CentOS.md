@@ -3,6 +3,16 @@ __[CentOS Project](http://www.centos.org/)__
 
 ## Network
 
+#### nmcli
+CLI
+```sh
+nmcli devices
+```
+
+#### nmtui
+GUI
+
+
 ### Proxy
 __/etc/yum.conf__
 ```sh
