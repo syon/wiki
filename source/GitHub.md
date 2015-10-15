@@ -61,3 +61,41 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
 ## [GitLab](https://about.gitlab.com/)
 - [GitHubクローンのGitLabを５分でインストールした - アルパカDiary](http://d.hatena.ne.jp/toritori0318/20140523/1400863038)
 - [Docker で 自動バックアップ付きの gitlabサイト を構築 - Qiita](http://qiita.com/essa/items/87b6ae3f892a79b9c560)
+
+## GitBucket
+[takezoe/gitbucket · GitHub](https://github.com/takezoe/gitbucket)
+
+#### Install
+```sh
+### http://centos.sabakan.red/entry/2015/04/27/153821
+
+# yum install -y java-1.8.0-openjdk java-1.8.0-openjdk-devel java-1.8.0-openjdk-headless
+
+# yum install -y tomcat
+
+# yum install -y wget
+
+# wget -P /usr/share/tomcat/webapps/ https://github.com/takezoe/gitbucket/releases/download/3.7/gitbucket.war
+
+# systemctl start tomcat
+
+# yum install -y nmap
+
+# nmap localhost
+
+### http://qiita.com/Monota/items/bb99fa5e1aa661182862
+
+# vi /etc/firewalld/services/tomcat.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Tomcat (HTTP)</short>
+  <description>Tomcat HTTP Server.</description>
+  <port protocol="tcp" port="8080"/>
+</service>
+
+# firewall-cmd --permanent --add-service=tomcat
+# systemctl restart firewalld.service
+# firewall-cmd --list-all
+```
+http://server:8080/gitbucket/
