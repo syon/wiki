@@ -38,6 +38,7 @@
 - [d3.js Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/117)
 - [2時間縛りでd3.js挑戦してみた - mizchi's blog](http://mizchi.hatenablog.com/entry/2014/03/02/171849)
 - [エンジニアのためのデータ可視化実践入門という本を書いた - あんちべ！](http://antibayesian.hateblo.jp/entry/2014/02/16/235830)
+- [D3.js でローソク足チャート描くなら TechanJS がイイ！(かもしんない) - 私と私の猫の他は誰でも隠し事を持っている](http://mariyudu.hatenablog.com/entry/2015/08/30/214046)
 
 #### tech.nitoyon.com
 - [D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/)
