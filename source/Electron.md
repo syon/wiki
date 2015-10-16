@@ -16,3 +16,4 @@
 - [GitHub のトレンドリポジトリを見逃さない，Trendy をつくりました - sorry, uninuplemented:](http://rhysd.hatenablog.com/entry/2015/09/23/220145)
 - [Electron を試す – 開発環境の構築 | アカベコマイリ](http://akabeko.me/blog/2015/09/electron/)
 - [Electron を試す 2 – パッケージ化におけるプラットフォーム固有処理とコンパイル分岐 | アカベコマイリ](http://akabeko.me/blog/2015/10/electron-2/)
+- [Photon](http://photonkit.com/)
