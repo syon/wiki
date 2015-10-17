@@ -99,6 +99,7 @@
     <li>[[Java Library|java-library]]
     <li>[[Apache POI|apache-poi]]
   </ul>
+  <li>[[Scala]]
   <li>[[Elixir]]
   <li>[[VBA]]
   <li>[[VBScript]]
