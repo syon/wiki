@@ -30,12 +30,6 @@ Ruby on Railsの哲学をJavaで実現することを目的としたフレーム
   Play 2.3 から `activator` コマンドによるインストールに変更されている
 - [Windows - Typesafe ActivatorでPlay framework 2実行環境を整える - Qiita](http://qiita.com/nownabe/items/996df00392e60b5ea3e0)
 
-### Scala
-- [スケーラブルで関数型でオブジェクト指向なScala入門](http://www.atmarkit.co.jp/fjava/index/index_scala.html)  
-  Scalaの特徴を紹介し、基本構文や関数、クラスなど、Scalaの基本的な機能について解説する入門連載
-- [Play Frameworkを使ってみて知ったScalaの正体 - まーぽんって誰がつけたの？](http://mpon.hatenablog.com/entry/2014/07/19/230810)
-- [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html)
-
 
 ## Apache Commons
 [Apache Commons](http://commons.apache.org/)  
