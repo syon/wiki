@@ -1,0 +1,1 @@
+[ScalaのWebフレームワーク事情 2015年版 - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2015/10/07/090016)
