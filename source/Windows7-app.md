@@ -89,6 +89,14 @@ bluewind.ahk
 ### AutoHotKey
 - [[AutoHotKey]]
 
+### keyhac
+Pythonで制御するキーアサインの制御ソフト
+
+- [keyhac - craftware](https://sites.google.com/site/craftware/keyhac)
+- [NTEmacs @ ウィキ - Windows の操作を emacs のキーバインドで行うための設定 （keyhac版）](http://www49.atwiki.jp/ntemacs/pages/25.html)
+- [keyhac で親指徹底活用 - Wisteria::Diary](http://d.hatena.ne.jp/mobitan/20081129/1227802480)
+
+
 ### PhraseExpress
 - [PhraseExpressの使い方まとめ - NAVER まとめ](http://matome.naver.jp/odai/2133712265981682501)
 
