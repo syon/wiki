@@ -12,6 +12,10 @@ nmcli devices
 #### nmtui
 GUI
 
+#### Restart
+```sh
+systemctl restart NetworkManager
+```
 
 ### Proxy
 __/etc/yum.conf__
