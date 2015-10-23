@@ -95,6 +95,9 @@ Very very lightweight progress bars
 #### [Popmotion](http://popmotion.io/)
 JavaScript animation, physics and input tracking
 
+#### [delayDo](http://onopko.github.io/delayDo/)
+a tiny timer management plugin for jQuery
+
 ### Articles
 - [[JS]最近のWebサイトで見かける気持ちいいアニメーション、便利な仕掛けや機能を実装するスクリプトのまとめ | コリス](http://coliss.com/articles/build-websites/operation/javascript/javascript-best-2015-july.html)
 
