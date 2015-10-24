@@ -53,6 +53,8 @@ Edit the install code:
     - `$ gem install scss_lint`
 - __[SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)__
     - `$ npm install -g jshint`
+- __[SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)__
+    - `$ npm install -g eslint`
 
 #### SassBeautify
 - [badsyntax/SassBeautify · GitHub](https://github.com/badsyntax/SassBeautify)
