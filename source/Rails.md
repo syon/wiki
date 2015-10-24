@@ -23,6 +23,10 @@ binding.pry
 - [Railsで作ったサービスの速度改善方法について教えて下さい - QA@IT](http://qa.atmarkit.co.jp/q/2923)
 
 
+## Articles
+- [Rails開発におけるwebサーバーとアプリケーションサーバーの違い（翻訳） - Qiita](http://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3)
+
+
 ## Links
 
 - [Rails 4 へ移行してあらためて大切だと思ったこと + 役に立ったリンクを全力まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/20130923/1379930345)
