@@ -4,7 +4,19 @@
 - [＠IT：Java TIPS -- EclipseでライブラリとJavadocを関連付ける](http://www.atmarkit.co.jp/fjava/javatips/072eclipse024.html)
 
 
-## Spring
+## [Spring Framework](http://projects.spring.io/spring-framework/)
+
+### DataBase on Spring
+- [java - Named parameters in JDBC - Stack Overflow](http://stackoverflow.com/questions/2309970/named-parameters-in-jdbc)
+[java - Named parameters in JDBC - Stack Overflow](http://stackoverflow.com/questions/2309970/named-parameters-in-jdbc)
+
+```java
+NamedParameterJdbcTemplate jdbcTemplate = new NamedParameterJdbcTemplate(dataSource);
+MapSqlParameterSource paramSource = new MapSqlParameterSource();
+paramSource.addValue("name", name);
+paramSource.addValue("city", city);
+jdbcTemplate.queryForRowSet("SELECT * FROM customers WHERE name = :name AND city = :city", paramSource);
+```
 
 #### JNDI DataSource
 - [java - How to use JNDI DataSource provided by Tomcat in Spring? - Stack Overflow](http://stackoverflow.com/questions/9183321/how-to-use-jndi-datasource-provided-by-tomcat-in-spring)
