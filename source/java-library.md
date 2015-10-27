@@ -4,6 +4,13 @@
 - [＠IT：Java TIPS -- EclipseでライブラリとJavadocを関連付ける](http://www.atmarkit.co.jp/fjava/javatips/072eclipse024.html)
 
 
+## Spring
+
+#### JNDI DataSource
+- [java - How to use JNDI DataSource provided by Tomcat in Spring? - Stack Overflow](http://stackoverflow.com/questions/9183321/how-to-use-jndi-datasource-provided-by-tomcat-in-spring)
+- [Spring DataSource JNDI with Tomcat Example | JournalDev](http://www.journaldev.com/2597/spring-datasource-jndi-with-tomcat-example)
+
+
 ## Spring Boot
 
 - [今学ぶJava(1) - Spring Bootどうでしょう - syonx](http://syonx.hatenablog.com/entry/2015/05/05/034359)
