@@ -5,10 +5,17 @@
 
 
 ## [Spring Framework](http://projects.spring.io/spring-framework/)
+Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
+
+- [Springの記事のまとめ - コンピュータクワガタ](http://kuwalab.hatenablog.jp/entry/spring)
 
 ### DataBase on Spring
 
+#### Spring JDBC
+- [Spring JDBCの紹介 No. 1 - コンピュータクワガタ](http://kuwalab.hatenablog.jp/entry/spring_jdbc/1)
+
 #### NamedParameterJdbcTemplate
+- [Spring JDBCの紹介 No. 2 - コンピュータクワガタ](http://kuwalab.hatenablog.jp/entry/spring_jdbc/2)
 - [java - Named parameters in JDBC - Stack Overflow](http://stackoverflow.com/questions/2309970/named-parameters-in-jdbc)
 [java - Named parameters in JDBC - Stack Overflow](http://stackoverflow.com/questions/2309970/named-parameters-in-jdbc)
 
