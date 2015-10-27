@@ -38,6 +38,12 @@ Ruby on Railsの哲学をJavaで実現することを目的としたフレーム
 - [Windows - Typesafe ActivatorでPlay framework 2実行環境を整える - Qiita](http://qiita.com/nownabe/items/996df00392e60b5ea3e0)
 
 
+## [Spark Framework](http://sparkjava.com/)
+Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort
+
+- [Java - Spark Framework使い方メモ - Qiita](http://qiita.com/opengl-8080/items/801b32a8d44089fa1c04)
+
+
 ## Apache Commons
 [Apache Commons](http://commons.apache.org/)  
 The Commons is an Apache project focused on all aspects of reusable Java components.
