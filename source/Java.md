@@ -234,6 +234,8 @@ final class Singleton {
 0. 実行しておわり
 
 ### JAR・WAR・EAR の違い
+- [あるシステム屋による開発の記録　JAR, WAR, EAR の違いについて](http://javasystem.blog4.fc2.com/blog-entry-3.html)
+
 > JAR, WAR, EAR はいずれもJava仕様に準拠して定義されたZIP形式の圧縮ファイルである。
 全てZIPファイルなので、解凍ツールなどで解凍して中身を見ることができる。
 WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められている。
@@ -253,4 +255,12 @@ WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められて�
   また、application.xmlが含まれ、アプリケーションサーバを含んだJ2EEコンテナ(JBoss, WebSphereなど)に配布すると、これを元にデプロイされる。  
   ※ "EAR"は"Enterprise Archive"の略
 
-- [あるシステム屋による開発の記録　JAR, WAR, EAR の違いについて](http://javasystem.blog4.fc2.com/blog-entry-3.html)
+- [java - .war vs .ear file - Stack Overflow](http://stackoverflow.com/questions/1594667/war-vs-ear-file)
+
+> In J2EE application, modules are packaged as EAR, JAR and WAR based on their functionality
+>
+>JAR: EJB modules which contain enterprise java beans (class files) and EJB deployment descriptor are packed as JAR files with .jar extenstion
+>
+>WAR: Web modules which contain Servlet class files, JSP Files, supporting files, GIF and HTML files are packaged as JAR file with .war (web archive) extension
+>
+>EAR: All above files (.jar and .war) are packaged as JAR file with .ear (enterprise archive) extension and deployed into Application Server.
