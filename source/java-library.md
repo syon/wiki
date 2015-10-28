@@ -31,6 +31,9 @@ jdbcTemplate.queryForRowSet("SELECT * FROM customers WHERE name = :name AND city
 - [java - How to use JNDI DataSource provided by Tomcat in Spring? - Stack Overflow](http://stackoverflow.com/questions/9183321/how-to-use-jndi-datasource-provided-by-tomcat-in-spring)
 - [Spring DataSource JNDI with Tomcat Example | JournalDev](http://www.journaldev.com/2597/spring-datasource-jndi-with-tomcat-example)
 
+#### Transaction
+- [第6回 Spring環境におけるトランザクション処理 ｜ Developers.IO](http://dev.classmethod.jp/server-side/transaction-management-in-spring/)
+
 
 ## Spring Boot
 
