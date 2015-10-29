@@ -264,3 +264,24 @@ WAR, EARのフォルダ構造はJ2EE仕様によって明確に決められて�
 >WAR: Web modules which contain Servlet class files, JSP Files, supporting files, GIF and HTML files are packaged as JAR file with .war (web archive) extension
 >
 >EAR: All above files (.jar and .war) are packaged as JAR file with .ear (enterprise archive) extension and deployed into Application Server.
+
+### RePackaging war / ear
+解凍
+
+    jar xvf career.ear
+
+パッケージング
+
+    jar cvf career.war *
+
+    jar cvf career.ear *
+
+オプションの意味
+
+    c  新規jarファイルを作成
+    v  コマンドラインに処理内容を表示
+    f  jarファイル名を指定する
+    x  jarの中身を取り出す
+    t  jarファイルの中身を表示
+
+※ jarコマンドはjdkのbinに入っているのでパスを通しておく
