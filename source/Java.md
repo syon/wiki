@@ -22,6 +22,7 @@
 - [Maven | TECHSCORE(テックスコア)](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/index/)
 - [The Central Repository Search Engine](http://search.maven.org/)
 - [Maven – Guide to Coping with Sun JARs](http://maven.apache.org/guides/mini/guide-coping-with-sun-jars.html)
+- [Maven2でEARプロジェクト：Javaってまだいけますか](http://javawock.blog.shinobi.jp/java-%20maven2/maven2%E3%81%A7ear%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 
 #### Proxy settings
 - [Maven2にプロキシを教える](http://www.jxpath.com/maven2/step1/proxy.html)
