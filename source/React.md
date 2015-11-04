@@ -9,6 +9,10 @@
 #### React Native
 - [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 
+#### References
+- [React Cheat Sheet](http://reactcheatsheet.com/)
+
+
 ## Intro
 - [Introduction To React // Speaker Deck](https://speakerdeck.com/hokaccha/introduction-to-react)
     - [今話題のReact.jsはどのようなWebアプリケーションに適しているか？ Introduction To React─ Frontrend Conference](http://html5experts.jp/hokaccha/13301/)
