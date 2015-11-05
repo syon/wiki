@@ -90,6 +90,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
     - スコープとクロージャ
 - [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
 - [javascript:void(0)のまとめ: 小粋空間](http://www.koikikukan.com/archives/2015/03/11-002222.php)
+- [“use strict”（厳格モード）を使うべきか？｜もっこりJavaScript｜ANALOGIC（アナロジック）](http://analogic.jp/use-strict/#usage)
 
 #### Promise
 - [JavaScript Promiseの本](http://azu.github.io/promises-book/)
