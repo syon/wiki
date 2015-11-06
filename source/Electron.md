@@ -17,3 +17,4 @@
 - [Electron を試す – 開発環境の構築 | アカベコマイリ](http://akabeko.me/blog/2015/09/electron/)
 - [Electron を試す 2 – パッケージ化におけるプラットフォーム固有処理とコンパイル分岐 | アカベコマイリ](http://akabeko.me/blog/2015/10/electron-2/)
 - [Photon](http://photonkit.com/)
+- [Mac App Store and Windows Auto Updater on Electron](http://blog.atom.io/2015/11/05/electron-updates-mac-app-store-and-windows-auto-updater.html)
