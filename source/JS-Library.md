@@ -114,6 +114,9 @@ a tiny timer management plugin for jQuery
 - [textlintで日本語の文章をチェックする | Web Scratch](http://efcl.info/2015/09/10/introduce-textlint/)
 - [JavaScriptでルールを書けるテキスト/Markdownの校正ツール textlint を作った | Web Scratch](http://efcl.info/2014/12/30/textlint/)
 
+#### [Microsoft/JSanity](https://github.com/Microsoft/JSanity)
+A secure-by-default, performant, cross-browser client-side HTML sanitization library.
+
 
 ## 3D
 #### Away3D
