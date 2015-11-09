@@ -94,6 +94,12 @@ $ sudo chown -R $USER /usr/local
   `^2.2.1`とかの表記でどのバージョンにマッチするかがわかる
 
 
+## npm packages
+
+#### [gm](http://aheckmann.github.io/gm/)
+GraphicsMagick for node.js
+
+
 ## [NW.js](http://nwjs.io/)
 
 > NW.js is an app runtime based on Chromium and node.js. 
