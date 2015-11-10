@@ -96,6 +96,10 @@ $ sudo chown -R $USER /usr/local
 
 ## npm packages
 
+#### [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
+Find newer versions of package dependencies than what your package.json or bower.json allows
+- [Node.jsアプリでのパッケージ更新確認 - Qiita](http://qiita.com/ksato9700/items/03e4cd49c55a9a61ef65)
+
 #### [Socket.IO](http://socket.io/)
 - [Socket.IOについてのメモ - y's note](http://ykmtblog.hatenablog.jp/entry/2015/04/08/201109)
 
