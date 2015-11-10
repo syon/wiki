@@ -96,6 +96,9 @@ $ sudo chown -R $USER /usr/local
 
 ## npm packages
 
+#### [Socket.IO](http://socket.io/)
+- [Socket.IOについてのメモ - y's note](http://ykmtblog.hatenablog.jp/entry/2015/04/08/201109)
+
 #### [gm](http://aheckmann.github.io/gm/)
 GraphicsMagick for node.js
 
