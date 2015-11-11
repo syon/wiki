@@ -12,6 +12,8 @@
 - [eXorithm - Execute Algorithm: View / Run Algorithm unique_image](http://www.exorithm.com/algorithm/view/unique_image)
 - [Identicons! - GitHub](https://github.com/blog/1586-identicons)
     - [Identicon - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Identicon)
+    - [chrisbranson/ruby_identicon](https://github.com/chrisbranson/ruby_identicon)
+    - [identicon-github](https://www.npmjs.com/package/identicon-github)
 
 ### Personal data
 - [ランダムに名前を生成 - Fake Name Generator](http://ja.fakenamegenerator.com/)
