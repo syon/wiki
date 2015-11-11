@@ -134,6 +134,7 @@
 <h3>Creation</h3>
 <ul>
   <li>[[Creation]]
+  <li>[[Generator|generator]]
   <li>[[Game]]
 </ul>
 <h3>Design</h3>
