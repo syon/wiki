@@ -79,6 +79,13 @@ brew cask install appcleaner
 - [知らない人は損してると思うMacの使い方](http://alfalfalfa.com/archives/1147302.html)
 - [Geek Knowledge: （Linux等の）シェルスクリプトを Mac の Finder からダブルクリックで実行するには](http://hseisyu.blogspot.jp/2010/10/linux-mac-finder.html)
 
+
+## Preferences
+
+### Screen saver
+- [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
+
+
 ## 作業効率化
 - [マウスを自在にコントロールするAppleScript - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20120126/library_mouse_scpt)
 - [ApplescriptとRubyでもう僕は移動しない - hp12c](http://d.hatena.ne.jp/keyesberry/20100315/p1)
@@ -86,7 +93,6 @@ brew cask install appcleaner
 - [Sunskysoft - Shupapan｜Shupapan](http://sunsky3s.s41.xrea.com/shupapan/)  
   連番処理、検索・置換、文字変換、拡張子処理、タグリネームなどのリネーム処理を備えたリネームソフト
 
-## メンテナンス
 
 ## クリーン
 - [超快適！たまにはMacをクリーニングして新品の頃の快適さを手に入れよう！ - Mokosoft開発者ブログ](http://blog.mokosoft.com/entry/2014/02/06/173706)
