@@ -12,6 +12,9 @@ A lightweight JavaScript library for manipulating and animating svg
 #### [CairoSVG](http://cairosvg.org/)
 CairoSVG is a SVG converter based on Cairo. It can export SVG files to PDF, PostScript and PNG files.
 
+#### [Segment](http://lmgonzalves.github.io/segment/)
+A little JavaScript class (without dependencies) to draw and animate SVG path strokes
+
 
 ### まとめ
 
