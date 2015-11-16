@@ -1,3 +1,9 @@
+---
+slug: HTML
+title: HTML
+layout: page.jade
+---
+
 ## HTML基本構成
 
 ### [HTML5 Boilerplate: The web's most popular front-end template](http://html5boilerplate.com/)

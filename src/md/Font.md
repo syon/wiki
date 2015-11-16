@@ -1,3 +1,9 @@
+---
+slug: Font
+title: Font
+layout: page.jade
+---
+
 ## プログラミング用フォント
 
 #### [Ricty Diminished](https://github.com/yascentur/RictyDiminished)

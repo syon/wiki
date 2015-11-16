@@ -1,3 +1,9 @@
+---
+slug: apache-poi
+title: apache-poi
+layout: page.jade
+---
+
 # Apache POI
 
 <div id="gollum-heading">

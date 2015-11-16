@@ -1,3 +1,9 @@
+---
+slug: LogManagement
+title: LogManagement
+layout: page.jade
+---
+
 ## Articles
 
 - [dstat + fluentd + Elasticsearch + kibana でサーバモニタリングする - blog.nomadscafe.jp](http://blog.nomadscafe.jp/2014/03/dstat-fluentd-elasticsearch-kibana.html)

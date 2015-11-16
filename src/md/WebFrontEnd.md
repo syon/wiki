@@ -1,3 +1,9 @@
+---
+slug: WebFrontEnd
+title: WebFrontEnd
+layout: page.jade
+---
+
 # Web Front-End
 
 ## フロントエンド開発ツール

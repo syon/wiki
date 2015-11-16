@@ -1,3 +1,9 @@
+---
+slug: JS-Framework
+title: JS-Framework
+layout: page.jade
+---
+
 #### →__[[AngularJS]]__
 
 #### →__[[Polymer]]__

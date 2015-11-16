@@ -1,3 +1,9 @@
+---
+slug: squid-proxy
+title: squid-proxy
+layout: page.jade
+---
+
 # Squid
 
 [[Squid.jpg|align=center]]

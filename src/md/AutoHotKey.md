@@ -1,3 +1,9 @@
+---
+slug: AutoHotKey
+title: AutoHotKey
+layout: page.jade
+---
+
 ### Links
 
 - 入手

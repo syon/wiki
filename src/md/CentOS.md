@@ -1,3 +1,9 @@
+---
+slug: CentOS
+title: CentOS
+layout: page.jade
+---
+
 __[CentOS Project](http://www.centos.org/)__
 
 

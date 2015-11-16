@@ -1,5 +1,11 @@
 ---
 slug: remarkable
+title: remarkable
+layout: page.jade
+---
+
+---
+slug: remarkable
 title: Remarkable demo
 layout: page.jade
 ---

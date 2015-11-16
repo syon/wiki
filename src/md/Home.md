@@ -1,3 +1,9 @@
+---
+slug: Home
+title: Home
+layout: page.jade
+---
+
 # syon/wiki
 
 <div class="floating">

@@ -1,3 +1,9 @@
+---
+slug: Git
+title: Git
+layout: page.jade
+---
+
 ## Tutorials
 
 - [Try Git In Your Browser](https://github.com/blog/1183-try-git-in-your-browser)

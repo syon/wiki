@@ -1,3 +1,9 @@
+---
+slug: Mac-App
+title: Mac-App
+layout: page.jade
+---
+
 ### 開発環境
 
 - [開発環境の情報共有会でDash,SourceTree,Alfredの話をした - Glide Note - グライドノート](http://blog.glidenote.com/blog/2014/03/30/tech-tool-knowledge/)

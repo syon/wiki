@@ -1,3 +1,9 @@
+---
+slug: Bookmarklet
+title: Bookmarklet
+layout: page.jade
+---
+
 - [JAVASCRIPT::BOOKMARKLET](http://bookmarklet.daa.jp/)
 - [ソーシャルボタンのJavaScriptでfunctionの前に「!」がついている理由: 小粋空間](http://www.koikikukan.com/archives/2013/06/12-003333.php)
 - [Web便利ツール/URLエンコード・デコードフォーム - TAG index Webサイト](http://www.tagindex.com/tool/url.html) →　!function(){ ... }();

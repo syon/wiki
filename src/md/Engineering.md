@@ -1,3 +1,9 @@
+---
+slug: Engineering
+title: Engineering
+layout: page.jade
+---
+
 ## Words
 
 ### Yak Shaving

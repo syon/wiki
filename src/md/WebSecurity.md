@@ -1,3 +1,9 @@
+---
+slug: WebSecurity
+title: WebSecurity
+layout: page.jade
+---
+
 - [Webアプリ開発者のためのHTML5セキュリティ入門](http://www.slideshare.net/muneakinishimura/webhtml5-31749532)  
   とても丁寧で充実したまとめ。
     - XMLHttpRequest Level 2

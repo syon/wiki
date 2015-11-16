@@ -1,3 +1,9 @@
+---
+slug: CI
+title: CI
+layout: page.jade
+---
+
 # Continuous Integration
 
 ### [Jenkins](http://jenkins-ci.org/)

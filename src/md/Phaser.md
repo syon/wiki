@@ -1,3 +1,9 @@
+---
+slug: Phaser
+title: Phaser
+layout: page.jade
+---
+
 [[PHASER.png|align=center]]
 
 ## [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)

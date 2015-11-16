@@ -1,3 +1,9 @@
+---
+slug: Windows7-app
+title: Windows7-app
+layout: page.jade
+---
+
 ## 基本
 
 ### Mouse Without Borders

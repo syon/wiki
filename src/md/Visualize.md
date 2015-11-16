@@ -1,3 +1,9 @@
+---
+slug: Visualize
+title: Visualize
+layout: page.jade
+---
+
 ### Libraries
 
 - [[D3.js|D3js]]

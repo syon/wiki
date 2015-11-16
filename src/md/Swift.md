@@ -1,3 +1,9 @@
+---
+slug: Swift
+title: Swift
+layout: page.jade
+---
+
 # Swift
 
 [[swift-hero.png|align=center]]

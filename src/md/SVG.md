@@ -1,3 +1,9 @@
+---
+slug: SVG
+title: SVG
+layout: page.jade
+---
+
 # SVG (Scalable Vector Graphics)
 
 

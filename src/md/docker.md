@@ -1,3 +1,9 @@
+---
+slug: docker
+title: docker
+layout: page.jade
+---
+
 [[docker.png|align=center]]
 
 ### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)

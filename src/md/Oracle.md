@@ -1,3 +1,9 @@
+---
+slug: Oracle
+title: Oracle
+layout: page.jade
+---
+
 ## 環境変数
 
 ### SQL*Plus

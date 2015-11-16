@@ -1,3 +1,9 @@
+---
+slug: Windows7
+title: Windows7
+layout: page.jade
+---
+
 ### Look & Feel
 
 - [Windows 7 でウィンドウの枠のサイズを調整する方法／カブドットコム証券](https://s10.kabu.co.jp/_mem_bin/howto/win7_frame.asp)

@@ -1,3 +1,9 @@
+---
+slug: UNIX-command
+title: UNIX-command
+layout: page.jade
+---
+
 - [ジャンル別UNIXコマンド一覧 (*BSD/Linux)](http://x68000.q-e-d.net/~68user/unix/genre.html)
 
 ### System

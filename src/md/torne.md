@@ -1,3 +1,9 @@
+---
+slug: torne
+title: torne
+layout: page.jade
+---
+
 ## 外付けHDD（ハードディスク）
 
 ![torne](http://www.jp.playstation.com/support/torne/guide/hdd/img/about_img01.gif)

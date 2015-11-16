@@ -1,3 +1,9 @@
+---
+slug: Life
+title: Life
+layout: page.jade
+---
+
 ## 代行サービス
 
 #### [minikura｜箱であずかる収納サービスminikura](https://minikura.com/)

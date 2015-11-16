@@ -1,3 +1,9 @@
+---
+slug: command-prompt
+title: command-prompt
+layout: page.jade
+---
+
 ## 記法
 
 #### コメント

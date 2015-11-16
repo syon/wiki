@@ -1,3 +1,9 @@
+---
+slug: JavaScript
+title: JavaScript
+layout: page.jade
+---
+
 ## リファレンス
 
 ### [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/)

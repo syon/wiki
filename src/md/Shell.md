@@ -1,3 +1,9 @@
+---
+slug: Shell
+title: Shell
+layout: page.jade
+---
+
 ## Keep up-to-date
 
 ### Homebrew

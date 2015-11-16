@@ -1,3 +1,9 @@
+---
+slug: FrontEndWorkflow
+title: FrontEndWorkflow
+layout: page.jade
+---
+
 # Front-End Workflow
 
 

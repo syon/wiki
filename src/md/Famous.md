@@ -1,3 +1,9 @@
+---
+slug: Famous
+title: Famous
+layout: page.jade
+---
+
 # Famo.us
 
 ### [famo.us Stress Test Demo](http://famo.us/)

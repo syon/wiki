@@ -1,3 +1,9 @@
+---
+slug: auth
+title: auth
+layout: page.jade
+---
+
 # 認証
 
 ## LDAP

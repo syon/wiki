@@ -1,3 +1,9 @@
+---
+slug: ActiveRecord
+title: ActiveRecord
+layout: page.jade
+---
+
 ## ActiveRecord
 
 - [ActiveRecordの関連のすべて ー StoneDot の Ruby on Rails 講座](http://www.stonedot.com/lecture6.html)

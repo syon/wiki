@@ -1,3 +1,9 @@
+---
+slug: Hardware
+title: Hardware
+layout: page.jade
+---
+
 ## Bluetooth
 
 - [Bluetooth in Ruby (Mac/Cross Platform) - Stack Overflow](http://stackoverflow.com/questions/1662915/bluetooth-in-ruby-mac-cross-platform)

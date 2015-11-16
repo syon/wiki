@@ -1,3 +1,9 @@
+---
+slug: Wallpaper
+title: Wallpaper
+layout: page.jade
+---
+
 ### Gradation
 
 - [deviantARTからグラデーションだけで美しいシンプルな壁紙パック5つ | Ubuntuアプリのいいところ](http://ubuntuapps.blog67.fc2.com/blog-entry-603.html)

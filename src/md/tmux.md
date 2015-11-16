@@ -1,3 +1,9 @@
+---
+slug: tmux
+title: tmux
+layout: page.jade
+---
+
 ### References
 
 #### [tmux - Manual Pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)

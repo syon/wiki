@@ -1,3 +1,9 @@
+---
+slug: D3js
+title: D3js
+layout: page.jade
+---
+
 # D3.js
 
 [[d3js.png|align=center]]

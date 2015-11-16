@@ -25,17 +25,8 @@ Metalsmith(__dirname)
   .use(markdown('full'))
   .use(prism())
   .use(jade())
-  // .use(permalinks({pattern: ':slug'}))
+  .use(permalinks({pattern: ':slug'}))
   .use(layouts({engine:"jade"}))
-  // .use(hello)
   .build(function(err){
     if (err) throw err;
   });
-
-
-function hello(files, metalsmith, done){
-  for (var file in files) {
-    console.log(file);
-  }
-  done();
-}

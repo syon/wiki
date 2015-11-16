@@ -1,3 +1,9 @@
+---
+slug: iOS-App
+title: iOS-App
+layout: page.jade
+---
+
 ### Links
 - [iOS 6：フォントリスト](http://support.apple.com/kb/HT5484?viewlocale=ja_JP&locale=ja_JP)
 - [iOS 7のフラットデザインでアプリを開発するための移行ガイドをAppleが発行 | TechCrunch Japan](http://jp.techcrunch.com/2013/06/11/20130610apple-publishes-ios-7-transition-guide-to-help-developers-adopt-flat-design/)

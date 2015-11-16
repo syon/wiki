@@ -1,3 +1,9 @@
+---
+slug: OSX
+title: OSX
+layout: page.jade
+---
+
 # OS X
 
 ## 導入

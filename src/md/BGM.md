@@ -1,3 +1,9 @@
+---
+slug: BGM
+title: BGM
+layout: page.jade
+---
+
 #### [focus@will](https://www.focusatwill.com/music/#player)
 [通常20～30分しか続かない集中力を100分間持続させるBGMを流す「focus@will」 - GIGAZINE](http://gigazine.net/news/20130731-working-music-bgm/)
 

@@ -1,3 +1,9 @@
+---
+slug: generator
+title: generator
+layout: page.jade
+---
+
 # Generator
 
 

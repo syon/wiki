@@ -1,3 +1,9 @@
+---
+slug: nginx
+title: nginx
+layout: page.jade
+---
+
 ### [nginx](http://nginx.org/ja/)
 
 nginx [えんじんえっくす] は Igor Sysoev によって作られた HTTP とリバースプロキシのサーバで、メールプロキシサーバでもあります。Rambler (RamblerMedia.com) を含むロシアの多くの高負荷サイトで５年以上も動いています。Netcraft によると、nginx は 2010 年 4 月時点で 4.70% の人気サイトでサーバーとして、もしくはプロキシとして利用されています。成功例としては FastMail.FM や Wordpress.com があります。

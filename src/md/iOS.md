@@ -1,3 +1,9 @@
+---
+slug: iOS
+title: iOS
+layout: page.jade
+---
+
 - [The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)  
   iPhone, iPadの各種サイズまとめ
 

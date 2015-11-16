@@ -1,3 +1,9 @@
+---
+slug: MIDI
+title: MIDI
+layout: page.jade
+---
+
 ### API
 
 #### Web MIDI API

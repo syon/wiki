@@ -1,3 +1,9 @@
+---
+slug: Cygwin
+title: Cygwin
+layout: page.jade
+---
+
 ## インストール
 
 ### Cygwin本体のインストール

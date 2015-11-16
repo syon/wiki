@@ -1,3 +1,9 @@
+---
+slug: Design
+title: Design
+layout: page.jade
+---
+
 ## [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 
 #### Code

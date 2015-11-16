@@ -1,3 +1,9 @@
+---
+slug: Ruby
+title: Ruby
+layout: page.jade
+---
+
 #### → __[[Ruby-Gem]]__
 
 

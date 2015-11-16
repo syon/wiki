@@ -1,3 +1,9 @@
+---
+slug: Keyboard
+title: Keyboard
+layout: page.jade
+---
+
 ## Typing
 
 ### Google 日本語入力

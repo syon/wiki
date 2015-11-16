@@ -1,3 +1,9 @@
+---
+slug: Gollum
+title: Gollum
+layout: page.jade
+---
+
 [[gollum.png|align=center]]
 
 <div id="gollum-heading">

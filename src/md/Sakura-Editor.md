@@ -1,3 +1,9 @@
+---
+slug: Sakura-Editor
+title: Sakura-Editor
+layout: page.jade
+---
+
 ### 設定ファイル
 
 #### [GitHub - syon/SakuraEditor](https://github.com/syon/SakuraEditor)

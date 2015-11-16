@@ -1,3 +1,9 @@
+---
+slug: nodejs
+title: nodejs
+layout: page.jade
+---
+
 # Node.js
 
 [[nodejs.png|align=center]]

@@ -1,3 +1,9 @@
+---
+slug: WIN32OLE
+title: WIN32OLE
+layout: page.jade
+---
+
 ## 基本
 
 ```ruby

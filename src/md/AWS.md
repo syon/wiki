@@ -1,3 +1,9 @@
+---
+slug: AWS
+title: AWS
+layout: page.jade
+---
+
 # AWS
 ## Amazon Web Services
 

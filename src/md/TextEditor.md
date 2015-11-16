@@ -1,3 +1,9 @@
+---
+slug: TextEditor
+title: TextEditor
+layout: page.jade
+---
+
 ## IDE
 
 #### [Orion](http://eclipse.org/orion/)

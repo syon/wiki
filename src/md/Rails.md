@@ -1,3 +1,9 @@
+---
+slug: Rails
+title: Rails
+layout: page.jade
+---
+
 ## Install
 - [[Ubuntu]]
 - [Ruby on Rails 3.2 を Windows にインストールする手順をかなり丁寧に説明してみました - Rails 雑感 - Ruby on Rails with OIAX](http://www.oiax.jp/rails/zakkan/rails_3_1_installation_on_windows.html)

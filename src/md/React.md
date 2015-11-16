@@ -1,3 +1,9 @@
+---
+slug: React
+title: React
+layout: page.jade
+---
+
 [[React.png|align=center]]
 
 <div id="gollum-heading">

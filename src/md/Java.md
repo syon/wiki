@@ -1,3 +1,9 @@
+---
+slug: Java
+title: Java
+layout: page.jade
+---
+
 ## Overview
 
 ### About Java

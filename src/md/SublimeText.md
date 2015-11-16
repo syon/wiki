@@ -1,3 +1,9 @@
+---
+slug: SublimeText
+title: SublimeText
+layout: page.jade
+---
+
 ## Install
 
 ### Package Control

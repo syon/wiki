@@ -1,3 +1,9 @@
+---
+slug: java-library
+title: java-library
+layout: page.jade
+---
+
 # Java Library
 
 - __[Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ - Qiita](http://qiita.com/disc99/items/727b51dbe737602a5c91)__

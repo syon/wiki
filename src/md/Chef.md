@@ -1,3 +1,9 @@
+---
+slug: Chef
+title: Chef
+layout: page.jade
+---
+
 
 - [Install Chef | Chef](http://www.getchef.com/chef/install/)
 

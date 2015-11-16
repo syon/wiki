@@ -1,3 +1,9 @@
+---
+slug: Vim
+title: Vim
+layout: page.jade
+---
+
 ### Links
 
 - [僕がサクラエディタからVimに乗り換えるまで - give IT a try](http://blog.jnito.com/entry/20120101/1325420213)
