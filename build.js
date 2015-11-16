@@ -10,7 +10,7 @@ var permalinks = require('metalsmith-permalinks');
 Metalsmith(__dirname)
   .metadata({
     site: {
-      name: 'MY SITE'
+      name: 'syon/wiki'
     }
   })
   .use(assets({
