@@ -89,6 +89,10 @@ __RFC1806: The Content-Disposition Header__
 ファイルのダウンロード処理を行なっているときに起きる。クライアント（ブラウザなど）にレスポンスを引渡し済みですよ、という意味。
 
 
+## EJB
+- [エンタープライズ：JBossで学ぶEJB入門](http://www.itmedia.co.jp/enterprise/special/0401/jboss/)
+
+
 ## Java Coding
 
 ### JavaのList・Mapのfor文
