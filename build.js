@@ -25,9 +25,9 @@ Metalsmith(__dirname)
   .use(markdown('full'))
   .use(prism())
   .use(jade())
-  .use(permalinks({pattern: ':slug'}))
+  // .use(permalinks({pattern: ':slug'}))
   .use(layouts({engine:"jade"}))
-  .use(hello)
+  // .use(hello)
   .build(function(err){
     if (err) throw err;
   });
