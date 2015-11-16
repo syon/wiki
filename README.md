@@ -4,9 +4,13 @@ wiki
 syon's bookmarks and knowledges.
 
 
-## Required
+## Install
 
-- Node.js
+Node.js
+
+```sh
+$ npm install
+```
 
 
 ## Build

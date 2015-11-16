@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    block head
+      block title
+        title= title ? title + " | " + site.name : site.name
+        //- link(rel="stylesheet" href="/assets/vendor/primer.css")
+        //- link(rel="stylesheet" href="/assets/vendor/octicons/octicons.css")
+        link(rel="stylesheet" href="/assets/vendor/gollum/css/gollum.css")
+        link(rel="stylesheet" href="/assets/vendor/gollum/css/template.css")
+        link(rel="stylesheet" href="/assets/vendor/gollum/css/custom.css")
+        link(rel="stylesheet" href="/assets/vendor/prism.css")
+  body
+    block body
+      block main
