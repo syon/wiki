@@ -97,7 +97,7 @@ layout: page.jade
 
 ## ダミーデータ、ジェネレータ
 
-- → __[generator](/generator/)__
+- → __[generator](/wiki/generator/)__
 
 
 ## Google検索

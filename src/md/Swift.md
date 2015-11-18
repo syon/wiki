@@ -4,7 +4,7 @@ title: Swift
 layout: page.jade
 ---
 
-![Swift](/assets/img/swift-hero.png)
+![Swift](/wiki/assets/img/swift-hero.png)
 
 ## [Swift Programming Language - Apple Developer](https://developer.apple.com/swift/)
 - [Building Your First Swift App Video - Swift Blog - Apple Developer](https://developer.apple.com/swift/blog/?id=16)  

@@ -4,7 +4,7 @@ title: Gollum
 layout: page.jade
 ---
 
-![Gollum](/assets/img/gollum.png)
+![Gollum](/wiki/assets/img/gollum.png)
 
 <div id="gollum-heading">
   <h2>

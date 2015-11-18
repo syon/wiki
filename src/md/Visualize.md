@@ -6,7 +6,7 @@ layout: page.jade
 
 ### Libraries
 
-- [D3.js](/D3js/)
+- [D3.js](/wiki/D3js/)
 - [Chart.js | HTML5 Charts for your website.](http://www.chartjs.org/)
 
 ### Articles

@@ -23,6 +23,6 @@ layout: page.jade
 ### 実装
 - [正規表現 - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions)
 
-- __[Ruby #正規表現](/Ruby/)__
+- __[Ruby #正規表現](/wiki/Ruby/)__
 
-- __[Java #正規表現](/Java/)__
+- __[Java #正規表現](/wiki/Java/)__

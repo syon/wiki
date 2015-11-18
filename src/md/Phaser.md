@@ -4,7 +4,7 @@ title: Phaser
 layout: page.jade
 ---
 
-![Phaser](/assets/img/phaser.png)
+![Phaser](/wiki/assets/img/phaser.png)
 
 ## [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
 
@@ -98,7 +98,7 @@ this.player.animations.play('left');
 
 ## 参考作品
 
-- → __[Game](/Game/)__
+- → __[Game](/wiki/Game/)__
 
 
 ## Tutorials

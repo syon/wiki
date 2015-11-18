@@ -4,7 +4,7 @@ title: Squid
 layout: page.jade
 ---
 
-![Squid](/assets/img/Squid.jpg)
+![Squid](/wiki/assets/img/Squid.jpg)
 
 [squid : Optimising Web Delivery](http://www.squid-cache.org/)
 

@@ -4,7 +4,7 @@ title: React
 layout: page.jade
 ---
 
-![React](/assets/img/React.png)
+![React](/wiki/assets/img/React.png)
 
 <div id="gollum-heading">
   <h2>

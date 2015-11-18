@@ -4,7 +4,7 @@ title: Heroku
 layout: page.jade
 ---
 
-![Heroku](/assets/img/heroku.png)
+![Heroku](/wiki/assets/img/heroku.png)
 
 #### [Heroku | Cloud Application Platform](https://www.heroku.com/)
 

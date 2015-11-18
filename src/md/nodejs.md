@@ -4,7 +4,7 @@ title: Node.js
 layout: page.jade
 ---
 
-![nodejs](/assets/img/nodejs.png)
+![nodejs](/wiki/assets/img/nodejs.png)
 
 http://nodejs.org
 
@@ -119,7 +119,7 @@ GraphicsMagick for node.js
 - [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
 
 ## Electron
-- __[Electron](/Electron/)__
+- __[Electron](/wiki/Electron/)__
 
 ## Articles
 

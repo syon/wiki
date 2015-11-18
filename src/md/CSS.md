@@ -15,7 +15,7 @@ layout: page.jade
 
 
 ## Sass
-- → __[Sass](/Sass/)__
+- → __[Sass](/wiki/Sass/)__
 
 
 ## Stylus
@@ -30,8 +30,8 @@ layout: page.jade
 
 
 ## CSS Framework
-- → __[TwitterBootstrap](/TwitterBootstrap/)__
-- → __[Google Material Design](/Design/)__
+- → __[TwitterBootstrap](/wiki/TwitterBootstrap/)__
+- → __[Google Material Design](/wiki/Design/)__
 - [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
 - [Semantic UI](http://semantic-ui.com/)
 - [Bourbon - A Sass Mixin Library](http://bourbon.io/)
