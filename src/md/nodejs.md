@@ -119,7 +119,7 @@ GraphicsMagick for node.js
 - [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
 
 ## Electron
-- __[[Electron]]__
+- __[Electron](/Electron/)__
 
 ## Articles
 

@@ -14,7 +14,7 @@ layout: page.jade
 
 
 ## Library
-- → __[[Java Library|java-library]]__
+- → __[Java Library](java-library)__
 
 ## Articles
 - [プログラミング未経験だった僕がJava EE 6を学び始めて1年で読んだ良記事まとめ](http://yukiyan.com/2014/12/05/javaee/)

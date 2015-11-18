@@ -15,7 +15,7 @@ layout: page.jade
 
 
 ## Sass
-- → __[[Sass]]__
+- → __[Sass](/Sass/)__
 
 
 ## Stylus
@@ -30,8 +30,8 @@ layout: page.jade
 
 
 ## CSS Framework
-- → __[[TwitterBootstrap]]__
-- → __[[Google Material Design|Design#Google Material Design]]__
+- → __[TwitterBootstrap](/TwitterBootstrap/)__
+- → __[Google Material Design](/Design/)__
 - [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
 - [Semantic UI](http://semantic-ui.com/)
 - [Bourbon - A Sass Mixin Library](http://bourbon.io/)
@@ -165,19 +165,19 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 body {
   /* 画像ファイルの指定 */
   background-image: url(images/background-photo.jpg);
-   
+
   /* 画像を常に天地左右の中央に配置 */
   background-position: center center;
-   
+
   /* 画像をタイル状に繰り返し表示しない */
   background-repeat: no-repeat;
-   
+
   /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
   background-attachment: fixed;
-   
+
   /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
   background-size: cover;
-   
+
   /* 背景画像が読み込まれる前に表示される背景のカラー */
   background-color: #464646;
 }

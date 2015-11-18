@@ -45,7 +45,7 @@ layout: page.jade
   インストール用Rubyコマンドをコピペしてターミナルで実行
 
 - Keep up-to-date  
-  → __[[Shell]]__
+  → __[Shell](/Shell/)__
 
 - [homebrew/El_Capitan_and_Homebrew.md at master · Homebrew/homebrew · GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md)  
   El Capitan で Homebrew を使うときの注意点等について

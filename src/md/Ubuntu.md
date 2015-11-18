@@ -48,7 +48,7 @@ VirtualBoxのメニューバー > デバイス > Guest Additions のCDイメー�
 
 ### 端末でのコマンド一覧
 
-- → __[[UNIXコマンド|UNIX-command]]__
+- → __[UNIXコマンド](UNIX-command)__
 - [VIPでUbuntu!!@ ウィキ - 端末でのコマンド一覧](http://www37.atwiki.jp/ubuntuireyouze/pages/17.html)
 - [Linuxコマンド集 - 【 hostname 】 ホスト名を表示，設定する：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230798/)
 
@@ -263,7 +263,7 @@ $ sudo apt-get install traceroute
 
 ### Proxy Server (Squid)
 
-- → [[Squid|squid-proxy]]
+- → [Squid](squid-proxy)
 
 ## エラー対処
 

@@ -8,11 +8,11 @@ layout: page.jade
 
 #### Web MIDI API
 
-- → __[[Audio|audio]]__
+- → __[Audio](/audio/)__
 
 #### WebMidiLink
 
-- → __[[Audio|audio]]__
+- → __[Audio](/audio/)__
 
 ### MIDI over Bluetooth LE
 

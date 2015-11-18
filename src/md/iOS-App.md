@@ -16,7 +16,7 @@ layout: page.jade
 - [WatchKit - Apple Developer](https://developer.apple.com/watchkit/)
 
 ### Swift
-- [[Swift]]
+- [Swift](/Swift/)
 
 ### Objective-C
 - [Learn Objective-C - Code School](https://www.codeschool.com/courses/try-objective-c) すごく楽しそうなチュートリアル
