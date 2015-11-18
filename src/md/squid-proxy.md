@@ -1,18 +1,12 @@
 ---
 slug: squid-proxy
-title: squid-proxy
+title: Squid
 layout: page.jade
 ---
 
-# Squid
+![Squid](/assets/img/Squid.jpg)
 
-[[Squid.jpg|align=center]]
-
-<div id="gollum-heading">
-  <h4>
-    <a href="http://www.squid-cache.org/">squid : Optimising Web Delivery</a>
-  </h4>
-</div>
+[squid : Optimising Web Delivery](http://www.squid-cache.org/)
 
 
 ## Install

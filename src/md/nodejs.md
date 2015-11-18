@@ -1,12 +1,10 @@
 ---
 slug: nodejs
-title: nodejs
+title: Node.js
 layout: page.jade
 ---
 
-# Node.js
-
-[[nodejs.png|align=center]]
+![nodejs](/assets/img/nodejs.png)
 
 http://nodejs.org
 

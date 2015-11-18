@@ -1,12 +1,10 @@
 ---
 slug: D3js
-title: D3js
+title: D3.js
 layout: page.jade
 ---
 
-# D3.js
-
-[[d3js.png|align=center]]
+![D3.js](/assets/img/d3js.png)
 
 ## Overview
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
@@ -26,7 +24,7 @@ layout: page.jade
 
 > - D3 は引数の中に関数を発見すると、その関数を呼びだすと同時に、現在のデータセットの値をその引数に渡します
 > - 重要なことは、データが視覚化を制御しているということです。決してその逆ではありません
-> [[d3js_scale.png]]
+> ![D3.js](/assets/img/d3js_scale.png)
 
 ## Reference
 
@@ -73,7 +71,7 @@ layout: page.jade
 
 ## Gallery
 
-[[d3js-blocks.png]]
+![D3.js](/assets/img/d3js-blocks.png)
 
 - [Gallery · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Gallery)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)

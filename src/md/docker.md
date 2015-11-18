@@ -4,7 +4,7 @@ title: docker
 layout: page.jade
 ---
 
-[[docker.png|align=center]]
+![docker](/assets/img/docker.png)
 
 ### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 
@@ -12,7 +12,7 @@ layout: page.jade
 
 - __[Windowsな人がDockerを体験するのに最適な「Boot2Docker」 - X X X](http://syonx.hatenablog.com/entry/2014/09/21/060000)__
 
-#### Dockership 
+#### Dockership
 - [Dockership](http://docker.sh/ip/)  
   Dockership is a tool for easily deploying Docker containers to one or multiple Docker servers.
 

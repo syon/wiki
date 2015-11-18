@@ -4,7 +4,7 @@ title: Phaser
 layout: page.jade
 ---
 
-[[PHASER.png|align=center]]
+![Phaser](/assets/img/phaser.png)
 
 ## [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
 

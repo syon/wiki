@@ -4,7 +4,7 @@ title: Vagrant
 layout: page.jade
 ---
 
-[[vagrant.png]]
+![Vagrant](/assets/img/vagrant.png)
 
 ## [Vagrant - Development environments made easy.](http://www.vagrantup.com/)
 
