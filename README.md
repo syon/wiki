@@ -13,6 +13,16 @@ $ npm install
 ```
 
 
+## Run on Harp
+
+```sh
+# on project root
+$ harp server
+```
+
+- http://localhost:9000/wiki/
+
+
 ## Build
 
 Works on Metalsmith.
@@ -20,3 +30,5 @@ Works on Metalsmith.
 ```sh
 $ make
 ```
+
+Files are generated in `wiki` directory (for github pages).

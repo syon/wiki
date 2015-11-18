@@ -8,6 +8,7 @@ var layouts    = require('metalsmith-layouts');
 var permalinks = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
+  .destination('wiki')
   .metadata({
     site: {
       name: 'syon/wiki'
