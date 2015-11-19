@@ -1,5 +1,5 @@
 ---
-slug: VBScript
+slug: vbscript
 title: VBScript
 layout: page.jade
 ---

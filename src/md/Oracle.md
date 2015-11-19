@@ -1,5 +1,5 @@
 ---
-slug: Oracle
+slug: oracle
 title: Oracle
 layout: page.jade
 ---

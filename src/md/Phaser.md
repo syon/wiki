@@ -1,5 +1,5 @@
 ---
-slug: Phaser
+slug: phaser
 title: Phaser
 layout: page.jade
 ---

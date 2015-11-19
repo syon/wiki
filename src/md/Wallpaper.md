@@ -1,5 +1,5 @@
 ---
-slug: Wallpaper
+slug: wallpaper
 title: Wallpaper
 layout: page.jade
 ---

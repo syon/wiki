@@ -1,5 +1,5 @@
 ---
-slug: JavaScript
+slug: javascript
 title: JavaScript
 layout: page.jade
 ---

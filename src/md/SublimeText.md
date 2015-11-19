@@ -1,5 +1,5 @@
 ---
-slug: SublimeText
+slug: sublimetext
 title: SublimeText
 layout: page.jade
 ---

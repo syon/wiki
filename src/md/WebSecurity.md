@@ -1,5 +1,5 @@
 ---
-slug: WebSecurity
+slug: websecurity
 title: WebSecurity
 layout: page.jade
 ---

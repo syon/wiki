@@ -1,5 +1,5 @@
 ---
-slug: ThinReports
+slug: thinreports
 title: ThinReports
 layout: page.jade
 ---

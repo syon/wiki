@@ -1,5 +1,5 @@
 ---
-slug: BGM
+slug: bgm
 title: BGM
 layout: page.jade
 ---

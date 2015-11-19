@@ -1,5 +1,5 @@
 ---
-slug: Redmine
+slug: redmine
 title: Redmine
 layout: page.jade
 ---

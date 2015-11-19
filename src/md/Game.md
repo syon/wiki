@@ -1,5 +1,5 @@
 ---
-slug: Game
+slug: game
 title: Game
 layout: page.jade
 ---

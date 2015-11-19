@@ -1,5 +1,5 @@
 ---
-slug: AngularJS
+slug: angularjs
 title: AngularJS
 layout: page.jade
 ---

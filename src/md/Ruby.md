@@ -1,5 +1,5 @@
 ---
-slug: Ruby
+slug: ruby
 title: Ruby
 layout: page.jade
 ---

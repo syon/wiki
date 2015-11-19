@@ -1,5 +1,5 @@
 ---
-slug: Gollum
+slug: gollum
 title: Gollum
 layout: page.jade
 ---

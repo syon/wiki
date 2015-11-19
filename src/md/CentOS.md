@@ -1,5 +1,5 @@
 ---
-slug: CentOS
+slug: centos
 title: CentOS
 layout: page.jade
 ---

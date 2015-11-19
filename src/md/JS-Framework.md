@@ -1,5 +1,5 @@
 ---
-slug: JS-Framework
+slug: js-framework
 title: JS-Framework
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Font
+slug: font
 title: Font
 layout: page.jade
 ---

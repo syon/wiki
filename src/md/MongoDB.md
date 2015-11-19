@@ -1,5 +1,5 @@
 ---
-slug: MongoDB
+slug: mongodb
 title: MongoDB
 layout: page.jade
 ---

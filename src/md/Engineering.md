@@ -1,5 +1,5 @@
 ---
-slug: Engineering
+slug: engineering
 title: Engineering
 layout: page.jade
 ---

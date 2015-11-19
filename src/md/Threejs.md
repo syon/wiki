@@ -1,5 +1,5 @@
 ---
-slug: Threejs
+slug: threejs
 title: Threejs
 layout: page.jade
 ---

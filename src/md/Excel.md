@@ -1,5 +1,5 @@
 ---
-slug: Excel
+slug: excel
 title: Excel
 layout: page.jade
 ---

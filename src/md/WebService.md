@@ -1,5 +1,5 @@
 ---
-slug: WebService
+slug: webservice
 title: WebService
 layout: page.jade
 ---

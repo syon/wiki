@@ -1,5 +1,5 @@
 ---
-slug: React
+slug: react
 title: React
 layout: page.jade
 ---

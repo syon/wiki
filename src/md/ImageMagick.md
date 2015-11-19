@@ -1,5 +1,5 @@
 ---
-slug: ImageMagick
+slug: imagemagick
 title: ImageMagick
 layout: page.jade
 ---

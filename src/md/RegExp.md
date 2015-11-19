@@ -1,5 +1,5 @@
 ---
-slug: RegExp
+slug: regexp
 title: RegExp
 layout: page.jade
 ---

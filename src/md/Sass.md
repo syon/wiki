@@ -1,5 +1,5 @@
 ---
-slug: Sass
+slug: sass
 title: Sass
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: VBA
+slug: vba
 title: VBA
 layout: page.jade
 ---

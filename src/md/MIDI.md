@@ -1,5 +1,5 @@
 ---
-slug: MIDI
+slug: midi
 title: MIDI
 layout: page.jade
 ---

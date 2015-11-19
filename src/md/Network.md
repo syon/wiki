@@ -1,5 +1,5 @@
 ---
-slug: Network
+slug: network
 title: Network
 layout: page.jade
 ---

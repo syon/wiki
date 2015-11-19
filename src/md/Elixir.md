@@ -1,5 +1,5 @@
 ---
-slug: Elixir
+slug: elixir
 title: Elixir
 layout: page.jade
 ---

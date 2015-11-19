@@ -1,5 +1,5 @@
 ---
-slug: TwitterBootstrap
+slug: twitterbootstrap
 title: TwitterBootstrap
 layout: page.jade
 ---

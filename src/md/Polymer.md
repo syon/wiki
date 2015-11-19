@@ -1,5 +1,5 @@
 ---
-slug: Polymer
+slug: polymer
 title: Polymer
 layout: page.jade
 ---

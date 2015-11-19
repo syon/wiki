@@ -1,5 +1,5 @@
 ---
-slug: Cygwin
+slug: cygwin
 title: Cygwin
 layout: page.jade
 ---

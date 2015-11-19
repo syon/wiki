@@ -1,5 +1,5 @@
 ---
-slug: HTML
+slug: html
 title: HTML
 layout: page.jade
 ---

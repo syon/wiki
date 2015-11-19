@@ -1,5 +1,5 @@
 ---
-slug: Keyboard
+slug: keyboard
 title: Keyboard
 layout: page.jade
 ---

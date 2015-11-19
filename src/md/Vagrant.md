@@ -1,5 +1,5 @@
 ---
-slug: Vagrant
+slug: vagrant
 title: Vagrant
 layout: page.jade
 ---

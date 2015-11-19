@@ -1,5 +1,5 @@
 ---
-slug: Ruby-Gem
+slug: ruby-gem
 title: Ruby-Gem
 layout: page.jade
 ---

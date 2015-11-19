@@ -1,5 +1,5 @@
 ---
-slug: AWS
+slug: aws
 title: AWS
 layout: page.jade
 ---

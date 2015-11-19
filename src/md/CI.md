@@ -1,5 +1,5 @@
 ---
-slug: CI
+slug: ci
 title: CI
 layout: page.jade
 ---

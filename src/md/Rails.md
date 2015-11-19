@@ -1,5 +1,5 @@
 ---
-slug: Rails
+slug: rails
 title: Rails
 layout: page.jade
 ---

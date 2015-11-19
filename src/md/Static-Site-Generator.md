@@ -1,5 +1,5 @@
 ---
-slug: Static-Site-Generator
+slug: static-site-generator
 title: Static-Site-Generator
 layout: page.jade
 ---

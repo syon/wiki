@@ -1,5 +1,5 @@
 ---
-slug: Middleman
+slug: middleman
 title: Middleman
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Windows7
+slug: windows7
 title: Windows7
 layout: page.jade
 ---

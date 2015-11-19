@@ -1,5 +1,5 @@
 ---
-slug: Mac-App
+slug: mac-app
 title: Mac-App
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: WebRTC
+slug: webrtc
 title: WebRTC
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: CSS
+slug: css
 title: CSS
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Windows7-app
+slug: windows7-app
 title: Windows7-app
 layout: page.jade
 ---

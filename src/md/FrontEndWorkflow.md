@@ -1,5 +1,5 @@
 ---
-slug: FrontEndWorkflow
+slug: frontendworkflow
 title: FrontEndWorkflow
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Sakura-Editor
+slug: sakura-editor
 title: Sakura-Editor
 layout: page.jade
 ---

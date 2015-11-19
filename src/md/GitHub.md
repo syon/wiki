@@ -1,5 +1,5 @@
 ---
-slug: GitHub
+slug: github
 title: GitHub
 layout: page.jade
 ---

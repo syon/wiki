@@ -1,5 +1,5 @@
 ---
-slug: LogManagement
+slug: logmanagement
 title: LogManagement
 layout: page.jade
 ---

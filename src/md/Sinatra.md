@@ -1,5 +1,5 @@
 ---
-slug: Sinatra
+slug: sinatra
 title: Sinatra
 layout: page.jade
 ---

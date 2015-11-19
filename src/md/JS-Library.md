@@ -1,5 +1,5 @@
 ---
-slug: JS-Library
+slug: js-library
 title: JS-Library
 layout: page.jade
 ---

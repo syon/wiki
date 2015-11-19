@@ -1,5 +1,5 @@
 ---
-slug: Bookmarklet
+slug: bookmarklet
 title: Bookmarklet
 layout: page.jade
 ---

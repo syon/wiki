@@ -1,5 +1,5 @@
 ---
-slug: WIN32OLE
+slug: win32ole
 title: WIN32OLE
 layout: page.jade
 ---

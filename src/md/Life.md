@@ -1,5 +1,5 @@
 ---
-slug: Life
+slug: life
 title: Life
 layout: page.jade
 ---

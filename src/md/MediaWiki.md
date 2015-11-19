@@ -1,5 +1,5 @@
 ---
-slug: MediaWiki
+slug: mediawiki
 title: MediaWiki
 layout: page.jade
 ---

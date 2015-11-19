@@ -1,5 +1,5 @@
 ---
-slug: Hardware
+slug: hardware
 title: Hardware
 layout: page.jade
 ---

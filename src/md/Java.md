@@ -1,5 +1,5 @@
 ---
-slug: Java
+slug: java
 title: Java
 layout: page.jade
 ---

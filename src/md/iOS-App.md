@@ -1,5 +1,5 @@
 ---
-slug: iOS-App
+slug: ios-app
 title: iOS-App
 layout: page.jade
 ---

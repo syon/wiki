@@ -1,5 +1,5 @@
 ---
-slug: UNIX-command
+slug: unix-command
 title: UNIX-command
 layout: page.jade
 ---

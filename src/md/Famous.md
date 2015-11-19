@@ -1,5 +1,5 @@
 ---
-slug: Famous
+slug: famous
 title: Famous
 layout: page.jade
 ---

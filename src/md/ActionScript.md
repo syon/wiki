@@ -1,5 +1,5 @@
 ---
-slug: ActionScript
+slug: actionscript
 title: ActionScript
 layout: page.jade
 ---

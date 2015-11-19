@@ -1,5 +1,5 @@
 ---
-slug: Win32API
+slug: win32api
 title: Win32API
 layout: page.jade
 ---

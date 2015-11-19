@@ -1,5 +1,5 @@
 ---
-slug: WebAPI
+slug: webapi
 title: WebAPI
 layout: page.jade
 ---

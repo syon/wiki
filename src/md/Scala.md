@@ -1,5 +1,5 @@
 ---
-slug: Scala
+slug: scala
 title: Scala
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Chef
+slug: chef
 title: Chef
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: QuartzComposer
+slug: quartzcomposer
 title: QuartzComposer
 layout: page.jade
 ---

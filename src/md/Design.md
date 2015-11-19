@@ -1,5 +1,5 @@
 ---
-slug: Design
+slug: design
 title: Design
 layout: page.jade
 ---

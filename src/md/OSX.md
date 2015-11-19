@@ -1,5 +1,5 @@
 ---
-slug: OSX
+slug: osx
 title: OSX
 layout: page.jade
 ---

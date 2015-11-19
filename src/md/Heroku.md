@@ -1,5 +1,5 @@
 ---
-slug: Heroku
+slug: heroku
 title: Heroku
 layout: page.jade
 ---

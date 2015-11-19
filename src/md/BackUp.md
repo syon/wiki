@@ -1,5 +1,5 @@
 ---
-slug: BackUp
+slug: backup
 title: BackUp
 layout: page.jade
 ---

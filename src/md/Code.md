@@ -1,5 +1,5 @@
 ---
-slug: Code
+slug: code
 title: Code
 layout: page.jade
 ---

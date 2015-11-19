@@ -1,5 +1,5 @@
 ---
-slug: Shell
+slug: shell
 title: Shell
 layout: page.jade
 ---

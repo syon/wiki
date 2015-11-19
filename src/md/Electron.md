@@ -1,5 +1,5 @@
 ---
-slug: Electron
+slug: electron
 title: Electron
 layout: page.jade
 ---

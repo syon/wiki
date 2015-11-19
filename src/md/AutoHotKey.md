@@ -1,5 +1,5 @@
 ---
-slug: AutoHotKey
+slug: autohotkey
 title: AutoHotKey
 layout: page.jade
 ---

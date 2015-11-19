@@ -1,5 +1,5 @@
 ---
-slug: Music
+slug: music
 title: Music
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: WebFrontEnd
+slug: webfrontend
 title: WebFrontEnd
 layout: page.jade
 ---

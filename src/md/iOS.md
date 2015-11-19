@@ -1,5 +1,5 @@
 ---
-slug: iOS
+slug: ios
 title: iOS
 layout: page.jade
 ---

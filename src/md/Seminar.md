@@ -1,5 +1,5 @@
 ---
-slug: Seminar
+slug: seminar
 title: Seminar
 layout: page.jade
 ---

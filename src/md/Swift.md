@@ -1,5 +1,5 @@
 ---
-slug: Swift
+slug: swift
 title: Swift
 layout: page.jade
 ---

@@ -1,5 +1,5 @@
 ---
-slug: Visualize
+slug: visualize
 title: Visualize
 layout: page.jade
 ---

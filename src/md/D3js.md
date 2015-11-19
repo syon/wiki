@@ -1,5 +1,5 @@
 ---
-slug: D3js
+slug: d3js
 title: D3.js
 layout: page.jade
 ---

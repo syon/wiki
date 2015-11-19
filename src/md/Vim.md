@@ -1,5 +1,5 @@
 ---
-slug: Vim
+slug: vim
 title: Vim
 layout: page.jade
 ---

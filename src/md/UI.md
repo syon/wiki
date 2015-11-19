@@ -1,5 +1,5 @@
 ---
-slug: UI
+slug: ui
 title: UI
 layout: page.jade
 ---

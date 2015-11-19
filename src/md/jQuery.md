@@ -1,5 +1,5 @@
 ---
-slug: jQuery
+slug: jquery
 title: jQuery
 layout: page.jade
 ---

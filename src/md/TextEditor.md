@@ -1,5 +1,5 @@
 ---
-slug: TextEditor
+slug: texteditor
 title: TextEditor
 layout: page.jade
 ---

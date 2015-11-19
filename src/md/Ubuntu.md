@@ -1,5 +1,5 @@
 ---
-slug: Ubuntu
+slug: ubuntu
 title: Ubuntu
 layout: page.jade
 ---

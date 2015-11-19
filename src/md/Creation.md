@@ -1,5 +1,5 @@
 ---
-slug: Creation
+slug: creation
 title: Creation
 layout: page.jade
 ---

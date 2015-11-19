@@ -1,5 +1,5 @@
 ---
-slug: SVG
+slug: svg
 title: SVG
 layout: page.jade
 ---

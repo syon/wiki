@@ -1,5 +1,5 @@
 ---
-slug: SoundEffect
+slug: soundeffect
 title: SoundEffect
 layout: page.jade
 ---

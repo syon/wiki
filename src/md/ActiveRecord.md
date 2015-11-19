@@ -1,5 +1,5 @@
 ---
-slug: ActiveRecord
+slug: activerecord
 title: ActiveRecord
 layout: page.jade
 ---
