@@ -69,7 +69,7 @@ Lightblue BeanはLBM313 Bluetooth LEモジュールにRGB LEDと3軸加速度セ
 
 
 ## Smart Lock
-- → __[Life](/wiki/Life/)__
+- → __[Life](/wiki/life/)__
 
 
 ## センサー

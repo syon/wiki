@@ -7,7 +7,7 @@ layout: page.jade
 ## [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 
 #### Code
-- → __[Polymer](/wiki/Polymer/)__
+- → __[Polymer](/wiki/polymer/)__
 - → [Angular Material](AngularJS/)
 - [Material Design Lite](http://www.getmdl.io/)
 - [Material UI - Material Design React Components](http://material-ui.com/#/)
@@ -64,7 +64,7 @@ layout: page.jade
 
 ## UI
 
-- [UI](/wiki/UI/)
+- [UI](/wiki/ui/)
 
 
 ## Theme
@@ -82,7 +82,7 @@ layout: page.jade
 
 ## Font
 
-- [Font](/wiki/Font/)
+- [Font](/wiki/font/)
 
 
 ## Image

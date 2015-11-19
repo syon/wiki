@@ -32,7 +32,7 @@ layout: page.jade
 
 ## SVG
 
-#### → __[SVG (Scalable Vector Graphics)](/wiki/SVG/)__
+#### → __[SVG (Scalable Vector Graphics)](/wiki/svg/)__
 
 ## 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)

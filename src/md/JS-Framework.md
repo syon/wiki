@@ -4,11 +4,11 @@ title: JS-Framework
 layout: page.jade
 ---
 
-#### →__[AngularJS](/wiki/AngularJS/)__
+#### →__[AngularJS](/wiki/angularjs/)__
 
-#### →__[Polymer](/wiki/Polymer/)__
+#### →__[Polymer](/wiki/polymer/)__
 
-#### →__[React](/wiki/React/)__
+#### →__[React](/wiki/react/)__
 
 
 ## Compare

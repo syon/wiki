@@ -4,7 +4,7 @@ title: Ruby
 layout: page.jade
 ---
 
-#### → __[Ruby-Gem](/wiki/Ruby-Gem/)__
+#### → __[Ruby-Gem](/wiki/ruby-gem/)__
 
 
 ## リファレンス

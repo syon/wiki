@@ -40,7 +40,7 @@ layout: page.jade
 - [Rack::Session::Cookieを使う - 橋本詳解](http://d.hatena.ne.jp/shokai/20110324/1300999147)
 
 ### Heroku
-- [Heroku](/wiki/Heroku/)
+- [Heroku](/wiki/heroku/)
 
 ## Getting Started
 
@@ -182,7 +182,7 @@ somepage.haml
 
 
 ## ActiveRecord
-- → __[ActiveRecord](/wiki/ActiveRecord/)__
+- → __[ActiveRecord](/wiki/activerecord/)__
 
 
 ## 認証
