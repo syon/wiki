@@ -110,6 +110,9 @@ Find newer versions of package dependencies than what your package.json or bower
 #### [gm](http://aheckmann.github.io/gm/)
 GraphicsMagick for node.js
 
+#### [Vorlon.JS](http://vorlonjs.com/)
+スクリプトタグを埋め込んでおくとリモートデバッグ出来るツール。 Console、DOMツリーの表示、Modernizrを使ったサポート状況の表示などが出来る。 またpluginで拡張する事が出来る
+
 
 ## [NW.js](http://nwjs.io/)
 
