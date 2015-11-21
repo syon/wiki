@@ -23,7 +23,11 @@ Metalsmith(__dirname)
       return originalPath.replace("scss", "css");
     }
   }))
-  .use(markdown('full'))
+  .use(markdown('full', {
+    html: true,
+    linkify: true,
+    typographer: true
+  }))
   .use(prism())
   .use(jade())
   .use(permalinks({pattern: ':slug'}))
