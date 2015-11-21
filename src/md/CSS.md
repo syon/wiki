@@ -30,18 +30,39 @@ layout: page.jade
 
 
 ## CSS Framework
-- → __[TwitterBootstrap](/wiki/twitterbootstrap/)__
-- → __[Google Material Design](/wiki/design/)__
-- [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
-- [Semantic UI](http://semantic-ui.com/)
-- [Bourbon - A Sass Mixin Library](http://bourbon.io/)
-    - [Neat](http://neat.bourbon.io/): A lightweight semantic __grid framework__ for Sass and Bourbon.
-    - [Bitters](http://bitters.bourbon.io/): __Scaffold__ styles, variables and structure for Bourbon projects.
-    - [Refills](http://refills.bourbon.io/): __Components and patterns__ built with Bourbon and Neat.
-- [Primer](http://primercss.io/)  
-  The CSS toolkit and guidelines that power GitHub.
-- [Outline](http://outlinecss.co.uk/)  
-  The clean & simple responsive CSS framework.
+
+[Bootstrap](http://getbootstrap.com/)
+: → __[TwitterBootstrap](/wiki/twitterbootstrap/)__
+
+[Skeleton](http://getskeleton.com/)
+: A dead simple, responsive boilerplate.
+
+[Pure](http://purecss.io/)
+: A set of small, responsive CSS modules that you can use in every web project.
+
+[Foundation](http://foundation.zurb.com/)
+: The most advanced responsive front-end frameworks in the world.
+
+[Semantic UI](http://semantic-ui.com/)
+: Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+
+[Bourbon](http://bourbon.io/)
+: A simple and lightweight mixin library for Sass.
+
+- [Neat](http://neat.bourbon.io/): A lightweight semantic __grid framework__ for Sass and Bourbon.
+- [Bitters](http://bitters.bourbon.io/): __Scaffold__ styles, variables and structure for Bourbon projects.
+- [Refills](http://refills.bourbon.io/): __Components and patterns__ built with Bourbon and Neat.
+
+
+[Primer](http://primercss.io/)
+: The CSS toolkit and guidelines that power GitHub.
+
+[Outline](http://outlinecss.co.uk/)
+: The clean & simple responsive CSS framework.
+
+[HTML KickStart](http://www.99lime.com/elements/)
+: Ultra–Lean HTML5, CSS, & JS Building Blocks
+for Rapid Website Production
 
 
 ## CSS Library
