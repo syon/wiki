@@ -1,17 +1,12 @@
 ---
 slug: apache-poi
-title: apache-poi
+title: Apache POI
 layout: page.jade
 ---
 
-# Apache POI
+the Java API for Microsoft Documents
+: http://poi.apache.org/
 
-<div id="gollum-heading">
-  <h2>
-    <a href="http://poi.apache.org/">Apache POI</a>
-  </h2>
-  <p>the Java API for Microsoft Documents</p>
-</div>
 
 ## Links
 

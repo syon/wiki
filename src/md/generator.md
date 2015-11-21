@@ -1,11 +1,8 @@
 ---
 slug: generator
-title: generator
+title: Generator
 layout: page.jade
 ---
-
-# Generator
-
 
 ## ダミーデータ、ジェネレータ
 

@@ -1,6 +1,6 @@
 ---
 slug: command-prompt
-title: command-prompt
+title: コマンドプロンプト
 layout: page.jade
 ---
 

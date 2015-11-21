@@ -1,11 +1,8 @@
 ---
 slug: frontendworkflow
-title: FrontEndWorkflow
+title: Front-End Workflow
 layout: page.jade
 ---
-
-# Front-End Workflow
-
 
 ## Module Loader
 

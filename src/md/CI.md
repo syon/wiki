@@ -1,10 +1,8 @@
 ---
 slug: ci
-title: CI
+title: Continuous Integration
 layout: page.jade
 ---
-
-# Continuous Integration
 
 ### [Jenkins](http://jenkins-ci.org/)
 

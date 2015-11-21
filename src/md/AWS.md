@@ -4,7 +4,6 @@ title: AWS
 layout: page.jade
 ---
 
-# AWS
 ## Amazon Web Services
 
 - [2014年からはじめるAWSリンク集 | 外道父の匠](http://blog.father.gedow.net/2014/01/07/aws-links/)

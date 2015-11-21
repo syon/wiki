@@ -1,10 +1,8 @@
 ---
 slug: auth
-title: auth
+title: 認証
 layout: page.jade
 ---
-
-# 認証
 
 ## LDAP
 - [LDAPとは何をするもの？ | Think IT（シンクイット）](http://thinkit.co.jp/free/tech/18/1/page/0/1)
