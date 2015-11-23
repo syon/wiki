@@ -6,6 +6,7 @@ var prism      = require('metalsmith-prism');
 var jade       = require('metalsmith-jade');
 var layouts    = require('metalsmith-layouts');
 var permalinks = require('metalsmith-permalinks');
+var mapsite    = require('metalsmith-mapsite');
 
 Metalsmith(__dirname)
   .destination('wiki')
@@ -32,6 +33,9 @@ Metalsmith(__dirname)
   .use(jade())
   .use(permalinks({pattern: ':slug'}))
   .use(layouts({engine:"jade"}))
+  .use(mapsite({
+    hostname: 'http://syon.github.io/wiki/'
+  }))
   .build(function(err){
     if (err) throw err;
   });
