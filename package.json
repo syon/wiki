@@ -1,5 +1,5 @@
 {
-  "name": "static-site-example",
+  "name": "syon-wiki",
   "private": true,
   "dependencies": {
     "metalsmith": "^1.0.0",
