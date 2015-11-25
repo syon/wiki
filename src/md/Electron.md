@@ -24,3 +24,4 @@ layout: page.jade
 - [Electron を試す 2 – パッケージ化におけるプラットフォーム固有処理とコンパイル分岐 | アカベコマイリ](http://akabeko.me/blog/2015/10/electron-2/)
 - [Photon](http://photonkit.com/)
 - [Mac App Store and Windows Auto Updater on Electron](http://blog.atom.io/2015/11/05/electron-updates-mac-app-store-and-windows-auto-updater.html)
+- [Electronでデスクトップウィジェットを作るまで - Qiita](http://qiita.com/SallyAcolyte/items/94ed26ab62b8b32b1b2c)
