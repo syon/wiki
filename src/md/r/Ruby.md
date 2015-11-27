@@ -144,12 +144,17 @@ via - [Rubyで日付の計算するならactive_support使っとけって世間�
 
 - [Rails で "とりあえず動くコード" を書けるようになった人が次に遭遇する問題とそれを解決してくれる本まとめ - 彼女からは、おいちゃんと呼ばれています](http://blog.inouetakuya.info/entry/2014/06/08/194015)
 
+
 ## Install Ruby
 
 ### Install rbenv on Mac
 
 - [Ruby - Homebrewのインストールとrbenvのインストール Mac編 - Qiita](http://qiita.com/issobero/items/e0443b79da117ed48294)  
   `$ rbenv init`も必要 https://github.com/sstephenson/rbenv#how-rbenv-hooks-into-your-shell
+
+### Install pik on Windows
+
+- [pikの替わりにuru～windowsで複数バージョンのrubyを切り替える～ - Qiita](http://qiita.com/tikkss@github/items/a70af204d5fb3612bb39)
 
 ### Install rbenv on Ubuntu
 
