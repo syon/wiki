@@ -130,6 +130,7 @@ GraphicsMagick for node.js
 - [node.jsでファイル監視を手軽に行えるモジュール「chokidar」 | #GUNMAGISGEEK](http://shimz.me/blog/node-js/4123)
 - [UIテストの自動化！Node.jsとSeleniumでWebアプリのUIテスト環境構築 – ICS LAB](http://ics-web.jp/lab/archives/5759)
 - [Node.js - フロントエンド開発の３ステップ（npmことはじめ） - Qiita](http://qiita.com/hashrock/items/15f4a4961183cfbb2658)
+- [2016年版 Node.jsで幸せになれる10の習慣 - Qiita](http://qiita.com/ksato9700/items/b21383e613b6dc308dca)
 
 #### Express
 - [Node.js(Express4) + Heroku + PostgreSQLでTwitter botとサイト作った時のメモ(準備編) - Memo/](http://memo.brdr.jp/post/116650871021/node-js-express4-heroku-postgresql-twitter)
