@@ -56,6 +56,9 @@ layout: page.jade
 
 ## TIPS
 
+### Administrator アカウント
+- [Windows 8でAdministratorアカウントを有効にする ( ソフトウェア ) - みゃうのリカバリーをする前に - Yahoo!ブログ](http://blogs.yahoo.co.jp/akio_myau/46155167.html)
+
 ### キーボードショートカット
 - [Windows のキーボード ショートカット](http://support.microsoft.com/kb/126449/ja)
 
