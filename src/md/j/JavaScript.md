@@ -14,13 +14,6 @@ JavaScript Garden はJavaScriptというプログラム言語の一番奇妙な�
 
 A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns (upcoming).
 
-### Articles
-
-- [最近のJavaScript開発まとめ : アシアルブログ](http://blog.asial.co.jp/1187)
-- [JavaScript でのローカル ファイルの読み込み - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/file/dndfiles/)
-- [今から３分で，HTML5のドラッグ＆ドロップAPIと File APIを習得しよう（JSの実装サンプル付き） - 主に言語とシステム開発に関して](http://d.hatena.ne.jp/language_and_engineering/20140330/HTMLfiveDragDropAndFileAPISample)
-- [JavaScript 便利メソッド集 | phiary](http://phiary.me/javascript-useful-collection/)
-
 
 ## ECMAScript / altJS
 
@@ -265,3 +258,11 @@ Object.keys(theObj).map(function(d){console.log(d)})
 
 - [window.openメソッドの第二引数で特定の文字列を渡すとIEでエラーになる](http://codaholic.org/?p=876)
 - [JavaScriptでオブジェクトの型を判別するのにtypeof演算子使うとツラいよね - Qiita](http://qiita.com/Layzie/items/465e715dae14e2f601de)
+
+
+## Articles
+
+- [最近のJavaScript開発まとめ : アシアルブログ](http://blog.asial.co.jp/1187)
+- [JavaScript でのローカル ファイルの読み込み - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/file/dndfiles/)
+- [今から３分で，HTML5のドラッグ＆ドロップAPIと File APIを習得しよう（JSの実装サンプル付き） - 主に言語とシステム開発に関して](http://d.hatena.ne.jp/language_and_engineering/20140330/HTMLfiveDragDropAndFileAPISample)
+- [JavaScript 便利メソッド集 | phiary](http://phiary.me/javascript-useful-collection/)
