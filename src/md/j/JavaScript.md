@@ -134,14 +134,15 @@ function grep (pattern) {
 
 - [javascript - How can I get query string values? - Stack Overflow](http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values)
 
-<pre>
+```js
 function getParameterByName(name) {
-    name = name.replace(/["\\\[").replace(/[\](\[]/,)]/, "\\\]");
-    var regex = new RegExp("[+ name + "=([^&#](\\?&]")*)"),
-        results = regex.exec(location.search);
-    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  name = name.replace(/["\\\[").replace(/[\](\[]/,)]/, "\\\]");
+  var regex = new RegExp("[+ name + "=([^&#](\\?&]")*)"),
+      results = regex.exec(location.search);
+  return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
-</pre>
+```
+
 
 ## TIPS
 
@@ -188,9 +189,9 @@ window.addEventListener("load", function() {
 
 - [JavaScript：undefined値の判定 - 泥のように](http://blog.tojiru.net/article/205007468.html)
 
-<pre>
+```js
 if (typeof a === "undefined") {
-</pre>
+```
 
 ### setTimeout
 - [JavaScript - setTimeout(...,0)などの使いドコロ - Qiita](http://qiita.com/jkr_2255/items/17693ab77beea71a871c)
@@ -201,11 +202,11 @@ if (typeof a === "undefined") {
 
 - [引数有りのsetTimeout()について ＭＡｘＵｒａの落書き帳　～Ｓｃｒａｗｌ　Ｎｏｔｅ～](http://maxura.blog62.fc2.com/blog-entry-179.html)
 
-<pre>
+```js
 setTimeout(function(){
     Fn(arg);
 },3000);
-</pre>
+```
 
 ### タッチパネル対応
 ```js
