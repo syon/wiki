@@ -131,6 +131,7 @@ GraphicsMagick for node.js
 - [UIテストの自動化！Node.jsとSeleniumでWebアプリのUIテスト環境構築 – ICS LAB](http://ics-web.jp/lab/archives/5759)
 - [Node.js - フロントエンド開発の３ステップ（npmことはじめ） - Qiita](http://qiita.com/hashrock/items/15f4a4961183cfbb2658)
 - [2016年版 Node.jsで幸せになれる10の習慣 - Qiita](http://qiita.com/ksato9700/items/b21383e613b6dc308dca)
+- [ES6時代のNode.js - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/Node-es6/)
 
 #### Express
 - [Node.js(Express4) + Heroku + PostgreSQLでTwitter botとサイト作った時のメモ(準備編) - Memo/](http://memo.brdr.jp/post/116650871021/node-js-express4-heroku-postgresql-twitter)
