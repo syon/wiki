@@ -221,6 +221,8 @@ $ bundle exec ruby hoge.rb -e production
 set :environment, :production
 ```
 
+- [Ruby - sinatraをwindowsでお手軽に起動したらwebrickが遅い - Qiita](http://qiita.com/k-ta-yamada/items/2a484e054d31f616191d)
+
 #### Singleton
 - [ruby - best/most elegant way to share objects between a stack of rack mounted apps/middlewares? - Stack Overflow](http://stackoverflow.com/questions/5517753/best-most-elegant-way-to-share-objects-between-a-stack-of-rack-mounted-apps-midd)
 ```ruby
