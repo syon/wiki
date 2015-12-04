@@ -9,6 +9,7 @@ layout: page.jade
 ## [Swift Programming Language - Apple Developer](https://developer.apple.com/swift/)
 - [Building Your First Swift App Video - Swift Blog - Apple Developer](https://developer.apple.com/swift/blog/?id=16)  
   Apple Developer - 初めてアプリを作成するまでの手順を紹介するチュートリアルビデオ
+- [Swift.org - Welcome to Swift.org](https://swift.org/)
 
 ## Documents
 
