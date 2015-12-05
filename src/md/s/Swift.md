@@ -81,6 +81,7 @@ layout: page.jade
 - [WebエンジニアのためのSwift言語入門 – ICS LAB](http://ics-web.jp/lab/archives/5755)
 - [Yosemite + Xcode 6.2 で Swift+QuartzComposerスクリーンセーバを作る | Kanolab](http://kano-lab.org/archives/3467)
 - [Swiftを勉強するためにコツコツとiPhoneアプリを作る - アプリ開発日記](http://ilog.hateblo.jp/entry/2015/03/29/083000)
+- [Swiftの入門記事連載 - ICS MEDIA](https://ics.media/tutorial-swift)
 
 
 ## Sample Code
