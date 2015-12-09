@@ -21,6 +21,9 @@ layout: page.jade
 
 - [色んなガジェットを組み合わせて作った部屋で実際に暮らして思ったことや次バージョンへの思いをまとめてみた - 凹みTips](http://tips.hecomi.com/entry/2014/12/23/233835)
 - [myThings - あなたの毎日が、組み合わせで便利になる](http://mythings.yahoo.co.jp/)
+- [おうちハック Advent Calendar 2015 - Qiita](http://qiita.com/advent-calendar/2015/ouch-hack)
+  - [我が家のおうちハックの現状 - bohemia日記](http://bohemia.hatenablog.com/entry/2015/12/01/163521)
+  - [Siriで部屋中の家電を操作できるようにして未来のお部屋を作ってみた - ワタナベ書店](http://senyoltw.hatenablog.jp/entry/2015/12/07/052951)
 
 
 ## リモコン
