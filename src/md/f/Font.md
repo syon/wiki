@@ -74,7 +74,9 @@ Google Web Fontの説明
 - [ダウンロードしておきたい、24個の人気筆記体フリーフォントまとめ - Photoshop VIP](http://photoshopvip.net/archives/75442)
 
 
-## 日本語フリーフォント
+## 日本語フォント
+
+#### 日本語フリーフォント
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
 - [商用も無料でリンク不要の日本語フォント・こども丸ゴシックと、無料で手に入るフォント配布サイトの早見表 - かちびと.net](http://kachibito.net/web-design/kodomo-gosick.html)
 - [インパクトが大きい！ちょっと変わった日本語フリーフォント10選 | creive【クリーブ】](http://creive.me/archives/5475/)
@@ -86,6 +88,9 @@ Google Web Fontの説明
 - [ほのかフォント｜オールド系フォント無料ダウンロード](http://font.gloomy.jp/)
 - [2015年版！漢字が使えて無料日本語フォント５０種](http://k-tsubo.com/web-design/3923/)
 - [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
+
+#### 縦書き
+- [NCS-あずさA-縦かな | フォント一覧 | ねこまるラボ　実験的かなフォントの制作・開発](http://necomaru.com/font/azusa-tate/)
 
 
 ## etc.
