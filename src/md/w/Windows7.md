@@ -1,6 +1,6 @@
 ---
-slug: windows7
-title: Windows7
+slug: windows
+title: Windows
 layout: page.jade
 ---
 
@@ -53,6 +53,12 @@ layout: page.jade
 ### アドホックモード通信
 
 - [無線LAN - アドホックモード（ Windows 7の設定方法 ）](http://www.infraexpert.com/study/wireless26.html)
+
+### SoftAP
+
+- [＜続編＞VAIOを無線ルーターにしてみる。。。 - 店長のつぶやき日記。。。](http://www.call-t.co.jp/blog/mt/archives/entry/014810.html)
+- [softAPに接続できない｜Windows8.1](https://social.technet.microsoft.com/Forums/windows/ja-JP/a49fe871-380c-49bb-8dcf-267c694c42a6/softapwindows81?forum=w7itprogeneralja)
+
 
 ## TIPS
 
