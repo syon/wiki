@@ -27,3 +27,4 @@ layout: page.jade
 - [Electronでデスクトップウィジェットを作るまで - Qiita](http://qiita.com/SallyAcolyte/items/94ed26ab62b8b32b1b2c)
 - [Electronを使ってJavaScriptでデスクトップアプリを作る | KRAY Inc](http://kray.jp/blog/electron/)
 - [Electronアプリをプロダクトとして「正しく」リリースするために必要な3つのこと - ヌーラボ [Nulab Inc.]](https://nulab-inc.com/ja/blog/typetalk/3-points-for-releasing-production-electron-app/)
+- [Electronで画像加工アプリケーションを作ってみた - ICS MEDIA](https://ics.media/entry/10254)
