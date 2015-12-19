@@ -84,6 +84,10 @@ brew cask install appcleaner
 - [知らない人は損してると思うMacの使い方](http://alfalfalfa.com/archives/1147302.html)
 - [Geek Knowledge: （Linux等の）シェルスクリプトを Mac の Finder からダブルクリックで実行するには](http://hseisyu.blogspot.jp/2010/10/linux-mac-finder.html)
 
+### Launch on Startup
+- __[Squid - syon/wiki](/wiki/squid-proxy/)__
+- [MacOSX - Mac OSX で init.d のように Tomcat を自動起動する - Qiita](http://qiita.com/hidekuro/items/316abf8b359734227c88)
+
 
 ## Preferences
 
