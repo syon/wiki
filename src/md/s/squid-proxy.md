@@ -135,6 +135,30 @@ $ /usr/local/sbin/squid -k reconfigure
 - [squid で特定のサイトのみアクセスを許可する](http://futuremix.org/2005/07/squid-access-allow)
 - [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
 
+### Launch on Startup
+- [Installing Squid Proxy Server on Mac OS X Snow Leopard | Biboroku](http://okomestudio.net/biboroku/?p=816)
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>squid</string>
+    <key>OnDemand</key>
+    <false/>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/usr/local/sbin/squid</string>
+    </array>
+    <key>ServiceIPC</key>
+    <false/>
+  </dict>
+</plist>
+```
+```bash
+$ sudo launchctl load -w /Library/LaunchDaemons/squid.plist
+```
+
 
 ## Memo
 - `acl myaclname` で定義して `http_access allow myaclname` で利用
