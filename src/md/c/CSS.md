@@ -153,6 +153,12 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 ### 実装
 * [Retinaディスプレイを考慮したCSSスプライトの実装方法 | コリス](http://coliss.com/articles/build-websites/operation/css/css-sprites-for-retina-displays-by-miekd.html)
 
+## Flexbox
+- [Visual Guide to CSS3 Flexbox: Flexbox Playground |](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
+- [これからのCSSレイアウトはFlexboxで決まり！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox/)
+- [Flexboxを使った2カラム・3カラム・マルチレイアウトの基本と応用 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox-layout/)
+- [Flexboxのプロパティ（flex-grow、flex-shrink、flex-basis、flex）を紹介します](http://scene-live.com/page.php?page=58)
+
 
 ## TIPS
 
@@ -162,14 +168,6 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [もう逃げない。HTMLのviewportをちゃんと理解する - Qiita](http://qiita.com/ryounagaoka/items/045b2808a5ed43f96607)
 - [[CSS]ビューポート(vw, vh)とパーセント(%)、レスポンシブに適した単位の賢い使い分け方法 | コリス](http://coliss.com/articles/build-websites/operation/css/viewport-vs-percentage-units-by-ire.html)
 
-### Flexbox
-- [これからのCSSレイアウトはFlexboxで決まり！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox/)
-    - CSSを一行プラスするだけで横並びにできる！
-    - 横並びになった要素の高さが最初から揃ってる！
-    - 要素を上下左右、好きな順序に並び替えられる！
-    - スペースの操作も自由自在！
-    - 高さの異なる横並びの要素を、簡単に上下中央揃え！
-- [Flexboxを使った2カラム・3カラム・マルチレイアウトの基本と応用 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox-layout/)
 
 ### float
 * [CSSでfloatを解除する方法のまとめ: 小粋空間](http://www.koikikukan.com/archives/2013/03/28-005555.php)
