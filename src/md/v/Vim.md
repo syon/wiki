@@ -81,6 +81,9 @@ colorscheme molokai
 
 ## Command list
 
+### 覚え方
+- [Vim Mnemonic | Vim のコマンドの覚え方大全 - haya14busa](http://haya14busa.com/vim-mnemonic/)
+
 ### カーソルの移動とスクロール
 
 |Command|Description|
