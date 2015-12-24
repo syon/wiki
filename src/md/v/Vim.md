@@ -25,6 +25,7 @@ layout: page.jade
 - [Vim Advent Calendar 2013 : Vim を使っている/始めたいなら読んでおきたい Web の記事 - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131201/1385823937)
 - [新卒エンジニアに Vim とかについて座学をした - ravelllの日記](http://ravelll.hatenadiary.jp/entry/2014/11/10/145401)
 - [Vim の魅力を余すこと無くお伝えする動画まとめ - fugafuga.write()](http://blog.tokoyax.com/entry/vim/video-matome)
+- [『実践Vim』を読んで学んだ、おすすめVimデフォルト機能32個 - MyEnigma](http://myenigma.hatenablog.com/entry/2015/12/19/081933)
 
 ### Tips
 
