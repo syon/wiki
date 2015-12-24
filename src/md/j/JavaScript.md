@@ -92,6 +92,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [Modern JavaScript Applications: Design Patterns](http://www.slideshare.net/VolodymyrVoytyshyn/modern-java-script-applications)
 - [javascript:void(0)のまとめ: 小粋空間](http://www.koikikukan.com/archives/2015/03/11-002222.php)
 - [“use strict”（厳格モード）を使うべきか？｜もっこりJavaScript｜ANALOGIC（アナロジック）](http://analogic.jp/use-strict/#usage)
+- [どの非同期処理が良いのか勝負 // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/dofalsefei-tong-qi-chu-li-galiang-ifalsekasheng-fu)
 
 #### Promise
 - [JavaScript Promiseの本](http://azu.github.io/promises-book/)
