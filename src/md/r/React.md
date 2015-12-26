@@ -47,6 +47,7 @@ layout: page.jade
 - [ReactとFluxのこと // Speaker Deck](https://speakerdeck.com/geta6/reacttofluxfalsekoto)
 - [ReactとFluxでクライアントサイドの設計 | KRAY Inc](http://kray.jp/blog/react-flux/)
 - [Fluxフレームワーク戦争の現状確認（前編） - マルシテイアは月の上](http://amagitakayosi.hatenablog.com/entry/2015/12/02/172453)
+- [Fluxフレームワーク戦争の現状確認（後編） - マルシテイアは月の上](http://amagitakayosi.hatenablog.com/entry/2015/12/25/080000)
 - [FluxのActionとStoreをちゃんと分ける話 - pixiv inside](http://inside.pixiv.net/entry/2015/12/19/113746)
 
 
