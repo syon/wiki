@@ -83,10 +83,13 @@ layout: page.jade
 - [Unicode character table](http://unicode-table.com/en/)
 - [文字コード変換ミスによる文字化けパターンと想定される原因 - drk7jp](http://www.drk7.jp/MT/archives/001939.html)
 
+
 ## まとめ
 
 - [ペパボのフロントエンドスタンダード](http://pepabo.github.io/docs/frontend/standard.html)
 - [10年以上Java屋してたおっさんが 今年からフロントエンジニアやっている話](http://www.slideshare.net/dayoshi/20140821)
+- [Java - さいきょうの二重サブミット対策 - Qiita](http://qiita.com/syobochim/items/120109315f671918f28d)
+
 
 ## 作品
 
