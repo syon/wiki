@@ -26,6 +26,9 @@ layout: page.jade
 > - 重要なことは、データが視覚化を制御しているということです。決してその逆ではありません
 > ![D3.js](/wiki/assets/img/d3js_scale.png)
 
+- [2015年までに発売されたD3.js参考書をまとめてみた。 | #GUNMAGISGEEK](http://shimz.me/blog/d3-js/4554)
+
+
 ## Reference
 
 - [API Reference · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/API-Reference)
