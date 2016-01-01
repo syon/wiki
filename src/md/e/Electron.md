@@ -29,3 +29,4 @@ layout: page.jade
 - [Electronアプリをプロダクトとして「正しく」リリースするために必要な3つのこと - ヌーラボ [Nulab Inc.]](https://nulab-inc.com/ja/blog/typetalk/3-points-for-releasing-production-electron-app/)
 - [Electronで画像加工アプリケーションを作ってみた - ICS MEDIA](https://ics.media/entry/10254)
 - [Electronでアプリを書く場合は、気合いと根性でXSSを発生させないようにしなければならない。 - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20151225/p1)
+- [Electron - Photon kitを使ってネイティブっぽい綺麗なUIを試した - Qiita](http://qiita.com/koki_cheese/items/054fcf3fde5abd12c334)
