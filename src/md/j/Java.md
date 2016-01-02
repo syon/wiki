@@ -21,6 +21,7 @@ layout: page.jade
 - [Javaエンジニアのためのアーキテクト講座-JJUG CCC 2014 Fall](http://www.slideshare.net/yusuke/jjugccc2014fall-architect)
 - [3つのフレームワークで学ぶエンタープライズJava開発入門（1）：Strutsを使い続けることの問題点＆現在有力なJava EE、Spring、Play Frameworkの基礎知識とアーキテクチャ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1507/02/news012.html)
 - [Javaのマイクロフレームワーク ― この新トレンドは見逃せない | インフラ・ミドルウェア | POSTD](http://postd.cc/java-micro-frameworks-the-new-trend-you-cant-ignore/)
+- [Javaでのファイルコピー史 - Qiita](http://qiita.com/kawasima/items/145231e9a51b5c05d589)
 
 
 ## Maven
