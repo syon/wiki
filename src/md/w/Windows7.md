@@ -56,8 +56,18 @@ layout: page.jade
 
 ### SoftAP
 
+- [Windows 7 SoftAPとは、SoftAPの設定手順](http://www.infraexpert.com/study/wireless48.html)  
+  全体の流れが参考になる。
+- [Windows 7新時代：第12回　使い勝手が大幅に向上したWindows 7のワイヤレス機能 (2/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1005/27/news096_2.html)  
+  コマンドまわり
+- [無線LANルータ（Wi-Fiルータ）を使わずにiPhoneをWi-Fiに接続する方法! 【Windows 8 / 8.1 編】 PCを無線親機にする逆テザリング設定 | My Network Knowledge](http://nw-knowledge.blogspot.jp/2014/02/win8-8.1-softap-virtualwifi.html)  
+  デバイスマネージャーのネットワークアダプターで「有効」にする。  
+  初めてやったときは正常開始できたが、PC再起動したら開始できなくなってこれで解決した。
 - [＜続編＞VAIOを無線ルーターにしてみる。。。 - 店長のつぶやき日記。。。](http://www.call-t.co.jp/blog/mt/archives/entry/014810.html)
-- [softAPに接続できない｜Windows8.1](https://social.technet.microsoft.com/Forums/windows/ja-JP/a49fe871-380c-49bb-8dcf-267c694c42a6/softapwindows81?forum=w7itprogeneralja)
+  - SoftAPのIPv4プロパティ  
+    `192.168.137.1` / `255.255.255.0`
+- [softAPに接続できない｜Windows8.1](https://social.technet.microsoft.com/Forums/windows/ja-JP/a49fe871-380c-49bb-8dcf-267c694c42a6/softapwindows81?forum=w7itprogeneralja)  
+  イーサネットのプロパティ＞共有タブ＞ホームネットワーク接続(H): のプルダウンが表示されない場合は、一旦チェックボックスをOFFにしてOKで閉じたあと再度プロパティを開くとプルダウンが表示される
 
 
 ## TIPS
