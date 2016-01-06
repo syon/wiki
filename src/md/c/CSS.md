@@ -240,6 +240,9 @@ td {
 
 - [How to Center in CSS](http://howtocenterincss.com/)
 
+- [まだ中央寄せで消耗してるの？ - @yoshiko_pg](http://yoshiko-pg.github.io/slides/20151215-scripty/#38)  
+  negative margin / transform / offsets + auto / table-cell / flex 比較
+
 ### パララックス
 - [[CSS]パララックスのエフェクトをスクリプト無し、CSSで実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/pure-css-parallax-by-keithclark.html)
     - * [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
