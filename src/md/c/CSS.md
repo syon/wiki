@@ -247,6 +247,9 @@ td {
 - [[CSS]パララックスのエフェクトをスクリプト無し、CSSで実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/pure-css-parallax-by-keithclark.html)
     - * [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
+### Retina
+- [css - Box-shadow not shown on Safari Mobile on iOS 7 (in landscape) - Stack Overflow](http://stackoverflow.com/questions/21401766/box-shadow-not-shown-on-safari-mobile-on-ios-7-in-landscape)
+
 ## Articles
 - [本の虫: rebeccapurpleがCSS 4 colorに提案された経緯](http://cpplover.blogspot.jp/2014/06/rebeccapurplecss-4-color.html)
 - [[CSS]シンプルなHTMLで、美しいパンくずを実装する4つのスタイルシート | コリス](http://coliss.com/articles/build-websites/operation/css/css3-breadcrumbs-by-red-team-design.html)
