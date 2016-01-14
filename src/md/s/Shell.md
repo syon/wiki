@@ -31,3 +31,4 @@ Homebrewでインストール済みのパッケージをアップグレード
 
 - [fishシェルがとても素晴らしかったので、お伝えします。 | megane9988のブログ](http://megane-blog.com/2014/12/15/1461)
 - [fish-shellを使ってみませんか - Qiita](http://qiita.com/mtwtk_man/items/dde92d0a6024bc61fa58)
+- [zsh から fish にした。 - yoshiori.github.io](http://yoshiori.github.io/blog/2015/11/03/from-zsh-to-fish/)
