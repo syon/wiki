@@ -159,6 +159,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [Flexboxを使った2カラム・3カラム・マルチレイアウトの基本と応用 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox-layout/)
 - [Flexboxのプロパティ（flex-grow、flex-shrink、flex-basis、flex）を紹介します](http://scene-live.com/page.php?page=58)
 - [IE8・9にもFlexboxを対応させる、flexibility.jsがとっても便利！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/ie8-flexbox/)
+- [floatより辛くない「flexbox」でざっくりレイアウト - Qiita](http://qiita.com/hashrock/items/939684b9207dbab1d59e)
 
 
 ## TIPS
