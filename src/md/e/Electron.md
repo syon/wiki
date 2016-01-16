@@ -30,3 +30,4 @@ layout: page.jade
 - [Electronで画像加工アプリケーションを作ってみた - ICS MEDIA](https://ics.media/entry/10254)
 - [Electronでアプリを書く場合は、気合いと根性でXSSを発生させないようにしなければならない。 - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20151225/p1)
 - [Electron - Photon kitを使ってネイティブっぽい綺麗なUIを試した - Qiita](http://qiita.com/koki_cheese/items/054fcf3fde5abd12c334)
+- [Electron で desktopCapturer と WebRTC を使ってリアルタイム配信するアプリを書いた - Qiita](http://qiita.com/yuitowest/items/e9b2b087dffcefaa7bd2)
