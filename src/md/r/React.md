@@ -36,6 +36,7 @@ layout: page.jade
 - [JavaScript - React.js 実戦投入への道 - Qiita](http://qiita.com/icoxfog417/items/5d79b3336226aa51e30d)
 - [O'Reilly Japan - 入門 React](http://www.oreilly.co.jp/books/9784873117195/)
 - [petehunt/react-howto](https://github.com/petehunt/react-howto)
+  - [petehunt/react-howto の日本語訳 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/07/170707)
 
 #### React Router
 [rackt/react-router](https://github.com/rackt/react-router)
