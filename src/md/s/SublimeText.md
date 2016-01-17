@@ -31,6 +31,13 @@ Edit the install code:
 ```
 
 
+## Settings
+
+### 日本語入力
+- [OSXのSublimeText3でGoogle日本語入力の不満を解消し、さらにMarkdown環境を整える - Qiita](http://qiita.com/giiko_/items/b3e4dd639c00635d0ef9)
+- [SublimeText3 - sublime text3で日本語入力変換が機能しない場合の解消３ステップ - Qiita](http://qiita.com/akippiko/items/1382faa29833379621f6)
+
+
 ## Usage
 <dl>
   <dt>Install Package</dt>
@@ -83,10 +90,6 @@ Edit the install code:
 
 ### Articles
 - [【追記】【寄せあつめ】今さらだけどSublime Text 2の基本とカスタマイズ【&Vim化】【4日目】 ｜ Developers.IO](http://dev.classmethod.jp/tool/html-corder-sublime-text-2-customize/)
-
-
-## Settings
-
 
 
 ## Links
