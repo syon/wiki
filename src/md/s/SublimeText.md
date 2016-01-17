@@ -39,10 +39,9 @@ Edit the install code:
 
 
 ## Usage
-<dl>
-  <dt>Install Package</dt>
-  <dd>`Ctrl`+`Shift`+`P` → `Package Control: Install Package`</dd>
-<dl>
+
+Install Package
+: `Ctrl`+`Shift`+`P` → `Package Control: Install Package`
 
 
 ## My Installing Packages
