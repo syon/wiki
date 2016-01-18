@@ -76,6 +76,8 @@ Google Web Fontの説明
 
 ## 日本語フォント
 
+- [絶対見たことある！デザイナーの中で流行のフォント４選 - ベーコンさんの世界ブログ](http://bacon.hatenablog.com/entry/2016/01/12/211956)
+
 #### 日本語フリーフォント
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
 - [商用も無料でリンク不要の日本語フォント・こども丸ゴシックと、無料で手に入るフォント配布サイトの早見表 - かちびと.net](http://kachibito.net/web-design/kodomo-gosick.html)
