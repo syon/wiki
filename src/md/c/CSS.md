@@ -254,6 +254,10 @@ td {
 - [css - Box-shadow not shown on Safari Mobile on iOS 7 (in landscape) - Stack Overflow](http://stackoverflow.com/questions/21401766/box-shadow-not-shown-on-safari-mobile-on-ios-7-in-landscape)
 - [CSS - Retina Display向け.5pxのborderまとめ - Qiita](http://qiita.com/tyshgc/items/7d130a87938ff26228d3)
 
+### appearance
+- [CSSのappearanceを使ったセレクトボックスのカスタマイズ | design edge](http://edge.sincar.jp/web/selectbox-appearance-customize/)
+- [CSSだけで<select>をカスタマイズする - Qiita](http://qiita.com/hiloki@github/items/844726db4128ebb0fdd8)
+
 
 ## Articles
 - [本の虫: rebeccapurpleがCSS 4 colorに提案された経緯](http://cpplover.blogspot.jp/2014/06/rebeccapurplecss-4-color.html)
