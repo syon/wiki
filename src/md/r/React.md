@@ -51,6 +51,7 @@ layout: page.jade
 - [Fluxフレームワーク戦争の現状確認（前編） - マルシテイアは月の上](http://amagitakayosi.hatenablog.com/entry/2015/12/02/172453)
 - [Fluxフレームワーク戦争の現状確認（後編） - マルシテイアは月の上](http://amagitakayosi.hatenablog.com/entry/2015/12/25/080000)
 - [FluxのActionとStoreをちゃんと分ける話 - pixiv inside](http://inside.pixiv.net/entry/2015/12/19/113746)
+- [redux への 不満を解消する為に, flumptというFlux実装を作った - Qiita](http://qiita.com/mizchi/items/79673c4d406cc85b44aa)
 
 
 ## Tools
