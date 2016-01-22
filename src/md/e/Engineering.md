@@ -19,6 +19,10 @@ layout: page.jade
 - [非エンジニアのためのこれだけは押さえておきたいWEBサービスの基礎技術](http://www.slideshare.net/tech-camp/ss-47269649)
 
 
+## License
+- [オープンソースライセンス比較用早見表](https://docs.google.com/spreadsheets/d/1smp9rjunA2DeagL65gy2fqUC-7i-90gQZk2uJ81hE0M/htmlview?sle=true#gid=0)
+
+
 ## Data
 
 #### [willnet/gimei](https://github.com/willnet/gimei)
