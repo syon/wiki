@@ -97,3 +97,5 @@ Bootstrap your application with beautiful Material Design Components
 - [reactjs - javascript再勉強のためにreact + ardaでマインスイーパーをつくったので気づきを忘れないようにメモ - Qiita](http://qiita.com/mmmpa/items/dfdf0f4de70b42ad1138)
 - [Reactのprops/stateとFluxのStore - mizchi's blog](http://mizchi.hatenablog.com/entry/2015/08/24/233919)
 - [Reactを用いたアプリケーションアーキテクチャ：Fluxを再考する | プログラミング | POSTD](http://postd.cc/application-architecture-with-react-rethinking-flux/)
+- [#スーパーイカメーカー を支える技術 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/22/115913)
+
