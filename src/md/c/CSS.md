@@ -253,6 +253,8 @@ td {
 ### Retina
 - [css - Box-shadow not shown on Safari Mobile on iOS 7 (in landscape) - Stack Overflow](http://stackoverflow.com/questions/21401766/box-shadow-not-shown-on-safari-mobile-on-ios-7-in-landscape)
 - [CSS - Retina Display向け.5pxのborderまとめ - Qiita](http://qiita.com/tyshgc/items/7d130a87938ff26228d3)
+- [Yes We Can Do Fraction Of A Pixel — Priit Pirita](http://atirip.com/2013/09/22/yes-we-can-do-fraction-of-a-pixel/)  
+  CSS transform を使って半分サイズにすることで Retina 1px を実現
 
 ### appearance
 - [CSSのappearanceを使ったセレクトボックスのカスタマイズ | design edge](http://edge.sincar.jp/web/selectbox-appearance-customize/)
