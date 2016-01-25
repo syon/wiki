@@ -141,6 +141,10 @@ $('form').submit(function() {
 
 ## Plugins
 
+[jQuery Cards - A hand selected repository of cool jQuery Plugins](http://jquerycards.com/)
+: A repository of over 1000 quality jQuery plugins
+
+
 #### [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 
 > File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
