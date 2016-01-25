@@ -28,6 +28,10 @@ layout: page.jade
 - [reactjs - React 雑感 - Qiita](http://qiita.com/naoya@github/items/a4d54f5ab008c3fa4055)
 - [React概論 // Speaker Deck](https://speakerdeck.com/naoya/reactgai-lun)
 
+### Props & state
+![](/wiki/assets/img/react-inheritance.gif)
+- [JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/3413.html)
+
 
 ## Learning
 - __[Reactの公式チュートリアルをやってみた＆メモ - syonx](http://syonx.hatenablog.com/entry/2015/03/15/060000)__
@@ -98,4 +102,3 @@ Bootstrap your application with beautiful Material Design Components
 - [Reactのprops/stateとFluxのStore - mizchi's blog](http://mizchi.hatenablog.com/entry/2015/08/24/233919)
 - [Reactを用いたアプリケーションアーキテクチャ：Fluxを再考する | プログラミング | POSTD](http://postd.cc/application-architecture-with-react-rethinking-flux/)
 - [#スーパーイカメーカー を支える技術 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/22/115913)
-
