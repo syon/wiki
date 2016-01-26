@@ -4,8 +4,6 @@ title: WebFrontEnd
 layout: page.jade
 ---
 
-# Web Front-End
-
 ## フロントエンド開発ツール
 
 - [ぼくのさいきょうツール :: [ FLAT ] Develop | ONO TAKEHIKO from aguije inc.](http://flat.is/develop/2014/02/ultimate/)
