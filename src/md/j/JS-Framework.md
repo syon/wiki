@@ -13,6 +13,7 @@ layout: page.jade
 
 ## Compare
 - [AngularJS - 新・三大JavaScriptフレームワークの実践(Backbone.js Knockout.js Angular.js) - Qiita](http://qiita.com/icoxfog417/items/3c68e1a4de7121658e29)
+- [Front-end Application Libraries and Component Architectures - Telerik Developer Network](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/)
 
 
 ## Mithril
