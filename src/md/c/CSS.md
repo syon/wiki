@@ -153,14 +153,16 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 ### 実装
 * [Retinaディスプレイを考慮したCSSスプライトの実装方法 | コリス](http://coliss.com/articles/build-websites/operation/css/css-sprites-for-retina-displays-by-miekd.html)
 
+
 ## Flexbox
+- __[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)__
 - [Visual Guide to CSS3 Flexbox: Flexbox Playground |](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
 - [これからのCSSレイアウトはFlexboxで決まり！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox/)
 - [Flexboxを使った2カラム・3カラム・マルチレイアウトの基本と応用 | Webクリエイターボックス](http://www.webcreatorbox.com/tech/flexbox-layout/)
 - [Flexboxのプロパティ（flex-grow、flex-shrink、flex-basis、flex）を紹介します](http://scene-live.com/page.php?page=58)
 - [IE8・9にもFlexboxを対応させる、flexibility.jsがとっても便利！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/ie8-flexbox/)
 - [floatより辛くない「flexbox」でざっくりレイアウト - Qiita](http://qiita.com/hashrock/items/939684b9207dbab1d59e)
-- [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS3 Flexbox の各プロパティの使い方をヴィジュアルで詳しく解説 | コリス](http://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html)
 
 
 ## TIPS
@@ -258,7 +260,7 @@ td {
 
 ### appearance
 - [CSSのappearanceを使ったセレクトボックスのカスタマイズ | design edge](http://edge.sincar.jp/web/selectbox-appearance-customize/)
-- [CSSだけで<select>をカスタマイズする - Qiita](http://qiita.com/hiloki@github/items/844726db4128ebb0fdd8)
+- [CSSだけで select をカスタマイズする - Qiita](http://qiita.com/hiloki@github/items/844726db4128ebb0fdd8)
 
 
 ## Articles
@@ -266,3 +268,4 @@ td {
 - [[CSS]シンプルなHTMLで、美しいパンくずを実装する4つのスタイルシート | コリス](http://coliss.com/articles/build-websites/operation/css/css3-breadcrumbs-by-red-team-design.html)
 - [保存版！CSS3で出来る素敵なデザインやアニメーションをまとめてみた](http://www.webdesign-fan.com/css3-matome)
 - [CSSでheight:100%を使う方法について。 | Ginpen.com](http://ginpen.com/2011/07/01/height-100-parcent/)
+- [[CSS]古いバージョンのIEがサポート終了したので、どんどん使っていきたいCSSのテクニックのまとめ | コリス](http://coliss.com/articles/build-websites/operation/css/css-techniques-for-goodbye-ie8.html)
