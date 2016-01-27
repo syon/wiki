@@ -100,6 +100,9 @@ layout: page.jade
 - [Stokpic](http://stokpic.com/)  
   Unlimited Royalty Free stock photos and images For Commercial use
 
+### イラスト
+- [かわいい女子のイラスト素材が満載！生き生きとした表情やしぐさが魅力たっぷりなガーリー素材集 -Girls Design Materials | コリス](http://coliss.com/articles/book-review/isbn10-4797376694.html)
+
 ### Texture / Pattern
 
 - [商用利用無料、細かいパターンの繊細なざらっとしたパターン素材 -Arcandres Minimal Patterns | コリス](http://coliss.com/articles/freebies/freebies-minimal-patterns-by-arcandres.html)
