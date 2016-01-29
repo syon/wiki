@@ -23,6 +23,7 @@ layout: page.jade
 
 ## Vue.js
 - [Vue.js 大規模アプリケーションの構築 // Speaker Deck](https://speakerdeck.com/kazupon/vue-dot-js-da-gui-mo-apurikesiyonfalsegou-zhu)
+- [Vue.jsとは | CodeGrid](https://app.codegrid.net/entry/vue-1)
 
 
 ## Backbone.js
