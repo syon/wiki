@@ -4,7 +4,7 @@ title: Game
 layout: page.jade
 ---
 
-### 参考作品
+## 参考作品
 
 - [VVVVVV - A game by Terry Cavanagh](http://thelettervsixtim.es/) (Flash)
 - [チップチューン女子・TORIENAのMVが話題！ ドット絵による驚愕の作画量](http://kai-you.net/article/7400)
@@ -16,14 +16,20 @@ layout: page.jade
 - [Play StarShine 2, a free online game on Kongregate](http://www.kongregate.com/games/HeroInteractive/starshine-2)
 - [MASAMUNE GAMES -マサムネゲエムス-](http://masamune-games.net/)
 
-### Sites
+## Sites
 
 - [動く小説投稿サイトDenkinovel（デンキノベル）](http://denkinovel.com/)
 - [Games for programmers | CodinGame](http://www.codingame.com/start)  
   コードを書いてゲームを攻略。たくさんのゲームがある。
     - [プログラミングの勉強を本気でWebゲーム化した「CodinGame」が時間泥棒確定！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/03/53923/)
 
-### Articles
+## Live2D
+http://www.live2d.com
+
+- [Live2Dを活用したゲーム制作｜ティラノビルダー](http://b.tyrano.jp/tech/page/live2d)
+- [Live2D Library](http://library.live2d.com/)
+
+## Articles
 
 - [『VVVVVV』 クリエイター Terry Cavanagh ミニマリストの想い、追究 | AUTOMATON](http://jp.automaton.am/articles/one-man-dev/creator-01-terry-cavanagh/)
 - [夏休みをゲーム制作に費やした少女たちがいた――16歳と19歳が生み出した傑作『クロエのレクイエム』誕生秘話:ニコニコ自作ゲームフェス:ニコニコ自作ゲームフェス(ニコニコ自作ゲームフェス) - ニコニコチャンネル:ゲーム](http://ch.nicovideo.jp/indies-game/blomaga/ar611037)
