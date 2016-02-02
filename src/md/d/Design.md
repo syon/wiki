@@ -99,6 +99,8 @@ layout: page.jade
   リンク集
 - [Stokpic](http://stokpic.com/)  
   Unlimited Royalty Free stock photos and images For Commercial use
+- [Devices — Facebook Design Resources](http://facebook.github.io/design/devices.html)  
+  Facebook公式で用意されたモバイル、タブレット、ウォッチ、テレビの .sketch データ
 
 ### イラスト
 - [かわいい女子のイラスト素材が満載！生き生きとした表情やしぐさが魅力たっぷりなガーリー素材集 -Girls Design Materials | コリス](http://coliss.com/articles/book-review/isbn10-4797376694.html)
