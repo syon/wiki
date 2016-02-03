@@ -269,3 +269,4 @@ td {
 - [保存版！CSS3で出来る素敵なデザインやアニメーションをまとめてみた](http://www.webdesign-fan.com/css3-matome)
 - [CSSでheight:100%を使う方法について。 | Ginpen.com](http://ginpen.com/2011/07/01/height-100-parcent/)
 - [[CSS]古いバージョンのIEがサポート終了したので、どんどん使っていきたいCSSのテクニックのまとめ | コリス](http://coliss.com/articles/build-websites/operation/css/css-techniques-for-goodbye-ie8.html)
+- [-webkit-overflow-scrollingを指定するときについでにやっておいた方がいいこと - Qiita](http://qiita.com/liburari/items/c491c040f40809325394)
