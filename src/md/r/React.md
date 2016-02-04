@@ -27,6 +27,7 @@ layout: page.jade
 - [Ajaxを劇的に簡単にするReact.js – @masuidrive blog](http://blog.masuidrive.jp/2015/03/03/react/)
 - [reactjs - React 雑感 - Qiita](http://qiita.com/naoya@github/items/a4d54f5ab008c3fa4055)
 - [React概論 // Speaker Deck](https://speakerdeck.com/naoya/reactgai-lun)
+- [React.js + Flux入門 #scripty02](http://www.slideshare.net/techblogyahoo/reactjs-flux-scripty02)
 
 ### Props & state
 ![](/wiki/assets/img/react-inheritance.gif)
