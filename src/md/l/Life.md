@@ -26,6 +26,11 @@ layout: page.jade
   - [Siriで部屋中の家電を操作できるようにして未来のお部屋を作ってみた - ワタナベ書店](http://senyoltw.hatenablog.jp/entry/2015/12/07/052951)
 
 
+## 録画
+- [nasne に替えて PT3 を買いました | 妄想シンフォニー](http://symphonix.blog.fc2.com/blog-entry-2260.html)
+- [PT3で録画サーバを構築しよう～PT3設定&動作確認～ | サーバ構築していますん。](http://loopsrv.com/pt3-server-20160122)
+
+
 ## リモコン
 
 ### [IRKit](http://getirkit.com/)
