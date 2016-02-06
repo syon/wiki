@@ -101,6 +101,8 @@ layout: page.jade
   Unlimited Royalty Free stock photos and images For Commercial use
 - [Devices — Facebook Design Resources](http://facebook.github.io/design/devices.html)  
   Facebook公式で用意されたモバイル、タブレット、ウォッチ、テレビの .sketch データ
+- [写真を絵のようにする写真加工技術「PhotoDramatica」 – あやえも研究所](http://ayaemo.skr.jp/photodramatica.html)  
+  “この教材はソフトウェアではありません。HTMLテキストと動画で構成された「教材」です。”
 
 ### イラスト
 - [かわいい女子のイラスト素材が満載！生き生きとした表情やしぐさが魅力たっぷりなガーリー素材集 -Girls Design Materials | コリス](http://coliss.com/articles/book-review/isbn10-4797376694.html)
