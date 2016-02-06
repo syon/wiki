@@ -18,6 +18,7 @@ layout: page.jade
 - [これまでのVimの勉強内容まとめ - Qiita](http://qiita.com/letsspeak/items/fd33d0f2e0fb0afe4531)
 - [「Vim Bootstrap」を使っておけば、なんちゃって Vimmer も幸せになれる - 大学生からはじめるWeb開発](http://karur4n.hatenablog.com/entry/2014/08/19/202239)
 - [Route 477](http://route477.net/w/VimMemo.html)
+- [Vim幼稚園からVim小学校へ - Qiita](http://qiita.com/hachi8833/items/7beeee825c11f7437f54)
 
 #### あとで読む
 
