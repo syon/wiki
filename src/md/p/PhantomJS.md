@@ -32,6 +32,7 @@ phantomjs>
 
 
 ## Screen Capture
+__[utils/phantomjs-capture at master · syon/utils](https://github.com/syon/utils/tree/master/phantomjs-capture)__
 
 ### official docs
 - [Screen Capture | PhantomJS](http://phantomjs.org/screen-capture.html)
