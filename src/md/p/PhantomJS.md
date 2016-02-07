@@ -12,7 +12,7 @@ http://phantomjs.org
 [Download | PhantomJS](http://phantomjs.org/download.html)
 
 #### OS X
-```sh
+```bash
 $ brew install phantomjs
 ```
 
@@ -21,7 +21,7 @@ $ brew install phantomjs
 
 not a library, but a command
 
-```sh
+```bash
 $ phantomjs
 phantomjs> require('webpage');
 {
