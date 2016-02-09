@@ -43,6 +43,7 @@ __[utils/phantomjs-capture at master · syon/utils](https://github.com/syon/util
 ### articles
 - [viewport - viewportSize seems not to work with PhantomJS - Stack Overflow](http://stackoverflow.com/questions/13390859/viewportsize-seems-not-to-work-with-phantomjs)
 - [Node.jsでフォルダ内の全HTMLをキャプチャし画像化 - Qiita](http://qiita.com/clockmaker/items/67f13a880aa2f508b167)
+- [javascript - phantomjs not waiting for "full" page load - Stack Overflow](http://stackoverflow.com/questions/11340038/phantomjs-not-waiting-for-full-page-load)
 
 
 ## Page Automation
