@@ -263,6 +263,14 @@ Object.keys(theObj).map(function(d){console.log(d)})
 - [window.openメソッドの第二引数で特定の文字列を渡すとIEでエラーになる](http://codaholic.org/?p=876)
 - [JavaScriptでオブジェクトの型を判別するのにtypeof演算子使うとツラいよね - Qiita](http://qiita.com/Layzie/items/465e715dae14e2f601de)
 
+### iOS
+#### click event
+- [iOS で click イベントがわけのわからない動作をする件について - Qiita](http://qiita.com/38kun/items/ce6a26c9c59612e6f515)
+- [iOSにおけるclickイベントの発生条件まとめ - hifive](http://www.htmlhifive.com/conts/web/view/library/ios-click-event)
+
+#### script
+- `"use strict";`を記述した時にスクリプト自体が動作しないことがあった
+
 
 ## Articles
 
