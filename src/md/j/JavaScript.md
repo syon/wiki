@@ -260,8 +260,11 @@ Object.keys(theObj).map(function(d){console.log(d)})
 
 ## バッドノウハウ
 
-- [window.openメソッドの第二引数で特定の文字列を渡すとIEでエラーになる](http://codaholic.org/?p=876)
 - [JavaScriptでオブジェクトの型を判別するのにtypeof演算子使うとツラいよね - Qiita](http://qiita.com/Layzie/items/465e715dae14e2f601de)
+
+### IE
+- [window.openメソッドの第二引数で特定の文字列を渡すとIEでエラーになる](http://codaholic.org/?p=876)
+- [internet explorer - CSS Box-Shadow Not Working in IE - Stack Overflow](http://stackoverflow.com/questions/9949396/css-box-shadow-not-working-in-ie)
 
 ### iOS
 #### click event
