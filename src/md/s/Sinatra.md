@@ -45,41 +45,41 @@ layout: page.jade
 ## Getting Started
 
 ### Install
-<pre>
+```bash
 set http_proxy=http://localhost:8080
 gem install sinatra
 gem install sinatra-contrib
-</pre>
+```
 ※sinatra-contrib: for 'sinatra/reloader'(自動リロード)
 
 ### myapp.rb
-<pre>
+```ruby
 require 'sinatra'
 require 'sinatra/reloader'
 
 get '/' do
   'Hello world!'
 end
-</pre>
-<pre>
+```
+```bash
 ruby myapp.rb
-</pre>
+```
 http://localhost:4567/
 
 ### 静的ファイル
 - [Sinatra: README (Japanese) #静的ファイル](http://www.sinatrarb.com/intro-jp.html#%E9%9D%99%E7%9A%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)
-<pre>
+```bash
 app
 ├─public
 │  ├─css
 │  ├─fonts
 │  ├─img
 │  └─js
-</pre>
+```
 
 ### ビュー / テンプレート
 - [Sinatra: README (Japanese)](http://www.sinatrarb.com/intro-jp.html#%E3%83%93%E3%83%A5%E3%83%BC%20/%20%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
-<pre>
+```bash
 app
 └─views
     │  index.erb
@@ -87,8 +87,9 @@ app
     │
     └─subdir
             index.erb
-</pre>
-- [Sinatraが使いやすいので勝手に宣伝してみる - 射撃しつつ前転](http://d.hatena.ne.jp/tkng/20090701/1246468007)
+```
+
+- [Sinatraが使いやすいので勝手に宣伝してみる - 射撃しつつ前転](http://d.hatena.ne.jp/tkng/20090701/1246468007)  
 ディレクトリ階層を作りたい場合は
 ```ruby
 get '/subdir' do
@@ -120,11 +121,11 @@ end
 #### [HTML2Haml | Convert HTML Snippets to Haml](http://html2haml.heroku.com/)
 
 #### [5分で分かるHaml](http://unoh.github.io/2009/05/26/5haml.html)
-<pre>
+```haml
 / HTMLのコメント
 
 -# hamlのコメント
-</pre>
+```
 
 #### [Sinatra を使って Haml で作成したテンプレートに変数を埋め込む - 酔いどれコード](http://d.hatena.ne.jp/yamamucho/20090817/1250516677)
 - タグの後に = を付けない場合
