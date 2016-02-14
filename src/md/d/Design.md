@@ -101,6 +101,9 @@ layout: page.jade
 [CC Search](http://search.creativecommons.org/)
 : サイトを横断して検索するクリエイティブ・コモンズの検索サービス。商用利用可能素材の検索も可能。
 
+[京都フリー写真素材 | Photographix](http://photo.sanographix.net/)
+: 京都の写真素材を無料で配布しているサイト (CC BY 4.0)
+
 #### articles
 - [商用利用OKのフリー写真素材をGoogle画像検索で探す方法 | 株式会社LIG](http://liginc.co.jp/web/design/material/100252)
 - [ロイヤリティフリー写真限定！完全無料のフォトストックサイトStockSnap - Photoshop VIP](http://photoshopvip.net/archives/73663)
