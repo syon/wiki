@@ -17,11 +17,12 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 ## ECMAScript / altJS
 
-### ES6
+### ES6・ES2015
 - [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
 - [Babelで始める！モダンJavaScript開発 | HTML5Experts.jp](https://html5experts.jp/kyo_ago/16979/)
 - [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
 - [ES6時代のNode.js - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/Node-es6/)
+- [ES6 チートシート | プログラミング | POSTD](http://postd.cc/es6-cheatsheet/)
 
 ### CoffeeScript
 
