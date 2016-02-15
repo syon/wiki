@@ -11,11 +11,19 @@ layout: page.jade
 - [最近のWebアプリ開発に使う「API」7選が、スゴ過ぎて革命が起きそうなレベル！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/21/54236/)
 - [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた - Qiita](http://qiita.com/suin/items/f7ac4de914e9f3f35884)
 - [Google Maps JavaScript API v3の使い方まとめ (サンプルコード付き)](http://syncer.jp/google-maps-javascript-api-matome)
-- [pocket APIの使い方まとめ(サンプルコード付き)](https://syncer.jp/pocket-api-matome)
 
 ### 無料でいい感じのもの
 
 - [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
+
+#### Pocket API
+[Pocket: Developer API](https://getpocket.com/developer/)
+
+- __[Chase - http://syon-chase.herokuapp.com](http://syon-chase.herokuapp.com/)__
+- [pocket APIの使い方まとめ(サンプルコード付き)](https://syncer.jp/pocket-api-matome)
+- [pocket-api (npm)](https://www.npmjs.com/package/pocket-api)
+- [PocketのAPIをNodejsから扱う方法 | WEB EGG](http://leko.jp/archives/519)
+- [pocket-ruby | RubyGems.org | your community gem host](https://rubygems.org/gems/pocket-ruby/versions/0.0.6)
 
 #### Moves API
 - [Documentation - Moves for Developers](https://dev.moves-app.com/)
