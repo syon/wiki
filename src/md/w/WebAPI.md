@@ -37,3 +37,10 @@ layout: page.jade
 ## APIs
 - [NHK番組表API](http://api-portal.nhk.or.jp/ja)
 - [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
+
+
+## API Development
+
+### API Documentation
+#### [RAML](http://raml.org/)
+- [僕が考えた最強のAPIドキュメント生成 - 銀の人のメモ帳](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
