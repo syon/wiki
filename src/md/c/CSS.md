@@ -163,6 +163,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [IE8・9にもFlexboxを対応させる、flexibility.jsがとっても便利！ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/ie8-flexbox/)
 - [floatより辛くない「flexbox」でざっくりレイアウト - Qiita](http://qiita.com/hashrock/items/939684b9207dbab1d59e)
 - [CSS3 Flexbox の各プロパティの使い方をヴィジュアルで詳しく解説 | コリス](http://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html)
+- [Flexbox playground](http://codepen.io/enxaneta/pen/adLPwv)
 
 
 ## TIPS
