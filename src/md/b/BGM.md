@@ -34,6 +34,9 @@ layout: page.jade
 [ListenRadio（リスラジ）](http://listenradio.jp/)
 : 最新J-POPからアニソンまで幅広く聞けるサイト
 
+[musicForProgramming("38: J.S. Aurelius");](http://musicforprogramming.net/)
+: プログラミング向け作業用BGM
+
 #### Articles
 - [作業効率UP！ 環境音が聞けるWebサービス30選](http://yuma-z.com/blog/2014/04/ambient_sound/)
 - [アンビエントとかいう音楽のジャンルｗｗｗｗｗｗｗｗ](http://alfalfalfa.com/archives/7657883.html)
