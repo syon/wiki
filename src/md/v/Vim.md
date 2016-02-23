@@ -27,6 +27,7 @@ layout: page.jade
 - [新卒エンジニアに Vim とかについて座学をした - ravelllの日記](http://ravelll.hatenadiary.jp/entry/2014/11/10/145401)
 - [Vim の魅力を余すこと無くお伝えする動画まとめ - fugafuga.write()](http://blog.tokoyax.com/entry/vim/video-matome)
 - [『実践Vim』を読んで学んだ、おすすめVimデフォルト機能32個 - MyEnigma](http://myenigma.hatenablog.com/entry/2015/12/19/081933)
+- [Vim-Galore : Vimについて知っておくべき全てのこと (1/5) | プログラミング | POSTD](http://postd.cc/vim-galore-1/)
 
 ### Tips
 
