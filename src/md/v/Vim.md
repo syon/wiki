@@ -4,6 +4,8 @@ title: Vim
 layout: page.jade
 ---
 
+- [Neovim](https://neovim.io/)
+
 ### Articles
 - [ぼくのかんがえたさいしょうのvimrc - derisの日記](http://deris.hatenablog.jp/entry/2014/05/20/235807) ★ミニマル.vimrc
 - [僕がサクラエディタからVimに乗り換えるまで - give IT a try](http://blog.jnito.com/entry/20120101/1325420213)
