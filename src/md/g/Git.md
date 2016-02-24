@@ -30,6 +30,7 @@ $ git rebase -i HEAD~4
 - [［初心者向け］こんなときどうする⁉︎ GitのTips26選！ - Qiita](http://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd)
 - [キャリア1年未満だった僕が、社内にGitの運用を布教するために読みあさったもの ( +ちょ〜簡単に各Gitの運用方法のメリット・デメリット ) - Qiita](http://qiita.com/h0ng0yut0/items/d0ef7224abc5e07525d4)
 - [Gitでやらかした時に使える19個の奥義 - Qiita](http://qiita.com/muran001/items/dea2bbbaea1260098051)
+- [bash - Check if pull needed in Git - Stack Overflow](http://stackoverflow.com/questions/3258243/check-if-pull-needed-in-git)
 
 #### git diff
 - [Git の diff を美しく表示するために必要なたった 1 つの設定 #git - 詩と創作・思索のひろば](http://motemen.hatenablog.com/entry/2013/11/26/Git_%E3%81%AE_diff_%E3%82%92%E7%BE%8E%E3%81%97%E3%81%8F%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%9F%E3%81%A3%E3%81%9F_1_%E3%81%A4%E3%81%AE%E8%A8%AD)
