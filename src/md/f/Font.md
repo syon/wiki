@@ -69,6 +69,10 @@ Google Web Fontの説明
 - [無料で商用利用できる161種類のSVG形式のアイコンパック「GlyphPack」 - GIGAZINE](http://gigazine.net/news/20141210-glyphpack-icon-pack/)
 
 
+## 絵文字
+- [Twitter Emoji (Twemoji)](https://twitter.github.io/twemoji/)
+
+
 ## 欧文書体
 - [2014年、フォント好きのための高品質なすごいフリーフォントのまとめ | コリス](http://coliss.com/articles/freebies/2014-best-of-free-fonts-for-roman.html)
 - [ダウンロードしておきたい、24個の人気筆記体フリーフォントまとめ - Photoshop VIP](http://photoshopvip.net/archives/75442)
