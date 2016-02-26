@@ -149,6 +149,7 @@ layout: page.jade
 
 - [水彩絵の具ペイントの質感を実現！無料PSデザインキット「Aquarelle Designer Kit」 - Photoshop VIP](http://photoshopvip.net/archives/71010)
 - [写真加工を完全マスター！すごい無料PSアクション40個まとめ 2015年3月度 - Photoshop VIP](http://photoshopvip.net/archives/74248)
+- [Photoshopの整列あれこれ（キーボードショートカット、キーオブジェクト、等間隔に分布、指定間隔で分布） - DTP Transit](http://www.dtp-transit.jp/adobe/photoshop/post_2093.html)
 
 
 ## Slide
