@@ -110,20 +110,14 @@ layout: page.jade
 - [【画像大量】俺が長年貯め込んだグラフ・一覧・比較・図解フォルダが今、火を吹く：キニ速](http://blog.livedoor.jp/kinisoku/archives/4220262.html)
 
 ## 地図
+- → __[Map](/wiki/map/)__
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)
 - [D3.jsで地図を作る。](http://kenjispecial.wordpress.com/2013/12/15/d3/)
 - [高崎市と前橋市のAED設置施設一覧に緯度経度を付加してみた | GUNMA GIS GEEK](http://shimz.me/blog/other/3406)
-- [全国市区町村界データ | データ製品 | 製品 | ESRIジャパン株式会社](http://www.esrij.com/products/data/japan-shp/)
-- [DIVA-GIS | free, simple & effective](http://www.diva-gis.org/)
-- [人口減少地図：日本経済新聞](http://www.nikkei.com/edit/interactive/population2014/map.html)
 - [【D3.js】Google Mapにsvgを使ってマスクをかける | GUNMA GIS GEEK](http://shimz.me/blog/d3-js/3770)
 - [ゼンリンの「いつもNAVI－API」を使って地図を表示してみた。 | GUNMA GIS GEEK](http://shimz.me/blog/map/3847)
-- [Heat mapで動きが活発な地域を可視化する - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150207/1423240309)
-- [情報を可視化する「地図系Webアプリ」の開発事例9選がオモシロイ！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/12/10/54714/)
-- [GeoJSONを使いこなすためのWebサービスまとめ | #GUNMAGISGEEK](http://shimz.me/blog/web/3789)
-- - [Charlotte(シャーロット)２話に出てきた地図のleaflet版作った。 | #GUNMAGISGEEK](http://shimz.me/blog/leaflet-js/4384)
 
 
 ## 3D
