@@ -76,6 +76,7 @@ Google Web Fontの説明
 ## 欧文書体
 - [2014年、フォント好きのための高品質なすごいフリーフォントのまとめ | コリス](http://coliss.com/articles/freebies/2014-best-of-free-fonts-for-roman.html)
 - [ダウンロードしておきたい、24個の人気筆記体フリーフォントまとめ - Photoshop VIP](http://photoshopvip.net/archives/75442)
+- [デザイナーが持っていたい、すごいフリーフォント40個まとめ 2016年2月度 - PhotoshopVIP](http://photoshopvip.net/archives/87280)
 
 
 ## 日本語フォント
