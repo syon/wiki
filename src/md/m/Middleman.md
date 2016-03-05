@@ -63,3 +63,4 @@ layout: page.jade
 ## Articles
 - [Middleman + SinatraでALOHA FISHMANSのサイトをリニューアルしました - blog.katsuma.tv](http://blog.katsuma.tv/2014/03/aloha_fishmans_by_middleman_and_sinatra.html)
 - [Middleman + S3 + Fastly で作るブログ付きスタティックサイトのススメ - zeny.io](http://zeny.io/blog/2016/02/13/middleman-s3-fastly/)
+- [[混沌すぎ] Middlemanはこれから sprocket を辞めて CommonJS するようです [グロた] - Qiita](http://qiita.com/monpy/items/465a80380a93bbaf7393)
