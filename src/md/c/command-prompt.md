@@ -90,7 +90,9 @@ route print
 ### 日付・時刻の取得
 
 - [Windows TIPS：バッチ・ファイル中で日付をファイル名に使用する - ＠IT](http://www.atmarkit.co.jp/ait/articles/0405/01/news002.html)
+
 ※環境依存注意
+
 ```bash
 set dt=%date:/=%
 set yyyy=%dt:~-10,4%
@@ -101,12 +103,13 @@ set tm=%time: =0%
 set hhmmss=%tm:~0,2%%tm:~3,2%%tm:~6,2%
 set hhmm=%tm:~0,2%%tm:~3,2%
 ```
+
 - [Windows TIPS：バッチ・ファイル中で日付をファイル名に使用する - ＠IT](http://www.atmarkit.co.jp/ait/articles/0405/01/news002.html)
 - [コマンドプロンプトで複数のプログラムを一度に起動する](http://cmd-pro.com/m_start.html)
 - [カレントディレクトリをバッチファイルのディレクトリにする - 強火で進め](http://d.hatena.ne.jp/nakamura001/20090203/1233652705)
-<pre>
+```bash
 cd /d %~dp0
-</pre>
+```
 - [コマンドプロンプト - ディレクトリパスから最下のディレクトリ名を取得する。 - 日々量産](http://d.hatena.ne.jp/ryousanngata/20090913/1252824783)
 
 
