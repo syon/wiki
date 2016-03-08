@@ -23,11 +23,15 @@ layout: page.jade
   コードを書いてゲームを攻略。たくさんのゲームがある。
     - [プログラミングの勉強を本気でWebゲーム化した「CodinGame」が時間泥棒確定！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/03/53923/)
 
+
 ## Live2D
 http://www.live2d.com
 
 - [Live2Dを活用したゲーム制作｜ティラノビルダー](http://b.tyrano.jp/tech/page/live2d)
 - [Live2D Library](http://library.live2d.com/)
+- [WebGL 2.0 - Live2D Cubism SDK 2.0](http://sites.cybernoids.jp/cubism-sdk2/webgl/webgl_dl)
+  - [Live2D SampleApp1 背景無し](http://www.kirurobo.com/test/live2d/)
+
 
 ## Articles
 
