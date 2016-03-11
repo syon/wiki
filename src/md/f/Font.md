@@ -60,11 +60,12 @@ Google Web Fontの説明
 - [Webフォントをキレイに見せるテクニックを2つ紹介(Chrome編)](http://dtp.jdash.info/archives/51924296.html)
 
 
-## Iconic Font
+## Icon Font
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
 - [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
 - [Fonticons](https://fonticons.com/)
 - [Devicons | The developer's iconic font](http://vorillaz.github.io/devicons/)
+- [Ionicons: The premium icon font for Ionic Framework](http://ionicons.com/)
 - [Twitter、872個の絵文字をオープンソース化 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1411/07/news079.html)
 - [無料で商用利用できる161種類のSVG形式のアイコンパック「GlyphPack」 - GIGAZINE](http://gigazine.net/news/20141210-glyphpack-icon-pack/)
 
