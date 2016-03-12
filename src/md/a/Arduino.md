@@ -4,6 +4,11 @@ title: Arduino
 layout: page.jade
 ---
 
+## Setup
+- [Arduinoでお手軽電子工作：LEDを光らせてみる | Device Plus - デバプラ](http://deviceplus.jp/hobby/entry_002/)
+
+
+## Articles
 - [Arduinoで始めるWeb技術者のためのIoT入門（4）：JavaScriptで家電を操作するための赤外線信号の基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/27/news036.html)
 - [XBeeを始めて買うとき最低限知っておきたい6つのこと](http://nanoappli.com/blog/archives/4184)
 - [Arduino Uno用保護バンパー - DMM3Dプリント](http://make.dmm.com/item/34212/)
