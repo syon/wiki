@@ -96,6 +96,7 @@ Google Web Fontの説明
 - [ほのかフォント｜オールド系フォント無料ダウンロード](http://font.gloomy.jp/)
 - [2015年版！漢字が使えて無料日本語フォント５０種](http://k-tsubo.com/web-design/3923/)
 - [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
+- [常用漢字完全対応！走り書きの雑な感じがかっこいい日本語フリーフォント -851チカラヅヨク | コリス](http://coliss.com/articles/freebies/freebies-font-851ch-dz.html)
 
 #### 縦書き
 - [NCS-あずさA-縦かな | フォント一覧 | ねこまるラボ　実験的かなフォントの制作・開発](http://necomaru.com/font/azusa-tate/)
