@@ -81,7 +81,18 @@ Google Web Fontの説明
 
 
 ## 絵文字
-- [Twitter Emoji (Twemoji)](https://twitter.github.io/twemoji/)
+#### [Emojipedia](http://emojipedia.org/)
+- [Apple](http://emojipedia.org/apple/)
+- [Emoji One](http://emojipedia.org/emoji-one/)
+- [Facebook](http://emojipedia.org/facebook/)
+- [Google](http://emojipedia.org/google/)
+- [HTC](http://emojipedia.org/htc/)
+- [LG](http://emojipedia.org/lg/)
+- [Microsoft](http://emojipedia.org/microsoft/)
+- [Mozilla](http://emojipedia.org/mozilla/)
+- [Samsung](http://emojipedia.org/samsung/)
+- [Twitter](http://emojipedia.org/twitter/)
+  - [Twitter Emoji (Twemoji)](https://twitter.github.io/twemoji/)
 
 
 ## 欧文書体
