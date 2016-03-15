@@ -12,7 +12,6 @@ layout: page.jade
   Sugar.js
 
 #### [Underscore.js](http://underscorejs.org/)
-_. ではじまるJSのユーティリティライブラリ
 
 - [ペライチのJS技術 Underscore.js入門編 // Speaker Deck](https://speakerdeck.com/katsukii/peraitifalsejsji-shu-underscore-dot-jsru-men-bian)
 
