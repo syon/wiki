@@ -105,6 +105,7 @@ a tiny timer management plugin for jQuery
 
 ### Articles
 - [[JS]最近のWebサイトで見かける気持ちいいアニメーション、便利な仕掛けや機能を実装するスクリプトのまとめ | コリス](http://coliss.com/articles/build-websites/operation/javascript/javascript-best-2015-july.html)
+- [[JS]最近のWebサイトで見かける気持ちいいアニメーションや便利な機能が実装できる、使いやすいスクリプトのまとめ | コリス](http://coliss.com/articles/build-websites/operation/javascript/best-script-for-ui-march-2016.html)
 
 
 ## Text関連
