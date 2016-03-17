@@ -23,6 +23,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
 - [ES6時代のNode.js - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/Node-es6/)
 - [ES6 チートシート | プログラミング | POSTD](http://postd.cc/es6-cheatsheet/)
+- [春からはじめるモダンJavaScript / ES2015 - Qiita](http://qiita.com/mizchi/items/3bbb3f466a3b5011b509)
 
 ### CoffeeScript
 
