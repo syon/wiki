@@ -21,6 +21,7 @@ layout: page.jade
 - [SHA1でハッシュ化したパスワードは危険になった | yohgaki's blog](http://blog.ohgaki.net/password-hashed-only-by-sha1-is-not-safe)
 - [Security - フレームワークに見る Web セキュリティ対策 - Qiita](http://qiita.com/Jxck_/items/ec8e928f69d099b25764)
 - [Node.jsのセキュリティ・チェックリスト | プログラミング | POSTD](http://postd.cc/node-js-security-checklist/)
+- [News ＆ Trend - 「パスワードの強制定期変更」は時代遅れ、企業に再考促す：ITpro](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/031600480/)
 
 
 ### Fiddler
