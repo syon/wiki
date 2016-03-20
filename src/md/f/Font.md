@@ -34,6 +34,7 @@ Source Han Code JP（日本語メニューネーム：源ノ角ゴシック Code
 Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.
 - [GoogleとAdobeのフォントNoto Sans（Source Han Sans）の画期的なところ | Stocker.jp / diary](http://stocker.jp/diary/noto-sans/)
 - [【レビュー】「Source Han Sans（源ノ角ゴシック）」の使い勝手を向上させた「源真ゴシック」 - 窓の杜](http://www.forest.impress.co.jp/docs/review/20140808_661638.html)
+- [Noto Sans の Web Font 対応とサブセットによる最適化 | blog.jxck.io](https://blog.jxck.io/entries/2016-03-14/web-font-noto-sans.html)
 
 
 ## Web Font
