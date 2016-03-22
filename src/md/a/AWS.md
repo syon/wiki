@@ -19,3 +19,4 @@ layout: page.jade
 
 - [Slerがawsで運用してきた話](http://www.slideshare.net/tenbo07/sleraws)
 - [現代ITインフラの王道をゆくLinuxパッケージ管理の基本構成 | 外道父の匠](http://blog.father.gedow.net/2016/03/08/package-control/)
+- [月額10円から作るServerLess Website // Speaker Deck](https://speakerdeck.com/morita92hiro/yue-e-10yuan-karazuo-ruserverless-website)
