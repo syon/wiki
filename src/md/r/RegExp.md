@@ -22,8 +22,7 @@ layout: page.jade
 
 ### 実装
 
-- [正規表現 - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions)
-- [JavaScriptで正規表現を複数回実行する際の注意点 - Qiita](http://qiita.com/nanocloudx/items/079685599273f3805f77)
+- __[JavaScript #正規表現](/wiki/javascript/)__
 
 - __[Ruby #正規表現](/wiki/ruby/)__
 
