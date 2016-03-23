@@ -150,6 +150,27 @@ function getParameterByName(name) {
 ```
 
 
+## 正規表現
+
+- [正規表現 - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [JavaScriptで正規表現を複数回実行する際の注意点 - Qiita](http://qiita.com/nanocloudx/items/079685599273f3805f77)
+
+```js
+if (str.match(/hoge/)) {
+  // 正規表現にマッチ
+}
+```
+```js
+if (str.indexOf('hoge') != -1) {
+  // 'hoge'に一致
+}
+
+if (~str.indexOf('hoge')) {
+  // 'hoge'に一致
+}
+```
+
+
 ## TIPS
 
 ### UserAgent
