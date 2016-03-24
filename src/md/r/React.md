@@ -105,3 +105,4 @@ Bootstrap your application with beautiful Material Design Components
 - [Reactを用いたアプリケーションアーキテクチャ：Fluxを再考する | プログラミング | POSTD](http://postd.cc/application-architecture-with-react-rethinking-flux/)
 - [#スーパーイカメーカー を支える技術 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/22/115913)
 - [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
+- [Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/141458071484/react-perf-tuning)
