@@ -9,6 +9,7 @@ layout: page.jade
 
 ### API Design
 - [翻訳: WebAPI 設計のベストプラクティス - Qiita](http://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+- [RESTfulな設計とCRUDはちょっと相性悪いという話 - yojikのlog](http://yojik.hatenablog.jp/entry/20090807/1249660434)
 
 ### API Documentation
 #### [RAML](http://raml.org/)
