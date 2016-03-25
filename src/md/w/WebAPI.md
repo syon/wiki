@@ -4,6 +4,19 @@ title: WebAPI
 layout: page.jade
 ---
 
+
+## API Development
+
+### API Design
+- [翻訳: WebAPI 設計のベストプラクティス - Qiita](http://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+
+### API Documentation
+#### [RAML](http://raml.org/)
+- [僕が考えた最強のAPIドキュメント生成 - 銀の人のメモ帳](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
+
+
+## API Use
+
 ### Articles
 
 - [日本の全エンジニアに捧ぐ！現在公開されているAPI一覧【2013年版】 | Find Job ! Startup](http://www.find-job.net/startup/api-2013)
@@ -12,7 +25,11 @@ layout: page.jade
 - [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた - Qiita](http://qiita.com/suin/items/f7ac4de914e9f3f35884)
 - [Google Maps JavaScript API v3の使い方まとめ (サンプルコード付き)](http://syncer.jp/google-maps-javascript-api-matome)
 
-### 無料でいい感じのもの
+### APIs
+- [NHK番組表API](http://api-portal.nhk.or.jp/ja)
+- [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
+
+#### 無料でいい感じのもの
 
 - [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
 
@@ -32,18 +49,3 @@ layout: page.jade
 - [はてブAPIでwebサービスを作りたい全ての人に向けて書きました - Syncer](http://syncer.jp/hatebu-api-matome)
 - [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
 - [はてなブックマークエントリー情報取得API | はてなブックマークAPI プログラミング解説](http://so-zou.jp/web-app/tech/web-api/hatena/entry/)
-
-
-## APIs
-- [NHK番組表API](http://api-portal.nhk.or.jp/ja)
-- [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
-
-
-## API Development
-
-### API Design
-- [翻訳: WebAPI 設計のベストプラクティス - Qiita](http://qiita.com/mserizawa/items/b833e407d89abd21ee72)
-
-### API Documentation
-#### [RAML](http://raml.org/)
-- [僕が考えた最強のAPIドキュメント生成 - 銀の人のメモ帳](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
