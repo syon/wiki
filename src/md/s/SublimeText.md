@@ -33,10 +33,21 @@ Edit the install code:
 
 ## Settings
 
+Settings - User
+: `⌘` + `,`
+
 ### 日本語入力
 - [OSXのSublimeText3でGoogle日本語入力の不満を解消し、さらにMarkdown環境を整える - Qiita](http://qiita.com/giiko_/items/b3e4dd639c00635d0ef9)
 - [SublimeText3 - sublime text3で日本語入力変換が機能しない場合の解消３ステップ - Qiita](http://qiita.com/akippiko/items/1382faa29833379621f6)
 
+### インデント
+```json
+// インデントの幅
+"tab_size": 2,
+
+// インデントにスペースを使う
+"translate_tabs_to_spaces": true,
+```
 
 ## Usage
 
