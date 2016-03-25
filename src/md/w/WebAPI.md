@@ -41,6 +41,9 @@ layout: page.jade
 
 ## API Development
 
+### API Design
+- [翻訳: WebAPI 設計のベストプラクティス - Qiita](http://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+
 ### API Documentation
 #### [RAML](http://raml.org/)
 - [僕が考えた最強のAPIドキュメント生成 - 銀の人のメモ帳](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
