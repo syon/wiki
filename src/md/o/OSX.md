@@ -88,6 +88,12 @@ brew cask install appcleaner
 - __[Squid - syon/wiki](/wiki/squid-proxy/)__
 - [MacOSX - Mac OSX で init.d のように Tomcat を自動起動する - Qiita](http://qiita.com/hidekuro/items/316abf8b359734227c88)
 
+### launchctl・launchd
+- [システムワイドなロケール設定 ～ Mac OS X (その2) - 彷徨えるフジワラ](http://d.hatena.ne.jp/flying-foozy/20140204/1391520123)
+- [Setting environment variables via launchd.conf no longer works in OS X Yosemite/El Capitan? - Stack Overflow](http://stackoverflow.com/questions/25385934/setting-environment-variables-via-launchd-conf-no-longer-works-in-os-x-yosemite)
+- [osx - Setting environment variables in OS X? - Stack Overflow](http://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x)
+- [Yosemiteアップデートでlaunchdが死亡した - retlet.net](http://retlet.net/log/2014/10/yosemite-launchd.html)
+
 
 ## Preferences
 
