@@ -6,11 +6,14 @@ layout: page.jade
 
 ## HTML基本構成
 
-### [HTML5 Boilerplate: The web's most popular front-end template](http://html5boilerplate.com/)
+[HTML5 Boilerplate](http://html5boilerplate.com/)
+: The web's most popular front-end template
 
-#### [Initializr - Start an HTML5 Boilerplate project in 15 seconds!](http://www.initializr.com/) HTML5 テンプレートジェネレーター
+[Initializr](http://www.initializr.com/)
+: HTML5 テンプレートジェネレーター
 
-### [HTML4から変化したHTML5のマークアップ](http://codezine.jp/article/detail/5600)
+## Markup
+- [HTML4から変化したHTML5のマークアップ](http://codezine.jp/article/detail/5600)
 
 #### HTML4.01のマークアップ
 
@@ -52,8 +55,9 @@ layout: page.jade
 - [クリエイティブなファビコンを設置しよう | Webクリエイターボックス](http://www.webcreatorbox.com/tech/favicon/)
 
 
-## メモ
+## Tips
 
+#### Meta tags
 - [Safari HTML Reference: Supported Meta Tags](http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html)
 
 #### schema.org
