@@ -57,6 +57,13 @@ layout: page.jade
 
 ## Tips
 
+#### HTML Tidy
+- [HTML Tidy Project Page](http://tidy.sourceforge.net/)
+- [GitHub - htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
+  `$ brew install tidy-html5` ※ needs restart shell
+- [htmltidy - Use HTML Tidy to just indent HTML code? - Stack Overflow](http://stackoverflow.com/questions/7151180/use-html-tidy-to-just-indent-html-code)
+- [HTML Tidy Configuration Options Quick Reference](http://tidy.sourceforge.net/docs/quickref.html)
+
 #### Meta tags
 - [Safari HTML Reference: Supported Meta Tags](http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html)
 
