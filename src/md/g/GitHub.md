@@ -68,6 +68,9 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
 - [GitHubクローンのGitLabを５分でインストールした - アルパカDiary](http://d.hatena.ne.jp/toritori0318/20140523/1400863038)
 - [Docker で 自動バックアップ付きの gitlabサイト を構築 - Qiita](http://qiita.com/essa/items/87b6ae3f892a79b9c560)
 - [プライベートリポジトリ無制限のGitLab.comを試してみた - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2016/02/21/011641)
+- [GitLab CE Omnibus のインストール - ダメ出し Blog](https://fumiyas.github.io/gitlab/install-omnibus.html)
+- [GitLabで新しいユーザーをメールによる認証なしで登録したい - Qiita](http://qiita.com/ptiringo/items/249fc23c02484a485646)
+- [Update | GitLab](https://about.gitlab.com/update/)
 
 
 ## GitBucket
