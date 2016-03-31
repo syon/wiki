@@ -186,3 +186,7 @@ $.fn.jquery
 ```js
 jQuery.fn.exists = function(){return Boolean(this.length > 0);}
 ```
+- 横スクロール with アニメーション[(参考)](http://pannyatto.firebird.jp/archives/130)
+```js
+$('html, body').stop().animate({scrollLeft: $(reason).offset().left}, 'fast');
+```
