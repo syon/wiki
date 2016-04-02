@@ -38,6 +38,7 @@ layout: page.jade
 - [gulpとかnpmのこととか by A Memorandum](http://protean.cc/getting-started-with-gulp-and-npm)
 - [gulp.jsを使ってフロントエンドのビルドをする【webpack, stylus】 - yutaponのブログ](http://yutapon.hatenablog.com/entry/2014/12/06/123000)
 - [npm + gulp + bower でビルド自動化 - GeekFactory](http://int128.hatenablog.com/entry/2014/07/02/004543)
+- [JS、CSS、画像ファイルといった静的ファイルにリビジョンを付与してブラウザのキャッシュ問題を回避する – Gulp で作る Web フロントエンド開発環境 #9 – NET BIZ DIV. TECH BLOG](https://tech.recruit-mp.co.jp/front-end/solve-browsers-cache-by-revision/)
 
 
 ## Yeoman
