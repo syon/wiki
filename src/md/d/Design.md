@@ -151,6 +151,8 @@ layout: page.jade
 - [写真加工を完全マスター！すごい無料PSアクション40個まとめ 2015年3月度 - Photoshop VIP](http://photoshopvip.net/archives/74248)
 - [Photoshopの整列あれこれ（キーボードショートカット、キーオブジェクト、等間隔に分布、指定間隔で分布） - DTP Transit](http://www.dtp-transit.jp/adobe/photoshop/post_2093.html)
 - [Photoshopで雑な作業の割に、プレデターを作らず建物を超速で消す（1分以内）《コンテンツに応じる塗りつぶし》](http://dtp.jdash.info/archives/Photoshop%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AB%E5%BF%9C%E3%81%98%E3%82%8B%E5%A1%97%E3%82%8A%E3%81%A4%E3%81%B6%E3%81%97)
+- [自分が撮った写真がアニメ背景に！「漫画の背景に使えそう」「フォトショ舐めてた」と絶賛のTL - Togetterまとめ](http://togetter.com/li/958145)
+
 
 ## Slide
 
