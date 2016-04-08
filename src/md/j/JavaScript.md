@@ -25,6 +25,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [ES6 チートシート | プログラミング | POSTD](http://postd.cc/es6-cheatsheet/)
 - [春からはじめるモダンJavaScript / ES2015 - Qiita](http://qiita.com/mizchi/items/3bbb3f466a3b5011b509)
 - [Node.js ES2015/ES6 support](http://node.green/)
+- [webpackとbabelでES6コードをさくっと書く - getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
 
 ### CoffeeScript
 
