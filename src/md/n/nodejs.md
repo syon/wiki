@@ -12,8 +12,15 @@ http://nodejs.org
 ## Setup
 
 ### Setup on OSX | Windows
-
 公式サイトからインストーラ使うのが手っ取り早い
+
+#### nodebrew
+- [hokaccha/nodebrew: Node.js version manager](https://github.com/hokaccha/nodebrew)
+
+```bash
+$ nodebrew install-binary latest
+$ nodebrew install-binary stable
+```
 
 ### Setup on Ubuntu
 
