@@ -33,7 +33,7 @@ Homebrewでインストール済みのパッケージをアップグレード
 - [fish-shellを使ってみませんか - Qiita](http://qiita.com/mtwtk_man/items/dde92d0a6024bc61fa58)
 - [zsh から fish にした。 - yoshiori.github.io](http://yoshiori.github.io/blog/2015/11/03/from-zsh-to-fish/)
 
-### install fish
+### install
 - [Installing Fish · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fish)
 
 ```bash
@@ -41,6 +41,29 @@ $ brew install fish
 $ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 $ chsh -s /usr/local/bin/fish
 ```
+
+### config
+
+```bash
+# config file
+$ vim .config/fish/config.fish
+```
+
+```bash
+# reload config
+$ source .config/fish/config.fish
+```
+
+#### writing config.fish
+
+```bash
+# .bashrc
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+
+# config.fish (command like, space separated)
+set PATH $PATH $HOME/.nodebrew/current/bin
+```
+
 
 ### [Fisherman](http://fisherman.sh/)
 - [Installing Fisherman · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fisherman)
