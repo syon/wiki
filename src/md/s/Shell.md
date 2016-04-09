@@ -33,6 +33,18 @@ Homebrewでインストール済みのパッケージをアップグレード
 - [fish-shellを使ってみませんか - Qiita](http://qiita.com/mtwtk_man/items/dde92d0a6024bc61fa58)
 - [zsh から fish にした。 - yoshiori.github.io](http://yoshiori.github.io/blog/2015/11/03/from-zsh-to-fish/)
 
+### install fish
+- [Installing Fish · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fish)
+
+```bash
+$ brew install fish
+$ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+$ chsh -s /usr/local/bin/fish
+```
+
+### [Fisherman](http://fisherman.sh/)
+- [Installing Fisherman · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fisherman)
+
 ### [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 - [oh-my-fish/Themes.md at master · oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md)  
   テーマプレビュー集
