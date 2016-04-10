@@ -39,6 +39,7 @@ Settings - User
 ### 日本語入力
 - [OSXのSublimeText3でGoogle日本語入力の不満を解消し、さらにMarkdown環境を整える - Qiita](http://qiita.com/giiko_/items/b3e4dd639c00635d0ef9)
 - [SublimeText3 - sublime text3で日本語入力変換が機能しない場合の解消３ステップ - Qiita](http://qiita.com/akippiko/items/1382faa29833379621f6)
+- [Sublime Text 3 で日本語入力中に Tab キーで入力・変換候補を選択できるようにする | R](http://beadored.com/sublime-text-3-suggest-tab/)
 
 ### インデント
 ```json
