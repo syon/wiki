@@ -27,6 +27,9 @@ Source Han Code JP（日本語メニューネーム：源ノ角ゴシック Code
 
 - [コーディングに最適な日本語対応の等幅フォントSource Han Code JPとは – ICS LAB](http://ics-web.jp/lab/archives/7010)
 
+#### [Anonymous Pro – Mark Simonson](http://www.marksimonson.com/fonts/view/anonymous-pro)
+- [GitHub - powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
+
 
 ## Google
 
