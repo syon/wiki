@@ -16,19 +16,19 @@ layout: page.jade
 
 ## プログラミング用フォント
 
-#### [Ricty Diminished](https://github.com/yascentur/RictyDiminished)
-Ricty Diminished (リクティ・ディミニッシュト) は Ricty の姉妹フォントであり、Inconsolata と Migu 1M ではなく、Inconsolata と Circle M+ 1m を Ricty 生成スクリプトで合成したフォントです。
+[Ricty Diminished](https://github.com/yascentur/RictyDiminished)
+: Ricty Diminished (リクティ・ディミニッシュト) は Ricty の姉妹フォントであり、Inconsolata と Migu 1M ではなく、Inconsolata と Circle M+ 1m を Ricty 生成スクリプトで合成したフォントです。
 
-#### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-Fira Code: monospaced font with programming ligatures
+[tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+: Fira Code: monospaced font with programming ligatures
 
-#### [Source Han Code JP](https://github.com/adobe-fonts/source-han-code-jp)
-Source Han Code JP（日本語メニューネーム：源ノ角ゴシック Code）は、Source Han Sansに含まれるプロポーショナル・ラテン・グリフを、Source Code Proのモノスペースのラテン・グリフに変更した派生フォントです。
+[Source Han Code JP](https://github.com/adobe-fonts/source-han-code-jp)
+: Source Han Code JP（日本語メニューネーム：源ノ角ゴシック Code）は、Source Han Sansに含まれるプロポーショナル・ラテン・グリフを、Source Code Proのモノスペースのラテン・グリフに変更した派生フォントです。
 
 - [コーディングに最適な日本語対応の等幅フォントSource Han Code JPとは – ICS LAB](http://ics-web.jp/lab/archives/7010)
 
-#### [Anonymous Pro – Mark Simonson](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [GitHub - powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
+[Anonymous Pro – Mark Simonson](http://www.marksimonson.com/fonts/view/anonymous-pro)
+: [GitHub - powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
 
 
 ## Google
