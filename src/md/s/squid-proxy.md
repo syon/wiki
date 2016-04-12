@@ -135,7 +135,12 @@ $ /usr/local/sbin/squid -k reconfigure
 - [squid で特定のサイトのみアクセスを許可する](http://futuremix.org/2005/07/squid-access-allow)
 - [su – root » Blog Archive » squidでURLフィルタ](http://www.p-runner.net/wordpress/?p=275)
 
-### Launch on Startup
+### Launch on Startup (OSX)
+
+#### with ログイン項目
+- システム環境設定 > ユーザとグループ > ユーザ名 > ログイン項目 にsquidを追加
+
+#### with launchctl
 - [Installing Squid Proxy Server on Mac OS X Snow Leopard | Biboroku](http://okomestudio.net/biboroku/?p=816)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
