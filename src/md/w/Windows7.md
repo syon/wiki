@@ -45,6 +45,16 @@ layout: page.jade
 
 ## ネットワーク
 
+### ポート開放確認
+```bash
+# PowerShell
+PS C:\> $tc = New-Object System.Net.Sockets.tcpClient
+PS C:\> $tc.connect("192.168.0.1", 80)
+PS C:\> $tc.connected
+True
+PS C:\> $tc.close()
+```
+
 ### ルーティング
 - [＠IT：Windows TIPS -- Tips：ルーティング・テーブルを操作する](http://www.atmarkit.co.jp/fwin2k/win2ktips/266routing/routing.html)
 - [スタティックルーティング ( route add とは )](http://www.infraexpert.com/study/routing4.html)
