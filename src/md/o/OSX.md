@@ -77,6 +77,12 @@ brew cask install appcleaner
 ```
 
 
+## Network
+
+- [Apple ソフトウェアの TCP ポート接続をテストする - Apple サポート](https://support.apple.com/ja-jp/HT203875)  
+  Macをクライアントとして指定アドレスのポートをスキャン
+
+
 ## Tips
 - [Mac必須！トラックパッドを更に便利にするアプリ「BetterTouchTool」 | nori510.com](http://nori510.com/archives/4208)
 - [意外と知らないMacの裏技･テクニック集 - NAVER まとめ](http://matome.naver.jp/odai/2129888099522555301)
