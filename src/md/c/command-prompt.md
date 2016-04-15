@@ -4,6 +4,10 @@ title: コマンドプロンプト
 layout: page.jade
 ---
 
+## Articles
+- [Big Sky :: Windows ユーザは cmd.exe で生きるべき。](http://mattn.kaoriya.net/software/why-i-use-cmd-on-windows.htm)
+
+
 ## 記法
 
 #### コメント
