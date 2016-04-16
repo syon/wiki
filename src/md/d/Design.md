@@ -125,14 +125,18 @@ layout: page.jade
 - [商用利用無料、64種類のさまざまな紙が揃ったプロ仕様の高品質なテクスチャ素材 | コリス](http://coliss.com/articles/freebies/freebies-paper-textures-by-companyfolders.html)
 - [秘かに流行っているらしいポリゴンデザインが簡単に作れる無料アプリが本当に簡単すぎた！ | ビットエーブログ - 株式会社BITA](http://bita.jp/blog/polygon_application)
 
-### Icon
-
-- [Free Download : RetinaIcon 300 Free Icons ( following Apple’s iOS guidelines) | Designbeep](http://designbeep.com/2014/07/31/free-download-retinaicon-300-free-icons-following-apples-ios-guidelines/)
-- [【保存版】デザインにも提案資料にも ”めっちゃ使える” アイコン素材サイト17選 | ビットエーブログ - 株式会社BITA](http://bita.jp/blog/icon_collection_site)
-
 ### Tips
 
 - [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
+
+
+## Icon
+
+[Iconic](https://useiconic.com/)
+: SVGアイコンライブラリ。CSSで部分スタイリング、属性による動的制御、3サイズ保持、レスポンシブ。（有償）
+
+- [Free Download : RetinaIcon 300 Free Icons ( following Apple’s iOS guidelines) | Designbeep](http://designbeep.com/2014/07/31/free-download-retinaicon-300-free-icons-following-apples-ios-guidelines/)
+- [【保存版】デザインにも提案資料にも ”めっちゃ使える” アイコン素材サイト17選 | ビットエーブログ - 株式会社BITA](http://bita.jp/blog/icon_collection_site)
 
 
 ## Effect
