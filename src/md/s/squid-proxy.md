@@ -21,6 +21,9 @@ $ sudo apt-get install squid
 $ brew install squid
 ```
 
+#### Windows
+- [Squid 3 for Windows](http://squid.diladele.com/)
+
 
 ## Config
 
