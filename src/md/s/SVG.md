@@ -47,6 +47,7 @@ Scalable Vector Graphics
 - [Elastic SVG Elements | Codrops](http://tympanus.net/codrops/2014/12/15/elastic-svg-elements/)
 - [PDF 2 SVG Converter](http://pramodhkp.github.io/pdf2svg/)
 - [HTML5 と SVG で考える、これからの画像アクセシビリティ](http://www.slideshare.net/ssuser99dc16/html5fun-svg-accessibility)
+- [How to work with SVG icons](http://fvsch.com/code/svg-icons/how-to/)
 
 
 ## SVG Browser Support
