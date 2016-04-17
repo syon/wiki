@@ -33,6 +33,9 @@ cdnjs: `//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js`
   the playground and test site
 - [Phaser Plugins](https://github.com/photonstorm/phaser-plugins)  
   "We are trying hard to keep the core of Phaser limited to only essential classes"
+- [Phaser - Community - Phaser World Backissues](http://phaser.io/community/backissues)  
+  Phaser World is our free weekly newsletter, published every Friday. It's a summary of all the new content added to the Phaser site over the previous 7 days. From new game releases to tutorials, videos, conferences, special offers and more.
+
 
 ## Overview
 
