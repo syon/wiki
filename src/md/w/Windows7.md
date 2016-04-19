@@ -78,6 +78,7 @@ PS C:\> $tc.close()
     `192.168.137.1` / `255.255.255.0`
 - [softAPに接続できない｜Windows8.1](https://social.technet.microsoft.com/Forums/windows/ja-JP/a49fe871-380c-49bb-8dcf-267c694c42a6/softapwindows81?forum=w7itprogeneralja)  
   イーサネットのプロパティ＞共有タブ＞ホームネットワーク接続(H): のプルダウンが表示されない場合は、一旦チェックボックスをOFFにしてOKで閉じたあと再度プロパティを開くとプルダウンが表示される
+- [【レビュー】PCを手軽に無線LANアクセスポイントへ変えることができる「HostedNetworkStarter」 - 窓の杜](http://www.forest.impress.co.jp/docs/review/20160418_753137.html)
 
 
 ## TIPS
