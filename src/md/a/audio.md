@@ -44,3 +44,4 @@ Ruby library for reading and writing meta-data (tags) of many audio formats
 
 #### Articles
 - [【Web Audio API + Web MIDI API】ブラウザで電子楽器を作ってみよう！ | HTML5Experts.jp](https://html5experts.jp/ryoyakawai/12569/)
+- [JavaScript で Web Audio API を実装した - 音の鳴るブログ](http://mohayonao.hatenablog.com/entry/2016/04/18/080148)
