@@ -107,3 +107,4 @@ Bootstrap your application with beautiful Material Design Components
 - [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
 - [Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/141458071484/react-perf-tuning)
 - [すべてのReact.js初心者が知っておくべき9つのポイント - Qiita](http://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295)
+- [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
