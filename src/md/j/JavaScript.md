@@ -107,6 +107,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
   Promiseの動きをビジュアライズしながら、`.then`や`.catch`がどのようなフローで処理されるかを解説している記事
 - [Promiseで簡単！JavaScript非同期処理入門【前編】 | HTML5Experts.jp](https://html5experts.jp/takazudo/17107/)
 - [ECMAScript6のアロー関数とPromiseまとめ - JavaScript - Qiita](http://qiita.com/takeharu/items/c23998d22903e6d3c1d9)
+- [Promiseについて0から勉強してみた - Qiita](http://qiita.com/toshihirock/items/e49b66f8685a8510bd76)
 
 
 ## 便利スクリプト
