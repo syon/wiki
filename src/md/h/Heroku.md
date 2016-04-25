@@ -89,6 +89,14 @@ $ heroku restart
 ```
 
 
+## Tips
+
+### Git remote
+- [Heroku にある Git リポジトリを楽に remote に設定する - Qiita](http://qiita.com/ka_/items/2ad2826329abeb49dfa2)
+```bash
+$ heroku git:remote --app APPNAME
+```
+
 ### Heroku Button
 
 ![Deploy](https://www.herokucdn.com/deploy/button.png)
