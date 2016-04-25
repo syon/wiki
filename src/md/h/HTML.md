@@ -65,6 +65,8 @@ layout: page.jade
 - [HTML Tidy Configuration Options Quick Reference](http://tidy.sourceforge.net/docs/quickref.html)
 
 #### Meta tags
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)  
+  A list of everything that goes in the `<head>` of your document
 - [Safari HTML Reference: Supported Meta Tags](http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html)
 
 #### schema.org
