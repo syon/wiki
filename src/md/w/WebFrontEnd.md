@@ -31,6 +31,9 @@ layout: page.jade
 - [Kazuho's Weblog: なぜHTTPSはHTTPより速いのか](http://blog.kazuhooku.com/2014/12/httpshttp.html)
 
 
+## Cookie
+- [Cookie関連の最新動向 - Qiita](http://qiita.com/flano_yuki/items/b87b2c28db0b056665ef)
+
 ## ブラウザ
 
 - [ブラウザにやさしいHTML/CSS](http://www.slideshare.net/TakeharuIgari/htmlcss-34506501)
