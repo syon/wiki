@@ -27,6 +27,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [Node.js ES2015/ES6 support](http://node.green/)
 - [webpackとbabelでES6コードをさくっと書く - getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
 - [JavaScript(ES2015)でvarやletを使う必要はほぼ無い - id:anatooのブログ](http://blog.anatoo.jp/entry/2016/04/17/043840)
+- [ESLint が jQuery Foundation に参加したことについて - Qiita](http://qiita.com/mysticatea/items/4cd6405e5a931f8817f6)
 
 ### CoffeeScript
 
