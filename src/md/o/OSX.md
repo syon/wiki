@@ -76,6 +76,9 @@ brew cask install iterm2
 brew cask install appcleaner
 ```
 
+#### Homebrew Services
+- [Homebrew Servicesを使ってサービスを管理する](http://rcmdnk.github.io/blog/2016/04/25/computer-mac-homebrew/)
+
 
 ## Network
 
