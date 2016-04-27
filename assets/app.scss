@@ -1,3 +1,10 @@
+.showcase {
+  display: flex;
+  .colmn {
+    flex: 1;
+  }
+}
+
 .markdown-body h3 {
   font-family: "新ゴ R", "Shin Go Regular";
 }
