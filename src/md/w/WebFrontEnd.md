@@ -6,7 +6,7 @@ layout: page.jade
 
 ## フロントエンド開発ツール
 
-- [ぼくのさいきょうツール :: [ FLAT ] Develop | ONO TAKEHIKO from aguije inc.](http://flat.is/develop/2014/02/ultimate/)
+- [ぼくのさいきょうツール :: [ FLAT ] Develop | ONO TAKEHIKO from aguije inc.](http://flat.press/develop/2014/02/ultimate/)
 - [フロント作業の効率化](http://www.slideshare.net/yutoyoshinari/ss-37936903)  
   Emmet, Handlebars, Stylus, jQuery, Zepto, Underscore, Lo-Dash, RequireJS, Bucks.js, MV*, AltJS, Grunt, Yeoman
 - [DevTools Tips](http://devtoolstips.com/)  
