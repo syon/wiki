@@ -1,8 +1,6 @@
 .showcase {
   display: flex;
-  .colmn {
-    flex: 1;
-  }
+  justify-content: space-between;
 }
 
 .markdown-body h3 {
