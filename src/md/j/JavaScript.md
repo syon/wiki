@@ -42,6 +42,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 - [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
 - [TypeScriptを使ってECMAScript 2015時代のJavaScriptを先取りしよう！ | HTML5Experts.jp](https://html5experts.jp/vvakame/16241/)
+- [TypeScriptでのフロントエンド開発環境作成総まとめ - $shibayu36->blog;](http://blog.shibayu36.org/entry/2016/04/26/110000)
 
 
 ## Debug
