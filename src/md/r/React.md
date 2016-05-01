@@ -59,6 +59,12 @@ layout: page.jade
 - [redux への 不満を解消する為に, flumptというFlux実装を作った - Qiita](http://qiita.com/mizchi/items/79673c4d406cc85b44aa)
 - [React+fluxを導入した話](http://www.slideshare.net/hoto17296/reactflux)
 
+#### Redux
+
+- [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
+- [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
+- [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
+
 
 ## Tools
 - [facebook/react-devtools](https://github.com/facebook/react-devtools)
@@ -104,9 +110,6 @@ Bootstrap your application with beautiful Material Design Components
 - [Reactのprops/stateとFluxのStore - mizchi's blog](http://mizchi.hatenablog.com/entry/2015/08/24/233919)
 - [Reactを用いたアプリケーションアーキテクチャ：Fluxを再考する | プログラミング | POSTD](http://postd.cc/application-architecture-with-react-rethinking-flux/)
 - [#スーパーイカメーカー を支える技術 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/22/115913)
-- [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
 - [Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/141458071484/react-perf-tuning)
 - [すべてのReact.js初心者が知っておくべき9つのポイント - Qiita](http://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295)
-- [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [その案件、Reactで本当に大丈夫ですか？ | eureka tech blog](https://developers.eure.jp/tech/react_or_not/)
-- [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
