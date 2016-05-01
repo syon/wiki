@@ -25,6 +25,7 @@ layout: page.jade
 - [Vue.js 大規模アプリケーションの構築 // Speaker Deck](https://speakerdeck.com/kazupon/vue-dot-js-da-gui-mo-apurikesiyonfalsegou-zhu)
 - [Vue.jsとは | CodeGrid](https://app.codegrid.net/entry/vue-1)
 - [Vue.js用のFluxライクなライブラリVuexを試してみる - Qiita](http://qiita.com/tomato360/items/b2f11a392bf8fb125610)
+- [Vue.js 2.0のServer Side Renderingを試しつつ、軽くコードリーディングした - kitak.blog](http://kitak.hatenablog.jp/entry/2016/04/30/135441)
 
 
 ## Backbone.js
