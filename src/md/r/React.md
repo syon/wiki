@@ -109,3 +109,4 @@ Bootstrap your application with beautiful Material Design Components
 - [すべてのReact.js初心者が知っておくべき9つのポイント - Qiita](http://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295)
 - [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [その案件、Reactで本当に大丈夫ですか？ | eureka tech blog](https://developers.eure.jp/tech/react_or_not/)
+- [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
