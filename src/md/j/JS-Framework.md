@@ -28,5 +28,9 @@ layout: page.jade
 - [Vue.js 2.0のServer Side Renderingを試しつつ、軽くコードリーディングした - kitak.blog](http://kitak.hatenablog.jp/entry/2016/04/30/135441)
 
 
+## Riot.js
+- [Riot.js — A React-like user interface micro-library](http://riotjs.com/)
+- [Riot.jsでフロントエンドの複雑さに反乱するときがやってきた - Qiita](http://qiita.com/aggre/items/928eb2bedbac6a7829c0)
+
 ## Backbone.js
 - [今、改めてBackboneを評価する // Speaker Deck](https://speakerdeck.com/shibe97/jin-gai-metebackbonewoping-jia-suru)
