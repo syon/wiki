@@ -104,6 +104,10 @@ $ sudo chown -R $USER /usr/local
 - [npm semantic version calculator](http://semver.npmjs.com/)  
   `^2.2.1`とかの表記でどのバージョンにマッチするかがわかる
 
+- グローバルにインストールしているパッケージ（直下のみ）
+```bash
+$ npm ls --depth=0 -g
+```
 
 ## npm packages
 
