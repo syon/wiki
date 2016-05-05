@@ -116,7 +116,6 @@ Google Web Fontの説明
 - [商用も無料でリンク不要の日本語フォント・こども丸ゴシックと、無料で手に入るフォント配布サイトの早見表 - かちびと.net](http://kachibito.net/web-design/kodomo-gosick.html)
 - [インパクトが大きい！ちょっと変わった日本語フリーフォント10選 | creive【クリーブ】](http://creive.me/archives/5475/)
 - [【イラストレーター】商用フリーPOPフォント10選 | 東京都のWeb制作会社のブログ](http://3media.biz/promotion/free-pop-fonts.html)
-- [フリーフォント - フロップデザインフォント無料ダウンロード日本語ウェブフォント](http://www.flopdesign.com/freefont/flopdesignfont.html)
 - [漢字が使えるフリーの和文フォント242種類をまとめてみた。 - buena suerte!](http://blog.livedoor.jp/cie/archives/52129474.html)
 - [商用でも無料で使える2種類の日本語フォント「刻明朝」「刻ゴシック」 - GIGAZINE](http://gigazine.net/news/20140327-koku-min-koku-go/)
 - [ほのかフォント｜オールド系フォント無料ダウンロード](http://font.gloomy.jp/)
@@ -129,6 +128,9 @@ Google Web Fontの説明
 - [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
 - [常用漢字完全対応！走り書きの雑な感じがかっこいい日本語フリーフォント -851チカラヅヨク | コリス](http://coliss.com/articles/freebies/freebies-font-851ch-dz.html)
 - [2016年用、日本語のフリーフォント219種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記 | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-for-2016.html)
+
+##### フロップデザイン
+- [フォントと素材集のフリーダウンロードのフロップデザイン](http://www.flopdesign.com/index.php)
 
 #### 縦書き
 - [NCS-あずさA-縦かな | フォント一覧 | ねこまるラボ　実験的かなフォントの制作・開発](http://necomaru.com/font/azusa-tate/)
