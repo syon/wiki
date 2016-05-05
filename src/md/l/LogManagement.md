@@ -35,6 +35,7 @@ Open Source Distributed Real Time Search & Analytics
 
 - [ElasticSearch+Kibanaでログデータの検索と視覚化を実現するテクニックと運用ノウハウ](http://www.slideshare.net/y-ken/elasticsearch-kibnana-fluentd-management-tips)
 - [elasticsearchを全文検索サーバとして活用するなら読んでおきたい、5つのブログ記事をピックアップ - Y-Ken Studio](http://y-ken.hatenablog.com/entry/essential-japanese-blogs-for-elasticsearch-study)
+- [様々なファイルをデータソースにElasticsearchへデータ投入する ｜ Developers.IO](http://dev.classmethod.jp/server-side/elasticsearch/file-to-elasticsearch/)
 
 ### Install
 
