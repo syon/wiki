@@ -2,14 +2,14 @@
   "name": "syon-wiki",
   "private": true,
   "dependencies": {
-    "metalsmith": "^1.0.0",
+    "metalsmith": "^2.1.0",
     "metalsmith-asciidoc": "^1.1.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-jade": "^2.0.2",
     "metalsmith-layouts": "^1.4.2",
     "metalsmith-mapsite": "^1.0.3",
     "metalsmith-markdown-remarkable": "^0.1.1",
-    "metalsmith-permalinks": "^0.1.1",
+    "metalsmith-permalinks": "^0.5.0",
     "metalsmith-prism": "^2.1.1",
     "metalsmith-sass": "^1.3.0"
   }
