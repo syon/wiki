@@ -1,6 +1,8 @@
 wiki
 ====
 
+[![wercker status](https://app.wercker.com/status/515e5e0a2634e4004c65694b31553138/s "wercker status")](https://app.wercker.com/project/bykey/515e5e0a2634e4004c65694b31553138)
+
 syon's bookmarks and knowledges.
 
 
