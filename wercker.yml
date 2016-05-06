@@ -1,0 +1,22 @@
+box: node
+
+build:
+  steps:
+    - npm-install
+
+deploy:
+  steps:
+    - script:
+        name: install git
+        code: |
+          apt-get update
+          apt-get install git -y
+
+    - script:
+        name: Makefile make
+        code: |
+          make build
+
+    - lukevivier/gh-pages:
+        token: $GH_TOKEN
+        basedir: wiki
