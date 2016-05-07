@@ -167,6 +167,8 @@ Google Web Fontの説明
 - [フォントの基本的な選び方 | Arch](http://www.ar-ch.org/mt/archives/2012/04/post-6.html)
 - [Type Project | 都市フォントプロジェクト 東京](http://typeproject.com/projects/cityfont-tokyo)
 - [2015年のフォント総括／鷹野 雅弘（スイッチ）](http://www.slideshare.net/swwwitch/2015-60404945)
+- [ウェブサイトでシステムフォント · terkel.jp](http://terkel.jp/archives/2016/05/system-fonts-on-website/)  
+  `font-family: -apple-system, BlinkMacSystemFont, …`
 
 
 ## Preview installed fonts
