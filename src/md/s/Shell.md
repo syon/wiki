@@ -64,6 +64,12 @@ export PATH=$HOME/.nodebrew/current/bin:$PATH
 set PATH $PATH $HOME/.nodebrew/current/bin
 ```
 
+### set export
+
+```bash
+set -gx http_proxy http://localhost:8080
+```
+
 
 ### [Fisherman](http://fisherman.sh/)
 - [Installing Fisherman · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fisherman)
