@@ -163,3 +163,10 @@ explorer %1
 # default Cmder alias for 'explorer .'
 $ e.
 ```
+
+### Edit hosts
+```bash
+@ECHO OFF
+notepad %windir%/System32/drivers/etc/hosts
+@ECHO ON
+```
