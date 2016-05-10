@@ -42,6 +42,13 @@ $ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 $ chsh -s /usr/local/bin/fish
 ```
 
+#### Required fish version: v2.3.0 on Fisherman
+https://github.com/fisherman/fisherman#what-is-the-required-fish-version
+
+```bash
+$ brew up; and brew upgrade --HEAD fish
+```
+
 ### config
 
 ```bash
