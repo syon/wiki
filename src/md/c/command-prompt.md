@@ -158,3 +158,8 @@ explorer <path>
 explorer %1
 @ECHO ON
 ```
+
+```bash
+# default Cmder alias for 'explorer .'
+$ e.
+```
