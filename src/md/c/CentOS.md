@@ -7,6 +7,17 @@ layout: page.jade
 __[CentOS Project](http://www.centos.org/)__
 
 
+## Settings
+- [CentOSで各種ビープ音を鳴らさないようにする - Qiita](http://qiita.com/kataring/items/f3f8dda51c671c4df2e4)
+
+```bash
+# Temporary
+modprobe -r pcspkr
+
+# Permanently
+echo blacklist pcspkr >> /etc/modprobe.d/blacklist
+```
+
 ## Network
 
 #### nmcli
