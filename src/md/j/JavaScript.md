@@ -293,8 +293,19 @@ Object.keys(theObj).map(function(d){console.log(d)})
 - [JavaScriptでオブジェクトの型を判別するのにtypeof演算子使うとツラいよね - Qiita](http://qiita.com/Layzie/items/465e715dae14e2f601de)
 
 ### IE
+
+#### window.open
 - [window.openメソッドの第二引数で特定の文字列を渡すとIEでエラーになる](http://codaholic.org/?p=876)
+
+#### box-shadow
 - [internet explorer - CSS Box-Shadow Not Working in IE - Stack Overflow](http://stackoverflow.com/questions/9949396/css-box-shadow-not-working-in-ie)
+
+#### textbox clear icon
+- [javascript - Event fired when clearing text input on IE10 with clear icon - Stack Overflow](http://stackoverflow.com/questions/14498396/event-fired-when-clearing-text-input-on-ie10-with-clear-icon)
+
+#### select box
+- [javascript - セレクトボックス内の要素を非表示にしたい - スタック・オーバーフロー](http://ja.stackoverflow.com/questions/16612/)  
+  この仕様のおかげで、ローカルフィルタの実現にて、初期状態の option たちを clone して保持することでフィルタ処理の度に洗い替えした
 
 ### iOS
 #### click event
