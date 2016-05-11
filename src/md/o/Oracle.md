@@ -4,6 +4,22 @@ title: Oracle
 layout: page.jade
 ---
 
+## Install
+
+#### Oracle 12c + CentOS 7
+- [HowTos/Oracle12onCentos7 - CentOS Wiki](https://wiki.centos.org/HowTos/Oracle12onCentos7)
+- [CentOS 7 : Oracle Database 12c : インストール環境の設定 ： Server World](http://www.server-world.info/query?os=CentOS_7&p=oracle12c&f=1)
+
+#### Oracle 12c + Oracle Linux7.1
+- [Oracle12cR1をOracle Linux7.1にインストール | オラクルマスターへの道](http://oraclemaster.info/1295/)
+
+#### Virtual Box
+- [開発者向けの事前構築済み仮想マシン　(Oracle VM Virtual Box用）](http://www.oracle.com/technetwork/jp/community/developer-vm/index.html)
+
+#### Docker
+- [DockerでローカルにDBを立ててテストをもっと快適に! - Tech Blog - Recruit Lifestyle Engineer](http://engineer.recruit-lifestyle.co.jp/techblog/2015-12-22-dockertestdb/)
+
+
 ## 環境変数
 
 ### SQL*Plus
