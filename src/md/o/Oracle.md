@@ -20,6 +20,11 @@ layout: page.jade
 - [DockerでローカルにDBを立ててテストをもっと快適に! - Tech Blog - Recruit Lifestyle Engineer](http://engineer.recruit-lifestyle.co.jp/techblog/2015-12-22-dockertestdb/)
 
 
+## 起動・停止
+
+- [Oracle/Oracleの起動・停止 | Tipi](http://tunes.sakura.ne.jp/tipi/?Oracle%2FOracle%A4%CE%B5%AF%C6%B0%A1%A6%C4%E4%BB%DF)
+
+
 ## 環境変数
 
 ### SQL*Plus
