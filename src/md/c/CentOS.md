@@ -47,6 +47,10 @@ proxy_password=pass
 /etc/hosts
 ```
 
+### Port・Firewall
+- [CentOS7でポートを開放する方法。 - プログラミングで飯を食え。腕をあげたきゃ備忘録！](http://senoway.hatenablog.com/entry/2015/02/11/142139)
+- [CentOS７ ファイアウォール停止方法 | server-memo.net](http://www.server-memo.net/centos-settings/centos7/firewalld-stop.html)
+
 
 ## TIPS
 
