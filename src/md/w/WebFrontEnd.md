@@ -27,6 +27,19 @@ layout: page.jade
 - [ウェブ制作者の困ったを解決するコードが盛りだくさん、スニペットを共有するサービス -Code Pad | コリス](http://coliss.com/articles/build-websites/operation/work/share-code-snippets-codepad.html)
 
 
+## URL URI
+
+- [URLとURIは何が違うの？ どちらが正しい呼び方？ | 編集長ブログ―安田英久 | Web担当者Forum](http://web-tan.forum.impressrd.jp/e/2010/03/09/7539)
+
+#### __URI__ (Uniform Resource Identifier)
+
+##### __URL__ (Uniform Resource Locator)
+> http://example.com/
+
+##### __URN__ (Uniform Resource Name)
+> urn:isbn:4844327968
+
+
 ## HTTP
 - [Kazuho's Weblog: なぜHTTPSはHTTPより速いのか](http://blog.kazuhooku.com/2014/12/httpshttp.html)
 
