@@ -6,6 +6,14 @@ layout: page.jade
 
 ## License
 
+### [SIL Open Font License (OFL)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
+- [SILオープンフォントライセンス - Open Source Group Japan - OSDN](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1)  
+  序文 | 定義 | 許可および条件 | 停止 | 免責条項
+
+- [OFL-FAQ web version (1.1-update4)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web)  
+  Frequently Asked Questions about the SIL Open Font License (OFL)
+
 #### articles
 - [フォントのライセンスについて | 自家製フォント工房](http://jikasei.me/info/license.html)
 - [Web フォントとライセンス - ヨモツネット](http://yomotsu.net/blog/2012/10/09/webfont-license.html)
