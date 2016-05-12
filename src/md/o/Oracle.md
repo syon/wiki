@@ -175,9 +175,12 @@ ORA-12514: TNS:
 リスナーは接続記述子でリクエストされたサービスを現在認識していません
 ```
 
-- __SID_LIST_LISTENER__ の追記
+- __SID_LIST_LISTENER__ セクションの追記
     - SID: `ORCL` と紐付いていないためエラーが起きる。  
       Oracleインストール時、リスナー構築の実行タイミングによって発生することがある。
+
+#### ORA-12162
+- [[oracle] sqlplusでつなごうと思ったらORA-12162: TNS:net service name is incorrectly specifiedというエラーが出た。 | 迷走男子！！](http://tazakazushi.net/sqlplus_ora_12162.html)
 
 #### ORA-12170
 ```bash
