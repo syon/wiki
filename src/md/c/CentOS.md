@@ -48,6 +48,14 @@ proxy_password=pass
 ```
 
 
+## TIPS
+
+### Using Filer
+```bash
+xdg-open .
+```
+
+
 ## Ruby
 
 - [rbenv を使って ruby をインストールする(CentOS編) - Qiita](http://qiita.com/inouet/items/478f4228dbbcd442bfe8)
