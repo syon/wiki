@@ -15,6 +15,9 @@ layout: page.jade
 - [仕組みもわかる 初めてのHerokuアプリケーションづくり！ Gitでのデプロイもさらりとこなす （1/3）：CodeZine](http://codezine.jp/article/detail/8187)
 - [Java WebアプリケーションをHerokuへデプロイする #herokujp - #侍ズム](http://samuraism.jp/diary/2014/10/15/1413361980000.html)
 - [最近の Rack サーバ事情について - willnet.in](http://willnet.in/156) :: unicorn or puma
+- [Heroku wkhtmltopdfで日本語フォントを利用する - 130単位](http://d.hatena.ne.jp/deeeki/20120902/heroku_wkhtmltopdf_fonts)  
+  > TTFフォントを ~/.fonts に入れておくだけ
+
 
 ## Setup
 
