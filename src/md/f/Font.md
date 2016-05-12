@@ -6,12 +6,9 @@ layout: page.jade
 
 ## License
 
-#### [フォントのライセンスについて | 自家製フォント工房](http://jikasei.me/info/license.html)
-- SIL Open Font License, version 1.1
-- Apache license, version 2.0
-
 #### articles
-- [Web フォントとライセンス](http://yomotsu.net/blog/2012/10/09/webfont-license.html)
+- [フォントのライセンスについて | 自家製フォント工房](http://jikasei.me/info/license.html)
+- [Web フォントとライセンス - ヨモツネット](http://yomotsu.net/blog/2012/10/09/webfont-license.html)
 
 
 ## プログラミング用フォント
