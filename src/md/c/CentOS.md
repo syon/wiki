@@ -42,6 +42,11 @@ proxy_username=user
 proxy_password=pass
 ```
 
+### Hosts
+```bash
+/etc/hosts
+```
+
 
 ## Ruby
 
