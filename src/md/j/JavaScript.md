@@ -187,6 +187,8 @@ if (~str.indexOf('hoge')) {
 
 - [JavaScript - addEventListener / removeEventListener サンプル – nocorica](http://blog.nocorica.jp/2015/05/js-eventlistener/)
 
+- [リサイズイベントのパフォーマンスチューニング | HTML5/CSS3, JavaScript 次世代WEB研究開発](http://lab.informarc.co.jp/javascript/resize_queue.html)
+
 ### Parent window, Child window
 #### JavaScript access from child window to parent window
 ```js
