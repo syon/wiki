@@ -14,7 +14,14 @@ layout: page.jade
 
 ### File
 
-    $ cp -r fromdir todir
+```bash
+$ cp -r fromdir todir
+```
+
+#### 特定の拡張子のファイルを削除
+```bash
+$ find dir_name -type f -name '*.org' -delete
+```
 
 ### wget
 - [wgetで結果を標準出力に出す - うまい棒blog](http://d.hatena.ne.jp/hogem/20090523/1243060141)
