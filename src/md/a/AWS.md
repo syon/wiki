@@ -16,6 +16,10 @@ layout: page.jade
 - [[AWS]構成図からAWS環境を自動構築するツール「VisualOps」を触ってみた - Qiita](http://qiita.com/koomaru/items/439819c9682fa59d0328)
 
 
+## AWS CLI
+- [AWS CLIのS3コマンドまとめ - TASK NOTES](http://www.task-notes.com/entry/20150904/1441335600)
+
+
 ## Lambda
 
 - [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
