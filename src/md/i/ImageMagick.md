@@ -22,3 +22,12 @@ layout: page.jade
 ```bash
 $ convert -size 100x100 xc:#FF0000 red.png
 ```
+
+## TIPS
+
+### 透明部分のあるPNGの背景を白にしてJPG変換
+- [command line - How can I convert a folder of .pngs to .jpgs while setting the background color? - Ask Ubuntu](http://askubuntu.com/questions/58715/how-can-i-convert-a-folder-of-pngs-to-jpgs-while-setting-the-background-color)
+  - アンチエイリアスなし  
+    `$ mogrify -quality 100 -format jpg -fill "#FFFFFF" -opaque none *.png`
+  - アンチエイリアスあり  
+    PNGを10倍に拡大してアンチエイリアス有効でリサイズ
