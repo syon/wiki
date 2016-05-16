@@ -41,8 +41,15 @@ set define off    -- 置換変数'&'無効
 ### コマンドプロンプト
 
 ```sql
-set NLS_LANG=Japanese_Japan.JA16SJIS  -- 文字化け対応
+-- Shift JIS
+set NLS_LANG=Japanese_Japan.JA16SJIS
+
+-- UTF-8
+set NLS_LANG=Japanese_Japan.AL32UTF8
 ```
+- ターミナルの文字コードにも注意
+  - [ConEmu | Unicode Support](http://conemu.github.io/en/UnicodeSupport.html)
+
 
 ## SQL
 
