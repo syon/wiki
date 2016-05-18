@@ -20,6 +20,10 @@ layout: page.jade
 - [AWS CLIのS3コマンドまとめ - TASK NOTES](http://www.task-notes.com/entry/20150904/1441335600)
 
 
+## AWS SDK
+- [Direct to S3 Image Uploads in Rails | Heroku Dev Center](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
+
+
 ## Lambda
 
 - [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
