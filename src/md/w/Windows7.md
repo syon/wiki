@@ -94,3 +94,16 @@ PS C:\> $tc.close()
 
 ### メンテナンス
 - [Windowsクリーンアップ＆メンテナンス大作戦！ 愛用Windowsに「本腰」の大掃除を : ライフハッカー［日本版］](http://www.lifehacker.jp/2012/04/120410windowscleanup.html)
+
+### 資格情報
+- [Windows CLIで資格情報を表示、作成、削除する～cmdkey.exe - 元「なんでもエンジニ屋」のダメ日記](http://nasunoblog.blogspot.jp/2015/03/How-to-access-the-Credential-Manager-from-CLI-cmdkey.html)
+
+```bat
+cmdkey /list
+
+cmdkey /list:ターゲット名
+
+cmdkey /add:ターゲット名 /user:******** /pass:********
+
+cmdkey /delete:ターゲット名
+```
