@@ -98,7 +98,7 @@ PS C:\> $tc.close()
 ### 資格情報
 - [Windows CLIで資格情報を表示、作成、削除する～cmdkey.exe - 元「なんでもエンジニ屋」のダメ日記](http://nasunoblog.blogspot.jp/2015/03/How-to-access-the-Credential-Manager-from-CLI-cmdkey.html)
 
-```bat
+```batch
 cmdkey /list
 
 cmdkey /list:ターゲット名
