@@ -21,6 +21,9 @@ layout: page.jade
 
 ## プログラミング用フォント
 
+[Ricty](https://github.com/yascentur/Ricty)
+: Ricty (リクティ) は Linux 環境での研究・開発に適したフリーなプログラミング用 TrueType フォントです。 Emacs や Vim を用いた C、C++、FORTRAN、Python、Perl、Ruby、AWK、sed、シェルスクリプト、LaTeX などのコーディングにおける使用を想定しています。
+
 [Ricty Diminished](https://github.com/yascentur/RictyDiminished)
 : Ricty Diminished (リクティ・ディミニッシュト) は Ricty の姉妹フォントであり、Inconsolata と Migu 1M ではなく、Inconsolata と Circle M+ 1m を Ricty 生成スクリプトで合成したフォントです。
 
