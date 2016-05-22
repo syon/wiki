@@ -107,3 +107,6 @@ cmdkey /add:ターゲット名 /user:******** /pass:********
 
 cmdkey /delete:ターゲット名
 ```
+
+### ドットファイル
+- [Windowsエクスプローラーでドットファイルを作成する - Qiita](http://qiita.com/sgur/items/745e0ee02c69b50bf9e5)
