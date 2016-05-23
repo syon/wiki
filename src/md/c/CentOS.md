@@ -18,6 +18,10 @@ modprobe -r pcspkr
 echo blacklist pcspkr >> /etc/modprobe.d/blacklist
 ```
 
+## Update
+- [Automatic Security Updates: CentOS - Servers for Hackers](https://serversforhackers.com/video/automatic-security-updates-centos)
+
+
 ## Network
 
 #### nmcli
