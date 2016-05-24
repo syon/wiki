@@ -38,6 +38,7 @@ $ git rebase -i HEAD~4
 
 #### alias
 - [Gitのalias機能で超効率的に作業する | eureka tech blog](https://developers.eure.jp/tech/git-alias/)
+- [人間らしいGitのエイリアス | プログラミング | POSTD](http://postd.cc/human-git-aliases/)
 
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
