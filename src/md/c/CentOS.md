@@ -20,6 +20,7 @@ echo blacklist pcspkr >> /etc/modprobe.d/blacklist
 
 ## Update
 - [Automatic Security Updates: CentOS - Servers for Hackers](https://serversforhackers.com/video/automatic-security-updates-centos)
+- [yum clean コマンドでキャッシュ削除・アップデートのチェックと実行 〜 CentOS6 | EasyRamble](http://easyramble.com/yum-clean-and-update.html)
 
 
 ## Network
