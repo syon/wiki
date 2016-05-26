@@ -58,3 +58,12 @@ layout: page.jade
 #### AsciiDoc
 - [HubPress | A web application to build your Blog on GitHub](http://hubpress.io/)
 - [AsciiDoc Writer’s Guide | Asciidoctor](http://asciidoctor.org/docs/asciidoc-writers-guide/)
+
+
+## Lint
+
+### [textlint](https://textlint.github.io/)
+pluggable linting tool for text and markdown
+
+- [textlintで日本語の文章をチェックする | Web Scratch](http://efcl.info/2015/09/10/introduce-textlint/)
+- [textlintをTravis CIで動かして継続的に文章をチェックする - Qiita](http://qiita.com/azu/items/e36501d25593d008f6ac)
