@@ -223,12 +223,13 @@ body {
 ```
 
 ### 改行させない
-* [white-space－スタイルシートリファレンス](http://www.htmq.com/style/white-space.shtml)  
+- [white-space－スタイルシートリファレンス](http://www.htmq.com/style/white-space.shtml)  
   ソース中の連続する半角スペース・タブ・改行を、1つの半角スペースとして表示します。ボックスの大きさが指定されている場合にも、自動的に改行されません。
-
 ```css
 white-space: nowrap;
 ```
+
+- [【複数行にも対応】長過ぎる文字列を省略して末尾を三点リーダー（…）にする方法いろいろ – NET BIZ DIV. TECH BLOG](https://tech.recruit-mp.co.jp/front-end/tips-ellipsis/)
 
 ### はみ出した文字を省略
 ```css
