@@ -136,6 +136,7 @@ Google Web Fontの説明
 - [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
 - [常用漢字完全対応！走り書きの雑な感じがかっこいい日本語フリーフォント -851チカラヅヨク | コリス](http://coliss.com/articles/freebies/freebies-font-851ch-dz.html)
 - [2016年用、日本語のフリーフォント219種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記 | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-for-2016.html)
+- [日本語フリーフォントの作者様に感謝！最近リリースされた日本語の無料フォントのまとめ | コリス](http://coliss.com/articles/freebies/japanese-free-fonts-may-2016.html)
 
 ##### フロップデザイン
 - [フォントと素材集のフリーダウンロードのフロップデザイン](http://www.flopdesign.com/index.php)
