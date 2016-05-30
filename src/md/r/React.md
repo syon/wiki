@@ -66,6 +66,10 @@ layout: page.jade
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
 
 
+## Style Guide
+- [[翻訳] Airbnb React/JSX Style Guide - Qiita](http://qiita.com/koukun/items/e64762e407b8dd5e0247)
+
+
 ## Tools
 - [facebook/react-devtools](https://github.com/facebook/react-devtools)
 
