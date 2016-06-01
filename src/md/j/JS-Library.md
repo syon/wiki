@@ -64,6 +64,14 @@ A touch slideout navigation menu for your mobile web apps.
 Override your input files with style.
 
 
+## Ajax
+[superagent](https://github.com/visionmedia/superagent)
+: Ajax with less suck - (and node.js HTTP client to match)
+
+[axios](https://github.com/mzabriskie/axios)
+: Promise based HTTP client for the browser and node.js
+
+
 ## Modal
 
 #### [SimpleModal](http://www.ericmmartin.com/projects/simplemodal/)
