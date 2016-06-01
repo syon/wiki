@@ -75,12 +75,15 @@ layout: page.jade
 
 
 ## Component styling
-- [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
 - [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 - [React-Bootstrap](http://react-bootstrap.github.io/)
 
 
 ## Components
+
+#### [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
+  - [ReactJs-ReactNative-examples/examples/size-and-speed](https://github.com/liesislukas/ReactJs-ReactNative-examples/tree/master/examples/size-and-speed)  
+  Size and Speed
 
 #### [D3 Components for React](https://github.com/codesuki/react-d3-components)
 - [React D3 Components Examples](http://codesuki.github.io/react-d3-components/example.html)
