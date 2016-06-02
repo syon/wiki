@@ -224,6 +224,8 @@ set :environment, :production
 
 - [Ruby - sinatraをwindowsでお手軽に起動したらwebrickが遅い - Qiita](http://qiita.com/k-ta-yamada/items/2a484e054d31f616191d)
 
+- [ruby - How to parse JSON request body in Sinatra just once and expose it to all routes? - Stack Overflow](http://stackoverflow.com/questions/17049569/how-to-parse-json-request-body-in-sinatra-just-once-and-expose-it-to-all-routes)
+
 #### Singleton
 - [ruby - best/most elegant way to share objects between a stack of rack mounted apps/middlewares? - Stack Overflow](http://stackoverflow.com/questions/5517753/best-most-elegant-way-to-share-objects-between-a-stack-of-rack-mounted-apps-midd)
 ```ruby
