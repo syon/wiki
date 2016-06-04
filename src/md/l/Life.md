@@ -26,6 +26,8 @@ layout: page.jade
   - [Siriで部屋中の家電を操作できるようにして未来のお部屋を作ってみた - ワタナベ書店](http://senyoltw.hatenablog.jp/entry/2015/12/07/052951)
 - [株式会社ソラコム](https://soracom.jp/)  
   IoT向けMVNO SIM
+- [スマートメーターの情報を最安ハードウェアで引っこ抜く - Qiita](http://qiita.com/rukihena/items/82266ed3a43e4b652adb)
+
 
 ## 録画
 - [nasne に替えて PT3 を買いました | 妄想シンフォニー](http://symphonix.blog.fc2.com/blog-entry-2260.html)
