@@ -80,7 +80,8 @@ Google Web Fontの説明
 - [ウェブ・フォントの読み込み - Weblog - Hail2u.net](http://hail2u.net/blog/webdesign/loading-web-fonts.html)
 - [【WordPress】Webフォントありのブログを高速化した、たった1つのこと | せめて、人間らしく](http://atleastjazzpiano.info/wp/technical/wordpress_web-font_speed-up/)
 - [Webフォントをキレイに見せるテクニックを2つ紹介(Chrome編)](http://dtp.jdash.info/archives/51924296.html)
-
+- [Yaku Han JP - Qrac GitHub](https://qrac.github.io/yakuhanjp/)  
+  Web上の日本語テキストに含まれる約物を半角にする「約物半角専用Webフォント」です。
 
 ## Icon Font
 - [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
