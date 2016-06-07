@@ -6,9 +6,11 @@ layout: page.jade
 
 ![D3.js](/wiki/assets/img/d3js.png)
 
+
 ## Overview
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
 - [データを分かりやすくスタイリッシュに可視化できるJavascriptライブラリ「D3.js」 - GIGAZINE](http://gigazine.net/news/20130121-data-design-d3js/)
+
 
 ## Other Visualization Tools
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
@@ -17,6 +19,11 @@ layout: page.jade
 - [美しいグラフやレポートが作れるWebツール「Visage」（クローズドベータ） | ビジュアルシンキング](http://www.visualthinking.jp/archives/18612)
 - [データビジュアライゼーション・ツール20選 | lab.sugimototatsuo.com](http://lab.sugimototatsuo.com/2013/08/top-20-data-visualisation-tools/)
 - [タスク、プロジェクト管理の表示に便利なガントチャートライブラリまとめ | hifive開発者ブログ](http://blog.htmlhifive.com/2014/09/18/gantt-chart-library-suitable-for-task-project-management/)
+- [plotly.js | JavaScript Graphing Library](https://plot.ly/javascript/)
+- [Taucharts flexible javascript charting library for data exploration](https://www.taucharts.com/)
+- [Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
+- [Sigma js](http://sigmajs.org/#)
+
 
 ## Learning D3.js
 - [SVG Paths and D3.js | DashingD3js.com](https://www.dashingd3js.com/svg-paths-and-d3js)
