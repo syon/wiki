@@ -41,6 +41,11 @@ $ git rebase -i HEAD~4
 - [Gitのalias機能で超効率的に作業する | eureka tech blog](https://developers.eure.jp/tech/git-alias/)
 - [人間らしいGitのエイリアス | プログラミング | POSTD](http://postd.cc/human-git-aliases/)
 
+#### git log / commit hash
+- [node.js - Get hash of most recent git commit in Node - Stack Overflow](http://stackoverflow.com/questions/34518389/get-hash-of-most-recent-git-commit-in-node)
+- [bash - How print last commit info for every file in a git repository - Stack Overflow](http://stackoverflow.com/questions/5183199/how-print-last-commit-info-for-every-file-in-a-git-repository)
+- [git logのフォーマットを指定する - Qiita](http://qiita.com/harukasan/items/9149542584385e8dea75)
+
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
 `ホームディレクトリ/.gitconfig`で定義する情報を変更するコマンド
