@@ -70,3 +70,13 @@ pluggable linting tool for text and markdown
 
 - [textlintで日本語の文章をチェックする | Web Scratch](http://efcl.info/2015/09/10/introduce-textlint/)
 - [textlintをTravis CIで動かして継続的に文章をチェックする - Qiita](http://qiita.com/azu/items/e36501d25593d008f6ac)
+- [textlintのAtomプラグイン - 1000ch.net](https://1000ch.net/posts/2015/linter-textlint.html)
+- [文書校正ツール textlint の Chrome 拡張を作った - もなでぃっく](http://io-monad.hatenablog.com/entry/2016/03/14/225800)
+
+### RedPen
+REDPEN はプログラマや記者が規約にしたがって文書（マニュアルやソフトウェアドキュメント）を記述しているか検査します。
+
+- [GitHub - redpen-cc/redpen](https://github.com/redpen-cc/redpen)
+- [Atom packages - redpen](https://atom.io/packages/redpen)
+- [RedPen でわかりやすい技術文書を書こう ｜ Developers.IO](http://dev.classmethod.jp/tool/redpen-getting-started/)
+- [RedPenを使って技術文書を手軽に校正しよう：連載｜gihyo.jp … 技術評論社](http://gihyo.jp/lifestyle/serial/01/redpen)
