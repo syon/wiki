@@ -12,8 +12,6 @@ layout: page.jade
 ## Tips
 
 - [Gitチートシート - Qiita](http://qiita.com/ktaro/items/1d8c8ae698a88b1d6f0f)
-- [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
-- [Gitのコミットメッセージの書き方 - Qiita](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
 - [Gitはファイルの移動を追跡できない - 永遠に未完成](http://d.hatena.ne.jp/thinca/20090217/1234799036)
 ```bash
 $ git log --follow
@@ -45,6 +43,11 @@ $ git rebase -i HEAD~4
 - [node.js - Get hash of most recent git commit in Node - Stack Overflow](http://stackoverflow.com/questions/34518389/get-hash-of-most-recent-git-commit-in-node)
 - [bash - How print last commit info for every file in a git repository - Stack Overflow](http://stackoverflow.com/questions/5183199/how-print-last-commit-info-for-every-file-in-a-git-repository)
 - [git logのフォーマットを指定する - Qiita](http://qiita.com/harukasan/items/9149542584385e8dea75)
+
+#### commit message
+- [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
+- [Gitのコミットメッセージの書き方 - Qiita](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+- ["最近ProttでコミットにEmoji Prefixつけ始めたんだけど、視認性いいし、ひとつのコミットでひとつの変更をすることを意識できるからチームでコミットの粒度も綺麗になってきてかなりいい感じ。あとなんかログが見てて楽しい（重要）"](https://twitter.com/yoshiko_pg/status/738143938071035905)
 
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
