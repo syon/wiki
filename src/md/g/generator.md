@@ -27,6 +27,7 @@ layout: page.jade
 - [制作途中にお世話になる、ダミーテキスト・ダミー画像のジェネレーターいろいろ | Webクリエイターボックス](http://www.webcreatorbox.com/tech/dummy/)
 - [日本の全エンジニアに捧ぐ！現在公開されているテスト用ダミーデータ一覧 | Find Job ! Startup](http://www.find-job.net/startup/dummy-2013)
 - [これは使える！かわいい似顔絵・アバターが作成できるジェネレーター20選 | コリス](http://coliss.com/articles/web-services/portrait-generators-for-twitter-and-facebook.html)
+- [似顔絵やアバターがパーツで簡単作成！今流行りのアプリ＆サイト厳選40+1 | コンテアニメ工房](http://conte-anime.jp/character/nigaoe-parts)
 
 #### 組見本
 
