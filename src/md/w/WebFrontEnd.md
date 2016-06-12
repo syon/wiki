@@ -13,8 +13,9 @@ layout: page.jade
   Google Chrome DevTools
 
 
-## SPA
-- [SPAがネイティブアプリをぶっ壊す：HTML5/Javascriptが変えるWebの未来 - Qiita](http://qiita.com/KENJU/items/b65d671dc8f79cb42bb6)
+## SEO・評価ツール
+- [Google、Webサイトのパフォーマンス判定ツールを無償公開 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1606/03/news115.html)
+- [Webデザイナー、ブログ初心者が知っておくと重宝するサイトSEO評価ツール5つ - Life is colourful.](http://lifeiscolourful.hatenablog.com/entry/2016/06/07/083239)
 
 
 ## HTML / CSS / JavaScript
