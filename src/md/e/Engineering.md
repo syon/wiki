@@ -4,6 +4,11 @@ title: Engineering
 layout: page.jade
 ---
 
+## 法則・原則
+
+- [何かのときにすっと出したい、プログラミングに関する法則・原則一覧 - Qiita](http://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
+
+
 ## Words
 
 ### Yak Shaving
