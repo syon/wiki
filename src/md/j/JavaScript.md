@@ -21,7 +21,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 ## ECMAScript / altJS
 
-### ES6・ES2015
+### ES6・ES2015・ESNext
 - [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
 - [Babelで始める！モダンJavaScript開発 | HTML5Experts.jp](https://html5experts.jp/kyo_ago/16979/)
 - [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
@@ -33,6 +33,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [JavaScript(ES2015)でvarやletを使う必要はほぼ無い - id:anatooのブログ](http://blog.anatoo.jp/entry/2016/04/17/043840)
 - [ESLint が jQuery Foundation に参加したことについて - Qiita](http://qiita.com/mysticatea/items/4cd6405e5a931f8817f6)
 - [Custom elementsはES6のclass記法で定義可能になりそうです - Qiita](http://qiita.com/yoichiro@github/items/fdb8372bd8a68c754dc3)
+- [ES2015の現在とESNextの未来 // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/es2015falsexian-zai-toesnextfalsewei-lai)
 
 ### CoffeeScript
 
