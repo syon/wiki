@@ -52,6 +52,12 @@ layout: page.jade
 - [ASCII.jp：夏だ！　シンセだ！　「リトルビッツ」で遊ぼう！ (1/4)](http://ascii.jp/elem/000/000/917/917704/)
 
 
+## MESH
+- [MESH：遊び心を形にできる、アプリとつなげるブロック形状の電子タグ｜ソニー](http://meshprj.com/jp/)
+- [日本発のスマートタグ「MESH」、開発者が語るその無限の可能性｜WIRED.jp](http://wired.jp/2016/06/07/mesh-diy-internet-of-things/)
+- [かわいい(・∀・)人感センサーSONY製スマートDIYキット「MESH」がラブリーでキュート☆*:.｡.紹介編 - PR TIMESデザイナー&エンジニアブログ BREAK TIMES](http://breaktimes.hatenablog.com/entry/2016/06/08/094008)
+
+
 ## Input Device
 
 - [「腹痛いｗ」声でマリオを操作、「スーパーマリオ3」実況動画が話題に。 | Narinari.com](http://www.narinari.com/Nd/20140727200.html)
