@@ -93,3 +93,4 @@ layout: page.jade
 - [Intel、指先に乗る極小x86コンピュータ「Edison」を正式発表 ～日本でも10月発売 - PC Watch](http://pc.watch.impress.co.jp/docs/news/20140910_665900.html)
 - [Yahoo! IoT](https://iot.yahoo.co.jp/)
 - [SDカードで無線Lチカ？ FlashAirは超ミニマイコン！★Arduino用シールド（基板）配布中](http://www.slideshare.net/FlashAirDev-ja/flash-air-osc2014tokyofallhandsout20141018)
+- [スマートメーターの情報を最安ハードウェアで引っこ抜く - Qiita](http://qiita.com/rukihena/items/82266ed3a43e4b652adb)
