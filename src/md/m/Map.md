@@ -8,6 +8,12 @@ layout: page.jade
 - [WEB地図ってどこまで自由に使用できるの？: 森林土木memo](http://koutochas.seesaa.net/article/382139266.html)
 
 
+## [OpenAddresses](https://openaddresses.io/)
+
+- [GitHub - OpenAddresses](https://github.com/openaddresses/)  
+  The free and open global address collection
+
+
 ## Articles
 - [全国市区町村界データ | データ製品 | 製品 | ESRIジャパン株式会社](http://www.esrij.com/products/data/japan-shp/)
 - [DIVA-GIS | free, simple & effective](http://www.diva-gis.org/)
