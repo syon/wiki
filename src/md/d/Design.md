@@ -12,6 +12,7 @@ layout: page.jade
 - [Material Design Lite](http://www.getmdl.io/)
 - [Material UI - Material Design React Components](http://material-ui.com/#/)
     - __[React でマテリアルデザインを実装する Material UI を試してみる - syonx](http://syonx.hatenablog.com/entry/2015/03/29/171528)__
+- [Materialize](http://materializecss.com/)
 - [LumX](http://ui.lumapps.com/)  
   The first responsive front-end framework based on AngularJS & Google Material Design specifications.
 - Sample
