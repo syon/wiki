@@ -9,15 +9,24 @@ layout: page.jade
 #### Code
 - → __[Polymer](/wiki/polymer/)__
 - → [Angular Material](AngularJS/)
-- [Material Design Lite](http://www.getmdl.io/)
-- [Material UI - Material Design React Components](http://material-ui.com/#/)
-    - __[React でマテリアルデザインを実装する Material UI を試してみる - syonx](http://syonx.hatenablog.com/entry/2015/03/29/171528)__
-- [Materialize](http://materializecss.com/)
-- [LumX](http://ui.lumapps.com/)  
-  The first responsive front-end framework based on AngularJS & Google Material Design specifications.
-- Sample
-    - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
-    - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
+
+[Material Design Lite](http://www.getmdl.io/)
+: An implementation of Material Design components in vanilla CSS, JS, and HTML.
+
+[Material-UI](http://material-ui.com/#/)
+: A Set of React Components that Implement Google's Material Design
+- __[React でマテリアルデザインを実装する Material UI を試してみる - syonx](http://syonx.hatenablog.com/entry/2015/03/29/171528)__
+
+[Materialize](http://materializecss.com/)
+: A modern responsive front-end framework based on Material Design
+
+[LumX](http://ui.lumapps.com/)  
+: The first responsive front-end framework based on AngularJS & Google Material Design specifications.
+
+Sample
+:
+  - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
+  - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
 
 #### Icons
 - [Material icons - Google Design](https://www.google.com/design/icons/) アイコンリスト
