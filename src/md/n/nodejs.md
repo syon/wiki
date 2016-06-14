@@ -109,6 +109,9 @@ $ sudo chown -R $USER /usr/local
 $ npm ls --depth=0 -g
 ```
 
+- [Node.jsユーザーなら押さえておきたいnpm-scriptsのタスク実行方法まとめ - ICS MEDIA](https://ics.media/entry/12226)
+
+
 ## npm packages
 
 #### [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
