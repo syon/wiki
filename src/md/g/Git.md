@@ -46,9 +46,13 @@ $ git rebase -i HEAD~4
 - [git logのフォーマットを指定する - Qiita](http://qiita.com/harukasan/items/9149542584385e8dea75)
 
 #### commit message
-- [Twitter / naoya_ito: Atom の Contribution ガイドラインのこれ面白いな](https://twitter.com/naoya_ito/status/474357838710448128)
 - [Gitのコミットメッセージの書き方 - Qiita](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
-- ["最近ProttでコミットにEmoji Prefixつけ始めたんだけど、視認性いいし、ひとつのコミットでひとつの変更をすることを意識できるからチームでコミットの粒度も綺麗になってきてかなりいい感じ。あとなんかログが見てて楽しい（重要）"](https://twitter.com/yoshiko_pg/status/738143938071035905)
+
+#### commit message with emoji
+- [atom/CONTRIBUTING.md at master · atom/atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
+- [dannyfritz/commit-message-emoji: Every commit is important. So let's celebrate each and every commit with a corresponding emoji!](https://github.com/dannyfritz/commit-message-emoji)
+- [GitHubで絵文字コミットを続けてみて有用だったEmojiまとめ - 犬アイコンのみっきー](http://mzyy94.com/blog/2015/10/14/emoji-commit-message/)
+
 
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
