@@ -115,6 +115,8 @@ layout: page.jade
 - [駅データ 無料ダウンロード 『駅データ.jp』](http://www.ekidata.jp/) XML/JSON APIあり
 - [愛知県の駅の１日の利用者数ベスト200ワースト200](http://alfalfalfa.com/archives/7723985.html)
 - [【画像大量】俺が長年貯め込んだグラフ・一覧・比較・図解フォルダが今、火を吹く：キニ速](http://blog.livedoor.jp/kinisoku/archives/4220262.html)
+- [世界の労働力人口 国別ランキング・推移 - Global Note](http://www.globalnote.jp/post-7480.html)
+
 
 ## 地図
 - → __[Map](/wiki/map/)__
