@@ -173,6 +173,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [Flexboxベースの軽量レスポンシブCSSフレームワークBasisをつくりました。 – モンキーレンチ](http://2inc.org/blog/2016/02/29/5181/)
 - [これが知りたかった！よく使うUI要素をFlexboxを使ってシンプルに簡単に実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/using-flexbox-for-ui-components.html)
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home)
+- [Flexboxの特性をうまく使い、Media Queries無しでレスポンシブ対応のレイアウトを作成するCSSのテクニック | コリス](http://coliss.com/articles/build-websites/operation/css/flexbox-responsive-layout-without-media-queries.html)
 
 
 ## TIPS
