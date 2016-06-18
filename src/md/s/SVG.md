@@ -49,8 +49,15 @@ Scalable Vector Graphics
 - [PDF 2 SVG Converter](http://pramodhkp.github.io/pdf2svg/)
 - [HTML5 と SVG で考える、これからの画像アクセシビリティ](http://www.slideshare.net/ssuser99dc16/html5fun-svg-accessibility)
 - [How to work with SVG icons](http://fvsch.com/code/svg-icons/how-to/)
-- [php - Converting text into path (svg) on server? - Stack Overflow](http://stackoverflow.com/questions/8422558/converting-text-into-path-svg-on-server)
 
+### Convert Text with font to Outline
+- [php - Converting text into path (svg) on server? - Stack Overflow](http://stackoverflow.com/questions/8422558/converting-text-into-path-svg-on-server)
+- [Inkscapeで描いた画像をpngにバッチ変換する - Qiita](http://qiita.com/mstssk/items/8e79d946de2cf1d2786f)
+- [Inkscape - an SVG editing program. | Inkscape](https://inkscape.org/ja/doc/inkscape-man.html)
+
+```bash
+$ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z -T -f ~/sample.svg -l ~/out.svg
+```
 
 ## SVG Browser Support
 
