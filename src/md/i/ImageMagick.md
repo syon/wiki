@@ -31,3 +31,5 @@ $ convert -size 100x100 xc:#FF0000 red.png
     `$ mogrify -quality 100 -format jpg -fill "#FFFFFF" -opaque none *.png`
   - アンチエイリアスあり  
     PNGを10倍に拡大してアンチエイリアス有効でリサイズ
+- [imagemagick - Replace transparency in PNG images with white background - Stack Overflow](http://stackoverflow.com/questions/2322750/replace-transparency-in-png-images-with-white-background)
+  - `$ convert image.png -background white -alpha remove white.png`
