@@ -61,6 +61,7 @@ layout: page.jade
 - [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
 - [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
+- [なぜReduxを使うのか // Speaker Deck](https://speakerdeck.com/kuy/nazereduxwoshi-ufalseka)
 
 
 ## Style Guide
@@ -117,6 +118,7 @@ Bootstrap your application with beautiful Material Design Components
 - [Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/141458071484/react-perf-tuning)
 - [すべてのReact.js初心者が知っておくべき9つのポイント - Qiita](http://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295)
 - [その案件、Reactで本当に大丈夫ですか？ | eureka tech blog](https://developers.eure.jp/tech/react_or_not/)
+- [The state of React.js 2016 // Speaker Deck](https://speakerdeck.com/koba04/the-state-of-react-dot-js-2016)
 
 
 ## React Native
