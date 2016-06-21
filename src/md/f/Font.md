@@ -131,6 +131,7 @@ Google Web Fontの説明
 - [2015年版！漢字が使えて無料日本語フォント５０種](http://k-tsubo.com/web-design/3923/)
 - [Oradano Mincho : public domain Retro style Japanese font](http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/)
 - [商用可な明朝体の日本語フリーフォント10選 | UX MILK](http://uxmilk.jp/36142)
+- [日本語フリーフォント、これだけは持っておきたい厳選22個まとめ - PhotoshopVIP](http://photoshopvip.net/japanese-free-fonts)
 
 ##### コリス
 - [商用利用無料！丸っこくてかわいいフリーの日本語フォント -ぼくたちのゴシック2 | コリス](http://coliss.com/articles/freebies/freebies-font-boku2.html)
