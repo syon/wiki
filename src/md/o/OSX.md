@@ -40,6 +40,8 @@ layout: page.jade
 
 ### Homebrew
 
+- [Homebrewを取り囲むセットアップシェル界隈の情勢（2016年5月版） - Qiita](http://qiita.com/shibukk/items/d2d3686ac576bcf497b2)
+
 #### Install Homebrew
 - http://brew.sh  
   インストール用Rubyコマンドをコピペしてターミナルで実行
