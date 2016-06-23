@@ -73,6 +73,7 @@ pluggable linting tool for text and markdown
 - [textlintのAtomプラグイン - 1000ch.net](https://1000ch.net/posts/2015/linter-textlint.html)
 - [文書校正ツール textlint の Chrome 拡張を作った - もなでぃっく](http://io-monad.hatenablog.com/entry/2016/03/14/225800)
 - [textlintで日本語テキストの文字校正を試してみた - the code to rock](http://note103.hateblo.jp/entry/2016/06/13/074744)
+- [Collection of textlint rule · textlint/textlint Wiki](https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule)
 
 ### RedPen
 REDPEN はプログラマや記者が規約にしたがって文書（マニュアルやソフトウェアドキュメント）を記述しているか検査します。
