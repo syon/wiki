@@ -34,7 +34,7 @@ Metalsmith(__dirname)
   .use(permalinks({pattern: ':slug'}))
   .use(layouts({engine:"jade"}))
   .use(mapsite({
-    hostname: 'http://syon.github.io/wiki/'
+    hostname: 'https://syon.github.io/wiki/'
   }))
   .build(function(err){
     if (err) throw err;
