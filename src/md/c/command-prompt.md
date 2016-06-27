@@ -125,7 +125,9 @@ for /f "skip=1 tokens=1,2 delims=," %%i in (data.csv) do (
     echo %%i %%j
 )
 ```
-`skip`はヘッダ飛ばす行数。`delims`のカンマにタブ文字を直接記述するとTSV対応できる。
+- `skip`はヘッダ飛ばす行数
+- `tokens`は `1` `2` が `%%i` `%%j` に対応している
+- `delims`のカンマにタブ文字を直接記述するとTSV対応できる。
 
 
 ## コマンド
