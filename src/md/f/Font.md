@@ -107,10 +107,12 @@ Google Web Fontの説明
 - [Twitter](http://emojipedia.org/twitter/)
   - [Twitter Emoji (Twemoji)](https://twitter.github.io/twemoji/)
 
+#### [EmojiSymbols Font](http://emojisymbols.com/jp/)
+白黒の絵文字フォント。インターネット上での利用に特化したwebフォントで、woff形式のみ。
+
 #### articles
 - [Emoji: how do you get from U+1F355 to 🍕? – Monica Dinculescu](http://meowni.ca/posts/emoji-emoji-emoji/)  
   Chromeはどのようにして絵文字を描画しているか → Macは `AppleColorEmoji` にフォールバック
-
 
 ## 欧文書体
 - [2014年、フォント好きのための高品質なすごいフリーフォントのまとめ | コリス](http://coliss.com/articles/freebies/2014-best-of-free-fonts-for-roman.html)
