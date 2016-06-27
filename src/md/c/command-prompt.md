@@ -26,62 +26,64 @@ layout: page.jade
 
 ### 使用ポートチェック
 
-<pre>
+```bat
 netstat -ano
 
 netstat -ano | findstr /i :80
-</pre>
+```
 
-<dl>
-  <dt>-a</dt>
-  <dd>現在のすべての接続を表示する</dd>
-  <dt>-n</dt>
-  <dd>出力をIPアドレスなど数値のみに抑制</dd>
-  <dt>-o</dt>
-  <dd>PID列を表示</dd>
-</dl>
+-a
+: 現在のすべての接続を表示する
+
+-n
+: 出力をIPアドレスなど数値のみに抑制
+
+-o
+: PID列を表示
 
 ### 指定PIDからタスクを導く
 
-<pre>
+```bat
 tasklist /svc /fi "PID eq プロセスID"
-</pre>
+```
 
 ### サービス一覧取得コマンド
 
-http://d.hatena.ne.jp/moto0215/20081125/1227595010
-<pre>
+- http://d.hatena.ne.jp/moto0215/20081125/1227595010
+```bat
 sc query state= all
-</pre>
+```
 - "state= all"を指定しないとアクティブなサービスのみ表示
 - スペース位置が重要で、`state=all`はNG
 
 
 ### 共有ファイルの接続状況
 
-<pre>
+```bat
 net use
 net use /?    ←ヘルプ
-</pre>
+```
 - [＠IT：Windows TIPS -- Tips：netコマンドの使い方](http://www.atmarkit.co.jp/fwin2k/win2ktips/258netcommand/netcommand.html)
 
 接続
-<pre>
+```bat
 net use \\hostname\ipc$ /user:yourid yourpass
-</pre>
+```
 切断
-<pre>
+```
 net use \\hostname /delete
-</pre>
+```
 - [＠IT：Windows TIPS -- Tips：アカウントを指定してIPC$共有リソースへ接続する](http://www.atmarkit.co.jp/fwin2k/win2ktips/394ipcshare/ipcshare.html)
 
 ### ルーティングテーブル
 
-ネットワークに接続するためのインターフェイス一覧と、ネットワークまたはホストへ到達するための経路を示すルートテーブルを表示する。<br>
+ネットワークに接続するためのインターフェイス一覧と、ネットワークまたはホストへ到達するための経路を示すルートテーブルを表示する。  
 メトリック＝距離（ホップ数）。近い方ものが選択されるので、優先順位と読み替えればよい。
-<pre>
+
+```bat
 route print
-</pre>
+```
+
 - [route - ルーティングテーブルの表示／設定を行う](http://www.atmarkit.co.jp/fnetwork/netcom/route/route.html)
 - [＠IT：Windows TIPS -- Tips：ルーティング・テーブルを操作する](http://www.atmarkit.co.jp/fwin2k/win2ktips/266routing/routing.html)
 
