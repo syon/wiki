@@ -26,7 +26,7 @@ layout: page.jade
 
 ### 使用ポートチェック
 
-```bat
+```bash
 netstat -ano
 
 netstat -ano | findstr /i :80
@@ -43,14 +43,14 @@ netstat -ano | findstr /i :80
 
 ### 指定PIDからタスクを導く
 
-```bat
+```bash
 tasklist /svc /fi "PID eq プロセスID"
 ```
 
 ### サービス一覧取得コマンド
 
 - http://d.hatena.ne.jp/moto0215/20081125/1227595010
-```bat
+```bash
 sc query state= all
 ```
 - "state= all"を指定しないとアクティブなサービスのみ表示
@@ -59,14 +59,14 @@ sc query state= all
 
 ### 共有ファイルの接続状況
 
-```bat
+```bash
 net use
 net use /?    ←ヘルプ
 ```
 - [＠IT：Windows TIPS -- Tips：netコマンドの使い方](http://www.atmarkit.co.jp/fwin2k/win2ktips/258netcommand/netcommand.html)
 
 接続
-```bat
+```bash
 net use \\hostname\ipc$ /user:yourid yourpass
 ```
 切断
@@ -80,7 +80,7 @@ net use \\hostname /delete
 ネットワークに接続するためのインターフェイス一覧と、ネットワークまたはホストへ到達するための経路を示すルートテーブルを表示する。  
 メトリック＝距離（ホップ数）。近い方ものが選択されるので、優先順位と読み替えればよい。
 
-```bat
+```bash
 route print
 ```
 
