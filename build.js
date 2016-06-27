@@ -1,5 +1,5 @@
 var Metalsmith = require('metalsmith');
-var sass       = require('metalsmith-sass');
+var less       = require('metalsmith-less');
 var assets     = require('metalsmith-assets');
 var markdown   = require('metalsmith-markdown-remarkable');
 var prism      = require('metalsmith-prism');
@@ -19,11 +19,7 @@ Metalsmith(__dirname)
     source: './assets',
     destination: './assets'
   }))
-  .use(sass({
-    outputDir: function(originalPath) {
-      return originalPath.replace("scss", "css");
-    }
-  }))
+  .use(less())
   .use(markdown('full', {
     html: true,
     linkify: true,
