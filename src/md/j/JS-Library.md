@@ -88,28 +88,27 @@ watermarks in the browser
 
 ## Animations
 
-#### [☆ sweep.js ☆](http://rileyjshaw.com/sweep/)
-HSL/[HUSL](http://www.boronine.com/husl/)色空間で色の from - to をアニメーション
+[☆ sweep.js ☆](http://rileyjshaw.com/sweep/)
+: HSL/[HUSL](http://www.boronine.com/husl/)色空間で色の from - to をアニメーション
 
-#### [ElementTransitions.js](http://dan-silver.github.io/ElementTransitions.js/)
-CSS3トランジション
+[ElementTransitions.js](http://dan-silver.github.io/ElementTransitions.js/)
+: CSS3トランジション
 
-#### [Velocity.js](http://julian.com/research/velocity/)
-jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現コードの`$.animate()`を`$.Velocity()`に変えるだけでもパフォーマンスUP
-
+[Velocity.js](http://julian.com/research/velocity/)
+: jQuery, CSS3アニメーションを高速化するjQueryプラグイン。現コードの`$.animate()`を`$.Velocity()`に変えるだけでもパフォーマンスUP
 - [Velocity.jsによるフェーズ有りアニメーションの実装 « LINE Engineers' Blog](http://developers.linecorp.com/blog/?p=3230)
 
-#### [jQuery WebGL Ripples](http://sirxemic.github.io/jquery.ripples/)
-- [[JS]エフェクトの美しさがスゴイ！Webページを水面にし、波紋を生み出すスクリプト -jQuery Ripple | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-ripples.html)
+[jQuery WebGL Ripples](http://sirxemic.github.io/jquery.ripples/)
+: - [[JS]エフェクトの美しさがスゴイ！Webページを水面にし、波紋を生み出すスクリプト -jQuery Ripple | コリス](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-ripples.html)
 
-#### [nanobar.js](http://nanobar.micronube.com/)
-Very very lightweight progress bars
+[nanobar.js](http://nanobar.micronube.com/)
+: Very very lightweight progress bars
 
-#### [Popmotion](http://popmotion.io/)
-JavaScript animation, physics and input tracking
+[Popmotion](http://popmotion.io/)
+: JavaScript animation, physics and input tracking
 
-#### [delayDo](http://onopko.github.io/delayDo/)
-a tiny timer management plugin for jQuery
+[delayDo](http://onopko.github.io/delayDo/)
+: a tiny timer management plugin for jQuery
 
 [anime.js](http://anime-js.com/)
 : Anime (/ˈæn.ə.meɪ/) is a flexible yet lightweight Javascript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
