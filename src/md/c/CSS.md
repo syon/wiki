@@ -112,12 +112,14 @@ for Rapid Website Production
 
 ### font-family
 
-<pre>
+```css
 font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-</pre>
+```
+
 - [CSSでのフォント指定について考える（2014年） - DTP Transit](http://www.dtp-transit.jp/misc/web/post_1881.html)
 - [CSSのフォント指定見直した | Border/memo](http://brdr-mmrndm.tumblr.com/post/78948249547/css)
 - [JavaScriptでフォント名一覧を取得する3つの方法 | TAKESAKO @ Yet another Cybozu Labs](http://developer.cybozu.co.jp/takesako/2007/03/javascript_geta.html)
+- [Windowsで游ゴシックが汚いのは、どう考えてもWebデザイナーが悪い？ | Cherry Pie Web](http://www.cherrypieweb.com/weblog/technical/20160629025615.php)
 
 ### font-size
 
