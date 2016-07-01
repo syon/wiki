@@ -27,6 +27,7 @@ layout: page.jade
 ## Tutorial
 
 - [Docker入門 (全11回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_docker)
+- [Public BetaになったDocker for Macを使ってみる ｜ Developers.IO](http://dev.classmethod.jp/server-side/docker-server-side/using-docker-for-mac-public-beta/)
 - [Node.jsのマイクロサービスの構築を通してDockerを学ぶ – 前編 | プログラミング | POSTD](http://postd.cc/learn-docker-by-building-a-microservice-1/)
 - [Node.jsのマイクロサービスの構築を通してDockerを学ぶ – 後編 | プログラミング | POSTD](http://postd.cc/learn-docker-by-building-a-microservice-2/)
 
