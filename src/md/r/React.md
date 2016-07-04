@@ -41,8 +41,9 @@ layout: page.jade
   - [petehunt/react-howto の日本語訳 - console.lealog();](http://lealog.hateblo.jp/entry/2016/01/07/170707)
 
 #### React Router
-[rackt/react-router](https://github.com/rackt/react-router)
+[reactjs/react-router: A complete routing library for React](https://github.com/reactjs/react-router)
 
+- __[React Routerの公式チュートリアルがわかりやすかったよ - syonx](http://syonx.hatenablog.com/entry/2016/02/28/160557)__
 - [React初心者のためのreact-routerの使い方 - ハッカーを目指す白Tのブログ](http://beck23.hatenablog.com/entry/2015/02/20/054900)
 - [React-Router with Flux - Jake Trent](http://jaketrent.com/post/react-router-with-flux/)
 
