@@ -63,6 +63,9 @@ A touch slideout navigation menu for your mobile web apps.
 #### [Dropify](http://jeremyfagis.github.io/dropify/)
 Override your input files with style.
 
+#### [Holmes](https://haroen.me/holmes/)
+Fast and easy searching inside a page.
+
 
 ## Ajax
 [superagent](https://github.com/visionmedia/superagent)
