@@ -68,6 +68,9 @@ for Rapid Website Production
 [Buttons](http://unicorn-ui.com/buttons/)
 : A highly customizable CSS button library.
 
+[Picnic CSS](http://picnicss.com/)
+: A beautiful CSS library to kickstart your projects
+
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
 
