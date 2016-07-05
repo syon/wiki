@@ -19,52 +19,52 @@ layout: page.jade
 - [［Underscore.js］テンプレートとオブジェクトから文字列を生成する - Build Insider](http://www.buildinsider.net/web/bookjslib111/101)
 - [Backbone.jsで外部ファイルをテンプレートに指定する方法 - エピゴーネンで](http://epigonen190.blog.fc2.com/blog-entry-57.html)
 
-#### [Two.js](http://jonobr1.github.io/two.js/)
-SVG、Canvas、WebGLのどの環境でも同じAPIを通してベクトル方式の二次元描画が可能なJavaScriptライブラリ。アニメーションも。
+[Two.js](http://jonobr1.github.io/two.js/)
+: SVG、Canvas、WebGLのどの環境でも同じAPIを通してベクトル方式の二次元描画が可能なJavaScriptライブラリ。アニメーションも。
 
-#### [famo.us Stress Test Demo](http://www.famo.us/)
-[高速で綺麗なHTML5アプリケーションのためのフレームワークFamo.usが完全無料に | TechCrunch Japan](http://jp.techcrunch.com/2013/04/03/20130401famo-us-the-framework-for-fast-and-beautiful-html5-apps-will-be-free-thanks-to-huge-hardware-vendor-interest/)
+[famo.us Stress Test Demo](http://www.famo.us/)
+: [高速で綺麗なHTML5アプリケーションのためのフレームワークFamo.usが完全無料に | TechCrunch Japan](http://jp.techcrunch.com/2013/04/03/20130401famo-us-the-framework-for-fast-and-beautiful-html5-apps-will-be-free-thanks-to-huge-hardware-vendor-interest/)
 
-#### [nanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/)
-ミニマル＆必要なときだけ現れるMac OS X Lionライクなスクロールバーを実装するjQueryプラグイン。
+[nanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/)
+: ミニマル＆必要なときだけ現れるMac OS X Lionライクなスクロールバーを実装するjQueryプラグイン。
 
-#### [perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
-デザインを損なわないスクロールバーを設置します。
+[perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
+: デザインを損なわないスクロールバーを設置します。
 
-#### [Moment.js | Parse, validate, manipulate, and display dates in javascript.](http://momentjs.com/)
-日付処理ライブラリ。日本語も対応。
+[Moment.js](http://momentjs.com/)
+: 日付処理ライブラリ。日本語も対応。
 
-#### Helium
-[納品前の確認に最適、使用されていないCSSのセレクタを見つけ出すスクリプト -Helium | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-helium-for-discovering-unused-css.html)
+Helium
+: [納品前の確認に最適、使用されていないCSSのセレクタを見つけ出すスクリプト -Helium | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-helium-for-discovering-unused-css.html)
 
-#### [keymaster.js](https://github.com/madrobby/keymaster)
-キーボードショートカットにイベントを定義
+[keymaster.js](https://github.com/madrobby/keymaster)
+: キーボードショートカットにイベントを定義
 
-#### [flowchart.js](http://adrai.github.io/flowchart.js/)
-Draws simple SVG flow chart diagrams from textual representation of the diagram
+[flowchart.js](http://adrai.github.io/flowchart.js/)
+: Draws simple SVG flow chart diagrams from textual representation of the diagram
 
-#### [Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
-jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
+[Mythli/jquery.ytLoad](https://github.com/Mythli/jquery.ytLoad)
+: jQueryのajax通信時にプログレスバーを表示できるプラグイン。コールバックがあったりカスタマイズ性も高そう。
 
-#### [Fancytree](https://github.com/mar10/fancytree/)
-ツリー表示
+[Fancytree](https://github.com/mar10/fancytree/)
+: ツリー表示
 
-#### [Intro.js](http://usablica.github.io/intro.js/)
-[5分で完了！Webサイトに簡単にチュートリアルが作れるIntro.jsの使い方 | ランサーズ（Lancers）エンジニアブログ](http://engineer.blog.lancers.jp/2015/02/introjs/)
+[Intro.js](http://usablica.github.io/intro.js/)
+: [5分で完了！Webサイトに簡単にチュートリアルが作れるIntro.jsの使い方 | ランサーズ（Lancers）エンジニアブログ](http://engineer.blog.lancers.jp/2015/02/introjs/)
 
-#### [Slideout.js](https://mango.github.io/slideout/)
-A touch slideout navigation menu for your mobile web apps.
+[Slideout.js](https://mango.github.io/slideout/)
+: A touch slideout navigation menu for your mobile web apps.
 
 - [[JS]極シンプルなマークアップで、コンテンツを横にスライドさせナビゲーションを表示するスクリプト -Slideout.js | コリス](http://coliss.com/articles/build-websites/operation/javascript/js-slideout.html)
 
-#### [FileSaver.js demo](http://eligrey.com/demos/FileSaver.js/)
-- [D3.jsで作成したグラフ(SVG)を画像として保存する | Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
+[FileSaver.js demo](http://eligrey.com/demos/FileSaver.js/)
+: - [D3.jsで作成したグラフ(SVG)を画像として保存する | Tech-Sketch](http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html)
 
-#### [Dropify](http://jeremyfagis.github.io/dropify/)
-Override your input files with style.
+[Dropify](http://jeremyfagis.github.io/dropify/)
+: Override your input files with style.
 
-#### [Holmes](https://haroen.me/holmes/)
-Fast and easy searching inside a page.
+[Holmes](https://haroen.me/holmes/)
+: Fast and easy searching inside a page.
 
 
 ## Ajax
@@ -77,10 +77,11 @@ Fast and easy searching inside a page.
 
 ## Modal
 
-#### [SimpleModal](http://www.ericmmartin.com/projects/simplemodal/)
+[SimpleModal](http://www.ericmmartin.com/projects/simplemodal/)
+: SimpleModal is a lightweight jQuery Plugin which provides a powerful interface for modal dialog development.
 
-#### [Simple Modal](http://simplemodal.plasm.it/)
-Another window modal
+[SIMPLEMODAL](http://simplemodal.plasm.it/)
+: SIMPLEMODAL is a small plugin to create modal windows.
 
 
 ## Image
