@@ -38,6 +38,12 @@ A C implementation of a Sass compiler
     - 既存のクラス内にmixinをincludeしてbackground-positionを自動で割り当てる方式 → ボタンhoverなど
 
 
+## Sass library
+
+[Family.scss](http://lukyvj.github.io/family.scss/)
+: Family.scss is a set of 26 smart Sass mixins which will help you to manage the style of `:nth-child` ’ified elements, in an easy and classy way.
+
+
 ## Tips
 
 #### Clearfix
