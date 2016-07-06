@@ -60,6 +60,8 @@ layout: page.jade
 ### viewport
 
 - [これがスマートフォン向けサイトを作るときの viewport 設定３パターンだ - てっく煮ブログ](http://tech.nitoyon.com/ja/blog/2013/02/15/viewport/)
+- [iOS9でviewportのinitial-scaleが無効になる時の対策 | 株式会社クオックス | QOX Inc.](https://qox.jp/blog/ios9_viewport_workaround/)  
+  `shrink-to-fit=no`
 
 ### パフォーマンス・高速化・最適化
 
