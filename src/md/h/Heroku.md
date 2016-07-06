@@ -17,7 +17,7 @@ layout: page.jade
 - [最近の Rack サーバ事情について - willnet.in](http://willnet.in/156) :: unicorn or puma
 - [Heroku wkhtmltopdfで日本語フォントを利用する - 130単位](http://d.hatena.ne.jp/deeeki/20120902/heroku_wkhtmltopdf_fonts)  
   > TTFフォントを ~/.fonts に入れておくだけ
-
+- [『無料だとアプリを1日18時間しか稼働させられなかったのが、1アカウント内なら（複数アプリ合計で）24時間使えるようになってた』](https://twitter.com/sla/status/750405411568619520)
 
 ## Setup
 
