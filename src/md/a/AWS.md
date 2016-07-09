@@ -6,6 +6,7 @@ layout: page.jade
 
 ## Amazon Web Services
 
+- [「AWS is 何」を3行でまとめてみるよ \- Qiita](http://qiita.com/kohashi/items/1bb952313fb695f12577)
 - [2014年からはじめるAWSリンク集 | 外道父の匠](http://blog.father.gedow.net/2014/01/07/aws-links/)
 - [スタートアップならおさえておきたいAWS入門 ～メディア露出時のピーク対策編～](http://www.slideshare.net/schoowebcampus/awsamazon-web-services-29873429)
 - [AWSのセキュリティが気になるなら読んでおくべきAWSセキュリティのベストプラクティス - yoshidashingo](http://yoshidashingo.hatenablog.com/entry/2014/08/24/211825)
@@ -27,3 +28,7 @@ layout: page.jade
 ## Lambda
 
 - [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
+
+
+## IoT
+- [AWS IoT ボタン \- AWS IoT \| AWS](https://aws.amazon.com/jp/iot/button/)
