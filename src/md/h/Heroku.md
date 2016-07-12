@@ -18,6 +18,8 @@ layout: page.jade
 - [Heroku wkhtmltopdfで日本語フォントを利用する - 130単位](http://d.hatena.ne.jp/deeeki/20120902/heroku_wkhtmltopdf_fonts)  
   > TTFフォントを ~/.fonts に入れておくだけ
 - [『無料だとアプリを1日18時間しか稼働させられなかったのが、1アカウント内なら（複数アプリ合計で）24時間使えるようになってた』](https://twitter.com/sla/status/750405411568619520)
+- [Heroku で SSL（https）を導入する方法（2016年7月 最新版！） \- sakagami memo](http://sakagami.hatenablog.com/entry/2016/07/10/161814)
+
 
 ## Setup
 
