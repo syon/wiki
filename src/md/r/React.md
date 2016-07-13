@@ -46,6 +46,7 @@ layout: page.jade
 - __[React Routerの公式チュートリアルがわかりやすかったよ - syonx](http://syonx.hatenablog.com/entry/2016/02/28/160557)__
 - [React初心者のためのreact-routerの使い方 - ハッカーを目指す白Tのブログ](http://beck23.hatenablog.com/entry/2015/02/20/054900)
 - [React-Router with Flux - Jake Trent](http://jaketrent.com/post/react-router-with-flux/)
+- [You might not need React Router — Medium](https://medium.com/@tarkus/you-might-not-need-react-router-38673620f3d#.fn0q2pm2g)
 
 #### Flux
 - [reactjs - React.jsとFlux - Qiita](http://qiita.com/koba04/items/b32ba449d753fdb2b597)
