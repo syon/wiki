@@ -81,21 +81,21 @@ layout: page.jade
 
 ## Components
 
-#### [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
-  - [ReactJs-ReactNative-examples/examples/size-and-speed](https://github.com/liesislukas/ReactJs-ReactNative-examples/tree/master/examples/size-and-speed)  
+[Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
+: - [ReactJs-ReactNative-examples/examples/size-and-speed](https://github.com/liesislukas/ReactJs-ReactNative-examples/tree/master/examples/size-and-speed)  
   Size and Speed
 
-#### [D3 Components for React](https://github.com/codesuki/react-d3-components)
-- [React D3 Components Examples](http://codesuki.github.io/react-d3-components/example.html)
+[D3 Components for React](https://github.com/codesuki/react-d3-components)
+: - [React D3 Components Examples](http://codesuki.github.io/react-d3-components/example.html)
 
-#### [A carefully crafted datagrid for React](http://zippyui.github.io/react-datagrid/#/)
-テーブル描画コンポーネント。ハイパフォーマンス、列幅調整、列ON/OFFなど。
+[A carefully crafted datagrid for React](http://zippyui.github.io/react-datagrid/#/)
+: テーブル描画コンポーネント。ハイパフォーマンス、列幅調整、列ON/OFFなど。
 
-#### [gabrielbull/react-desktop · GitHub](https://github.com/gabrielbull/react-desktop)
-React UI Components for OS X El Capitan and Windows 10
+[gabrielbull/react-desktop · GitHub](https://github.com/gabrielbull/react-desktop)
+: React UI Components for OS X El Capitan and Windows 10
 
-#### [React Toolbox](http://react-toolbox.com/)
-Bootstrap your application with beautiful Material Design Components
+[React Toolbox](http://react-toolbox.com/)
+: Bootstrap your application with beautiful Material Design Components
 
 #### Articles
 - [早く・それなりの UI を実現する React コンポーネントセット 16 選 \- Qiita](http://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea)
