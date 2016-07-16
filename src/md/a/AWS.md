@@ -25,9 +25,14 @@ layout: page.jade
 - [Direct to S3 Image Uploads in Rails | Heroku Dev Center](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
 
 
+## API Gateway
+- [Amazon API GatewayでAPIキー認証を設定する ｜ Developers\.IO](http://dev.classmethod.jp/cloud/apigateway-apikey-auth/)
+
+
 ## Lambda
 
 - [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
+- [AWS LambdaとIFTTTでお手軽にpush通知を実現する \- Qiita](http://qiita.com/kawahiro311/items/41dca04fe899d4d142d9)
 
 
 ## IoT
