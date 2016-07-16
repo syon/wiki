@@ -113,6 +113,9 @@ Google Web Fontの説明
 #### articles
 - [Emoji: how do you get from U+1F355 to 🍕? – Monica Dinculescu](http://meowni.ca/posts/emoji-emoji-emoji/)  
   Chromeはどのようにして絵文字を描画しているか → Macは `AppleColorEmoji` にフォールバック
+- [アップル、絵文字に人種と肌の色の違いを導入。iOS 8\.3 / OS Xベータから \- Engadget Japanese](http://japanese.engadget.com/2015/02/23/ios-8-3-os-x/)
+- [Unicode絵文字にプログラマや歌手など11職種が追加、性別も指定可能に。既存33字も性別選択に対応 \- Engadget Japanese](http://japanese.engadget.com/2016/07/15/11-33/)
+
 
 ## 欧文書体
 - [2014年、フォント好きのための高品質なすごいフリーフォントのまとめ | コリス](http://coliss.com/articles/freebies/2014-best-of-free-fonts-for-roman.html)
