@@ -97,6 +97,10 @@ layout: page.jade
 [React Toolbox](http://react-toolbox.com/)
 : Bootstrap your application with beautiful Material Design Components
 
+#### Modal
+- [React Modal Dialog](http://www.qimingweng.com/react-modal-dialog/)
+- [React\.jsでModal componentの実装](http://c16e.com/1509031043/)
+
 #### Articles
 - [早く・それなりの UI を実現する React コンポーネントセット 16 選 \- Qiita](http://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea)
 
