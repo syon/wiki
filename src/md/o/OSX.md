@@ -107,6 +107,14 @@ brew cask install appcleaner
 - [Yosemiteアップデートでlaunchdが死亡した - retlet.net](http://retlet.net/log/2014/10/yosemite-launchd.html)
 
 
+## Terminal
+
+```bash
+# Play sound
+$ afplay /System/Library/Sounds/Glass.aiff
+```
+
+
 ## Preferences
 
 ### Screen saver
