@@ -101,6 +101,11 @@ layout: page.jade
 ### Reactive Programming
 - [【翻訳】あなたが求めていたリアクティブプログラミング入門 - ninjinkun's diary](http://ninjinkun.hatenablog.com/entry/introrxja)
 
+### Microservices
+
+- [マイクロサービスアーキテクチャにおけるAPIコールの仕方とHTMLレンダリング \- Qiita](http://qiita.com/kawasima/items/356d54e253c54d730fb0)
+- [Isomorphic Survival Guide // Speaker Deck](https://speakerdeck.com/koichik/isomorphic-survival-guide)
+
 
 ## 文字コード
 
