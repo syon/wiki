@@ -112,12 +112,6 @@ layout: page.jade
 - [マイクロサービスで必要になるかなぁって思って僕がOAuth2とOpenID Connectをなんとなく分かるようになるまでの物語 \- Mitsuyuki\.Shiiba](http://bufferings.hatenablog.com/entry/2016/07/12/073351)
 
 
-## 文字コード
-
-- [Unicode character table](http://unicode-table.com/en/)
-- [文字コード変換ミスによる文字化けパターンと想定される原因 - drk7jp](http://www.drk7.jp/MT/archives/001939.html)
-
-
 ## まとめ
 
 - [ペパボのフロントエンドスタンダード](http://pepabo.github.io/docs/frontend/standard.html)

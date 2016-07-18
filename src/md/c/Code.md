@@ -48,6 +48,8 @@ layout: page.jade
 
 ## 文字コード
 - [符号化文字集合と文字符号化方式 - 「プログラマのための文字コード技術入門」を読んだ - $shibayu36->blog;](http://blog.shibayu36.org/entry/2015/09/14/102100)
+- [Unicode character table](http://unicode-table.com/en/)
+- [文字コード変換ミスによる文字化けパターンと想定される原因 - drk7jp](http://www.drk7.jp/MT/archives/001939.html)
 
 
 ## Document formats
