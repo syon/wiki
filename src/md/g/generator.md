@@ -21,6 +21,7 @@ layout: page.jade
 
 ### Personal data
 - [ランダムに名前を生成 - Fake Name Generator](http://ja.fakenamegenerator.com/)
+- [すごい名前生成器 \- 創作に使えるランダム人名ジェネレータ](http://namegen.chobitool.com/)
 
 ### Articles
 - [ダミー文章、ダミーデータ、ダミー画像を作ってくれるジェネレータまとめ【WEB制作】 - NAVER まとめ](http://matome.naver.jp/odai/2133396164637378001)
