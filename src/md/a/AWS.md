@@ -30,6 +30,11 @@ layout: page.jade
 - [Direct to S3 Image Uploads in Rails | Heroku Dev Center](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
 
 
+## CloudFront
+
+- [\[CloudFront \+ S3\]特定バケットに特定ディストリビューションのみからアクセスできるよう設定する ｜ Developers\.IO](http://dev.classmethod.jp/cloud/aws/cloudfront-s3-origin-access-identity/)
+
+
 ## API Gateway
 - [Amazon API GatewayでAPIキー認証を設定する ｜ Developers\.IO](http://dev.classmethod.jp/cloud/apigateway-apikey-auth/)
 
