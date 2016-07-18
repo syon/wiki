@@ -1,10 +1,10 @@
 ---
 slug: aws
-title: AWS
+title: Amazon Web Services
 layout: page.jade
 ---
 
-## Amazon Web Services
+#### articles
 
 - [「AWS is 何」を3行でまとめてみるよ \- Qiita](http://qiita.com/kohashi/items/1bb952313fb695f12577)
 - [2014年からはじめるAWSリンク集 | 外道父の匠](http://blog.father.gedow.net/2014/01/07/aws-links/)
@@ -15,6 +15,11 @@ layout: page.jade
 - [現代ITインフラの王道をゆくLinuxパッケージ管理の基本構成 | 外道父の匠](http://blog.father.gedow.net/2016/03/08/package-control/)
 - [月額10円から作るServerLess Website // Speaker Deck](https://speakerdeck.com/morita92hiro/yue-e-10yuan-karazuo-ruserverless-website)
 - [[AWS]構成図からAWS環境を自動構築するツール「VisualOps」を触ってみた - Qiita](http://qiita.com/koomaru/items/439819c9682fa59d0328)
+
+
+## 料金
+
+- [AWS料金早見表（サーバレスアーキテクチャ） \- Qiita](http://qiita.com/teradonburi/items/a382a17e1e0245b7d831)
 
 
 ## AWS CLI
