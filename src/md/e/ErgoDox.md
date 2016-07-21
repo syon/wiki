@@ -1,6 +1,6 @@
 ---
 slug: ergodox
-title: ergodox
+title: ErgoDox
 layout: page.jade
 ---
 
@@ -18,6 +18,9 @@ An Incredible Mechanical Ergonomic Keyboard
 
 #### 購入
 - [はじめてのErgoDox EZ購入ガイド \- Qiita](http://qiita.com/moutend/items/dd3ac2b8cffd69809928)
+
+#### ガイド
+- [Ergodox EZ を使ってみよう \- Qiita](http://qiita.com/kei_s/items/40a896d1a1c70f2961e0)
 
 #### レポート
 - [ErgoDoxを2枚買ってキースイッチを交換した \- k0kubun's blog](http://k0kubun.hatenablog.com/entry/ergodox)
