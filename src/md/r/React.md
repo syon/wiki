@@ -103,6 +103,7 @@ layout: page.jade
 
 #### Articles
 - [早く・それなりの UI を実現する React コンポーネントセット 16 選 \- Qiita](http://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea)
+- [React\.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
 
 ## Examples
