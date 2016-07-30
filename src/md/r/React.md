@@ -101,6 +101,9 @@ layout: page.jade
 - [React Modal Dialog](http://www.qimingweng.com/react-modal-dialog/)
 - [React\.jsでModal componentの実装](http://c16e.com/1509031043/)
 
+#### Sound
+- [leoasis/react\-sound: Sound component to play audio in your web apps](https://github.com/leoasis/react-sound)
+
 #### Articles
 - [早く・それなりの UI を実現する React コンポーネントセット 16 選 \- Qiita](http://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea)
 - [React\.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
