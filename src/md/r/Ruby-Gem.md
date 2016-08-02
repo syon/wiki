@@ -87,6 +87,7 @@ CSSセレクタでDOMにアクセスできる。
 - [スクレイピングのためのNokogiri利用メモ - それはそれ。これはこれ。](http://d.hatena.ne.jp/otn/20090509/p1)
 - [Nokogiri を使った Rubyスクレイピング [初心者向けチュートリアル] - 酒と泪とRubyとRailsと](http://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/)
 - [Ruby製の構文解析ツール、Nokogiriの使い方 with Xpath - プログラマになりたい](http://blog.takuros.net/entry/2014/04/15/070434)
+- [Nokogiriで文字化けを防ぐ \- Qiita](http://qiita.com/foloinfo/items/435f0409a6e33929ef3c)
 
 ### mechanize
 
