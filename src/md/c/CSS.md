@@ -180,6 +180,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [これが知りたかった！よく使うUI要素をFlexboxを使ってシンプルに簡単に実装するチュートリアル | コリス](http://coliss.com/articles/build-websites/operation/css/using-flexbox-for-ui-components.html)
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home)
 - [Flexboxの特性をうまく使い、Media Queries無しでレスポンシブ対応のレイアウトを作成するCSSのテクニック | コリス](http://coliss.com/articles/build-websites/operation/css/flexbox-responsive-layout-without-media-queries.html)
+- [flexboxのバグに立ち向かう（flexboxバグまとめ） \- Qiita](http://qiita.com/hashrock/items/189db03021b0f565ae27)
 
 
 ## TIPS
