@@ -61,6 +61,9 @@ layout: page.jade
 
 - [Bootstrapで日本語をより美しく表示させることにこだわった無料のテーマ -Honoka | コリス](http://coliss.com/articles/build-websites/operation/work/bootstrap-theme-honoka.html)
 
+- [winstrap](http://winstrap.azurewebsites.net/)
+  - [winstrap \- Microsoft社公認のBootstrapテーマ MOONGIFT](http://www.moongift.jp/2016/08/winstrap-microsoft%E7%A4%BE%E5%85%AC%E8%AA%8D%E3%81%AEbootstrap%E3%83%86%E3%83%BC%E3%83%9E/)
+
 ### まとめ
 
 - [商用も無料！Bootstrapをベースに最近のトレンドを取り入れた新作テンプレートのまとめ | コリス](http://coliss.com/articles/build-websites/operation/work/best-templates-for-bootstrap-2014.html)
