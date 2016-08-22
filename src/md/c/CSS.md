@@ -181,6 +181,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home)
 - [Flexboxの特性をうまく使い、Media Queries無しでレスポンシブ対応のレイアウトを作成するCSSのテクニック | コリス](http://coliss.com/articles/build-websites/operation/css/flexbox-responsive-layout-without-media-queries.html)
 - [flexboxのバグに立ち向かう（flexboxバグまとめ） \- Qiita](http://qiita.com/hashrock/items/189db03021b0f565ae27)
+- [CSSレイアウトにfloatはもう古い！ Webデザイナー初心者でも始められるFlexbox入門 \- ICS MEDIA](https://ics.media/entry/13117)
 
 
 ## TIPS
