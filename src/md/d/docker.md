@@ -34,6 +34,10 @@ layout: page.jade
 - [Node.jsのマイクロサービスの構築を通してDockerを学ぶ – 後編 | プログラミング | POSTD](http://postd.cc/learn-docker-by-building-a-microservice-2/)
 
 
+## Dockerfile
+- [Dockerfile ベストプラクティス \(仮\) \- Qoosky](https://www.qoosky.io/techs/f38c112ca9)
+
+
 ## まとめ
 
 - [dockerについて社内勉強会で話しました - 圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/entry/2014/01/30/161032)
