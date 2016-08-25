@@ -34,3 +34,21 @@ $ make
 ```
 
 Files are generated in `wiki` directory (for github pages).
+
+
+## Docker
+
+```sh
+# Make image with Dockerfile for building HTML
+$ docker build -t syon/wiki .
+
+# Run to build
+$ docker run --rm -v (pwd):/tmp syon/wiki /bin/bash docker-script.sh
+
+# Start web server -- http://localhost:4444
+# <WIP>
+$ docker run --name wiki -p 4444:80 nginx
+
+# Stop web server
+$ docker stop wiki
+```
