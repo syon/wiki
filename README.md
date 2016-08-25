@@ -43,7 +43,7 @@ Files are generated in `wiki` directory (for github pages).
 $ docker build -t syon/wiki .
 
 # Run to build
-$ docker run --rm -v (pwd):/tmp syon/wiki /bin/bash docker-script.sh
+$ sh build.sh
 
 # Start web server -- http://localhost:4444
 # <WIP>
