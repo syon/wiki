@@ -57,6 +57,9 @@ layout: page.jade
 - [Dockerで遊んでみよっかー YAPC::Asia Tokyo 2014](http://www.slideshare.net/kazeburo/docker-yapcasia-tokyo-2014)
 - [軽くて使いやすい仮想化技術 「Docker」の仕組みと　エンタープライズ開発における4つの活用事例 （1/6）：CodeZine](http://codezine.jp/article/detail/7894)
 
+#### Registry
+- [社内用Docker環境をつくる〜Docker Registry on EC2とDocker for AWSについて〜 \| Recruit Jobs TECHBLOG](https://techblog.recruitjobs.net/development/docker-registry-on-ec2_and_docker-for-aws)
+
 ### Mac
 
 - [Docker を Mac で使ってみた（Nodeアプリ例） ::ハブろぐ](http://havelog.ayumusato.com/develop/server/e601-docker_on_mac.html)
