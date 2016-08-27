@@ -14,29 +14,25 @@ Node.js
 $ npm install
 ```
 
-
-## Run on Harp
-
+__.env__
 ```sh
-# on project root
-$ harp server
+LISTEN_PORT=8888
+SERVE_DIR=
 ```
-
-- http://localhost:9000/wiki/
 
 
 ## Build
 
-Works on Metalsmith.
+Using Metalsmith.
+Files are generated in `wiki` directory (for github pages).
+
+#### on local machine
 
 ```sh
 $ make
 ```
 
-Files are generated in `wiki` directory (for github pages).
-
-
-## Docker
+#### on Docker
 
 ```sh
 # Make image with Dockerfile for building HTML
@@ -44,11 +40,12 @@ $ docker build -t syon/wiki .
 
 # Run to build
 $ sh build.sh
-
-# Start web server -- http://localhost:4444
-# <WIP>
-$ docker run --name wiki -p 4444:80 nginx
-
-# Stop web server
-$ docker stop wiki
 ```
+
+
+## Serve
+
+```sh
+$ node serve
+```
+- http://localhost:8888/wiki/
