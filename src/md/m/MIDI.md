@@ -28,8 +28,11 @@ layout: page.jade
 ![mi.1](/wiki/assets/img/mi1.jpg)
 
 - [Quicco Sound](http://quicco.co.jp/ja/)
+- [Facebook - キッコサウンド (QUICCO SOUND)](https://www.facebook.com/quiccosound)
 - [mi1寸法図](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)
 - [Amazon \| ワイヤレスMIDIインターフェース mi\.1 \[Rev\.3\] \| QUICCO SOUND \| 電子ピアノアクセサリ](https://www.amazon.co.jp/dp/B01D72XKZY)
 - [元ヤマハ技術者達が開発する世界初の電源不要ワイヤレスMIDI、mi.1 : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51896666.html#more)
 - [進化するBluetooth MIDI。QUICCO SOUNDのmi.1はレイテンシーを感じないレベルへ : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51935581.html)
 - [【藤本健のDigital Audio Laboratory】第669回:Bluetooth MIDI伝送で何ができる? 対応5製品とiPad連携などを試す \- AV Watch](http://av.watch.impress.co.jp/docs/series/dal/745845.html)
+- [【楽器】mi\.1を使ってキーターでワイヤレス演奏 : 物欲よこんにちわ](http://blog.livedoor.jp/cupidity/archives/1813644.html)
+- [Quicco Sound mi\.1 Demo & Review \[English Captions\] \- YouTube](https://www.youtube.com/watch?v=jvms4LZ7oh0)
