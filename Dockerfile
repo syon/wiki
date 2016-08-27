@@ -1,5 +1,6 @@
 FROM node:6.4
 
-WORKDIR /app
-ADD . /app
+WORKDIR /tmp
+ADD package.json /tmp
 RUN npm install
+WORKDIR /app
