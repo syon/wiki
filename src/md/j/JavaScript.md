@@ -126,6 +126,7 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 ## バッドノウハウ
 
 - [JavaScriptでオブジェクトの型を判別するのにtypeof演算子使うとツラいよね - Qiita](http://qiita.com/Layzie/items/465e715dae14e2f601de)
+- [JavaScriptのparseIntで小数を整数に変換しようとしてはまる](https://gist.github.com/Hamayama/a1ddbd882cb06a475735)
 
 ### IE
 
