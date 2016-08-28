@@ -20,6 +20,10 @@ layout: page.jade
 - [マイクロサービスアーキテクチャにおけるAPIコールの仕方とHTMLレンダリング \- Qiita](http://qiita.com/kawasima/items/356d54e253c54d730fb0)
 - [Sam Newman \- Backends For Frontends](http://samnewman.io/patterns/architectural/bff/)
 
+### BFF (Backends for Frontends)
+
+- [マイクロサービスのための綺麗なAPI設計 by Go Takagi \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/32977#)
+
 ### OAuth
 
 - [マイクロサービスで必要になるかなぁって思って僕がOAuth2とOpenID Connectをなんとなく分かるようになるまでの物語 \- Mitsuyuki\.Shiiba](http://bufferings.hatenablog.com/entry/2016/07/12/073351)
