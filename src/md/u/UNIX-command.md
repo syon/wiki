@@ -40,6 +40,11 @@ $ find dir_name -type f -name '*.org' -delete
 - [linux - How can I run dos2unix on an entire directory? - Stack Overflow](http://stackoverflow.com/questions/11929461/how-can-i-run-dos2unix-on-an-entire-directory)
 
 
+## Font
+
+- [fontconfig \- フォントの設定：Linuxの環境設定に関するメモ：So\-netブログ](http://dan-project.blog.so-net.ne.jp/2010-06-10)
+
+
 ## Network
 
 #### LAN内で利用されているIPアドレスを調べる
