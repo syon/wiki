@@ -33,3 +33,4 @@ layout: page.jade
 - [Electron で desktopCapturer と WebRTC を使ってリアルタイム配信するアプリを書いた - Qiita](http://qiita.com/yuitowest/items/e9b2b087dffcefaa7bd2)
 - [Electronの倒し方](http://utf-8.jp/public/2016/0307/electron.pdf) (Security)
 - [npm install electron \- Electron](http://electron.atom.io/blog/2016/08/16/npm-install-electron)
+- [Electronの公式テストフレームワークSpectron入門 \- ICS MEDIA](https://ics.media/entry/13082)
