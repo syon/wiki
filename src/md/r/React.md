@@ -48,7 +48,8 @@ layout: page.jade
 - [React-Router with Flux - Jake Trent](http://jaketrent.com/post/react-router-with-flux/)
 - [You might not need React Router — Medium](https://medium.com/@tarkus/you-might-not-need-react-router-38673620f3d#.fn0q2pm2g)
 
-#### Flux
+
+## Flux
 - [reactjs - React.jsとFlux - Qiita](http://qiita.com/koba04/items/b32ba449d753fdb2b597)
 - [ReactとFluxのこと // Speaker Deck](https://speakerdeck.com/geta6/reacttofluxfalsekoto)
 - [ReactとFluxでクライアントサイドの設計 | KRAY Inc](http://kray.jp/blog/react-flux/)
@@ -58,8 +59,11 @@ layout: page.jade
 - [redux への 不満を解消する為に, flumptというFlux実装を作った - Qiita](http://qiita.com/mizchi/items/79673c4d406cc85b44aa)
 - [React+fluxを導入した話](http://www.slideshare.net/hoto17296/reactflux)
 
-#### Redux
+### Redux
 
+![Redux](/wiki/assets/img/redux.jpg)
+
+- [Reactive State Machine \(Japanese\) // Speaker Deck](https://speakerdeck.com/inamiy/reactive-state-machine-japanese)
 - [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
 - [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
