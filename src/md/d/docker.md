@@ -22,12 +22,12 @@ layout: page.jade
 ## TIPS
 
 #### コンテナの削除
-```sh
+```bash
 docker rm `docker ps -a -q`
 ```
 
 #### イメージの削除
-```sh
+```bash
 docker rmi $(docker images | awk '/^<none>/ { print $3 }')
 ```
 

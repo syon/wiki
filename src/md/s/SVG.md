@@ -53,6 +53,7 @@ Scalable Vector Graphics
 ### Convert Text with font to Outline
 
 ```bash
+# Mac
 $ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z -T -f ~/sample.svg -l ~/out.svg
 ```
 
