@@ -19,6 +19,9 @@ layout: page.jade
 
 ## IoT
 
+![](/wiki/assets/img/mirror.jpg)
+
+- [My Bathroom Mirror Is Smarter Than Yours – Medium](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba#.6u1t88z8d)
 - [色んなガジェットを組み合わせて作った部屋で実際に暮らして思ったことや次バージョンへの思いをまとめてみた - 凹みTips](http://tips.hecomi.com/entry/2014/12/23/233835)
 - [myThings - あなたの毎日が、組み合わせで便利になる](http://mythings.yahoo.co.jp/)
 - [おうちハック Advent Calendar 2015 - Qiita](http://qiita.com/advent-calendar/2015/ouch-hack)
