@@ -59,7 +59,7 @@ $ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z -T -f ~/sample.s
 - [php - Converting text into path (svg) on server? - Stack Overflow](http://stackoverflow.com/questions/8422558/converting-text-into-path-svg-on-server)
 - [Inkscapeで描いた画像をpngにバッチ変換する - Qiita](http://qiita.com/mstssk/items/8e79d946de2cf1d2786f)
 - [Inkscape - an SVG editing program. | Inkscape](https://inkscape.org/ja/doc/inkscape-man.html)
-- [randyschneck/docker\-inkscape: run inkscape in a docker container](https://github.com/randyschneck/docker-inkscape)
+- [https://hub\.docker\.com/r/rasch/inkscape/](https://hub.docker.com/r/rasch/inkscape/)
 - [任意のフォントを使ってDocker上でサイトのスクリーンショットを取りたい \- Qiita](http://qiita.com/yusukefurukawa/items/8774a2fc38799915790b)
 
 
