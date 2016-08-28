@@ -18,6 +18,20 @@ layout: page.jade
 - [Dockership](http://docker.sh/ip/)  
   Dockership is a tool for easily deploying Docker containers to one or multiple Docker servers.
 
+
+## TIPS
+
+#### コンテナの削除
+```sh
+docker rm `docker ps -a -q`
+```
+
+#### イメージの削除
+```sh
+docker rmi $(docker images | awk '/^<none>/ { print $3 }')
+```
+
+
 ## News
 
 - [Dockerに最適化したOSイメージをGoogle Compute Engineが提供開始。CoreOSも利用可能に － Publickey](http://www.publickey1.jp/blog/14/dockerosgoogle_compute_enginecoreos.html)
