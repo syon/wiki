@@ -100,7 +100,7 @@ $ curl -L https://npmjs.org/install.sh | sudo sh
 $ sudo chown -R $USER /usr/local
 ```
 
-#### Tips
+#### npm tips
 - [npm semantic version calculator](http://semver.npmjs.com/)  
   `^2.2.1`とかの表記でどのバージョンにマッチするかがわかる
 
@@ -138,8 +138,15 @@ JSCS is a code style linter/formatter for programmatically enforcing your style 
 - [nodeベースでGUIアプリを開発する「node-webkit」｜1 pixel｜サイバーエージェント公式クリエイターズブログ](http://ameblo.jp/ca-1pixel/entry-11765019318.html)
 - [透過がサポートされたnode-webkit（NW.js）でガジェットを作ろう : アシアルブログ](http://blog.asial.co.jp/1350)
 
+
 ## Electron
 - __[Electron](/wiki/electron/)__
+
+
+## TIPS
+
+- [Node\.jsからシェルコマンドを実行する \- BppLOG](http://tkybpp.hatenablog.com/entry/2016/04/25/163246)
+
 
 ## Articles
 
