@@ -165,3 +165,14 @@ JSCS is a code style linter/formatter for programmatically enforcing your style 
 
 #### Socket.IO
 - [Node.js＋Socket.IOで作る、通信対戦ができるHTML5ゲームシステムの作り方 - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/online_game_architecture_by_socketio/)
+
+
+## Express
+
+- [node\.js \- render svg file and serve it using express \- Stack Overflow](http://stackoverflow.com/questions/32546967/render-svg-file-and-serve-it-using-express)
+```js
+router.get('/status', function (req, res, next) {
+  res.setHeader('Content-Type', 'image/svg+xml');
+  res.sendFile(path.join(__dirname, '../views/status.svg'));
+});
+```
