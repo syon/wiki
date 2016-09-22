@@ -16,6 +16,14 @@ layout: page.jade
 
 ## D3.js Wrapper Library
 
+[Plotly](https://plot.ly/)
+: Plotly is the modern platform for agile business intelligence and data science.
+- https://github.com/plotly
+
+[dc\.js](http://dc-js.github.io/dc.js/)
+: Dimensional Charting Javascript Library
+- https://github.com/dc-js/dc.js
+
 [C3\.js](http://c3js.org/)
 : D3-based reusable chart library
 - https://github.com/c3js/c3
@@ -43,6 +51,12 @@ layout: page.jade
 [d3fc](https://d3fc.io/images/logo.svg)
 : A collection of components that make it easy to build interactive charts with D3.
 - https://github.com/ScottLogic/d3fc
+
+### Tools
+
+[ColorBrewer](http://colorbrewer2.org/)
+: Color Advice for Maps
+- [Every ColorBrewer Scale \- bl\.ocks\.org](https://bl.ocks.org/mbostock/5577023)
 
 
 ## Other Visualization Tools
