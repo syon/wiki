@@ -16,17 +16,37 @@ layout: page.jade
 
 ## D3.js Wrapper Library
 
+[C3\.js](http://c3js.org/)
+: D3-based reusable chart library
+- https://github.com/c3js/c3
+
 [NVD3](http://nvd3.org/)
 : A reusable charting library written in d3.js
 - https://github.com/novus/nvd3
 
+[d3\.compose](http://csnw.github.io/d3.compose/)
+: Compose complex, data-driven visualizations from reusable charts and components with d3
+- https://github.com/CSNW/d3.compose
+
+[d3\.chart](http://misoproject.com/d3-chart/)
+: d3.chart is a framework for building reusable charts with d3.js.
+- https://github.com/misoproject/d3.chart
+
+[Taucharts](https://www.taucharts.com/)
+: flexible javascript charting library for data exploration
+- https://github.com/TargetProcess/tauCharts
+
 [Rickshaw](http://code.shutterstock.com/rickshaw/)
 : A JavaScript toolkit for creating interactive time\-series graphs
+- https://github.com/shutterstock/rickshaw
+
+[d3fc](https://d3fc.io/images/logo.svg)
+: A collection of components that make it easy to build interactive charts with D3.
+- https://github.com/ScottLogic/d3fc
 
 
 ## Other Visualization Tools
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
-    - [Chart.js Retina対応 | 田植え日記](http://syon.github.io/2014/08/13/)
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)
 - [美しいグラフやレポートが作れるWebツール「Visage」（クローズドベータ） | ビジュアルシンキング](http://www.visualthinking.jp/archives/18612)
 - [データビジュアライゼーション・ツール20選 | lab.sugimototatsuo.com](http://lab.sugimototatsuo.com/2013/08/top-20-data-visualisation-tools/)
