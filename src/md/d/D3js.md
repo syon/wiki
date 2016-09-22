@@ -4,12 +4,24 @@ title: D3.js
 layout: page.jade
 ---
 
+[D3\.js \- Data\-Driven Documents](https://d3js.org/)
+
 ![D3.js](/wiki/assets/img/d3js.png)
 
 
 ## Overview
 - [ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」](http://blog.btrax.com/jp/2013/01/17/data-design-d3/)
 - [データを分かりやすくスタイリッシュに可視化できるJavascriptライブラリ「D3.js」 - GIGAZINE](http://gigazine.net/news/20130121-data-design-d3js/)
+
+
+## D3.js Wrapper Library
+
+[NVD3](http://nvd3.org/)
+: A reusable charting library written in d3.js
+- https://github.com/novus/nvd3
+
+[Rickshaw](http://code.shutterstock.com/rickshaw/)
+: A JavaScript toolkit for creating interactive time\-series graphs
 
 
 ## Other Visualization Tools
