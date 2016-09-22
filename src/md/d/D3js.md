@@ -58,6 +58,10 @@ layout: page.jade
 : Color Advice for Maps
 - [Every ColorBrewer Scale \- bl\.ocks\.org](https://bl.ocks.org/mbostock/5577023)
 
+#### articles
+- [D3\.js ver\.3 Wrapper Library \- NAVER まとめ](http://matome.naver.jp/odai/2138966107937611601)
+- [Data Analytics and Visualisation](http://data-analytics.github.io/)
+
 
 ## Other Visualization Tools
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
