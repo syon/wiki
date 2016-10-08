@@ -34,6 +34,7 @@ layout: page.jade
 - [最近のUIデザインで使われている落ち着いたパステルや同一色相のグラデーションなど、人気のあるカラーのまとめ | コリス](http://coliss.com/articles/build-websites/operation/design/best-colors-for-recent-ui-design.html)
 - [Coolors Tutorial - The super fast color palettes generator!](http://coolors.co/intro/)
 - [Material Design Color Palette Generator - Material Palette](http://www.materialpalette.com/)
+- [Open Color](https://yeun.github.io/open-color/)
 
 
 ## 画像
