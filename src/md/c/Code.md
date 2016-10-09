@@ -44,6 +44,7 @@ layout: page.jade
 - [プログラミングで変数名や関数名のネーミングに迷ったときに便利なカンニングペーパーまとめ](http://nelog.jp/programming-words)
 - [JavaScriptネーミングベストプラクティス](http://axross.me/javascript-naming-best-practice/)
 - [プログラミング - うまくメソッド名を付けるための参考情報 - Qiita](http://qiita.com/KeithYokoma/items/2193cf79ba76563e3db6)
+- [CSSのクラス名を決めるときに使うリストをつくりました \- Qiita](http://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)
 
 
 ## 文字コード
