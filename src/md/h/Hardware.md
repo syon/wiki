@@ -4,8 +4,13 @@ title: Hardware
 layout: page.jade
 ---
 
+## Display
+- [快適なPCライフに直結、用途別液晶ディスプレイカタログ \- AKIBA PC Hotline\!](http://akiba-pc.watch.impress.co.jp/docs/dosv/1025427.html)
+
+
 ## Arduino
 → __[Arduino](/wiki/arduino/)__
+
 
 ## littleBits
 
