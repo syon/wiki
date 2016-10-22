@@ -19,6 +19,7 @@ layout: page.jade
 - [現代ITインフラの王道をゆくLinuxパッケージ管理の基本構成 | 外道父の匠](http://blog.father.gedow.net/2016/03/08/package-control/)
 - [月額10円から作るServerLess Website // Speaker Deck](https://speakerdeck.com/morita92hiro/yue-e-10yuan-karazuo-ruserverless-website)
 - [[AWS]構成図からAWS環境を自動構築するツール「VisualOps」を触ってみた - Qiita](http://qiita.com/koomaru/items/439819c9682fa59d0328)
+- [AWSでLinuxしか触ったことない人が、AWSでWindowsServerを利用するときに知らないと損すること \- Qiita](http://qiita.com/uzresk/items/c39b05cb597809d3e278?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items)
 
 
 ## 料金
