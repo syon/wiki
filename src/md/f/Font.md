@@ -41,6 +41,9 @@ layout: page.jade
 
 ## Google
 
+#### Google Fonts + 日本語
+- [Google Fonts \+ 日本語 早期アクセス • Google Fonts \+ Japanese Early Access](https://googlefonts.github.io/japanese/)
+
 #### [Google Noto Fonts](http://www.google.com/get/noto/)
 Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.
 - [GoogleとAdobeのフォントNoto Sans（Source Han Sans）の画期的なところ | Stocker.jp / diary](http://stocker.jp/diary/noto-sans/)
