@@ -8,6 +8,9 @@ layout: page.jade
 
 - [JenkinsBehindProxy - Jenkins - Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/JenkinsBehindProxy)
 
+#### note
+- [WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない \| Futurismo](http://futurismo.biz/archives/331)
+
 
 ## [CircleCI](https://circleci.com/)
 
