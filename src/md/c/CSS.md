@@ -71,6 +71,9 @@ for Rapid Website Production
 [Picnic CSS](http://picnicss.com/)
 : A beautiful CSS library to kickstart your projects
 
+[Spectre\.css](https://picturepan2.github.io/spectre/)
+: a lightweight, responsive and modern CSS framework
+
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
 
