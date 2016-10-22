@@ -136,6 +136,7 @@ layout: page.jade
 - [すべてのReact.js初心者が知っておくべき9つのポイント - Qiita](http://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295)
 - [その案件、Reactで本当に大丈夫ですか？ | eureka tech blog](https://developers.eure.jp/tech/react_or_not/)
 - [The state of React.js 2016 // Speaker Deck](https://speakerdeck.com/koba04/the-state-of-react-dot-js-2016)
+- [Reactの最新動向とベストプラクティス ── HTML5 Conference 2016セッションレポート \| HTML5Experts\.jp](https://html5experts.jp/koba04/20839/)
 
 
 ## React Native
