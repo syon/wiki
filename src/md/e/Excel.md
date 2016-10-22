@@ -39,6 +39,9 @@ layout: page.jade
 0. データタブ
 0. テキストファイル
 
+#### UTF-8
+- [Excel（エクセル）で文字化けしないUTF-8のCSVファイルを出力する方法](http://web-media.jp/web/1/)
+
 ### [最後のセル(Ctrl+End)]の位置を修正する
 
 0. Ctrl+End
