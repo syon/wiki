@@ -110,6 +110,7 @@ $ npm ls --depth=0 -g
 ```
 
 - [Node.jsユーザーなら押さえておきたいnpm-scriptsのタスク実行方法まとめ - ICS MEDIA](https://ics.media/entry/12226)
+- [npm で依存もタスクも一元化する \- Qiita](http://qiita.com/Jxck_/items/efaff21b977ddc782971)
 
 
 ## npm packages
