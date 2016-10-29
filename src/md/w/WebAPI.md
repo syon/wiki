@@ -32,6 +32,7 @@ layout: page.jade
 
 #### 無料でいい感じのもの
 
+- [JSON Test by jsontest](http://www.jsontest.com/)
 - [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
 
 #### Pocket API
