@@ -71,6 +71,7 @@ layout: page.jade
 
 ### Tools
 
+- [Amazon 商品画像取得ツール](http://utils.ipentec.com/amazonProductsImageCapture/)
 - [ポンデリンク \| amazonアソシエイト画像リンク作成ツール](http://ponde.info/)
 
 ### Development
