@@ -68,6 +68,7 @@ layout: page.jade
 - [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
 - [なぜReduxを使うのか // Speaker Deck](https://speakerdeck.com/kuy/nazereduxwoshi-ufalseka)
+- [Clean Architecture in React – Medium](https://medium.com/@axross/wip-react-clean-architecture-386c950d8b3a#.vgygwct23)
 
 
 ## Style Guide
