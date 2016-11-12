@@ -153,6 +153,8 @@ layout: page.jade
 
 
 ## データ
+- [政府統計の総合窓口\(e\-Stat\)−API機能](http://www.e-stat.go.jp/api/)  
+  政府統計の総合窓口\(e\-Stat\)で提供している統計データ等を機械判読可能な形式で取得できるAPI機能を提供します
 - [【e-Stat】 政府統計の総合窓口 GL01010101](http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do)
 - [統計 API デモンストレーション - 統計表の取得](http://vps327903.cloud-testbed-vps.jp/tokeidb/)
 - [国勢調査など政府統計データをCSV化してダウンロードできる「統計くん」　政府API活用 - ITmedia ニュース](http://www.itmedia.co.jp/news/articles/1306/13/news094.html)

@@ -29,6 +29,8 @@ layout: page.jade
 ### APIs
 - [NHK番組表API](http://api-portal.nhk.or.jp/ja)
 - [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
+- [政府統計の総合窓口\(e\-Stat\)−API機能](http://www.e-stat.go.jp/api/)  
+  政府統計の総合窓口\(e\-Stat\)で提供している統計データ等を機械判読可能な形式で取得できるAPI機能を提供します
 
 #### 無料でいい感じのもの
 
