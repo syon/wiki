@@ -57,6 +57,7 @@ layout: page.jade
 
 ### Markdown
 - [インストール不要 - 完全に単一のHTMLファイルで動作するMarkdownエディタ作った - Qiita](http://qiita.com/tatesuke/items/225b51b270faf8b10923)
+- [Readme Standard Style](https://github.com/RichardLitt/standard-readme)
 
 #### [remarkable](https://github.com/jonschlinkert/remarkable)
 - [Remarkable demo](https://jonschlinkert.github.io/remarkable/demo/)
