@@ -6,12 +6,15 @@ layout: page.jade
 
 ## GitHub
 
-### [git.io](http://git.io/)
-![Git.io](/wiki/assets/img/git.io.png)
+[git.io](http://git.io/)
+: ![Git.io](/wiki/assets/img/git.io.png)
 github.com ドメイン専用短縮URL。コマンドラインから使えばパスの文字列指定ができる。
 
-### [hub](https://github.com/github/hub)
-- [GitHubで既存のissueに対してpull requestする - Fujimura](http://blog.fujimuradaisuke.com/post/21428021798/github-issue-pull-request)
+[hub](https://github.com/github/hub)
+: [GitHubで既存のissueに対してpull requestする - Fujimura](http://blog.fujimuradaisuke.com/post/21428021798/github-issue-pull-request)
+
+[Sibbell](https://sibbell.com/about/)
+: GitHub リリース通知
 
 
 ## GitHub Pages
