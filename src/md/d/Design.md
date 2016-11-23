@@ -106,6 +106,9 @@ Sample
 [Pexels](http://www.pexels.com/)
 : CC0 License（無料・商用利用可・表示不要）の高品質な画像を検索
 
+[picjumbo — free stock photos](https://picjumbo.com/)
+: CC0ではない。再配布・再販売はNG。規約: https://picjumbo.com/faq-and-terms/
+
 [Stokpic](http://stokpic.com/)
 : Unlimited Royalty Free stock photos and images For Commercial use
 
