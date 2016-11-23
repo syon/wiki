@@ -30,6 +30,10 @@ layout: page.jade
 ![](/wiki/assets/img/react-inheritance.gif)
 - [JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/3413.html)
 
+### Component ライフサイクル
+![](/wiki/assets/img/react-lifecycle.png)
+- [React component ライフサイクル図 \- Qiita](http://qiita.com/kawachi/items/092bfc281f88e3a6e456)
+
 
 ## Learning
 - __[Reactの公式チュートリアルをやってみた＆メモ - syonx](http://syonx.hatenablog.com/entry/2015/03/15/060000)__
