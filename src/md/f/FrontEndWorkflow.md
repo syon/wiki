@@ -34,6 +34,7 @@ layout: page.jade
 - [webpackのrequire\.ensureでDynamic Loadingをして大規模アプリケーションを作る \- Qiita](http://qiita.com/RyotaSugawara/items/0effa7ce42adfcb66a35)
 - [Webpack\+React\+BootstrapでWebアプリ \- くらげになりたい。](http://wannabe-jellyfish.hatenablog.com/entry/2016/03/06/034101)
   - https://github.com/shakacode/bootstrap-loader
+- [React x Webpackプロジェクトの雛形を作る](http://minotaur.badwitch.io/react-webpack-boilerplate/)
 
 
 ## Task Runner
