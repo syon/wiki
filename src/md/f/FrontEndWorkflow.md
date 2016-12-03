@@ -27,6 +27,8 @@ layout: page.jade
   - Hot Module Replacement (HMR)
 - [Webpack & The Hot Module Replacement – Medium](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.pyca51wa6)
   - HMR 図解
+- [webpackとbabelでES6コードをさくっと書く \- getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
+
 
 ## Task Runner
 
