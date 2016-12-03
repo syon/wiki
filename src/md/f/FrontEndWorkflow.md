@@ -28,6 +28,10 @@ layout: page.jade
 - [Webpack & The Hot Module Replacement – Medium](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.pyca51wa6)
   - HMR 図解
 - [webpackとbabelでES6コードをさくっと書く \- getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
+- [リクルートテクノロジーズのフロントエンド開発 2016 \- from scratch](http://yosuke-furukawa.hatenablog.com/entry/2016/12/01/175446)
+  - [React with Reduxによる大規模商用サービスの開発 / nodefest2016 // Speaker Deck](https://speakerdeck.com/yoshidan/nodefest2016)
+  - 画面毎のJS分割 (require.ensure)
+- [webpackのrequire\.ensureでDynamic Loadingをして大規模アプリケーションを作る \- Qiita](http://qiita.com/RyotaSugawara/items/0effa7ce42adfcb66a35)
 
 
 ## Task Runner
