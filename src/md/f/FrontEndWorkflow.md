@@ -19,6 +19,7 @@ layout: page.jade
 - [RequireJS等はもう古い。WebPackとは？｜1 pixel｜サイバーエージェント公式クリエイターズブログ](http://ameblo.jp/ca-1pixel/entry-11884453208.html)
 - [gulp + webpack + reactの最小構成 - Qiita](http://qiita.com/uryyyyyyy/items/6d7d29499efbca8c618e)
 - [レガシーシステム上のJavaScriptをモダンビルドにしていくwebpack利用実例 \- Qiita](http://qiita.com/inuscript/items/97333a239c97094c39a6)
+- [webpack のチュートリアルをやってみる \- Qiita](http://qiita.com/cortyuming/items/ba4c4d61fdf262bc2303)
 
 
 ## Task Runner
