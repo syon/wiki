@@ -25,6 +25,8 @@ layout: page.jade
 - [webpack\-dev\-serverの基本的な使い方とポイント \- dackdive's blog](http://dackdive.hateblo.jp/entry/2016/05/07/183335)
   - webpack-dev-server
   - Hot Module Replacement (HMR)
+- [Webpack & The Hot Module Replacement – Medium](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.pyca51wa6)
+  - HMR 図解
 
 ## Task Runner
 
