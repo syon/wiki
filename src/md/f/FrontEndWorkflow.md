@@ -6,16 +6,16 @@ layout: page.jade
 
 ## Module Loader
 
-#### RequireJS
+### RequireJS
 - [RequireJS](http://requirejs.org/)
 
-#### Browserify
+### Browserify
 - [Browserify](http://browserify.org/)
 - [Browserify: それはrequire()を使うための魔法の杖 - Qiita](http://qiita.com/cognitom/items/4c63969b5085c90639d4)
 - [npmとbrowserifyを使ったクライアントサイドのウェブアプリ開発 | Web Scratch](http://efcl.info/2014/0120/res3605/)
 
-#### webpack
-- [webpack module bundler](http://webpack.github.io/)
+### [webpack](https://webpack.github.io/)
+- [webpack入門 \- Qiita](http://qiita.com/ossan-engineer/items/8352bdeab9ce8c8c00ef)
 - [RequireJS等はもう古い。WebPackとは？｜1 pixel｜サイバーエージェント公式クリエイターズブログ](http://ameblo.jp/ca-1pixel/entry-11884453208.html)
 - [gulp + webpack + reactの最小構成 - Qiita](http://qiita.com/uryyyyyyy/items/6d7d29499efbca8c618e)
 - [レガシーシステム上のJavaScriptをモダンビルドにしていくwebpack利用実例 \- Qiita](http://qiita.com/inuscript/items/97333a239c97094c39a6)
