@@ -20,7 +20,11 @@ layout: page.jade
 - [gulp + webpack + reactの最小構成 - Qiita](http://qiita.com/uryyyyyyy/items/6d7d29499efbca8c618e)
 - [レガシーシステム上のJavaScriptをモダンビルドにしていくwebpack利用実例 \- Qiita](http://qiita.com/inuscript/items/97333a239c97094c39a6)
 - [webpack のチュートリアルをやってみる \- Qiita](http://qiita.com/cortyuming/items/ba4c4d61fdf262bc2303)
-
+- [webpack\.config\.jsの読み方、書き方 \- dackdive's blog](http://dackdive.hateblo.jp/entry/2016/04/13/123000)
+  - webpack.config.js
+- [webpack\-dev\-serverの基本的な使い方とポイント \- dackdive's blog](http://dackdive.hateblo.jp/entry/2016/05/07/183335)
+  - webpack-dev-server
+  - Hot Module Replacement (HMR)
 
 ## Task Runner
 
