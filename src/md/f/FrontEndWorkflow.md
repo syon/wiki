@@ -32,6 +32,8 @@ layout: page.jade
   - [React with Reduxによる大規模商用サービスの開発 / nodefest2016 // Speaker Deck](https://speakerdeck.com/yoshidan/nodefest2016)
   - 画面毎のJS分割 (require.ensure)
 - [webpackのrequire\.ensureでDynamic Loadingをして大規模アプリケーションを作る \- Qiita](http://qiita.com/RyotaSugawara/items/0effa7ce42adfcb66a35)
+- [Webpack\+React\+BootstrapでWebアプリ \- くらげになりたい。](http://wannabe-jellyfish.hatenablog.com/entry/2016/03/06/034101)
+  - https://github.com/shakacode/bootstrap-loader
 
 
 ## Task Runner
