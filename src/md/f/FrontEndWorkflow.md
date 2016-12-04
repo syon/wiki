@@ -35,6 +35,7 @@ layout: page.jade
 - [Webpack\+React\+BootstrapでWebアプリ \- くらげになりたい。](http://wannabe-jellyfish.hatenablog.com/entry/2016/03/06/034101)
   - https://github.com/shakacode/bootstrap-loader
 - [React x Webpackプロジェクトの雛形を作る](http://minotaur.badwitch.io/react-webpack-boilerplate/)
+- [webpack \+ font\-awesome test](https://gist.github.com/Turbo87/e8e941e68308d3b40ef6)
 
 
 ## Task Runner
