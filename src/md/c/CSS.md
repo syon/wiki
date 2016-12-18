@@ -127,6 +127,7 @@ font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, "H
 - [JavaScriptでフォント名一覧を取得する3つの方法 | TAKESAKO @ Yet another Cybozu Labs](http://developer.cybozu.co.jp/takesako/2007/03/javascript_geta.html)
 - [Windowsで游ゴシックが汚いのは、どう考えてもWebデザイナーが悪い？ | Cherry Pie Web](http://www.cherrypieweb.com/weblog/technical/20160629025615.php)
 - [モダン日本語フォント指定 // Speaker Deck](https://speakerdeck.com/tacamy/modanri-ben-yu-huontozhi-ding)
+- [2016年版：CSSのフォント（font\-family）指定はこれがおすすめ。ゴシック体や明朝体、日本語など \| Simplie Post](http://post.simplie.jp/posts/107)
 
 ### font-size
 
