@@ -34,6 +34,7 @@ Ruby library for reading and writing meta-data (tags) of many audio formats
     - [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls)
 - [yamaha-webmusic/webmusicplatform](https://github.com/yamaha-webmusic/webmusicplatform)
 - [MIDIデバイスの準備不要、Web MIDI APIの基礎 | HTML5Experts.jp](https://html5experts.jp/ryoyakawai/16787/)
+- [Web MIDI APIを扱うためのMIDI基礎知識 \- Qiita](http://qiita.com/armorik83/items/efaeb1124591e84fe9d3)
 
 ### WebMidiLink
 
