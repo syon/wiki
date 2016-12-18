@@ -49,6 +49,10 @@ layout: page.jade
 - [Cookie関連の最新動向 - Qiita](http://qiita.com/flano_yuki/items/b87b2c28db0b056665ef)
 
 
+## UserAgent
+- [UserAgent API \- Device Detection, Browser Detection, OS Detection](https://useragentapi.com/)
+
+
 ## まとめ
 
 - [ペパボのフロントエンドスタンダード](http://pepabo.github.io/docs/frontend/standard.html)
