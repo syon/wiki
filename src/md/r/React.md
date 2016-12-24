@@ -68,6 +68,7 @@ layout: page.jade
 ![Redux](/wiki/assets/img/redux.jpg)
 
 - [Reactive State Machine \(Japanese\) // Speaker Deck](https://speakerdeck.com/inamiy/reactive-state-machine-japanese)
+- [Introduction to Redux // Speaker Deck](https://speakerdeck.com/axross/introduction-to-redux)
 - [Reduxから見えてきた希望と課題 | eureka tech blog](https://developers.eure.jp/tech/redux_feature/)
 - [React + Redux入門初歩　実際に一からアプリを構築してみる - Qiita](http://qiita.com/pentamania/items/859fe5f2f7e9cf12d6ca)
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
