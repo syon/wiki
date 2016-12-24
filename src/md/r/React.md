@@ -74,6 +74,7 @@ layout: page.jade
 - [なぜReduxを使うのか // Speaker Deck](https://speakerdeck.com/kuy/nazereduxwoshi-ufalseka)
 - [Clean Architecture in React – Medium](https://medium.com/@axross/wip-react-clean-architecture-386c950d8b3a#.vgygwct23)
 - [ReduxのExampleを徹底図解 \| 人生と仕事を楽しむブログ](http://blog.andgenie.jp/articles/1021)
+- [React Reduxスターターキット \- Qiita](http://qiita.com/ossan-engineer/items/25babf2025bfe1968b9b)
 
 
 ## Style Guide
