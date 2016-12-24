@@ -73,6 +73,7 @@ layout: page.jade
 - [React、Redux、D3を用いたアニメーション | プログラミング | POSTD](http://postd.cc/animating-with-react-redux-and-d3/)
 - [なぜReduxを使うのか // Speaker Deck](https://speakerdeck.com/kuy/nazereduxwoshi-ufalseka)
 - [Clean Architecture in React – Medium](https://medium.com/@axross/wip-react-clean-architecture-386c950d8b3a#.vgygwct23)
+- [ReduxのExampleを徹底図解 \| 人生と仕事を楽しむブログ](http://blog.andgenie.jp/articles/1021)
 
 
 ## Style Guide
