@@ -24,6 +24,10 @@ Ruby library for reading and writing meta-data (tags) of many audio formats
 
 ## API
 
+### Web Audio API
+- [Web Audio API 解説 \- 01\.前説 \| g200kg Music & Software](http://www.g200kg.com/jp/docs/webaudio/)
+- [React/Redux \+ Web Audio API \- Qiita](http://qiita.com/mohayonao/items/b3c3d1432f69a67a09be)
+
 ### Web MIDI API
 
 - [Web MIDI API (日本語訳)](http://g200kg.github.io/web-midi-api-ja/)
