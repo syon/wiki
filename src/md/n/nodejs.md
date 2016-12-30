@@ -182,3 +182,5 @@ router.get('/status', function (req, res, next) {
   res.sendFile(path.join(__dirname, '../views/status.svg'));
 });
 ```
+
+- [Node\.js\+Express\+MongoDBでREST APIをつくる \- Qiita](http://qiita.com/itagakishintaro/items/a1519998a91061cbfb1e)
