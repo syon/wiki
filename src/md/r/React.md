@@ -80,6 +80,11 @@ layout: page.jade
 - [React Reduxスターターキット \- Qiita](http://qiita.com/ossan-engineer/items/25babf2025bfe1968b9b)
 
 
+## Boilerplate
+
+- [Babel \+ React \+ Webpack の最小構成ひな形作った \- Qiita](http://qiita.com/ktrysmt/items/aba22b8b3a1fd2031985)
+
+
 ## Style Guide
 - [[翻訳] Airbnb React/JSX Style Guide - Qiita](http://qiita.com/koukun/items/e64762e407b8dd5e0247)
 
