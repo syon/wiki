@@ -1,6 +1,7 @@
 body {
   font: 13.34px "Helvetica Neue", Helvetica, arial, freesans, clean, YuGothic, sans-serif;
-  font-weight: 300;
+  font-feature-settings: "palt";
+  -webkit-font-smoothing: antialiased;
   background: url(../trianglify-bg.svg) no-repeat;
   background-size: contain;
 }
