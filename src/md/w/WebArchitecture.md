@@ -4,9 +4,10 @@ title: Web Architecture
 layout: page.jade
 ---
 
-### The Clean Architecture翻訳
+### The Clean Architecture
 
 - [クリーンアーキテクチャ\(The Clean Architecture翻訳\)](http://blog.tai2.net/the_clean_architecture.html)
+- [持続可能な開発を目指す ~ ドメイン・ユースケース駆動（クリーンアーキテクチャ） \+ 単方向に制限した処理 \+ FRP \- Qiita](http://qiita.com/kondei/items/41c28674c1bfd4156186)
 
 ### RESTful
 - [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
