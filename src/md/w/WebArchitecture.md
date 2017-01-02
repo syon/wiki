@@ -9,6 +9,7 @@ layout: page.jade
 - [クリーンアーキテクチャ\(The Clean Architecture翻訳\)](http://blog.tai2.net/the_clean_architecture.html)
 - [持続可能な開発を目指す ~ ドメイン・ユースケース駆動（クリーンアーキテクチャ） \+ 単方向に制限した処理 \+ FRP \- Qiita](http://qiita.com/kondei/items/41c28674c1bfd4156186)
 - [まだMVC,MVP,MVVMで消耗してるの？ iOS Clean Architectureについて \- Qiita](http://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc)
+- [ゲンバのクリーンアーキテクチャ \- Scala play プロジェクト設計のお話 \- // Speaker Deck](https://speakerdeck.com/usrnameu1/genbafalsekurinakitekutiya-scala-play-puroziekutoshe-ji-falseohua)
 
 ### RESTful
 - [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
