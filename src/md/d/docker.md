@@ -21,7 +21,15 @@ layout: page.jade
 
 ## TIPS
 
-#### コンテナの削除
+#### イメージ名でコンテナを停止
+- [Stopping docker containers by image name \- Ubuntu \- Stack Overflow](http://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)
+```bash
+#!/bin/sh
+image=syon/irkit-gui
+docker rm $(docker stop $(docker ps -a -q --filter ancestor=$image --format="{{.ID}}"))
+```
+
+#### すべてのコンテナを削除
 ```bash
 docker rm `docker ps -a -q`
 ```
