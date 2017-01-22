@@ -8,6 +8,9 @@ layout: page.jade
 - [TEST CORDING » JavaScript正規表現 怒濤の100サンプル!!](http://testcording.com/?p=2013)
 - [正規表現によるバリデーションでは ^ と $ ではなく \A と \z を使おう | 徳丸浩の日記](http://blog.tokumaru.org/2014/03/z.html)
 
+### Tools
+- [正規表現チェックツールまとめ \- Qiita](http://qiita.com/AQRiL_1132/items/c185c7ad84c129e5a2df)
+
 ### TIPS
 
 #### 「あ」ではない
