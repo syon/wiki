@@ -54,6 +54,11 @@ layout: page.jade
 - [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
 - [はてなブックマークエントリー情報取得API | はてなブックマークAPI プログラミング解説](http://so-zou.jp/web-app/tech/web-api/hatena/entry/)
 
+```bash
+# ページのブックマーク数
+$ curl "http://api.b.st-hatena.com/entry.count?url=http://www.yahoo.co.jp"
+14442
+```
 
 ## Amazon Product Advertising API (PAAPI)
 
