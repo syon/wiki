@@ -54,6 +54,7 @@ layout: page.jade
 - [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
 - [はてなブックマークエントリー情報取得API | はてなブックマークAPI プログラミング解説](http://so-zou.jp/web-app/tech/web-api/hatena/entry/)
 - [はてなブックマークAPIをSSLなサイトに使う \| ぴんくいろにっき](https://blog.hinaloe.net/2015/08/15/hatena-bookmark-api-on-ssl/)
+- [爆速でChrome拡張機能を作成する \- Qiita](http://qiita.com/thr3a/items/702e58f5d793332a1001)
 
 ```bash
 # ページのブックマーク数
