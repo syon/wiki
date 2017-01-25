@@ -53,6 +53,7 @@ layout: page.jade
 - [はてブAPIでwebサービスを作りたい全ての人に向けて書きました - Syncer](http://syncer.jp/hatebu-api-matome)
 - [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
 - [はてなブックマークエントリー情報取得API | はてなブックマークAPI プログラミング解説](http://so-zou.jp/web-app/tech/web-api/hatena/entry/)
+- [はてなブックマークAPIをSSLなサイトに使う \| ぴんくいろにっき](https://blog.hinaloe.net/2015/08/15/hatena-bookmark-api-on-ssl/)
 
 ```bash
 # ページのブックマーク数
