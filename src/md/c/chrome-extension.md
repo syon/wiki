@@ -1,6 +1,6 @@
 ---
-slug: chrome-extention
-title: Chrome Extention
+slug: chrome-extension
+title: Chrome Extension
 layout: page.jade
 ---
 
