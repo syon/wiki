@@ -78,6 +78,7 @@ layout: page.jade
 - [Clean Architecture in React – Medium](https://medium.com/@axross/wip-react-clean-architecture-386c950d8b3a#.vgygwct23)
 - [ReduxのExampleを徹底図解 \| 人生と仕事を楽しむブログ](http://blog.andgenie.jp/articles/1021)
 - [React Reduxスターターキット \- Qiita](http://qiita.com/ossan-engineer/items/25babf2025bfe1968b9b)
+- [ReduxでのMiddleware不要論 \- Qiita](http://qiita.com/uryyyyyyy/items/d8bae6a7fca1c4732696)
 
 
 ## Boilerplate
