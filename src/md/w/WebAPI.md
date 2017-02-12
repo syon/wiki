@@ -36,7 +36,11 @@ layout: page.jade
 
 - [JSON Test by jsontest](http://www.jsontest.com/)
 - [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
+
+#### openBD
 - [openBD \| 書誌情報・書影を自由に](https://openbd.jp/#contact)
+- [2017/01/23 openBDセミナー 質疑応答文字起こし \- 図書の網](http://lumely.hatenablog.com/entry/20170125/1485335885)
+- [このサイトのAPI \| 版元ドットコム](http://www.hanmoto.com/about_api)
 
 #### Pocket API
 [Pocket: Developer API](https://getpocket.com/developer/)
