@@ -36,6 +36,7 @@ layout: page.jade
 
 - [JSON Test by jsontest](http://www.jsontest.com/)
 - [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
+- [openBD \| 書誌情報・書影を自由に](https://openbd.jp/#contact)
 
 #### Pocket API
 [Pocket: Developer API](https://getpocket.com/developer/)
