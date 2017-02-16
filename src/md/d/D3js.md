@@ -73,6 +73,8 @@ layout: page.jade
 - [Taucharts flexible javascript charting library for data exploration](https://www.taucharts.com/)
 - [Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
 - [Sigma js](http://sigmajs.org/#)
+- [JavaScript Charts & Maps \- amCharts](https://www.amcharts.com/)
+  - [Stacked bar chart with negative values \- amCharts](https://www.amcharts.com/demos/stacked-bar-chart-with-negative-values/)
 
 
 ## Learning D3.js
