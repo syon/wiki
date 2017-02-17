@@ -49,6 +49,10 @@ Scalable Vector Graphics
 - [PDF 2 SVG Converter](http://pramodhkp.github.io/pdf2svg/)
 - [HTML5 と SVG で考える、これからの画像アクセシビリティ](http://www.slideshare.net/ssuser99dc16/html5fun-svg-accessibility)
 - [How to work with SVG icons](http://fvsch.com/code/svg-icons/how-to/)
+- [SVG Textのtext\-anchor属性をつかってみた。 \| CreativeStyle](https://kadoppe.com/archives/2012/01/svg-text%e3%81%aetext-anchor%e5%b1%9e%e6%80%a7%e3%82%92%e3%81%a4%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%80%82.html)
+- [インラインSVGがボケる場合への対処](http://www.h2.dion.ne.jp/~defghi/adjust.htm)
+- [javascript \- D3 Appending Text to a SVG Rectangle \- Stack Overflow](http://stackoverflow.com/questions/20644415/d3-appending-text-to-a-svg-rectangle)
+  - 図形とテキストをセットにしたい場合は `sg` 要素でくくる
 
 ### Convert Text with font to Outline
 
