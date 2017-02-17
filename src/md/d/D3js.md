@@ -86,6 +86,7 @@ layout: page.jade
 > ![D3.js](/wiki/assets/img/d3js_scale.png)
 
 - [2015年までに発売されたD3.js参考書をまとめてみた。 | #GUNMAGISGEEK](http://shimz.me/blog/d3-js/4554)
+- [jQueryのあれ、D3\.jsでどうやるの？\(または、その逆\) \- Qiita](http://qiita.com/itagakishintaro/items/51c89fe7e14702cb98e6)
 
 
 ## Reference
