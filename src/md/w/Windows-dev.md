@@ -10,6 +10,7 @@ layout: page.jade
 
 #### articles
 - [UWPアプリの利用状況をGoogle Analyticsで追跡できる「Windows SDK for Google Analytics」 \-INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/1043939.html)
+- [\[Windows 10\]UWPアプリでWebViewコントロールを使ってみた。 \| 初心者備忘録](https://www.ka-net.org/blog/?p=6167)
 
 
 ## WPF
