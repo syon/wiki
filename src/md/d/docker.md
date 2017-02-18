@@ -55,6 +55,11 @@ docker rmi $(docker images | awk '/^<none>/ { print $3 }')
 - [［速報］VMwareがDockerと協業発表。エンタープライズにおけるコンテナ環境の実現へ。Kubernetesにも参加を表明。VMworld 2014 － Publickey](http://www.publickey1.jp/blog/14/vmwaredockerkubernetes.html)
 
 
+## Introduction
+
+- [超入門Docker：第1回　Dockerとは \- ＠IT](http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html)
+
+
 ## Tutorial
 
 - [Docker入門 (全11回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_docker)
