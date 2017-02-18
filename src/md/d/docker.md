@@ -39,13 +39,26 @@ docker rm `docker ps -a -q`
 docker rmi $(docker images | awk '/^<none>/ { print $3 }')
 ```
 
-#### docker-clean
+#### Clean
 - [dockerのコンテナ・イメージを謎のコマンド群で消すのもいいけどdocker\-cleanコマンドもいいよ \- Qiita](http://qiita.com/Jey/items/8714c47fd839597a40a3)
+- [Dockerの不要なimageやコンテナ消すのに変なスクリプトはいらないYO \- Qiita](http://qiita.com/teufelj/items/9e659c71e04304ed081e)
 
 #### Tips articles
 - [dockerメモ \- Qiita](http://qiita.com/panichi/items/3cb9fa8e44cae3f20e1f)
 - [開発環境をDockerに乗せる方法とメリットを3ステップで学ぶチュートリアル \- Qiita](http://qiita.com/KeitaMoromizato/items/ae1a57fc62b41b942d71)
 
+```bash
+$ docker system prune --help
+
+Usage:  docker system prune [OPTIONS]
+
+Remove unused data
+
+Options:
+  -a, --all     Remove all unused images not just dangling ones
+  -f, --force   Do not prompt for confirmation
+      --help    Print usages
+```
 
 ## News
 
