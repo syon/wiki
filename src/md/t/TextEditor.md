@@ -4,16 +4,6 @@ title: TextEditor
 layout: page.jade
 ---
 
-## IDE
-
-#### [Orion](http://eclipse.org/orion/)
-HTML/JavaScript/CSS対応のWebIDE
-
-
-## Emmet
-- [HTMLを効率よく書く！Emmetの書き方・使い方まとめ | Designup](http://designup.jp/html-emmet-307/)
-
-
 ## Atom
 - __[Atom の日本語化パッケージ "Japanese Menu" を作りました - syonx](http://syonx.hatenablog.com/entry/2015/04/06/233111)__
     - __[Atomでパッケージをインストールする方法とメニューの日本語化 – nocorica](http://blog.nocorica.jp/2015/03/atom-package-install/)__
