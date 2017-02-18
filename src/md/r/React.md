@@ -80,6 +80,7 @@ layout: page.jade
 - [React Reduxスターターキット \- Qiita](http://qiita.com/ossan-engineer/items/25babf2025bfe1968b9b)
 - [ReduxでのMiddleware不要論 \- Qiita](http://qiita.com/uryyyyyyy/items/d8bae6a7fca1c4732696)
 - [React&Reduxを牛丼屋に例えてみる図 \- Qiita](http://qiita.com/arihito@github/items/f5550de00e22e3dc9bc9)
+- [Reduxの正しい解釈の話 – Medium](https://medium.com/@axross/undertanding-truthful-redux-with-usecases-179eefd9fd55#.xx60yyu8a)
 
 
 ## Boilerplate
