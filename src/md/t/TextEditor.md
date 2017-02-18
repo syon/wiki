@@ -36,5 +36,11 @@ atom-text-editor::shadow {
 - [Web制作が爆捗するBracketsプラグイン13選＆便利なプラグインを探すコツ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1503/20/news130.html)
 
 
-## Monaco Editor
+## Visual Studio Code
+[Visual Studio Code \- Code Editing\. Redefined](https://code.visualstudio.com/)
+
+#### Articles
+- [Visual Studio Code で使っているプラグイン 2017/02 \- kitak\.blog](http://kitak.hatenablog.jp/entry/2017/02/13/163711)
+
+#### Monaco Editor
 [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
