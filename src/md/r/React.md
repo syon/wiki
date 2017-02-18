@@ -161,7 +161,12 @@ layout: page.jade
 [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 
 ### IDE
-- [Deco - React Native IDE](https://www.decosoftware.com/)
+
+#### [Deco - React Native IDE](https://www.decosoftware.com/)
+
+#### [Nuclide](https://nuclide.io/) (Atom Package)
+
+- [React Native のデバッグは Nuclide でしよう \- Qiita](http://qiita.com/elzup/items/91dccc4ea2232412ab97)
 
 ### Samples
 - [fbsamples/f8app](https://github.com/fbsamples/f8app)  
