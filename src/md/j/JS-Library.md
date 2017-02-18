@@ -125,6 +125,12 @@ watermarks in the browser
 - [[JS]最近のWebサイトで見かける気持ちいいアニメーションや便利な機能が実装できる、使いやすいスクリプトのまとめ | コリス](http://coliss.com/articles/build-websites/operation/javascript/best-script-for-ui-march-2016.html)
 
 
+## UI
+
+[Switchery](http://abpetkov.github.io/switchery/)
+: iOS 7 style switches for your checkboxes
+
+
 ## Text関連
 #### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
