@@ -126,6 +126,12 @@ Sample
 - [Free Download : RetinaIcon 300 Free Icons ( following Apple’s iOS guidelines) | Designbeep](http://designbeep.com/2014/07/31/free-download-retinaicon-300-free-icons-following-apples-ios-guidelines/)
 - [【保存版】デザインにも提案資料にも ”めっちゃ使える” アイコン素材サイト17選 | ビットエーブログ - 株式会社BITA](http://bita.jp/blog/icon_collection_site)
 
+[UI8 — The marketplace for design resources](https://ui8.net/)
+: UI Kits, Wireframes, Icons, Fonts and more, starting at $5
+
+- [UI8 — Products — The Icons](https://ui8.net/products/the-icons)
+- [UI8 — Products — Picons Thin](https://ui8.net/products/picons-thin)
+
 
 ## Effect
 
