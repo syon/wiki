@@ -24,7 +24,7 @@ layout: page.jade
 - [Security - フレームワークに見る Web セキュリティ対策 - Qiita](http://qiita.com/Jxck_/items/ec8e928f69d099b25764)
 - [Node.jsのセキュリティ・チェックリスト | プログラミング | POSTD](http://postd.cc/node-js-security-checklist/)
 - [News ＆ Trend - 「パスワードの強制定期変更」は時代遅れ、企業に再考促す：ITpro](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/031600480/)
-- [Subresource Integrityについて調べた | 69log](https://blog.kazu69.net/2015/10/01/check-for-subresource-integrity/)
+- [Cross\-Site Request Forgery is dead\!](https://scotthelme.co.uk/csrf-is-dead/)
 
 
 ## Subresource Integrity (SRI)
