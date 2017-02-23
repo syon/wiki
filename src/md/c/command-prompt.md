@@ -177,3 +177,11 @@ $ e.
 notepad %windir%/System32/drivers/etc/hosts
 @ECHO ON
 ```
+
+### コマンドの実行結果を変数に入れる
+- [Studio ODIN \- blog風小ネタ集 > MS\-DOSでコマンドの実行結果を変数に入れる](http://www.odin.hyork.net/write/write0026.html)
+```bat
+@ECHO OFF
+FOR /F "usebackq" %%t IN (`HOSTNAME`) DO SET HNAME=%%t
+ECHO %HNAME%
+```
