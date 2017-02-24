@@ -52,6 +52,12 @@ layout: page.jade
 : A collection of components that make it easy to build interactive charts with D3.
 - https://github.com/ScottLogic/d3fc
 
+[Recharts](http://recharts.org/#/en-US/)
+: A composable charting library built on React components
+
+[React\-D3](http://www.reactd3.org/)
+: A Javascript Library For Building Composable And Declarative Charts
+
 ### Tools
 
 [ColorBrewer](http://colorbrewer2.org/)
