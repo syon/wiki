@@ -95,6 +95,7 @@ brew cask install appcleaner
 - [ImageOptim — better Save For Web](http://imageoptim.com/) ◆Mac Exif 一括削除
 - [知らない人は損してると思うMacの使い方](http://alfalfalfa.com/archives/1147302.html)
 - [Geek Knowledge: （Linux等の）シェルスクリプトを Mac の Finder からダブルクリックで実行するには](http://hseisyu.blogspot.jp/2010/10/linux-mac-finder.html)
+- [macOS Sierraでは隠しファイルを表示するショートカットキー「CMD\+Shift\+\.」がFinderでも利用可能に。 \| AAPL Ch\.](http://applech2.com/archives/macos-sierra-finder-cmd-shift-period-show-hidden-file.html)
 
 ### Launch on Startup
 - __[Squid - syon/wiki](/wiki/squid-proxy/)__
