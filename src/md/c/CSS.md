@@ -85,6 +85,9 @@ for Rapid Website Production
 [Spectre\.css](https://picturepan2.github.io/spectre/)
 : a lightweight, responsive and modern CSS framework
 
+[CoreUI](http://coreui.io/)
+: Free Bootstrap Admin Template
+
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
 
