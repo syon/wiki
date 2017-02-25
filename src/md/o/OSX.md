@@ -128,6 +128,7 @@ $ afplay /System/Library/Sounds/Glass.aiff
 - [テキスト入力が死ぬほどはかどるMacショートカットキー15個 | Find Job ! Startup](http://www.find-job.net/startup/mac-shortcut)
 - [Sunskysoft - Shupapan｜Shupapan](http://sunsky3s.s41.xrea.com/shupapan/)  
   連番処理、検索・置換、文字変換、拡張子処理、タグリネームなどのリネーム処理を備えたリネームソフト
+- [Macのアニメーションを速くすると快適 \- /](http://memo.brdr.jp/post/156787133366/mac%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%81%A8%E5%BF%AB%E9%81%A9)
 
 
 ## クリーン
