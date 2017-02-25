@@ -36,6 +36,7 @@ Scalable Vector Graphics
 - [東京の鉄道路線図SVGを作りました＆パブリックドメインで配布します - Liner Note](http://note.openvista.jp/2014/svg-rail-map)
 - [SVGはFlashの代わりにはなりません、なりませんよ。 - 週刊SVG](http://ssvvgg.net/post/128179413430/svg%E3%81%AFflash%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%81%AF%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%82%88)
 - [SVGでプログラマブルな書体を作る話 | dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/8741.html)
+- [Bezier Curves from the Ground Up](http://jamie-wong.com/post/bezier-curves/)
 
 
 ## Tips
