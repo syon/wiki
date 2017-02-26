@@ -169,8 +169,12 @@ layout: page.jade
 - [React Native のデバッグは Nuclide でしよう \- Qiita](http://qiita.com/elzup/items/91dccc4ea2232412ab97)
 
 ### Samples
-- [fbsamples/f8app](https://github.com/fbsamples/f8app)  
-  Source code of the official F8 app of 2016 ― http://makeitopen.com
+
+[fbsamples/f8app](https://github.com/fbsamples/f8app)  
+: Source code of the official F8 app of 2016 ― http://makeitopen.com
+
+[alinz/example\-react\-native\-redux](https://github.com/alinz/example-react-native-redux)  
+: react native redux counter example - ★よくできたサンプル
 
 ### Articles
 - [Using React Native: One Year Later — Discord Engineering](https://discord.engineering/using-react-native-one-year-later-91fd5e949933#.gwte7xoe1)
