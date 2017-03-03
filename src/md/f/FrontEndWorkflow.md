@@ -37,7 +37,7 @@ layout: page.jade
 - [React x Webpackプロジェクトの雛形を作る](http://minotaur.badwitch.io/react-webpack-boilerplate/)
 - [webpack \+ font\-awesome test](https://gist.github.com/Turbo87/e8e941e68308d3b40ef6)
 - [chrisvfritz/prerender\-spa\-plugin: Prerenders static HTML in a single\-page application\.](https://github.com/chrisvfritz/prerender-spa-plugin)
-
+- [webpackでcssとimageをバンドルする \- Qiita](http://qiita.com/koichirokamoto/items/1bdbee5dd5657012b5fa)
 
 ## Task Runner
 
