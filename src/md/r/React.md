@@ -119,6 +119,9 @@ layout: page.jade
 [React Toolbox](http://react-toolbox.com/)
 : Bootstrap your application with beautiful Material Design Components
 
+[Blueprint](http://blueprintjs.com/)
+: A React-based UI toolkit for the web
+
 #### Modal
 - [React Modal Dialog](http://www.qimingweng.com/react-modal-dialog/)
 - [React\.jsでModal componentの実装](http://c16e.com/1509031043/)
