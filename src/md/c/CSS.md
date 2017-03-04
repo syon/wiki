@@ -88,6 +88,9 @@ for Rapid Website Production
 [CoreUI](http://coreui.io/)
 : Free Bootstrap Admin Template
 
+[Milligram](https://milligram.github.io/)
+: A minimalist CSS framework.
+
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
 
