@@ -185,3 +185,4 @@ layout: page.jade
 - [\[初心者向け\]ReactNativeでTwitter,Facebookログインをするよ \- Qiita](http://qiita.com/endotakashi/items/d23c59673e46d91f2597)
 - [blog\.lum\.pe \| Listening to application urls in React Native](http://blog.lum.pe/listening-to-application-urls-in-react-native/)  
   React NativeでのカスタムURLスキームの丁寧な解説
+- [ReactNativeでサクッとReactjs記事リーダーを作ってみる \- Qiita](http://qiita.com/y_matsuwitter/items/a7fc88e566b80b4c1eea)
