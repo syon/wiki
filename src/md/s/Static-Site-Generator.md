@@ -50,3 +50,9 @@ An extremely simple, pluggable static site generator.
     - `_data.json`を使ってeachなどができる
 - Compile and deploy
     - `$ compile`で`www`ディレクトリに出力できる
+
+
+## Documentation
+
+[docsify](https://docsify.js.org/#/)
+: A magical documentation site generator.
