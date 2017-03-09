@@ -14,6 +14,14 @@ layout: page.jade
 
 - [React Native のデバッグは Nuclide でしよう \- Qiita](http://qiita.com/elzup/items/91dccc4ea2232412ab97)
 
+
+## Icon
+
+[react\-native\-vector\-icons directory](https://oblador.github.io/react-native-vector-icons/)
+: Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
+- https://oblador.github.io/react-native-vector-icons/
+
+
 ## Samples
 
 [fbsamples/f8app](https://github.com/fbsamples/f8app)  
