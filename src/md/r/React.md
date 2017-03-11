@@ -96,11 +96,6 @@ layout: page.jade
 - [facebook/react-devtools](https://github.com/facebook/react-devtools)
 
 
-## Component styling
-- [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
-- [React-Bootstrap](http://react-bootstrap.github.io/)
-
-
 ## Components
 
 [Material UI - Material Design React Components](http://callemall.github.io/material-ui/#/)
@@ -125,6 +120,12 @@ layout: page.jade
 [Grommet](https://grommet.github.io/)
 : The most advanced UX framework for enterprise applications.
 - [Topology | Grommet](https://grommet.github.io/docs/topology/examples/)
+
+[React-Bootstrap](http://react-bootstrap.github.io/)
+: Bootstrap 3 components built with React
+
+#### Styling
+- [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 
 #### Modal
 - [React Modal Dialog](http://www.qimingweng.com/react-modal-dialog/)
