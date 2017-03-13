@@ -124,6 +124,9 @@ layout: page.jade
 [React-Bootstrap](http://react-bootstrap.github.io/)
 : Bootstrap 3 components built with React
 
+[Rebass](http://jxnblk.com/rebass/)
+: 57 Configurable React Stateless Functional UI Components
+
 #### Styling
 - [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 
