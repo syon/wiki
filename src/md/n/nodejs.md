@@ -116,6 +116,7 @@ $ npm ls --depth=0 -g
 ## [Yarn](https://yarnpkg.com/)
 
 - [npm互換のJavaScriptパッケージマネージャーYarn入門 \- ICS MEDIA](https://ics.media/entry/13838)
+- [yarn upgrade\-interactive が超便利 \- Qiita](http://qiita.com/inuscript/items/98931b91d155348046c9)
 
 
 ## npm packages
