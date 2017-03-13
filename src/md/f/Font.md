@@ -38,6 +38,9 @@ layout: page.jade
 [Anonymous Pro – Mark Simonson](http://www.marksimonson.com/fonts/view/anonymous-pro)
 : [GitHub - powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
 
+[MeiryoKe](http://www.geocities.jp/meir000/meiryoKe/)
+: meiryo 6.26から MeiryoKeフォントを生成する差分パッチ
+
 
 ## Google
 
