@@ -22,6 +22,12 @@ layout: page.jade
 - https://oblador.github.io/react-native-vector-icons/
 
 
+## Components
+
+[jemise111/react\-native\-swipe\-list\-view](https://github.com/jemise111/react-native-swipe-list-view)
+: A React Native ListView component with rows that swipe open and closed
+
+
 ## Samples
 
 [fbsamples/f8app](https://github.com/fbsamples/f8app)  
