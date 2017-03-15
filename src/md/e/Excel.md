@@ -17,6 +17,13 @@ layout: page.jade
 
 ## 使い方の知識
 
+### articles
+
+- [Excel の数式の中にコメントを書く方法 \- Corredor](http://neos21.hatenablog.com/entry/2017/03/08/225147)
+```csharp
+= ( 書きたい数式 ) & T(N("ココにコメント"))
+```
+
 ### キーボードショートカット
 
 | キー                | 内容                                                                                                  |
