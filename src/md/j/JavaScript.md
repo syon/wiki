@@ -125,7 +125,10 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 
 #### async / await
 
-- [ES6 Generatorを使ってasync/awaitを実装するメモ \- maru source](http://blog.h13i32maru.jp/entry/2015/01/02/225457)
+- 2016.7.4  
+  [AsyncとAwait : コールバック地獄を避けるための最新のやり方、そしてその未来 \| プログラミング \| POSTD](http://postd.cc/async-and-await/)
+- 2015.1.2  
+  [ES6 Generatorを使ってasync/awaitを実装するメモ \- maru source](http://blog.h13i32maru.jp/entry/2015/01/02/225457)
 
 
 ## JSON
