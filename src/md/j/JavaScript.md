@@ -123,6 +123,10 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [Promiseについて0から勉強してみた - Qiita](http://qiita.com/toshihirock/items/e49b66f8685a8510bd76)
 - [Node\.js における Promise を使った例外処理 \- from scratch](http://yosuke-furukawa.hatenablog.com/entry/2016/07/12/103734)
 
+#### async / await
+
+- [ES6 Generatorを使ってasync/awaitを実装するメモ \- maru source](http://blog.h13i32maru.jp/entry/2015/01/02/225457)
+
 
 ## JSON
 
