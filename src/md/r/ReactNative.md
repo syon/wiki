@@ -44,8 +44,14 @@ layout: page.jade
   React NativeでのカスタムURLスキームの丁寧な解説
 - [ReactNativeでサクッとReactjs記事リーダーを作ってみる \- Qiita](http://qiita.com/y_matsuwitter/items/a7fc88e566b80b4c1eea)
 - [フロントエンドエンジニアが React Native を触ってみた話 // Speaker Deck](https://speakerdeck.com/mkamakura/hurontoendoenziniaga-react-native-wohong-tutemitahua)
+- [React\.js × React Native meetup アンケート質問に答えたい \- Qiita](http://qiita.com/janus_wel/items/6bc7263f47c6221f52c1)
+  - 過渡期な navigation のリストあり
+- [React Native Non\-React Tips \- Qiita](http://qiita.com/janus_wel/items/d3c5b695015cb54344ff)
+  - トラブルシューティングなど
 
 ### Navigation
 
 - [React Native Experimental Navigation with Redux – The Bakery](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/)
 - [React Native NavigationExperimental in Depth – React Native Training – Medium](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.8d4ale1ud)
+- [airbnb/native\-navigation](https://github.com/airbnb/native-navigation)
+- [React Navigation](https://reactnavigation.org/)
