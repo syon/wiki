@@ -122,6 +122,8 @@ A JavaScript pattern and antipattern collection that covers function patterns, j
 - [ECMAScript6のアロー関数とPromiseまとめ - JavaScript - Qiita](http://qiita.com/takeharu/items/c23998d22903e6d3c1d9)
 - [Promiseについて0から勉強してみた - Qiita](http://qiita.com/toshihirock/items/e49b66f8685a8510bd76)
 - [Node\.js における Promise を使った例外処理 \- from scratch](http://yosuke-furukawa.hatenablog.com/entry/2016/07/12/103734)
+- [for文の中で非同期関数を使いたいときでも慌てずPromiseする \- Qiita](http://qiita.com/progre/items/5666f4a333cc2d032d15)  
+  Promiseを配列に詰め込んで、まとめて`Promise.all`する
 
 #### async / await
 
