@@ -55,7 +55,7 @@ layout: page.jade
 [Foundation](http://foundation.zurb.com/)
 : The most advanced responsive front-end frameworks in the world.
 
-[Semantic UI](http://semantic-ui.com/)
+[Semantic UI](https://semantic-ui.com/)
 : Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
 [Bourbon](http://bourbon.io/)
