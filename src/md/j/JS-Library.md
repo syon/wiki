@@ -131,6 +131,14 @@ watermarks in the browser
 : iOS 7 style switches for your checkboxes
 
 
+## 日付処理
+
+[Moment\.js](https://momentjs.com/)
+: 
+Parse, validate, manipulate, and display dates and times in JavaScript.
+- [日付処理が楽になる！Moment\.jsの使い方 \- Qiita](http://qiita.com/kyota/items/806da61fb8fffa34b695)
+
+
 ## Text関連
 #### [Textillate.js](http://jschr.github.io/textillate/)
 テキストをCSS3のさまざまなアニメーションで表示します。
