@@ -13,32 +13,9 @@ layout: page.jade
 - [element\.scrollIntoView \- Web API インターフェイス \| MDN](https://developer.mozilla.org/ja/docs/Web/API/Element/scrollIntoView)
 
 
-## ECMAScript / altJS
+## DOM
 
-### ES6・ES2015・ESNext
-- [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
-- [Babelで始める！モダンJavaScript開発 | HTML5Experts.jp](https://html5experts.jp/kyo_ago/16979/)
-- [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
-- [ES6時代のNode.js - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/Node-es6/)
-- [ES6 チートシート | プログラミング | POSTD](http://postd.cc/es6-cheatsheet/)
-- [春からはじめるモダンJavaScript / ES2015 - Qiita](http://qiita.com/mizchi/items/3bbb3f466a3b5011b509)
-- [Node.js ES2015/ES6 support](http://node.green/)
-- [webpackとbabelでES6コードをさくっと書く - getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
-- [JavaScript(ES2015)でvarやletを使う必要はほぼ無い - id:anatooのブログ](http://blog.anatoo.jp/entry/2016/04/17/043840)
-- [ESLint が jQuery Foundation に参加したことについて - Qiita](http://qiita.com/mysticatea/items/4cd6405e5a931f8817f6)
-- [Custom elementsはES6のclass記法で定義可能になりそうです - Qiita](http://qiita.com/yoichiro@github/items/fdb8372bd8a68c754dc3)
-- [ES2015の現在とESNextの未来 // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/es2015falsexian-zai-toesnextfalsewei-lai)
-
-
-### TypeScript
-
-- [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
-- [TypeScriptを使ってECMAScript 2015時代のJavaScriptを先取りしよう！ | HTML5Experts.jp](https://html5experts.jp/vvakame/16241/)
-- [TypeScriptでのフロントエンド開発環境作成総まとめ - $shibayu36->blog;](http://blog.shibayu36.org/entry/2016/04/26/110000)
-
-
-## Debug
-- [Best JavaScript Debugging Tools | jQueryHouse](http://jqueryhouse.com/best-javascript-debugging-tools/)
+- [HTML5 カスタムデータ属性「data\-\*」にJavaScript、jQueryからアクセスする方法 \- ROCHAS](http://dresscording.com/blog/html5/custom_data_attribute.html)
 
 
 ## fetch
@@ -80,3 +57,27 @@ API サーバ側の期待している `Content-Type` に注意
 
 - [JSON Editor](http://braincast.nl/samples/jsoneditor/)
 - [Welcome to JSON Blob | create, edit, view, format, and share JSON](http://jsonblob.com/)
+
+
+## ECMAScript / altJS
+
+### ES6・ES2015・ESNext
+- [Effective ES6](http://www.slideshare.net/teppeis/effective-es6)
+- [Babelで始める！モダンJavaScript開発 | HTML5Experts.jp](https://html5experts.jp/kyo_ago/16979/)
+- [ECMAScript 2015のブラウザ対応状況と実践投入に向けて | HTML5Experts.jp](https://html5experts.jp/1000ch/16995/)
+- [ES6時代のNode.js - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/Node-es6/)
+- [ES6 チートシート | プログラミング | POSTD](http://postd.cc/es6-cheatsheet/)
+- [春からはじめるモダンJavaScript / ES2015 - Qiita](http://qiita.com/mizchi/items/3bbb3f466a3b5011b509)
+- [Node.js ES2015/ES6 support](http://node.green/)
+- [webpackとbabelでES6コードをさくっと書く - getalog](http://geta6.hatenablog.com/entry/2016/04/05/165201)
+- [JavaScript(ES2015)でvarやletを使う必要はほぼ無い - id:anatooのブログ](http://blog.anatoo.jp/entry/2016/04/17/043840)
+- [ESLint が jQuery Foundation に参加したことについて - Qiita](http://qiita.com/mysticatea/items/4cd6405e5a931f8817f6)
+- [Custom elementsはES6のclass記法で定義可能になりそうです - Qiita](http://qiita.com/yoichiro@github/items/fdb8372bd8a68c754dc3)
+- [ES2015の現在とESNextの未来 // Speaker Deck](https://speakerdeck.com/yosuke_furukawa/es2015falsexian-zai-toesnextfalsewei-lai)
+
+
+### TypeScript
+
+- [「生JavaScriptで十分」な人にこそTypeScriptをおすすめしたい理由 | mzsm.me](http://mzsm.me/2014/12/23/advent-calendar-2014-typescript/)
+- [TypeScriptを使ってECMAScript 2015時代のJavaScriptを先取りしよう！ | HTML5Experts.jp](https://html5experts.jp/vvakame/16241/)
+- [TypeScriptでのフロントエンド開発環境作成総まとめ - $shibayu36->blog;](http://blog.shibayu36.org/entry/2016/04/26/110000)
