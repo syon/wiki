@@ -41,13 +41,18 @@ layout: page.jade
 - [Best JavaScript Debugging Tools | jQueryHouse](http://jqueryhouse.com/best-javascript-debugging-tools/)
 
 
+## fetch
 
-## 便利
+#### POST with fetch
 
-- [Welcome to JSON Blob | create, edit, view, format, and share JSON](http://jsonblob.com/)
+API サーバ側の期待している `Content-Type` に注意
+
+- [Question: how to a POST with form\-data correctly · Issue \#30 · matthew\-andrews/isomorphic\-fetch](https://github.com/matthew-andrews/isomorphic-fetch/issues/30)
+- [javascript \- Fetch: POST json data \- Stack Overflow](http://stackoverflow.com/questions/29775797/fetch-post-json-data)
+- [jquery \- Serialize form data to JSON \- Stack Overflow](http://stackoverflow.com/questions/11338774/serialize-form-data-to-json)
 
 
-#### Promise
+## Promise
 - [JavaScript Promiseの本](http://azu.github.io/promises-book/)
 - [Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Blog](http://blog.otakumode.com/2014/09/17/nodejs-promise/)
 - [Promiseのアレ](http://takazudo.github.io/presentation-promise/#/)
@@ -60,7 +65,8 @@ layout: page.jade
 - [for文の中で非同期関数を使いたいときでも慌てずPromiseする \- Qiita](http://qiita.com/progre/items/5666f4a333cc2d032d15)  
   Promiseを配列に詰め込んで、まとめて`Promise.all`する
 
-#### async / await
+
+## async / await
 
 - 2016.10  
   [非同期関数 \- Promise をわかりやすくする  \|  Web  \|  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
@@ -73,3 +79,4 @@ layout: page.jade
 ## JSON
 
 - [JSON Editor](http://braincast.nl/samples/jsoneditor/)
+- [Welcome to JSON Blob | create, edit, view, format, and share JSON](http://jsonblob.com/)
