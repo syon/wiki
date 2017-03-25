@@ -6,7 +6,22 @@ layout: page.jade
 
 [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 
-## IDE
+
+## start
+
+#### React Native CLI
+- [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)  
+  `npm install -g react-native-cli`
+
+#### Create React Native App
+- [react-community/create-react-native-app](https://github.com/react-community/create-react-native-app)
+- [create\-react\-native\-app触ってみた！！ \- Qiita](http://qiita.com/Shagamii/items/c3205bb64ccaa5258077)  
+  > Create React AppのReact Native版
+
+
+## Tools
+
+### [Expo](https://expo.io/)
 
 ### [Deco - React Native IDE](https://www.decosoftware.com/)
 
