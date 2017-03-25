@@ -168,5 +168,13 @@ layout: page.jade
 - [Reactの最新動向とベストプラクティス ── HTML5 Conference 2016セッションレポート \| HTML5Experts\.jp](https://html5experts.jp/koba04/20839/)
 
 
+## Next.js
+[zeit/next\.js: Framework for server\-rendered React apps](https://github.com/zeit/next.js)
+
+- [Next\.js \- Qiita](http://qiita.com/nkzawa/items/1e0e93efd13fb982c8c0)  
+  https://zeit.co/blog/next の翻訳
+- [Reactで学ぶ！いまどきのWeb開発 // Speaker Deck](https://speakerdeck.com/fand/reactdexue-bu-imadokifalsewebkai-fa)
+
+
 ## React Native
 - → __[React Native](/wiki/reactnative/)__
