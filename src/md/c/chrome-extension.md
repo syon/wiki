@@ -17,3 +17,34 @@ layout: page.jade
 - [Chrome 拡張機能のマニフェストファイルの書き方 \- Qiita](http://qiita.com/mdstoy/items/9866544e37987337dc79)
 - [hatena/hatena\-bookmark\-googlechrome\-extension](https://github.com/hatena/hatena-bookmark-googlechrome-extension)  
   Hatena Bookmark extension for Google Chrome
+
+## Using
+
+### ネットワーク
+- Ghostery
+- Adblock Plus
+- Proxy SwitchyOmega
+
+### ブラウジング効率UP
+- cVim
+- SearchPreview
+- AutoPatchWork
+- Stylish
+- Tampermonkey
+  - Fix Google Search Options
+
+### 買い物
+- Keepa - Amazon Price Tracker
+
+### クリップ
+- Save to Pocket
+- Evernote Web Clipper
+- FireShot
+
+### ソーシャル
+- はてなブックマーク
+- はてなのお知らせ
+
+### 開発
+- GitHub Issue Badges
+- Vue.js devtools
