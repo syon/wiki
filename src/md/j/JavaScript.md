@@ -10,7 +10,16 @@ layout: page.jade
 
 ## MDN Pickup
 
-- [element\.scrollIntoView \- Web API インターフェイス \| MDN](https://developer.mozilla.org/ja/docs/Web/API/Element/scrollIntoView)
+### Element
+
+[element\.scrollIntoView](https://developer.mozilla.org/ja/docs/Web/API/Element/scrollIntoView)
+: scrollIntoView() メソッドは、要素が（ブラウザのウィンドウ上の）表示範囲に入るまでページをスクロールします。
+
+### Array
+
+[Array\.prototype\.some\(\)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
+: 
+与えられた関数によって実行されるテストに合格する要素が配列の中にあるかどうかをテストします。
 
 
 ## DOM
