@@ -17,3 +17,4 @@ layout: page.jade
   ```html
   <table v-bind:attribute1="someMethod" attribute2="{{anotherMethod}}">
   ```
+- [Vue\.js2\.x系で親から子コンポーネントにデータを渡す方法 \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/10/vuejs-components-props.html)
