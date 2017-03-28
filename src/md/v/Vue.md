@@ -27,3 +27,4 @@ layout: page.jade
 ## Dev
 
 - [AtomのVue\.js関係プラグインまとめ \- Qiita](http://qiita.com/mrmr/items/f6927eb2fe5aa13a2f90)
+- [Vue\.js 2\.2 Complete API Cheat Sheet](https://vuejs-tips.github.io/cheatsheet/)
