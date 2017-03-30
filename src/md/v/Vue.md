@@ -22,6 +22,8 @@ layout: page.jade
 #### with Semantic UI
 - [How to use Semantic UI \+ VUECLI \- Help \- Vue Forum](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
 - [javascript \- Using vue\.js with semantic UI \- Stack Overflow](http://stackoverflow.com/questions/36676215/using-vue-js-with-semantic-ui)
+- [v\-model value of styled checkbox doesn't update · Issue \#4769 · vuejs/vue](https://github.com/vuejs/vue/issues/4769)  
+  Vue は hidden に対して効かないため、その対処法。
 
 
 ## Dev
