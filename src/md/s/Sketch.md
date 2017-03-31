@@ -14,3 +14,9 @@ layout: page.jade
 ## Plugins
 
 - [コーディングを10倍早くするSketch Pluginを紹介するよ \- ゆめいろデザイン](https://yumeirodesign.jp/blog/201702/sketch-coding-plugin.html#page-nav)
+
+
+## similar tools
+
+[Figma: the collaborative interface design tool\.](https://www.figma.com/)
+: Sketch風の共同編集Webアプリ
