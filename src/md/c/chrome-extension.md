@@ -22,6 +22,8 @@ layout: page.jade
 
 ### ネットワーク
 - Ghostery
+  - __unblock__
+  - Google AJAX Search API
 - Adblock Plus
 - Proxy SwitchyOmega
 
