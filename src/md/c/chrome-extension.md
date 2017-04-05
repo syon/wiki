@@ -24,6 +24,7 @@ layout: page.jade
 - Ghostery
   - __unblock__
   - Google AJAX Search API
+  - Typekit by Adobe
 - Adblock Plus
 - Proxy SwitchyOmega
 
