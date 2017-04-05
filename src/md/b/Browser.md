@@ -48,3 +48,13 @@ layout: page.jade
 ```html
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 ```
+
+
+## Selenium
+
+#### npm
+- [selenium\-server\-standalone\-jar](https://www.npmjs.com/package/selenium-server-standalone-jar)
+- [selenium\-standalone](https://www.npmjs.com/package/selenium-standalone)
+
+#### articles
+- [selenium\-webdriverの紹介とAPI翻訳 \- Qiita](http://qiita.com/nazomikan/items/40b86dc5619bb1795aaa)
