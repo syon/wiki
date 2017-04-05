@@ -15,7 +15,11 @@ layout: page.jade
   Frequently Asked Questions about the SIL Open Font License (OFL)
 
 #### articles
-- [フォントのライセンスについて | 自家製フォント工房](http://jikasei.me/info/license.html)
+- __[フォントのライセンスについて | 自家製フォント工房](http://jikasei.me/info/license.html)__  
+  __気にしなくても良いこと、できないこと、必要なこと__
+  - M+ FONT LICENSE
+  - SIL Open Font License 1.1
+  - Apache License 2.0
 - [Web フォントとライセンス - ヨモツネット](http://yomotsu.net/blog/2012/10/09/webfont-license.html)
 
 
