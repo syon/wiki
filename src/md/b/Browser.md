@@ -58,3 +58,13 @@ layout: page.jade
 
 #### articles
 - [selenium\-webdriverの紹介とAPI翻訳 \- Qiita](http://qiita.com/nazomikan/items/40b86dc5619bb1795aaa)
+- __[Seleniumアレルギーのための処方箋 \- Qiita](http://qiita.com/cognitom/items/27b7375bea653b414c8f)__
+- [\[Selenium 3\-beta\] Server fails to start when launched with chromedriver v2\.22 · Issue \#2566 · SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium/issues/2566)
+> -D arguments in the command line should come before the '-jar's
+
+### [WebdriverIO](http://webdriver.io/)
+Selenium 2\.0 javascript bindings for nodejs
+
+- [5 Minutes with WebdriverIO \- YouTube](https://www.youtube.com/watch?v=vPes7NKeYno)
+- [WebdriverIO \+ power\-assert でe2eテストをgeneratorで書いてみる \- Qiita](http://qiita.com/yoshi6jp@github/items/24d01dfc6712dbf112aa)
+- [LIGブログの安全な開発のために 〜WebdriverIOでスクリーンショットを撮る編〜 \| それいけ！フロントエンド](https://liginc.co.jp/304470)
