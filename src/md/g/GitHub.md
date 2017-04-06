@@ -16,6 +16,9 @@ github.com ドメイン専用短縮URL。コマンドラインから使えばパ
 [Sibbell](https://sibbell.com/about/)
 : GitHub リリース通知
 
+[RawGit](http://rawgit.com/)
+: [GitHub上のファイルをCDNとして参照する \- Qiita](http://qiita.com/takanorig/items/89db46120d2ec171e3d8)
+
 
 ## GitHub Pages
 
