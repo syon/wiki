@@ -28,6 +28,14 @@ layout: page.jade
     - [keyhac - craftware](https://sites.google.com/site/craftware/keyhac) (Python)
 
 
+#### Remap Capslock Key
+
+- [keyboard layout \- How can I remap Capslock on Windows 7 without thirdparty software? \- Super User](https://superuser.com/questions/334849/how-can-i-remap-capslock-on-windows-7-without-thirdparty-software)
+- [How to emulate hyper key in Windows 10 using autohotkey \- Stack Overflow](http://stackoverflow.com/questions/40435980/how-to-emulate-hyper-key-in-windows-10-using-autohotkey)
+- [How to Disable Caps Lock Key in Windows 7, 8, 10, or Vista](https://www.howtogeek.com/howto/windows-vista/disable-caps-lock-key-in-windows-vista/)
+  - [Map Any Key to Any Key on Windows 10, 8, 7, or Vista](https://www.howtogeek.com/howto/windows-vista/map-any-key-to-any-key-on-windows-xp-vista/)
+  - [SharpKeys | CodePlex](http://sharpkeys.codeplex.com/)
+
 #### WindowsでMacキーボードの「英数」と「かな」を使う
 
 - Google日本語入力側の設定で実現  
