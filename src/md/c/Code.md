@@ -65,6 +65,8 @@ layout: page.jade
 ### AsciiDoc
 - [HubPress | A web application to build your Blog on GitHub](http://hubpress.io/)
 - [AsciiDoc Writer’s Guide | Asciidoctor](http://asciidoctor.org/docs/asciidoc-writers-guide/)
+- [Asciidoc簡易メモ \- Qiita](http://qiita.com/hbsnow/items/88e1414ac97501af17ff)  
+  Block や Source の説明が参考になる
 
 
 ## Lint
