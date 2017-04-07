@@ -79,6 +79,8 @@ set -gx http_proxy http://localhost:8080
 
 ### function
 
+- [詳解 fishでモダンなシェル環境の構築\(fish,tmux,powerline,peco,z,ghq,dracula\) \- Qiita](http://qiita.com/susieyy/items/ac2133e249f252dc9a34)
+
 - [fishshell で Enter 押したときに ls と git status を表示する \- Qiita](http://qiita.com/marcy_o/items/d51773cdd110d77cfdd8)
 
 ```bash
