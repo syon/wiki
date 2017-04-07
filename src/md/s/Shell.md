@@ -77,6 +77,21 @@ set PATH $PATH $HOME/.nodebrew/current/bin
 set -gx http_proxy http://localhost:8080
 ```
 
+### function
+
+- [fishshell で Enter 押したときに ls と git status を表示する \- Qiita](http://qiita.com/marcy_o/items/d51773cdd110d77cfdd8)
+
+```bash
+function done_enter --on-event fish_postexec
+    if test -z "$argv"
+        ls
+        if git rev-parse --is-inside-work-tree ^/dev/null
+            echo (set_color yellow)"--- git status ---"(set_color normal)
+            git status -sb
+        end
+    end
+end
+```
 
 ### [Fisherman](http://fisherman.sh/)
 - [Installing Fisherman · fisherman/fisherman Wiki](https://github.com/fisherman/fisherman/wiki/Installing-Fisherman)
