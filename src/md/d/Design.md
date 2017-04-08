@@ -23,10 +23,14 @@ layout: page.jade
 [LumX](http://ui.lumapps.com/)  
 : The first responsive front-end framework based on AngularJS & Google Material Design specifications.
 
-Sample
-:
-  - [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
-  - [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
+#### Tools
+
+- [Color Tool \- Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
+
+#### Samples
+
+- [Google Material Design Hierarchical Timing](http://codepen.io/prajwalkman/pen/eLlGw)
+- [Material Action Button](http://codepen.io/andreasstorm/pen/DkLqA)
 
 #### Icons
 - [Material icons - Google Design](https://www.google.com/design/icons/) アイコンリスト
