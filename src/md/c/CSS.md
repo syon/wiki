@@ -25,8 +25,7 @@ layout: page.jade
 - [ECSSの概要と考え方のまとめ \- Qiita](http://qiita.com/manabuyasuda/items/37523e9d0bfbad34211f)
 
 [FLOCSS](https://github.com/hiloki/flocss)
-:
-> FLOCSS（フロックス）は、OOCSSやSMACSS、BEM、SuitCSSのコンセプトを取り入れた、モジュラーなアプローチのためのCSS構成案です。
+: FLOCSS（フロックス）は、OOCSSやSMACSS、BEM、SuitCSSのコンセプトを取り入れた、モジュラーなアプローチのためのCSS構成案です。
 
 - [FLOCSSを扱いきれないあなたに贈る、スリムなCSS設計の話 \| WebNAUT](https://webnaut.jp/technology/20170407-2421/)
 
