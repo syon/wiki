@@ -103,6 +103,12 @@ route print
 cd /d %~dp0
 ```
 
+### wait / sleep
+
+```bash
+timeout /T 3
+```
+
 ### 日付・時刻の取得
 
 - [Windows TIPS：バッチ・ファイル中で日付をファイル名に使用する - ＠IT](http://www.atmarkit.co.jp/ait/articles/0405/01/news002.html)
