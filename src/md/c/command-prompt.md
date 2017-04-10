@@ -96,6 +96,13 @@ route print
 
 ## バッチ
 
+- [【bat】Windowsのバッチファイル\(\*\.bat\)の書き方自分用まとめ \- Qiita](http://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a)
+
+```bash
+@echo off
+cd /d %~dp0
+```
+
 ### 日付・時刻の取得
 
 - [Windows TIPS：バッチ・ファイル中で日付をファイル名に使用する - ＠IT](http://www.atmarkit.co.jp/ait/articles/0405/01/news002.html)
