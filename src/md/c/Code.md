@@ -63,6 +63,7 @@ layout: page.jade
 - [Remarkable demo](https://jonschlinkert.github.io/remarkable/demo/)
 
 ### AsciiDoc
+- [Asciidoctor User Manual](http://asciidoctor.org/docs/user-manual/)
 - [HubPress | A web application to build your Blog on GitHub](http://hubpress.io/)
 - [AsciiDoc Writer’s Guide | Asciidoctor](http://asciidoctor.org/docs/asciidoc-writers-guide/)
 - [Asciidoc簡易メモ \- Qiita](http://qiita.com/hbsnow/items/88e1414ac97501af17ff)  
