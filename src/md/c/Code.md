@@ -64,6 +64,7 @@ layout: page.jade
 
 ### AsciiDoc
 - [Asciidoctor User Manual](http://asciidoctor.org/docs/user-manual/)
+- [AsciiDoc Syntax Quick Reference \| Asciidoctor](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
 - [HubPress | A web application to build your Blog on GitHub](http://hubpress.io/)
 - [AsciiDoc Writer’s Guide | Asciidoctor](http://asciidoctor.org/docs/asciidoc-writers-guide/)
 - [Asciidoc簡易メモ \- Qiita](http://qiita.com/hbsnow/items/88e1414ac97501af17ff)  
