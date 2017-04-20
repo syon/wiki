@@ -30,6 +30,11 @@ layout: page.jade
 
 ### ブラウジング効率UP
 - cVim
+```vim
+set scalehints
+set smoothscroll
+let scrollduration = 300
+```
 - SearchPreview
 - AutoPatchWork
 - Stylish
