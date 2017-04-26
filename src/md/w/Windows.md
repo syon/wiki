@@ -15,6 +15,7 @@ shell:startup
 
 ### 操作
 - [オッサンのためのWindows 10講座　昔の使い方を早く捨てろ、慣れろ。 \(1/2\) \- ITmedia エンタープライズ](http://www.itmedia.co.jp/enterprise/articles/1607/16/news020.html)
+- [知られざるワザ「Shift＋右クリック」でファイルのパスをコピーする方法 \- いまさら聞けないWindows 10のTips \- 窓の杜](http://forest.watch.impress.co.jp/docs/serial/win10tips/1056255.html)
 
 ### Look & Feel
 
