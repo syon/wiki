@@ -125,6 +125,10 @@ $ npm ls --depth=0 -g
 Find newer versions of package dependencies than what your package.json or bower.json allows
 - [Node.jsアプリでのパッケージ更新確認 - Qiita](http://qiita.com/ksato9700/items/03e4cd49c55a9a61ef65)
 
+### [grunt\-license\-report](https://github.com/Fkscorpion/grunt-license-report)
+Creates a small HTML File, with all licenses used in the current package
+- [npmの依存ライブラリのライセンスをチェックする方法 \- Qiita](http://qiita.com/ymstmsys/items/c77b52fda7dc69d8f22f)
+
 #### [Socket.IO](http://socket.io/)
 - [Socket.IOについてのメモ - y's note](http://ykmtblog.hatenablog.jp/entry/2015/04/08/201109)
 
