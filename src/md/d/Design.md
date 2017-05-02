@@ -111,6 +111,9 @@ layout: page.jade
 
 ### Texture / Pattern
 
+[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)  
+: Free textures for your next web project
+
 [Freepik](http://www.freepik.com/)  
 : Find Free Vectors, PSD, Icons and photos
 
