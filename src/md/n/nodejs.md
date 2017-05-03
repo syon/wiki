@@ -134,6 +134,10 @@ Creates a small HTML File, with all licenses used in the current package
 
 #### [gm](http://aheckmann.github.io/gm/)
 GraphicsMagick for node.js
+- [How to specify extent background color? · Issue \#415 · aheckmann/gm](https://github.com/aheckmann/gm/issues/415)
+```js
+gm("img.png").background('#FF0000').flatten().toFormat('jpg');
+```
 
 #### [Vorlon.JS](http://vorlonjs.com/)
 スクリプトタグを埋め込んでおくとリモートデバッグ出来るツール。 Console、DOMツリーの表示、Modernizrを使ったサポート状況の表示などが出来る。 またpluginで拡張する事が出来る
