@@ -25,6 +25,10 @@ layout: page.jade
 
 ## プログラミング用フォント
 
+San Francisco Mono
+: San Francisco Mono フォントを Visual Studio Code で利用する
+- [macOS で Visual Studio Code を使うためのアレコレ \(2017/3/16\) \- Qiita](http://qiita.com/satokaz/items/6a6a0d9b6489ec2d1803#san-francisco-mono-%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%82%92-visual-studio-code-%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B)
+
 [Ricty](https://github.com/yascentur/Ricty)
 : Ricty (リクティ) は Linux 環境での研究・開発に適したフリーなプログラミング用 TrueType フォントです。 Emacs や Vim を用いた C、C++、FORTRAN、Python、Perl、Ruby、AWK、sed、シェルスクリプト、LaTeX などのコーディングにおける使用を想定しています。
 
