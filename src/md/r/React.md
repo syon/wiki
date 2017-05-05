@@ -127,6 +127,9 @@ layout: page.jade
 [Rebass](http://jxnblk.com/rebass/)
 : 57 Configurable React Stateless Functional UI Components
 
+[Office UI Fabric](https://dev.office.com/fabric#/)
+: The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
+
 #### Styling
 - [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 
