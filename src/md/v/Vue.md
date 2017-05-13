@@ -30,3 +30,12 @@ layout: page.jade
 
 - [AtomのVue\.js関係プラグインまとめ \- Qiita](http://qiita.com/mrmr/items/f6927eb2fe5aa13a2f90)
 - [Vue\.js 2\.2 Complete API Cheat Sheet](https://vuejs-tips.github.io/cheatsheet/)
+
+[lakb248/vue\-pull\-refresh](https://github.com/lakb248/vue-pull-refresh)
+: A pull down refresh component implement by vuejs
+
+### vue-router :: transition
+
+- [Tumblr API \+ Vue\.jsでTumblrテーマを作った話 \- Qiita](http://qiita.com/ryo_dg/items/b2c030362241a20bc6bb)
+- [Vue\.js page transition fade effect with vue\-router \- Stack Overflow](http://stackoverflow.com/questions/41221099/vue-js-page-transition-fade-effect-with-vue-router)  
+  `transition name="hoge"` がCSSセレクタ接頭辞になる
