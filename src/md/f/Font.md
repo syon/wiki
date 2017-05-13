@@ -49,6 +49,9 @@ San Francisco Mono
 [MeiryoKe](http://www.geocities.jp/meir000/meiryoKe/)
 : meiryo 6.26から MeiryoKeフォントを生成する差分パッチ
 
+[Roboto Mono](https://github.com/google/fonts/tree/master/apache/robotomono)
+: [Roboto Mono \- Google Fonts](https://fonts.google.com/specimen/Roboto+Mono)
+
 
 ## Google
 
