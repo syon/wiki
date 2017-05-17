@@ -208,6 +208,7 @@ Google Web Fontの説明
 - [2015年のフォント総括／鷹野 雅弘（スイッチ）](http://www.slideshare.net/swwwitch/2015-60404945)
 - [ウェブサイトでシステムフォント · terkel.jp](http://terkel.jp/archives/2016/05/system-fonts-on-website/)  
   `font-family: -apple-system, BlinkMacSystemFont, …`
+- [Webブラウザにおける文字のアンチエイリアスの現状の最適解 \| dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/14128.html)
 
 
 ## Preview installed fonts
