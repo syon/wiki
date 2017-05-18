@@ -113,6 +113,9 @@ CLCLのオプション > ウィンドウ から設定を追加する。
 ## Keyboard
 - [Apple KeyboardをWindowsで快適に？使う為のまとめ。](http://surumekuu.blog.shinobi.jp/Entry/13/)
 
+[Hayate](http://frozenlib.net/hayate/)
+: キーリピート高速化ソフト
+
 ### AutoHotKey
 - [AutoHotKey](/wiki/autohotkey/)
 
