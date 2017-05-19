@@ -72,3 +72,9 @@ layout: page.jade
 - [React Native NavigationExperimental in Depth – React Native Training – Medium](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.8d4ale1ud)
 - [airbnb/native\-navigation](https://github.com/airbnb/native-navigation)
 - [React Navigation](https://reactnavigation.org/)
+
+
+### Debug
+
+[jhen0409/react\-native\-debugger](https://github.com/jhen0409/react-native-debugger)
+: The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
