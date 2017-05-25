@@ -25,6 +25,10 @@ layout: page.jade
 - [v\-model value of styled checkbox doesn't update · Issue \#4769 · vuejs/vue](https://github.com/vuejs/vue/issues/4769)  
   Vue は hidden に対して効かないため、その対処法。
 
+#### with UIKit
+
+- [Vue\.jsとUIkitでつくるフロントエンド環境 \- Qiita](http://qiita.com/bobu_web/items/4daa20d3b4bd327ca91c)
+
 
 ## Dev
 
