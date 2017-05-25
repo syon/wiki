@@ -31,9 +31,16 @@ layout: page.jade
 
 ## 環境
 
+__<mark>[syon/dotfiles](https://github.com/syon/dotfiles)</mark>__
+
 - [MacBook Proを買って最初にしたこと](http://blog.akihiko.me/2015/03/01/mbp-first-step/)
 - [OSX の開発環境を Ansible で自動構築する（El Capitan / Yosemite） - Shin x Hatena Blog](http://shin1x1.hatenablog.com/entry/osx-provisioning-with-ansible)
 - [Mac OS Xの環境構築を自動化する(2016年度初旬編) ｜ Developers.IO](http://dev.classmethod.jp/server-side/ansible/automate-build-mac-osx-env-by-ansible/)
+
+### Keyboard
+
+- [Karabiner\-Elements と Hammerspoon を持って Sierra に行こう \- d\.hetima](http://hetima.hatenablog.jp/entry/2017/05/23/221721)
+
 
 ### Serverkit
 - [ServerkitでMacの環境構築を自動化する - Qiita](http://qiita.com/r7kamura/items/591e96861f025fb22998)
