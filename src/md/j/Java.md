@@ -89,6 +89,16 @@ __RFC1806: The Content-Disposition Header__
   <dd>bodypart はメールメッセージのメインボディから分割されていることを示すために `attachment' として明示することができ、それらの表示は自動的ではなくユーザアクションしだいとすべきである。MUA はその代わりに、ビットマップ端末のユーザには添付データのアイコン表現を、キャラクタ端末には添付データの表示や保存を選択できるようにリストを提示するかもしれない。</dd>
 > </dl>
 
+#### POST Request Body
+
+- [post \- Retrieving JSON Object Literal from HttpServletRequest \- Stack Overflow](https://stackoverflow.com/questions/1548782/retrieving-json-object-literal-from-httpservletrequest)
+
+```java
+String jsonString = IOUtils.toString(request.getInputStream());
+JSONObject json = new JSONObject(jsonString);
+MyObject myObject = new Gson().fromJson(jsonString, MyObject.class);
+```
+
 ### HTTP - Response
 
 > java.lang.IllegalStateException: Response has already been committed

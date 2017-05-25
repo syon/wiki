@@ -118,6 +118,7 @@ JDBC helper library.
 #### [Google Gson](https://github.com/google/gson)
 - [Java - GSONの基本的な使い方 - Qiita](http://qiita.com/u-chida/items/cbdd040e4199a10936dc)
 - [google-gsonメモ - Qiita](http://qiita.com/yyoshikaw/items/850639ebf49ecfbc978c)
+- [java \- Gson to HashMap \- Stack Overflow](https://stackoverflow.com/questions/14944419/gson-to-hashmap)
 
 
 ## Database
