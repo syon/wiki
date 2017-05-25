@@ -63,6 +63,7 @@ layout: page.jade
   - 過渡期な navigation のリストあり
 - [React Native Non\-React Tips \- Qiita](http://qiita.com/janus_wel/items/d3c5b695015cb54344ff)
   - トラブルシューティングなど
+- [React Native開発のつらい点まとめ – MMiyauchi Blog](http://mmiyauchi.com/?p=1526)
 
 ### Navigation
 
