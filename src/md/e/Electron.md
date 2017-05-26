@@ -35,3 +35,4 @@ layout: page.jade
 - [npm install electron \- Electron](http://electron.atom.io/blog/2016/08/16/npm-install-electron)
 - [Electronの公式テストフレームワークSpectron入門 \- ICS MEDIA](https://ics.media/entry/13082)
 - [Electronでカラーピッカーを表示するメニューバーアプリを作る \- TaillookTech](http://taillook.hateblo.jp/entry/2017/02/24/204255)
+- [ElectronのIPCをまとめる \- Qiita](http://qiita.com/gcmae/items/cb6eb18be2f4ffae60b5)
