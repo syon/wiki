@@ -96,6 +96,9 @@ for Rapid Website Production
 [Milligram](https://milligram.github.io/)
 : A minimalist CSS framework.
 
+[FICTOAN](http://sujansundareswaran.com/fictoan/images/grid-1.png)
+: Intuitive, minimalist responsive HTML\+CSS boilerplate
+
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
 
