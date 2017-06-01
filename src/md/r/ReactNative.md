@@ -22,6 +22,7 @@ layout: page.jade
 ## Tools
 
 ### [Expo](https://expo.io/)
+- [Snack — A Playground for React Native – Exposition](https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2)
 
 ### [Deco - React Native IDE](https://www.decosoftware.com/)
 
