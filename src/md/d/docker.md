@@ -104,6 +104,7 @@ Options:
 - [Dockerで遊んでみよっかー YAPC::Asia Tokyo 2014](http://www.slideshare.net/kazeburo/docker-yapcasia-tokyo-2014)
 - [軽くて使いやすい仮想化技術 「Docker」の仕組みと　エンタープライズ開発における4つの活用事例 （1/6）：CodeZine](http://codezine.jp/article/detail/7894)
 - [古賀政純の「攻めのITのためのDocker塾」：第30回 Docker Swarmを知る　複数の物理サーバでDocker環境をクラスタ化する方法 \(1/3\) \- ITmedia エンタープライズ](http://www.itmedia.co.jp/enterprise/articles/1610/19/news009.html)
+- [忙しい人の5分で分かるDocker 2017年春Ver](https://www.slideshare.net/zembutsu/5-minuts-docker-2017)
 
 #### Registry
 - [社内用Docker環境をつくる〜Docker Registry on EC2とDocker for AWSについて〜 \| Recruit Jobs TECHBLOG](https://techblog.recruitjobs.net/development/docker-registry-on-ec2_and_docker-for-aws)
