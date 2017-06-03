@@ -95,3 +95,40 @@ Selenium 2\.0 javascript bindings for nodejs
 - [LIGブログの安全な開発のために 〜WebdriverIOでスクリーンショットを撮る編〜 \| それいけ！フロントエンド](https://liginc.co.jp/304470)
 
 #### Getting started WebdriverIO Automation
+
+__package.json__
+```js
+//
+"scripts": {
+  "start": "node main.js",
+  "repl": "./node_modules/.bin/wdio repl chrome"
+},
+//
+```
+
+__main.js__
+```js
+const webdriverio = require('webdriverio');
+
+const options = {
+  desiredCapabilities: {
+    browserName: 'chrome'
+  }
+};
+
+webdriverio
+  .remote(options)
+  .init()
+  .windowHandleSize({width: 1000, height: 700})
+  .url('https://www.google.co.jp/')
+  .getTitle().then(title => {
+    console.log(title);
+  })
+  .setValue('input[name="q"]', 'webdriverio')
+  .submitForm('form[role="search"]')
+  // .end();
+```
+
+```bash
+$ npm start
+```
