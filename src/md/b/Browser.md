@@ -84,6 +84,8 @@ $ selenium-standalone start
 - __[Seleniumアレルギーのための処方箋 \- Qiita](http://qiita.com/cognitom/items/27b7375bea653b414c8f)__
 - [\[Selenium 3\-beta\] Server fails to start when launched with chromedriver v2\.22 · Issue \#2566 · SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium/issues/2566)
 > -D arguments in the command line should come before the '-jar's
+- [Selenium WebDriver でMacとWindows共通に動く環境を作る（ChromeDriverをServerで） \- Qiita](http://qiita.com/kochizufan/items/905165b92c7e70986f60)
+
 
 ### [WebdriverIO](http://webdriver.io/)
 Selenium 2\.0 javascript bindings for nodejs  
