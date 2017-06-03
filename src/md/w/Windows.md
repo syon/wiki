@@ -27,16 +27,16 @@ shell:startup
 
 #### Temporary Internet Files
 
-```bat
+```batch
 "%SystemRoot%\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Temporary Internet Files"
 ```
 
 #### 一時ファイル
 
-```bat
+```batch
 %temp%
 ```
-```bat
+```batch
 C:\Windows\Temp
 ```
 
