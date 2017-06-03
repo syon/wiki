@@ -66,5 +66,6 @@ layout: page.jade
 Selenium 2\.0 javascript bindings for nodejs
 
 - [5 Minutes with WebdriverIO \- YouTube](https://www.youtube.com/watch?v=vPes7NKeYno)
+- [WebdriverIO \- REPL interface](http://webdriver.io/guide/usage/repl.html) REPLがある
 - [WebdriverIO \+ power\-assert でe2eテストをgeneratorで書いてみる \- Qiita](http://qiita.com/yoshi6jp@github/items/24d01dfc6712dbf112aa)
 - [LIGブログの安全な開発のために 〜WebdriverIOでスクリーンショットを撮る編〜 \| それいけ！フロントエンド](https://liginc.co.jp/304470)
