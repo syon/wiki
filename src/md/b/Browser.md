@@ -56,6 +56,29 @@ layout: page.jade
 - [selenium\-server\-standalone\-jar](https://www.npmjs.com/package/selenium-server-standalone-jar)
 - [selenium\-standalone](https://www.npmjs.com/package/selenium-standalone)
 
+#### selenium-standalone
+
+- [vvo/selenium\-standalone ](https://github.com/vvo/selenium-standalone)
+
+##### Homebrew (Mac)
+
+- [homebrew\-core/selenium\-server\-standalone\.rb](https://github.com/Homebrew/homebrew-core/blob/master/Formula/selenium-server-standalone.rb)
+
+```bash
+$ brew update
+$ brew install selenium-server-standalone
+$ brew install chromedriver
+```
+
+##### npm
+
+```bash
+$ npm install selenium-standalone@latest -g
+$ selenium-standalone install
+$ selenium-standalone start
+```
+
+
 #### articles
 - [selenium\-webdriverの紹介とAPI翻訳 \- Qiita](http://qiita.com/nazomikan/items/40b86dc5619bb1795aaa)
 - __[Seleniumアレルギーのための処方箋 \- Qiita](http://qiita.com/cognitom/items/27b7375bea653b414c8f)__
@@ -63,9 +86,12 @@ layout: page.jade
 > -D arguments in the command line should come before the '-jar's
 
 ### [WebdriverIO](http://webdriver.io/)
-Selenium 2\.0 javascript bindings for nodejs
+Selenium 2\.0 javascript bindings for nodejs  
+※ __wdio__ == webdriverio
 
 - [5 Minutes with WebdriverIO \- YouTube](https://www.youtube.com/watch?v=vPes7NKeYno)
 - [WebdriverIO \- REPL interface](http://webdriver.io/guide/usage/repl.html) REPLがある
 - [WebdriverIO \+ power\-assert でe2eテストをgeneratorで書いてみる \- Qiita](http://qiita.com/yoshi6jp@github/items/24d01dfc6712dbf112aa)
 - [LIGブログの安全な開発のために 〜WebdriverIOでスクリーンショットを撮る編〜 \| それいけ！フロントエンド](https://liginc.co.jp/304470)
+
+#### Getting started WebdriverIO Automation
