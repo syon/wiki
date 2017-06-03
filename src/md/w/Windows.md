@@ -21,9 +21,38 @@ shell:startup
 
 - [Windows 7 でウィンドウの枠のサイズを調整する方法／カブドットコム証券](https://s10.kabu.co.jp/_mem_bin/howto/win7_frame.asp)
 
-### 軽量化
+### クリーン
 
 - [Windows 7 tips: hiberfil.sys と pagefile.sys を削除する : *n.on.log](http://site-ichijo.net/blog/archives/date/2009/0805-011604.php)
+
+#### Temporary Internet Files
+
+```bat
+"%SystemRoot%\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Temporary Internet Files"
+```
+
+#### 一時ファイル
+
+```bat
+%temp%
+```
+```bat
+C:\Windows\Temp
+```
+
+#### ディスククリーンアップ
+
+- Windows+R → `cleanmgr`
+
+#### Windows Search
+サービスの停止とインデックスファイルの削除
+
+- Windows+R → `services.msc`
+- Windows Search → 停止
+- `C:\ProgramData\Microsoft\Search`フォルダを開く
+- `C:\ProgramData\Microsoft\Search\Data\Applications\Windows` に進む。警告は続行。
+- `Windows.edb`ファイルのみ削除
+
 
 ### Security
 
