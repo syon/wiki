@@ -108,6 +108,11 @@ for Rapid Website Production
   A tiny (<1kb gzipped!) library for recreating Instagram filters with CSS filters and blend modes.
 
 
+## Reset CSS
+
+- [Shitaji\.CSS \- Qrac GitHub](https://qrac.github.io/shitajicss/)
+
+
 ## CSS Code
 
 ### CSS整形
