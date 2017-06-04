@@ -52,6 +52,8 @@ layout: page.jade
 
 ## Selenium
 
+- __<mark>[Seleniumとブラウザドライバーのインストール :: Selenium \| Refills](https://syon.github.io/refills/rid/1496490/)</mark>__
+
 #### npm
 - [selenium\-server\-standalone\-jar](https://www.npmjs.com/package/selenium-server-standalone-jar)
 - [selenium\-standalone](https://www.npmjs.com/package/selenium-standalone)
@@ -59,25 +61,6 @@ layout: page.jade
 #### selenium-standalone
 
 - [vvo/selenium\-standalone ](https://github.com/vvo/selenium-standalone)
-
-##### Homebrew (Mac)
-
-- [homebrew\-core/selenium\-server\-standalone\.rb](https://github.com/Homebrew/homebrew-core/blob/master/Formula/selenium-server-standalone.rb)
-
-```bash
-$ brew update
-$ brew install selenium-server-standalone
-$ brew install chromedriver
-```
-
-##### npm
-
-```bash
-$ npm install selenium-standalone@latest -g
-$ selenium-standalone install
-$ selenium-standalone start
-```
-
 
 #### articles
 - [selenium\-webdriverの紹介とAPI翻訳 \- Qiita](http://qiita.com/nazomikan/items/40b86dc5619bb1795aaa)
