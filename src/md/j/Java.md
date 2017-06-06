@@ -4,6 +4,9 @@ title: Java
 layout: page.jade
 ---
 
+__<mark>[Compile and Execute Java Online](https://www.tutorialspoint.com/compile_java_online.php)</mark>__
+
+
 ## Overview
 
 ### About Java
@@ -211,6 +214,25 @@ final class Singleton {
 }
 ```
 
+### String.format
+
+```java
+String s1 = "equipment";
+String s2 = "instruments";
+String.format("All their %s and %s are alive.", s1, s2);
+//=> All their equipment and instruments are alive.
+```
+
+```java
+String.format("%05d", 1);
+//=> 00001
+```
+
+```java
+String.format("%,3d", 123456789)
+//=> 123,456,789
+```
+
 
 ### NVL
 
@@ -228,7 +250,7 @@ final class Singleton {
 - [新人研修でドヤ顔で披露したらウケたEclipseのショートカット集 - Qiita](http://qiita.com/arai-wa/items/c2eb7387b5bf37b4ace4)
 
 
-## Data Base
+## Database
 
 #### Flyway
 - [Flyway • Database Migrations Made Easy.](http://flywaydb.org/)
