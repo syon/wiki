@@ -109,6 +109,15 @@ MyObject myObject = new Gson().fromJson(jsonString, MyObject.class);
 ファイルのダウンロード処理を行なっているときに起きる。クライアント（ブラウザなど）にレスポンスを引渡し済みですよ、という意味。
 
 
+## Application Server
+
+#### [GlassFish](https://javaee.github.io/glassfish/)
+The Open Source Java EE Reference Implementation
+
+#### [Payara Server](http://www.payara.fish/)
+Derived from GlassFish, with 24/7 Production Support.
+
+
 ## EJB
 - [エンタープライズ：JBossで学ぶEJB入門](http://www.itmedia.co.jp/enterprise/special/0401/jboss/)
 
