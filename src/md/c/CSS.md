@@ -224,6 +224,7 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 - [CSSレイアウトにfloatはもう古い！ Webデザイナー初心者でも始められるFlexbox入門 \- ICS MEDIA](https://ics.media/entry/13117)
 - [CSS Flexboxの勉強に最適！コピペですぐに使えるレイアウトやコンポーネントを実装するコードのまとめ \| コリス](http://coliss.com/articles/build-websites/operation/css/flexbox-for-layout-and-compornent.html)
 - [日本語対応！CSS Flexboxのチートシートを作ったので配布します \| Webクリエイターボックス](http://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet/)
+- [CSS flexboxのレイアウトで困った時に使えるスタイルシートのテクニックまとめ \| コリス](http://coliss.com/articles/build-websites/operation/css/learned-reading-the-flexbox-spec.html) flexboxテクニック
 
 
 ## TIPS
