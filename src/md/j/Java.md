@@ -15,6 +15,20 @@ __<mark>[Compile and Execute Java Online](https://www.tutorialspoint.com/compile
 
 - [Javaって何だ？J2SDKとかJ2SEとかJ2EEとか、概念をわかっておこう](http://www.searchman.info/java_eclipse/1000.html)
 
+#### JVM
+
+- [JVMとGCのしくみ \- ITエンジニアとして生きる](http://d.hatena.ne.jp/ogin_s57/20120623/1340463194)
+  - Permanent領域（非ヒープ領域）
+  - New領域（ヒープ領域）
+  - Old領域（ヒープ領域）
+- [JVMのチューニング \- ITエンジニアとして生きる](http://d.hatena.ne.jp/ogin_s57/20120709/1341836704)
+  - Permanent領域のチューニング
+    - `-XX:PermSize` Permanent 領域の初期値
+    - `-XX:MaxPermSize` Permanent 領域の最大値
+  - ヒープ領域のチューニング
+    - `-Xms` ヒープ領域（New領域＋Old領域）の初期値
+    - `-Xmx` ヒープ領域（New領域＋Old領域）の最大値
+
 
 ## Library
 - → __[Java Library](java-library)__
