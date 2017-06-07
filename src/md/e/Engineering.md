@@ -40,3 +40,9 @@ layout: page.jade
 
 ## チェックディジット
 - [クーポンコードの打ち間違えを防ぐために工夫した話 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2015/06/23/142920)
+
+
+## articles
+
+- [エンジニアの幸せ \- 読むために生まれ。](http://yshigeru.hatenablog.com/entry/2017/05/21/120524)
+  > 技術の行使
