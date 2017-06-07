@@ -39,3 +39,11 @@ Discourse is the 100% open source discussion platform built for the next decade 
 
 GitHub
 : [discourse/discourse](https://github.com/discourse/discourse)
+
+事例集
+: [Discourse customers \- Discourse \- Civilized Discussion](http://www.discourse.org/customers)
+
+### articles
+
+- [オープンソースの議論型掲示板「discourse」を導入してみた＆謝辞 \- はてな村定点観測所](http://hatebu.me/entry/2017/06/02/170757)
+- [Q&Aシステムで社内のナレッジを蓄積したい \- ファーエンドテクノロジー株式会社](https://www.farend.co.jp/blog/2016/04/discourse/)
