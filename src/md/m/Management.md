@@ -10,6 +10,7 @@ layout: page.jade
   > - 心理的安全性
   > - チームの形成ステージと権限委譲
   > - 効果を測定したり、改善すべき点を見つけるためには、現状を見えるようにする必要がある
+- [DevOps for Business \| SlideHub @ryuzee](https://slide.meguro.ryuzee.com/slides/88)
 
 
 ## 要望管理
