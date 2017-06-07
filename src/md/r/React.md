@@ -130,6 +130,9 @@ layout: page.jade
 [Office UI Fabric](https://dev.office.com/fabric#/)
 : The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 
+[Draft.js](https://draftjs.org/)
+: Rich Text Editor Framework for React
+
 #### Styling
 - [Radium - A React Component Styling Library](http://projects.formidablelabs.com/radium/)
 
