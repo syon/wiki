@@ -25,3 +25,17 @@ layout: page.jade
 
 - [「たのみこむ」12月28日に終了へ、これまで実現したモノいろいろまとめ \- GIGAZINE](http://gigazine.net/news/20111101_tanomicom/)
 - [ネット時代の商品企画～「最大多数の最大幸福」への挑戦](http://internet.watch.impress.co.jp/www/column/shohin/02.htm)
+
+
+## Discourse
+
+https://www.discourse.org/
+
+Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a:
+
+- mailing list
+- discussion forum
+- long-form chat room
+
+GitHub
+: [discourse/discourse](https://github.com/discourse/discourse)
