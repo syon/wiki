@@ -138,6 +138,8 @@ Derived from GlassFish, with 24/7 Production Support.
 
 ## Java Coding
 
+- __[Javaでプログラムを書く際に意識しておきたいこと \- 覚えたら書く](http://blog.y-yuki.net/entry/2017/06/07/130000)__
+
 ### JavaのList・Mapのfor文
 #### Listのfor文
 ```java
