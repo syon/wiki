@@ -22,3 +22,5 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
 - [Single page & full size rendering · Issue \#1782 · wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/1782)
   - `--disable-smart-shrinking`
   - `--zoom 1.33` is a good fit for the 96dpi Windows default setting.
+- [wkhtmltopdf: ハガキサイズのPDFを余白なしで作る \- Toolbox](http://d.hatena.ne.jp/m0t0m0t0/20151114/1447488492)
+  - `-T 0 -L 0 -B 0 -R 0 --disable-smart-shrinking`
