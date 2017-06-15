@@ -24,3 +24,15 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
   - `--zoom 1.33` is a good fit for the 96dpi Windows default setting.
 - [wkhtmltopdf: ハガキサイズのPDFを余白なしで作る \- Toolbox](http://d.hatena.ne.jp/m0t0m0t0/20151114/1447488492)
   - `-T 0 -L 0 -B 0 -R 0 --disable-smart-shrinking`
+
+
+## Headless Chrome
+
+- [ヘッドレス Chrome ことはじめ  \|  Web  \|  Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome?hl=ja)
+
+[adieuadieu/serverless\-chrome](https://github.com/adieuadieu/serverless-chrome)
+: Run headless Chrome/Chromium on AWS Lambda \(maybe Azure, & GCP later\)
+- [How to get headless Chrome running on AWS Lambda – Marco Lüthy – Medium](https://medium.com/@marco.luethy/running-headless-chrome-on-aws-lambda-fa82ad33a9eb)
+
+[westy92/html\-pdf\-chrome](https://github.com/westy92/html-pdf-chrome)
+: HTML to PDF converter via Chrome/Chromium
