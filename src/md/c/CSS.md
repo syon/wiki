@@ -334,6 +334,8 @@ td {
 - [[CSS]古いバージョンのIEがサポート終了したので、どんどん使っていきたいCSSのテクニックのまとめ | コリス](http://coliss.com/articles/build-websites/operation/css/css-techniques-for-goodbye-ie8.html)
 - [-webkit-overflow-scrollingを指定するときについでにやっておいた方がいいこと - Qiita](http://qiita.com/liburari/items/c491c040f40809325394)
 - [Budou \- 機械学習を用いた日本語改行問題へのソリューション \- ウェブ雑記](http://tushuhei.hatenadiary.jp/entry/2016/09/12/095125)
+- [ユーザーにスクロールを予測させるCSSの書き方について \| mkasumi\.com](http://mkasumi.com/scrolling-hints-by-css.html)  
+  影をつけてスクロールできることをアピール
 
 
 ## バッドノウハウ
