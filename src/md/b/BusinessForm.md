@@ -36,3 +36,11 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
 
 [westy92/html\-pdf\-chrome](https://github.com/westy92/html-pdf-chrome)
 : HTML to PDF converter via Chrome/Chromium
+
+
+## Apache PDFBox
+[Apache PDFBox \| A Java PDF Library](https://pdfbox.apache.org/)
+
+
+## PDFtk
+[PDFtk \- The PDF Toolkit](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
