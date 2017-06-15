@@ -152,3 +152,8 @@ cmdkey /delete:ターゲット名
 
 ### ドットファイル
 - [Windowsエクスプローラーでドットファイルを作成する - Qiita](http://qiita.com/sgur/items/745e0ee02c69b50bf9e5)
+
+
+## トラブルシューティング
+
+- [「別のプログラムがこのフォルダーまたはファイルを開いているので、操作を完了できません。」を解決する \- Corredor](http://neos21.hatenablog.com/entry/2017/06/05/080000)
