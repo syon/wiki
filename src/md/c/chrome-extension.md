@@ -25,6 +25,7 @@ layout: page.jade
   - __unblock__
   - Google AJAX Search API
   - Typekit by Adobe
+  - Gravatar
 - Adblock Plus
 - Proxy SwitchyOmega
 
