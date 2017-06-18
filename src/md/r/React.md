@@ -82,6 +82,11 @@ layout: page.jade
 - [React&Reduxを牛丼屋に例えてみる図 \- Qiita](http://qiita.com/arihito@github/items/f5550de00e22e3dc9bc9)
 - [Reduxの正しい解釈の話 – Medium](https://medium.com/@axross/undertanding-truthful-redux-with-usecases-179eefd9fd55#.xx60yyu8a)
 
+### MobX
+[Introduction \| MobX](https://mobx.js.org/)
+
+- [React Native / React Navigation を Mobx と使う \| Workabroad\.jp](http://www.workabroad.jp/posts/2206)
+
 
 ## Boilerplate
 
