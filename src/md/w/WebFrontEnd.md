@@ -53,6 +53,10 @@ layout: page.jade
 - [UserAgent API \- Device Detection, Browser Detection, OS Detection](https://useragentapi.com/)
 
 
+## Cache
+- [キャッシュについて整理してみた \- Qiita](http://qiita.com/karore/items/2dc6ab8347c940ea4648)
+
+
 ## まとめ
 
 - [ペパボのフロントエンドスタンダード](http://pepabo.github.io/docs/frontend/standard.html)
