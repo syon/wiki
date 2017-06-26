@@ -50,6 +50,7 @@ __<mark>[Compile and Execute Java Online](https://www.tutorialspoint.com/compile
 
 #### Proxy settings
 - [Maven2にプロキシを教える](http://www.jxpath.com/maven2/step1/proxy.html)
+- [Maven – Guide to using proxies](https://maven.apache.org/guides/mini/guide-proxies.html)
 - `C:\java\apache-maven-3.3.3\conf\settings.xml`
 - `C:\Users\username\.m2\settings.xml`
 
