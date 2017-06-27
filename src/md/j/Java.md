@@ -77,6 +77,11 @@ pom.xml
 - [WebJars - Web Libraries in Jars](http://www.webjars.org/)
 
 
+## Gradle
+
+- [Gradleで文字エンコーディングを指定する方法 \- 豆無日記](http://nobeans.hatenablog.com/entry/20091104/1257344503)
+
+
 ## 文法
 
 - [2010-06-23 - sardineの日記](http://d.hatena.ne.jp/sardine/20100623)  
