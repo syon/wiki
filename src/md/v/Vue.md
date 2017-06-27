@@ -19,18 +19,21 @@ layout: page.jade
   ```
 - [Vue\.js2\.x系で親から子コンポーネントにデータを渡す方法 \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/10/vuejs-components-props.html)
 
-#### with Semantic UI
+
+## UI
+
+### Semantic UI
 - __<mark>[vue\-cli with Semantic UI on webpack \- Qiita](http://qiita.com/syon/items/5e0e86ec9abb71935e36)</mark>__
 - [How to use Semantic UI \+ VUECLI \- Help \- Vue Forum](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
 - [javascript \- Using vue\.js with semantic UI \- Stack Overflow](http://stackoverflow.com/questions/36676215/using-vue-js-with-semantic-ui)
 - [v\-model value of styled checkbox doesn't update · Issue \#4769 · vuejs/vue](https://github.com/vuejs/vue/issues/4769)  
   Vue は hidden に対して効かないため、その対処法。
 
-#### with UIKit
+### UIKit
 
 - [Vue\.jsとUIkitでつくるフロントエンド環境 \- Qiita](http://qiita.com/bobu_web/items/4daa20d3b4bd327ca91c)
 
-#### with Element
+### Element
 
 - [Element \- A Desktop UI Toolkit for Web](http://element.eleme.io/static/banner-bg.75437e1.svg)
 
@@ -58,7 +61,12 @@ layout: page.jade
   > CSSと組み合わせて使うことでデータバインディング完了までこのディレクティブがつけられた要素の描画は遅れさせられる。初期表示時の画面のちらつきを抑える効果がある。
 
 ```html
-<style>[v-cloak] { display: none; }</style>
+<style>
+[v-cloak] {
+  display: none;
+}
+</style>
+
 <div id="app">
   <div v-cloak>{{ foo }}</div>
 </div>
