@@ -48,3 +48,18 @@ layout: page.jade
 - [Tumblr API \+ Vue\.jsでTumblrテーマを作った話 \- Qiita](http://qiita.com/ryo_dg/items/b2c030362241a20bc6bb)
 - [Vue\.js page transition fade effect with vue\-router \- Stack Overflow](http://stackoverflow.com/questions/41221099/vue-js-page-transition-fade-effect-with-vue-router)  
   `transition name="hoge"` がCSSセレクタ接頭辞になる
+
+
+## ディレクティブ
+
+### v-cloak
+
+- [体で覚えるVue\.js \- ディレクティブ編 〜 JSおくのほそ道 \#023 \- Qiita](http://qiita.com/hosomichi/items/25041c1d46452de84aa6#v-cloak)
+  > CSSと組み合わせて使うことでデータバインディング完了までこのディレクティブがつけられた要素の描画は遅れさせられる。初期表示時の画面のちらつきを抑える効果がある。
+
+```html
+<style>[v-cloak] { display: none; }</style>
+<div id="app">
+  <div v-cloak>{{ foo }}</div>
+</div>
+```
