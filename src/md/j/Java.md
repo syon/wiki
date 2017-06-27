@@ -80,7 +80,9 @@ pom.xml
 ## Gradle
 
 - [Gradleで文字エンコーディングを指定する方法 \- 豆無日記](http://nobeans.hatenablog.com/entry/20091104/1257344503)
-
+```groovy
+tasks.withType(AbstractCompile)*.options*.encoding = tasks.withType(GroovyCompile)*.groovyOptions*.encoding = 'UTF-8'
+```
 
 ## 文法
 
