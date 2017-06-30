@@ -22,6 +22,10 @@ layout: page.jade
 
 ## UI
 
+[Storybook](https://storybook.js.org/)
+: UI dev environment you'll love to use
+- [Vue on Storybook // Speaker Deck](https://speakerdeck.com/kazupon/vue-on-storybook)
+
 ### Semantic UI
 - __<mark>[vue\-cli with Semantic UI on webpack \- Qiita](http://qiita.com/syon/items/5e0e86ec9abb71935e36)</mark>__
 - [How to use Semantic UI \+ VUECLI \- Help \- Vue Forum](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
