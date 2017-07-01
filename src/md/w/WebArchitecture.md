@@ -32,7 +32,10 @@ layout: page.jade
 - [マイクロサービスのための綺麗なAPI設計 by Go Takagi \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/32977#)
 - [Webサービスの初期開発とマイクロサービス・BFF // Speaker Deck](https://speakerdeck.com/shimpeiws/websahisufalsechu-qi-kai-fa-tomaikurosahisubff)
 - [GUIアプリケーションアーキテクチャ総合！みたいなやつ書いてる](http://nekogata.hatenablog.com/entry/2017/03/26/132150)
+
+#### GraphQL
 - [Node\.js \+ GraphQLでBFFを作った話 \- Qiita](http://qiita.com/qsona/items/2c906a4c736f9a10a2c5)
+- [Lee Byron \- Exploring GraphQL at react\-europe 2015 \- YouTube](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 
 ### OAuth
 
