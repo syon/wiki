@@ -79,6 +79,8 @@ pom.xml
 
 ## Gradle
 
+- [Gradle使い方メモ \- Qiita](http://qiita.com/opengl-8080/items/4c1aa85b4737bd362d9e) ★わかりやすいまとめ
+
 - [Gradleで文字エンコーディングを指定する方法 \- 豆無日記](http://nobeans.hatenablog.com/entry/20091104/1257344503)
 ```groovy
 tasks.withType(AbstractCompile)*.options*.encoding = tasks.withType(GroovyCompile)*.groovyOptions*.encoding = 'UTF-8'
