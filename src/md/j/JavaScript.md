@@ -50,6 +50,7 @@ API サーバ側の期待している `Content-Type` に注意
 - [Node\.js における Promise を使った例外処理 \- from scratch](http://yosuke-furukawa.hatenablog.com/entry/2016/07/12/103734)
 - [for文の中で非同期関数を使いたいときでも慌てずPromiseする \- Qiita](http://qiita.com/progre/items/5666f4a333cc2d032d15)  
   Promiseを配列に詰め込んで、まとめて`Promise.all`する
+- [Promiseを直列実行するちょっとしたhack \- Qiita](http://qiita.com/erukiti/items/8c08f612bcc503934de6)
 
 
 ## async / await
