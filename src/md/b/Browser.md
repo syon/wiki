@@ -24,12 +24,15 @@ layout: page.jade
 - [iOS9でviewportのinitial-scaleが無効になる時の対策 | 株式会社クオックス | QOX Inc.](https://qox.jp/blog/ios9_viewport_workaround/)  
   `shrink-to-fit=no`
 
+
 ## パフォーマンス・高速化・最適化
 
 - [ブラウザのパフォーマンスを限界まで高める HTMLコーディングの考え方](http://www.slideshare.net/kawada_hiroshi/html-40678123)
 - [HTML5 - Webフロントエンド表示速度、最速化手法まとめ - Qiita](http://qiita.com/zaru/items/51ee8a5be22b75a42927)
 - [ハイパフォーマンス・アニメーション - HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/speed/high-performance-animations/)
 - [HTML5 Experts.jpはなぜこんなにパフォーマンスが悪いのか…全てお見せします！ーWebパフォーマンス改善企画（解析編）](https://html5experts.jp/yusuke-naka/13671/)
+- [モバイルサイトの読み込み速度とパフォーマンスをテストする \- Google](https://testmysite.withgoogle.com/intl/ja-jp)
+
 
 ## Service Worker
 > Service Worker はブラウザが Web ページとは別にバックグラウンドで実行するスクリプトで、Web ページやユーザのインタラクションを必要としない機能を Web にもたらします。将来的にはプッシュメッセージ、バックグラウンド同期、ジオフェンシングなどが導入されるでしょう。しかし最初は、ネットワークリクエストへの介入や処理機能と、レスポンスをプログラムから操作できるキャッシュ機能に限定されます。
