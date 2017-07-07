@@ -26,7 +26,9 @@ layout: page.jade
     - [AutoHotKey Scripts @ 7bit](http://nanabit.net/softwares/autohotkey/)
 - 参考
     - [keyhac - craftware](https://sites.google.com/site/craftware/keyhac) (Python)
-
+- タスクトレイアイコン
+    - [Windows7、DLLの中に入っているアイコン画像の番号を確認する](http://piyopiyocs.blog115.fc2.com/blog-entry-774.html)
+    - `C:\Windows\System32\imageres.dll`
 
 #### Remap Capslock Key
 
