@@ -41,3 +41,6 @@ layout: page.jade
 #### with Web Server
 - [Electronでアプリ内部にWebサーバーを立てる \- Qiita](http://qiita.com/pman-taichi/items/406b6eb068e074dc6675)
 - [Electron と Express を使ってデスクトップアプリを作ってみる \- Tech memo](http://www.yjhm214.com/entry/electron-and-express)
+
+#### vs NW.js
+- [NW\.jsとElectronをしばらく使ってみての比較 \- Qiita](http://qiita.com/indometacin/items/712d6ce28763647a87c9)
