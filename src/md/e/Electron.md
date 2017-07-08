@@ -36,4 +36,7 @@ layout: page.jade
 - [Electronの公式テストフレームワークSpectron入門 \- ICS MEDIA](https://ics.media/entry/13082)
 - [Electronでカラーピッカーを表示するメニューバーアプリを作る \- TaillookTech](http://taillook.hateblo.jp/entry/2017/02/24/204255)
 - [ElectronのIPCをまとめる \- Qiita](http://qiita.com/gcmae/items/cb6eb18be2f4ffae60b5)
+
+#### with Web Server
 - [Electronでアプリ内部にWebサーバーを立てる \- Qiita](http://qiita.com/pman-taichi/items/406b6eb068e074dc6675)
+- [Electron と Express を使ってデスクトップアプリを作ってみる \- Tech memo](http://www.yjhm214.com/entry/electron-and-express)
