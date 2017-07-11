@@ -28,6 +28,7 @@ layout: page.jade
     - [keyhac - craftware](https://sites.google.com/site/craftware/keyhac) (Python)
 - タスクトレイアイコン
     - [Windows7、DLLの中に入っているアイコン画像の番号を確認する](http://piyopiyocs.blog115.fc2.com/blog-entry-774.html)
+    - [Where to find most of Windows 10's native icons? \| Digital Citizen](http://www.digitalcitizen.life/where-find-most-windows-10s-native-icons)
     - `C:\Windows\System32\imageres.dll`
 
 #### Remap Capslock Key
