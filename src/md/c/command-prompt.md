@@ -5,6 +5,7 @@ layout: page.jade
 ---
 
 ## Articles
+- __<mark>[バッチ TIPS :: コマンドプロンプト \| Refills](https://syon.github.io/refills/rid/1498316/)</mark>__
 - [Big Sky :: Windows ユーザは cmd.exe で生きるべき。](http://mattn.kaoriya.net/software/why-i-use-cmd-on-windows.htm)
 - [Studio ODIN \- blog風小ネタ集 > コマンドプロンプトの遅延環境変数](http://www.odin.hyork.net/write/write0251.html)
   > FOR ループなどを使っているときに 「あれ？ 変数の値が変わらない？？」ということがあります。
