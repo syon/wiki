@@ -142,6 +142,9 @@ MyObject myObject = new Gson().fromJson(jsonString, MyObject.class);
 #### [GlassFish](https://javaee.github.io/glassfish/)
 The Open Source Java EE Reference Implementation
 
+- [GlassFishにリソースを追加する方法4つまとめてみた \- なにか作る](http://create-something.hatenadiary.jp/entry/2014/06/09/212645)
+- [glassfish へのリソース設定はリソースファイルを使うべし　その１ \- A Memorandum](http://etc9.hatenablog.com/entry/20121225/1356532486)
+
 #### [Payara Server](http://www.payara.fish/)
 Derived from GlassFish, with 24/7 Production Support.
 
