@@ -132,6 +132,13 @@ layout: page.jade
 - [画像を最適化する  \|  PageSpeed Insights  \|  Google Developers](https://developers.google.com/speed/docs/insights/OptimizeImages)
 - [PNG画像のファイルサイズが1/3に！PNG画像を超軽量化する「ImageAlpha」 | 男子ハック](http://www.danshihack.com/2012/08/18/junp/macapp-imagealpha.html)
 
+[PNGGauntlet](https://pnggauntlet.com/)
+:
+- Combines PNGOUT, OptiPNG, and DeflOpt to create the smallest PNGs
+- No image quality is lost — only file size
+- Converts JPG, GIF, TIFF, and BMP files to PNG
+- Ultra-configurable
+
 
 ## Icon
 
