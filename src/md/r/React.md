@@ -129,6 +129,9 @@ layout: page.jade
 [React-Bootstrap](http://react-bootstrap.github.io/)
 : Bootstrap 3 components built with React
 
+[Ring UI](http://www.jetbrains.org/ring-ui/index.html)
+: [JetBrainsのWeb UIコンポーネントをオープンソース化 \| JetBrains ブログ](https://blog.jetbrains.com/jp/2017/08/04/782)
+
 [Rebass](http://jxnblk.com/rebass/)
 : 57 Configurable React Stateless Functional UI Components
 
