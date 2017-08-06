@@ -180,6 +180,7 @@ Google Web Fontの説明
 ### ファミコン風
 - [PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント - itouhiroはてなブログ](http://itouhiro.hatenablog.com/entry/20130602/font)
 - [漢字も使えるファミコン風の8×8フォント『美咲フォント』が感動するレベルだった件 | アイデアハッカー](http://ideahacker.net/2013/01/21/4215/)
+- [ポケモンフォント - Superpencil](https://superpencil.com/work/pokemon-font)
 
 ### 古代文字
 - [第10回 カンバンが読めません／ルーン文字｜究極の文字をめざして｜みんなのミシマガジン](http://www.mishimaga.com/kyukyokunomoji/010.html)
