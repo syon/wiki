@@ -22,3 +22,6 @@ layout: page.jade
 - [Coolors Tutorial - The super fast color palettes generator!](http://coolors.co/intro/)
 - [Material Design Color Palette Generator - Material Palette](http://www.materialpalette.com/)
 - [Open Color](https://yeun.github.io/open-color/)
+
+## グラデーション
+- [Grabient](https://www.grabient.com/)
