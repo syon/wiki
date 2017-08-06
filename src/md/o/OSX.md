@@ -139,6 +139,11 @@ $ afplay /System/Library/Sounds/Glass.aiff
   連番処理、検索・置換、文字変換、拡張子処理、タグリネームなどのリネーム処理を備えたリネームソフト
 - [Macのアニメーションを速くすると快適 \- /](http://memo.brdr.jp/post/156787133366/mac%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%81%A8%E5%BF%AB%E9%81%A9)
 
+### window switcher
+
+[Contexts](https://contexts.co/)
+: Radically simpler & faster window switcher for Mac
+
 
 ## クリーン
 - [超快適！たまにはMacをクリーニングして新品の頃の快適さを手に入れよう！ - Mokosoft開発者ブログ](http://blog.mokosoft.com/entry/2014/02/06/173706)
