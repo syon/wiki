@@ -57,6 +57,20 @@ layout: page.jade
   `transition name="hoge"` がCSSセレクタ接頭辞になる
 
 
+### v-for
+
+- [リストレンダリング \- Vue\.js #テンプレートでの-v-for](https://jp.vuejs.org/v2/guide/list.html#テンプレートでの-v-for)  
+  制御文として回したいときは `<template>` タグを使う。
+```html
+<ul>
+  <template v-for="item in items">
+    <li>{{ item.msg }}</li>
+    <li class="divider"></li>
+  </template>
+</ul>
+```
+
+
 ## ディレクティブ
 
 ### v-cloak
