@@ -39,7 +39,7 @@ $ git rebase -i HEAD~4
 ```bash
 git archive --format=zip --prefix=root/ HEAD `git diff --diff-filter=d --name-only HEAD^ HEAD` -o archive.zip
 ```
-s
+
 #### alias
 - [Gitのalias機能で超効率的に作業する | eureka tech blog](https://developers.eure.jp/tech/git-alias/)
 - [人間らしいGitのエイリアス | プログラミング | POSTD](http://postd.cc/human-git-aliases/)
@@ -57,6 +57,12 @@ s
 - [dannyfritz/commit-message-emoji: Every commit is important. So let's celebrate each and every commit with a corresponding emoji!](https://github.com/dannyfritz/commit-message-emoji)
 - [GitHubで絵文字コミットを続けてみて有用だったEmojiまとめ - 犬アイコンのみっきー](http://mzyy94.com/blog/2015/10/14/emoji-commit-message/)
 
+### branch
+
+#### [リモートで消されたブランチが手元で残ってしまう件を解消する \- Qiita](http://qiita.com/yuichielectric/items/84cd61915a1236f19221)
+```bash
+$ git remote prune origin
+```
 
 ### Gitコミット時の名前とメールアドレス
 #### グローバル設定を変更する
