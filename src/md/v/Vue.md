@@ -55,12 +55,22 @@ layout: page.jade
 [lakb248/vue\-pull\-refresh](https://github.com/lakb248/vue-pull-refresh)
 : A pull down refresh component implement by vuejs
 
-### vue-router :: transition
+## vue-router
+
+### transition
 
 - [Tumblr API \+ Vue\.jsでTumblrテーマを作った話 \- Qiita](http://qiita.com/ryo_dg/items/b2c030362241a20bc6bb)
 - [Vue\.js page transition fade effect with vue\-router \- Stack Overflow](http://stackoverflow.com/questions/41221099/vue-js-page-transition-fade-effect-with-vue-router)  
   `transition name="hoge"` がCSSセレクタ接頭辞になる
 
+### advanced
+
+- [スクロールの振る舞い · GitBook](https://router.vuejs.org/ja/advanced/scroll-behavior.html)
+  > 注意: この機能は HTML5 history モードでのみ動作します。
+- [遅延ローディング · GitBook](https://router.vuejs.org/ja/advanced/lazy-loading.html)
+
+
+## ディレクティブ
 
 ### v-for
 
@@ -76,9 +86,6 @@ layout: page.jade
   </template>
 </ul>
 ```
-
-
-## ディレクティブ
 
 ### v-cloak
 
