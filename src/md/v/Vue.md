@@ -91,3 +91,8 @@ layout: page.jade
   <div v-cloak>{{ foo }}</div>
 </div>
 ```
+
+
+## TIPS
+
+- [vue\.jsでInfinite Scrollを実装する \- GeekFactory](http://int128.hatenablog.com/entry/2015/02/18/230206)
