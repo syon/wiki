@@ -61,6 +61,8 @@ layout: page.jade
 
 - [リストレンダリング \- Vue\.js #テンプレートでの-v-for](https://jp.vuejs.org/v2/guide/list.html#テンプレートでの-v-for)  
   制御文として回したいときは `<template>` タグを使う。
+  - [Vue\.jsでハマったところ（主にIE） \- Qiita](http://qiita.com/jshindo/items/67d3520b8fc6a6bb0af5)
+  > `<table>`タグの中では`<template>`タグが使えない（IE）
 ```html
 <ul>
   <template v-for="item in items">
