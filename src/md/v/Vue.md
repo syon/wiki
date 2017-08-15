@@ -20,7 +20,7 @@ layout: page.jade
 - [Vue\.js2\.x系で親から子コンポーネントにデータを渡す方法 \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/10/vuejs-components-props.html)
 
 
-## UI
+## UI Frameworks
 
 [Storybook](https://storybook.js.org/)
 : UI dev environment you'll love to use
@@ -40,6 +40,11 @@ layout: page.jade
 ### Element
 
 - [Element \- A Desktop UI Toolkit for Web](http://element.eleme.io/static/banner-bg.75437e1.svg)
+
+
+## UI Components
+
+- [vue\-spinner](http://greyby.github.io/vue-spinner/)
 
 
 ## Dev
