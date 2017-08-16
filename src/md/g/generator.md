@@ -18,6 +18,7 @@ layout: page.jade
     - [Identicon - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Identicon)
     - [chrisbranson/ruby_identicon](https://github.com/chrisbranson/ruby_identicon)
     - [identicon-github](https://www.npmjs.com/package/identicon-github)
+- [MakeGirls\.moe \- Create Anime Characters with A\.I\.\!](http://make.girls.moe/#/)
 
 ### Personal data
 - [ランダムに名前を生成 - Fake Name Generator](http://ja.fakenamegenerator.com/)
