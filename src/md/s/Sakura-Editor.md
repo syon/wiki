@@ -4,12 +4,20 @@ title: Sakura-Editor
 layout: page.jade
 ---
 
-### 設定ファイル
+## 設定
 
-#### [GitHub - syon/SakuraEditor](https://github.com/syon/SakuraEditor)
+[syon/sakura\-petals](https://github.com/syon/sakura-petals)
+: サクラエディタのいろいろ
 
 
-### サクラエディタで親フォルダを開くスクリプト
+## TIPS
+
+- [サクラエディタを開いた時の文字コードをUTF\-8にする方法 – 零弐壱蜂](https://b.0218.jp/20130501155621.html)
+
+
+## Macro
+
+### 親フォルダを開く
 
 - [サクラエディタで親フォルダを開くスクリプト - てつとの部屋](http://testuaoki.blog72.fc2.com/blog-entry-34.html)
 ```js
@@ -23,8 +31,3 @@ path = GetFilename;
 parPath = path.replace(/[^\\]*$/, "" );
 oWsh.run("explorer.exe "+parPath);
 ```
-
-### Zen Coding
-
-- [Zen Coding for Sakura Editorのマクロ設定 - MoonWing](http://mwlab.net/zen-coding-for-sakuraeditor/zen-coding-for-sakuraeditor-setting)
-- [ダウンロード - MoonWing](http://mwlab.net/download?did=15) Zen Coding for Sakura Editor (※Not Emmet)
