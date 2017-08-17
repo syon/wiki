@@ -37,6 +37,10 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
 [westy92/html\-pdf\-chrome](https://github.com/westy92/html-pdf-chrome)
 : HTML to PDF converter via Chrome/Chromium
 
+[GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer)
+: Headless Chrome Node API
+- [\-\-headless時代の本命？ Chrome を Node\.jsから操作するライブラリ puppeteer について \- Qiita](http://qiita.com/Quramy/items/26058e83e898ec2ec078)
+
 
 ## Apache PDFBox
 [Apache PDFBox \| A Java PDF Library](https://pdfbox.apache.org/)
