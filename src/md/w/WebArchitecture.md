@@ -37,6 +37,7 @@ layout: page.jade
 #### GraphQL
 - [Node\.js \+ GraphQLでBFFを作った話 \- Qiita](http://qiita.com/qsona/items/2c906a4c736f9a10a2c5)
 - [Lee Byron \- Exploring GraphQL at react\-europe 2015 \- YouTube](https://www.youtube.com/watch?v=WQLzZf34FJ8)
+- [GraphQLは何に向いているか \- k0kubun's blog](http://k0kubun.hatenablog.com/entry/graphql)
 
 ### OAuth
 
