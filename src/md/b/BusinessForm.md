@@ -39,6 +39,7 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
 
 [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer)
 : Headless Chrome Node API
+- [Puppeteer API Document](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md)
 - [\-\-headless時代の本命？ Chrome を Node\.jsから操作するライブラリ puppeteer について \- Qiita](http://qiita.com/Quramy/items/26058e83e898ec2ec078)
 
 
