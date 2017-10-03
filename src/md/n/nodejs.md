@@ -148,6 +148,24 @@ gm("img.png").background('#FF0000').flatten().toFormat('jpg');
 #### [JSCS: JavaScript Code Style checker](http://jscs.info/)
 JSCS is a code style linter/formatter for programmatically enforcing your style guide.
 
+## [Cheerio](https://cheerio.js.org/)
+
+- [Node\.js Cheerio parser breaks UTF\-8 encoding \- Stack Overflow](https://stackoverflow.com/questions/31574127/node-js-cheerio-parser-breaks-utf-8-encoding)
+
+```js
+const cheerio = require('cheerio');
+const $ = cheerio.load(`<h1>こんにちは</h1>`);
+console.log($('h1').html())
+//=> &#x3053;&#x3093;&#x306B;&#x3061;&#x306F;
+```
+
+```js
+const cheerio = require('cheerio');
+const $ = cheerio.load(`<h1>こんにちは</h1>`, { decodeEntities: false });
+console.log($('h1').html());
+//=> こんにちは
+```
+
 
 ## [NW.js](http://nwjs.io/)
 
