@@ -41,6 +41,22 @@ open source (LGPLv3) command line tools to render HTML into PDF and various imag
 : Headless Chrome Node API
 - [Puppeteer API Document](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md)
 - [\-\-headless時代の本命？ Chrome を Node\.jsから操作するライブラリ puppeteer について \- Qiita](http://qiita.com/Quramy/items/26058e83e898ec2ec078)
+- [Send POST request to a page and take screenshot · Issue \#669 · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/issues/669)
+```bash
+$ curl http://www.google.com -d 'a=b&c=d'
+```
+```js
+await page.setRequestInterceptionEnabled(true);
+page.on('request', request => {
+  const overrides = {};
+  if (request.url === 'http://www.google.com') {
+    overrides.method = 'POST';
+    overrides.postData = 'a=b&c=d';
+  }
+  request.continue(overrides);
+});
+await page.goto('http://www.google.com');
+```
 
 
 ## Apache PDFBox
