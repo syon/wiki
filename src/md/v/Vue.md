@@ -8,7 +8,17 @@ layout: page.jade
 - [Vue\.js](https://vuejs.org/)
 - [Vue\.js (jp)](https://jp.vuejs.org/)
 
-## Tips
+
+## Articles
+
+- [Vue.js 大規模アプリケーションの構築 // Speaker Deck](https://speakerdeck.com/kazupon/vue-dot-js-da-gui-mo-apurikesiyonfalsegou-zhu)
+- [Vue.jsとは | CodeGrid](https://app.codegrid.net/entry/vue-1)
+- [Vue.js用のFluxライクなライブラリVuexを試してみる - Qiita](http://qiita.com/tomato360/items/b2f11a392bf8fb125610)
+- [Vue.js 2.0のServer Side Renderingを試しつつ、軽くコードリーディングした - kitak.blog](http://kitak.hatenablog.jp/entry/2016/04/30/135441)
+
+
+## TIPS
+
 - [Vue\.js が templateURL をサポートしない理由 \- Vue\.js](https://jp.vuejs.org/2015/10/28/why-no-template-url/)
   - [javascript \- VueJs templating\. How to load external templates \- Stack Overflow](http://stackoverflow.com/questions/31633573/vuejs-templating-how-to-load-external-templates)
 - [Vue\.js 2\.xのフィルタについて調べてみた \- Qiita](http://qiita.com/yutaro23/items/095cf66038bb9fabc094)
@@ -18,6 +28,12 @@ layout: page.jade
   <table v-bind:attribute1="someMethod" attribute2="{{anotherMethod}}">
   ```
 - [Vue\.js2\.x系で親から子コンポーネントにデータを渡す方法 \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/10/vuejs-components-props.html)
+- [vue\.jsでInfinite Scrollを実装する \- GeekFactory](http://int128.hatenablog.com/entry/2015/02/18/230206)
+- [vuejsのちょっと便利なコンポーネント機能 \- Qiita](https://qiita.com/myLifeAsaDog/items/233f10591be8ff42cf1d)
+  - 共通した親要素を使いまわしたい（スロット配信）
+  - パラメーターによって使用するコンポーネントを変えたい（動的コンポーネント）
+  - 複数のコンポーネントで、同じ処理を使いまわしたい（ミックスイン）
+- [フロントエンド・バリデーション // Speaker Deck](https://speakerdeck.com/izumisy/hurontoendobaridesiyon)
 
 
 ## UI Frameworks
@@ -103,19 +119,3 @@ layout: page.jade
   <div v-cloak>{{ foo }}</div>
 </div>
 ```
-
-
-## Articles
-- [Vue.js 大規模アプリケーションの構築 // Speaker Deck](https://speakerdeck.com/kazupon/vue-dot-js-da-gui-mo-apurikesiyonfalsegou-zhu)
-- [Vue.jsとは | CodeGrid](https://app.codegrid.net/entry/vue-1)
-- [Vue.js用のFluxライクなライブラリVuexを試してみる - Qiita](http://qiita.com/tomato360/items/b2f11a392bf8fb125610)
-- [Vue.js 2.0のServer Side Renderingを試しつつ、軽くコードリーディングした - kitak.blog](http://kitak.hatenablog.jp/entry/2016/04/30/135441)
-
-
-## TIPS
-
-- [vue\.jsでInfinite Scrollを実装する \- GeekFactory](http://int128.hatenablog.com/entry/2015/02/18/230206)
-- [vuejsのちょっと便利なコンポーネント機能 \- Qiita](https://qiita.com/myLifeAsaDog/items/233f10591be8ff42cf1d)
-  - 共通した親要素を使いまわしたい（スロット配信）
-  - パラメーターによって使用するコンポーネントを変えたい（動的コンポーネント）
-  - 複数のコンポーネントで、同じ処理を使いまわしたい（ミックスイン）
