@@ -33,7 +33,6 @@ layout: page.jade
   - 共通した親要素を使いまわしたい（スロット配信）
   - パラメーターによって使用するコンポーネントを変えたい（動的コンポーネント）
   - 複数のコンポーネントで、同じ処理を使いまわしたい（ミックスイン）
-- [フロントエンド・バリデーション // Speaker Deck](https://speakerdeck.com/izumisy/hurontoendobaridesiyon)
 
 
 ## UI Frameworks
@@ -119,3 +118,9 @@ layout: page.jade
   <div v-cloak>{{ foo }}</div>
 </div>
 ```
+
+
+## Validation
+
+- [Vue\.js でバリデーションしてメッセージを日本語化する \- Qiita](https://qiita.com/komatzz/items/c27cfec74804e6275252)
+- [フロントエンド・バリデーション // Speaker Deck](https://speakerdeck.com/izumisy/hurontoendobaridesiyon)
