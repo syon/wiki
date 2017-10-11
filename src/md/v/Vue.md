@@ -70,7 +70,16 @@ layout: page.jade
 [lakb248/vue\-pull\-refresh](https://github.com/lakb248/vue-pull-refresh)
 : A pull down refresh component implement by vuejs
 
+
 ## vue-router
+
+###  [vuejs/vuex\-router\-sync](https://github.com/vuejs/vuex-router-sync)
+
+Effortlessly keep vue-router and vuex store in sync.
+
+- [app\.js · vuejs/vue\-hackernews\-2\.0](https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/app.js)  
+  実例
+- [vuex\-router\-syncを使ってgettersやactions,mutations内からroute情報を取得する \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/12/vuex-router-sync.html)
 
 ### transition
 
