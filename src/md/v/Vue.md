@@ -111,7 +111,14 @@ layout: page.jade
 ```
 
 
-## Validation
+## Plugins
+
+### Validation
 
 - [Vue\.js でバリデーションしてメッセージを日本語化する \- Qiita](https://qiita.com/komatzz/items/c27cfec74804e6275252)
 - [フロントエンド・バリデーション // Speaker Deck](https://speakerdeck.com/izumisy/hurontoendobaridesiyon)
+
+### Google Analytics
+
+- [MatteoGabriele/vue\-analytics: Google Analytics plugin for Vue](https://github.com/MatteoGabriele/vue-analytics)
+- [Vue\-SPAでもGoogle Analyticsしたい！ \- Qiita](https://qiita.com/hirohero/items/0f29a89cd08b421ccfe1)
