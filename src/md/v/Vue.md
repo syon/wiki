@@ -73,25 +73,7 @@ layout: page.jade
 
 ## vue-router
 
-###  [vuejs/vuex\-router\-sync](https://github.com/vuejs/vuex-router-sync)
-
-Effortlessly keep vue-router and vuex store in sync.
-
-- [app\.js · vuejs/vue\-hackernews\-2\.0](https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/app.js)  
-  実例
-- [vuex\-router\-syncを使ってgettersやactions,mutations内からroute情報を取得する \| Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/12/vuex-router-sync.html)
-
-### transition
-
-- [Tumblr API \+ Vue\.jsでTumblrテーマを作った話 \- Qiita](http://qiita.com/ryo_dg/items/b2c030362241a20bc6bb)
-- [Vue\.js page transition fade effect with vue\-router \- Stack Overflow](http://stackoverflow.com/questions/41221099/vue-js-page-transition-fade-effect-with-vue-router)  
-  `transition name="hoge"` がCSSセレクタ接頭辞になる
-
-### advanced
-
-- [スクロールの振る舞い · GitBook](https://router.vuejs.org/ja/advanced/scroll-behavior.html)
-  > 注意: この機能は HTML5 history モードでのみ動作します。
-- [遅延ローディング · GitBook](https://router.vuejs.org/ja/advanced/lazy-loading.html)
+- <mark>__[vue\-router メモ :: Vue\.js \| Refills](https://syon.github.io/refills/rid/1500559/)__</mark>
 
 
 ## ディレクティブ
