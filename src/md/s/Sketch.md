@@ -20,3 +20,8 @@ layout: page.jade
 
 [Figma: the collaborative interface design tool\.](https://www.figma.com/)
 : Sketch風の共同編集Webアプリ
+
+
+## Tips
+
+- [\[動画解説付き\]デザイナーがUI実装時に伝えるべき5つのSketchTips！ 〜エンジニアの困っている声に応えました〜 \| Nagisaのすゝめ](https://blog.nagisa-inc.jp/archives/1296)
