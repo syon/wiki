@@ -122,3 +122,31 @@ layout: page.jade
 
 - [MatteoGabriele/vue\-analytics: Google Analytics plugin for Vue](https://github.com/MatteoGabriele/vue-analytics)
 - [Vue\-SPAでもGoogle Analyticsしたい！ \- Qiita](https://qiita.com/hirohero/items/0f29a89cd08b421ccfe1)
+
+
+## Nuxt.js
+
+### リクエストデータをコンポーネントで扱う
+
+リクエストデータをコンポーネントで扱うには body-parser を組み込む。ここで例示されているサンプルはNuxt.jsのバージョンが古いので注意。POSTリクエストのbodyの他にもいろいろ参照可能。
+
+- [Working with Body Request Params \(req\.body\) · Issue \#24 · nuxt/nuxt\.js](https://github.com/nuxt/nuxt.js/issues/24)
+
+__server/index.js__
+```js
+// Give nuxt middleware to express
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.json())
+app.use(nuxt.render)
+```
+
+__pages/*.vue__
+```js
+async asyncData ({ req }) {
+  let body = {}
+  if (req && req.body) {
+    body = req.body
+  }
+  return { body }
+},
+```
