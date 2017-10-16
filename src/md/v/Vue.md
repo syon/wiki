@@ -132,12 +132,19 @@ layout: page.jade
 
 - [Working with Body Request Params \(req\.body\) · Issue \#24 · nuxt/nuxt\.js](https://github.com/nuxt/nuxt.js/issues/24)
 
+Express のミドルウェアとして body-parser をセットする順序に注意。
+以下のように API Routes の前に定義しないと正しく動作しなかった。
+
 __server/index.js__
 ```js
-// Give nuxt middleware to express
+app.set('port', port)
+
+// Express middlewares (need to load before routes)
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
-app.use(nuxt.render)
+
+// Import API Routes
+app.use('/api', api)
 ```
 
 __pages/*.vue__
