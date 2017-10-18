@@ -126,6 +126,18 @@ layout: page.jade
 
 ## Nuxt.js
 
+### Nuxt.js starter template
+
+[nuxt-community/starter-template](https://github.com/nuxt-community/starter-template)
+: Nuxt.js starter project template.
+
+[nuxt-community/express-template](https://github.com/nuxt-community/express-template)
+: Starter template for Nuxt.js with Express.
+
+### グローバルCSSとプリプロセッサ
+
+- [API: The css Property - Nuxt.js](https://nuxtjs.org/api/configuration-css/)
+
 ### リクエストデータをコンポーネントで扱う
 
 リクエストデータをコンポーネントで扱うには body-parser を組み込む。ここで例示されているサンプルはNuxt.jsのバージョンが古いので注意。POSTリクエストのbodyの他にもいろいろ参照可能。
