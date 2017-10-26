@@ -39,6 +39,7 @@ layout: page.jade
 
 [Storybook](https://storybook.js.org/)
 : UI dev environment you'll love to use
+- [Storybook for Vue](https://storybook.js.org/basics/guide-vue/)
 - [Vue on Storybook // Speaker Deck](https://speakerdeck.com/kazupon/vue-on-storybook)
 
 ### Semantic UI
