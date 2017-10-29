@@ -38,6 +38,12 @@ layout: page.jade
 - [コンポーネント — Vue\.js](https://jp.vuejs.org/v2/guide/components.html#動的コンポーネント)
 > 予約された `<component>` 要素と、その `is` 属性に動的に束縛することで、同じマウントポイントで複数のコンポーネントを動的に切り替えることができます
 
+#### 遅延ローディング (vue-router)
+- [遅延ローディング · vue\-router](https://router.vuejs.org/ja/advanced/lazy-loading.html)
+```
+const Foo = () => import('./Foo.vue')
+```
+
 
 ## UI Frameworks
 
