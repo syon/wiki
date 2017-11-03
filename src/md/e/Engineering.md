@@ -12,6 +12,14 @@ layout: page.jade
 - [何かのときにすっと出したい、プログラミングに関する法則・原則一覧 - Qiita](http://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
 
 
+## 業務プロセス可視化 Value Stream Mapping
+
+- [業務プロセス可視化 : VSM \(Value Stream Mapping\) \- Qiita](https://qiita.com/i35_267/items/1c2d75861b55c537f1e0)
+- [Value Stream Mapping で決めるリードタイム削減の魔法 \- Docs\.com](https://docs.com/ushio-tsuyoshi/7681/value-stream-mapping)
+- [日本のDevOps変革を促進するバリューストリームマッピング：一般記事｜gihyo\.jp … 技術評論社](http://gihyo.jp/dev/column/01/devops/2017/value-stream-mapping)
+- [情報システム用語辞典：バリューストリーム・マップ（ばりゅーすとりーむ・まっぷ） \- ITmedia エンタープライズ](http://www.itmedia.co.jp/im/articles/0803/24/news136.html)
+
+
 ## Words
 
 ### Yak Shaving
