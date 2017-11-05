@@ -12,6 +12,14 @@ layout: page.jade
 - [何かのときにすっと出したい、プログラミングに関する法則・原則一覧 - Qiita](http://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
 
 
+## デザイン思考
+
+- [シリコンバレーの「何が」凄いのか](https://www.slideshare.net/atsnakada/ss-80520040)
+> - イノベーションには 方法論があった
+> - シリコンバレーの人々は スポーツ選手に似ている
+> - イノベーションは 「ひらめき」にあらず
+
+
 ## 業務プロセス可視化 Value Stream Mapping
 
 - [業務プロセス可視化 : VSM \(Value Stream Mapping\) \- Qiita](https://qiita.com/i35_267/items/1c2d75861b55c537f1e0)
