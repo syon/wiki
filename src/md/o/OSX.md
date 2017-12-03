@@ -33,6 +33,7 @@ layout: page.jade
 
 __<mark>[syon/dotfiles](https://github.com/syon/dotfiles)</mark>__
 
+- [Macのクリーンインストール〜準備から再構成まで〜 \| Qookie](https://qookie.jp/posts/195/)
 - [MacBook Proを買って最初にしたこと](http://blog.akihiko.me/2015/03/01/mbp-first-step/)
 - [OSX の開発環境を Ansible で自動構築する（El Capitan / Yosemite） - Shin x Hatena Blog](http://shin1x1.hatenablog.com/entry/osx-provisioning-with-ansible)
 - [Mac OS Xの環境構築を自動化する(2016年度初旬編) ｜ Developers.IO](http://dev.classmethod.jp/server-side/ansible/automate-build-mac-osx-env-by-ansible/)
