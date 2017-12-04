@@ -260,6 +260,14 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 
 ### ellipsis
 * [【複数行にも対応】長過ぎる文字列を省略して末尾を三点リーダー（…）にする方法いろいろ – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/front-end/tips-ellipsis/)
+```css
+.selector {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+```
 
 ### 擬似クラスの:(hoge)-child系と:(hoge)-type系の違い
 * [【CSS】擬似クラスの:(hoge)-child系と:(hoge)-type系の違いをここいらでしっかり覚えておこうか。 | バシャログ。](http://c-brains.jp/blog/wsg/13/07/03-144934.php)
