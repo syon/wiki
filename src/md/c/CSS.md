@@ -258,6 +258,9 @@ http://fonts.googleapis.com/css?family=Open+Sans:700italic
 * [要素の重なりについて本気出して考えてみた（z-indexとか何とかとか） ? No.1026](http://no1026.com/archives/104)  
   ''z-indexにはpositionが必要⇔positionあるところにz-indexあり''
 
+### ellipsis
+* [【複数行にも対応】長過ぎる文字列を省略して末尾を三点リーダー（…）にする方法いろいろ – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/front-end/tips-ellipsis/)
+
 ### 擬似クラスの:(hoge)-child系と:(hoge)-type系の違い
 * [【CSS】擬似クラスの:(hoge)-child系と:(hoge)-type系の違いをここいらでしっかり覚えておこうか。 | バシャログ。](http://c-brains.jp/blog/wsg/13/07/03-144934.php)
 
