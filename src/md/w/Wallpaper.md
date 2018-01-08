@@ -23,5 +23,5 @@ layout: page.jade
   一秒単位で色が変わって行くシンプルな時計。スクリーンセーバーもある。
 
 ### サイト
-- [ForWallpaper.com](http://jp.forwallpaper.com/)
 - [Romain Guy](http://www.curious-creature.com/)
+- [Best Wallpaper Site for HD, 4K Wallpapers for Desktop, Mobile Phones](https://wallpapersite.com/)
