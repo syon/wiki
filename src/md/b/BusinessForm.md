@@ -10,6 +10,12 @@ layout: page.jade
 - [ゲームミュージックと生存確認をかねた画期的な: svgの印刷結果をクロスブラウザ化する](http://defghi1977-onblog.blogspot.jp/2013/04/svg.html)
 
 
+## Services
+
+### [帳票開発を、もっと簡単に「Docurain\-ドキュレイン\-」](http://site.docurain.jp/)
+- [私「Excel通知表やめたいんですけど…」校長「おう、いいよ。」私「えっ？」 \- パパ教員の戯れ言日記](http://blog.edunote.jp/entry/2018/01/13/155921)
+
+
 ## [fraserxu/electron\-pdf](https://github.com/fraserxu/electron-pdf)
 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
 
