@@ -31,11 +31,7 @@ layout: page.jade
 
 ### ブラウジング効率UP
 - cVim
-```vim
-set scalehints
-set smoothscroll
-let scrollduration = 300
-```
+  - <mark>__[Chromeを素早くキーボードで操作！『cVim』の使い方 :: Chrome拡張 \| Refills](https://syon.github.io/refills/rid/1516111/)__</mark>
 - SearchPreview
 - AutoPatchWork
 - Stylish
