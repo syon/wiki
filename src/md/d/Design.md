@@ -126,6 +126,8 @@ layout: page.jade
 
 ### 最適化・軽量化
 
+- [Webで使用する画像ファイルの最適化 - maruko2 Note.](http://www.maruko2.com/mw/Web%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E7%94%BB%E5%83%8F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96)
+
 [OptiPNG](http://optipng.sourceforge.net/)
 : PNG optimizer that recompresses image files to a smaller size, without losing any information.
 
