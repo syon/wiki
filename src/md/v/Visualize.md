@@ -26,6 +26,13 @@ layout: page.jade
 - [ASCII.jp：動くインフォグラフィックでサイトを楽しくするアイデア (1/3)｜先端サイトに学ぶCSS3/jQueryアニメーションデザイン](http://ascii.jp/elem/000/000/906/906795/)
 
 
+## Web Sites
+
+- [Visual Data 〜データや映像で体感：日本経済新聞](https://vdata.nikkei.com/)
+  - [経済指標ダッシュボード：日本経済新聞](https://vdata.nikkei.com/economicdashboard/macro/)
+- [RESAS 地域経済分析システム](https://resas.go.jp/#/13/13101)
+
+
 ## 関連Webサービス
 - [Raw](http://raw.densitydesign.org/) - 簡単な手順でビジュアライゼーションの生成、画像データ書き出しや埋め込みができるWebアプリ
     - [SVG、PNG書き出しできるフリーのビジュアライゼーション・ツール | ビジュアルシンキング](http://www.visualthinking.jp/archives/17010)
