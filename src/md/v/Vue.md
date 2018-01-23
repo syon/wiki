@@ -139,6 +139,12 @@ const Foo = () => import('./Foo.vue')
 - [Vue\-SPAでもGoogle Analyticsしたい！ \- Qiita](https://qiita.com/hirohero/items/0f29a89cd08b421ccfe1)
 
 
+## Express
+
+[express-vue](https://github.com/express-vue/express-vue) (SSR)
+: Vue rendering engine for Express.js. Use .Vue files as templates using streams
+
+
 ## Nuxt.js
 
 ### Nuxt.js starter template
@@ -184,3 +190,10 @@ async asyncData ({ req }) {
   return { body }
 },
 ```
+
+
+## Electron
+
+[SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
+: An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+- [フロントエンド開発初心者がelectron-vueでアプリをつくってみた　その２～実装編～ - Qiita](https://qiita.com/kurimeg/items/1736ab05dde5d8f8973c)
