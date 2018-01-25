@@ -58,6 +58,7 @@ layout: page.jade
 ### Selenium
 
 - → __[Selenium \| Refills](https://syon.github.io/refills/bid/selenium/)__
+- → __[WebdriverIO 覚書き :: Selenium | Refills](https://syon.github.io/refills/rid/1496538/)__
 
 ### Nightmare
 
