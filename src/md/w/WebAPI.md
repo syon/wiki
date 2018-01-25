@@ -24,58 +24,8 @@ layout: page.jade
 
 ## API Use
 
-### Articles
+<mark>__[Web Service API - syonbox - Scrapbox](https://scrapbox.io/syon/Web_Service_API)__</mark>
 
-- [日本の全エンジニアに捧ぐ！現在公開されているAPI一覧【2013年版】 | Find Job ! Startup](http://www.find-job.net/startup/api-2013)
-- [Web APIの基本とAndroidアプリ開発の準備 （1/3）：CodeZine](http://codezine.jp/article/detail/7169)
-- [最近のWebアプリ開発に使う「API」7選が、スゴ過ぎて革命が起きそうなレベル！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2014/10/21/54236/)
-- [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた - Qiita](http://qiita.com/suin/items/f7ac4de914e9f3f35884)
-- [Google Maps JavaScript API v3の使い方まとめ (サンプルコード付き)](http://syncer.jp/google-maps-javascript-api-matome)
-
-### APIs
-- [NHK番組表API](http://api-portal.nhk.or.jp/ja)
-- [APIリスト | MA【エム・エー】 by Mashup Awards](http://mashupaward.jp/apis)
-- [政府統計の総合窓口\(e\-Stat\)−API機能](http://www.e-stat.go.jp/api/)  
-  政府統計の総合窓口\(e\-Stat\)で提供している統計データ等を機械判読可能な形式で取得できるAPI機能を提供します
-
-#### 無料でいい感じのもの
-
-- [JSON Test by jsontest](http://www.jsontest.com/)
-- [お天気Webサービス仕様 - Weather Hacks - livedoor 天気情報](http://weather.livedoor.com/weather_hacks/webservice)
-
-#### openBD
-- [openBD \| 書誌情報・書影を自由に](https://openbd.jp/#contact)
-- [2017/01/23 openBDセミナー 質疑応答文字起こし \- 図書の網](http://lumely.hatenablog.com/entry/20170125/1485335885)
-- [このサイトのAPI \| 版元ドットコム](http://www.hanmoto.com/about_api)
-
-#### Pocket API
-[Pocket: Developer API](https://getpocket.com/developer/)
-
-- __[Chase - http://syon-chase.herokuapp.com](http://syon-chase.herokuapp.com/)__
-- [pocket APIの使い方まとめ(サンプルコード付き)](https://syncer.jp/pocket-api-matome)
-- [pocket-api (npm)](https://www.npmjs.com/package/pocket-api)
-- [PocketのAPIをNodejsから扱う方法 | WEB EGG](http://leko.jp/archives/519)
-- [pocket-ruby | RubyGems.org | your community gem host](https://rubygems.org/gems/pocket-ruby/versions/0.0.6)
-
-#### Wunderlist
-- [Wunderlist Developer](https://developer.wunderlist.com/)
-- [タスク管理ツール WunderlistのAPIで遊んでみた \- Qiita](http://qiita.com/nori4k/items/d0ee6a287105410a353c)
-
-#### Moves API
-- [Documentation - Moves for Developers](https://dev.moves-app.com/)
-
-#### はてブAPI
-- [はてブAPIでwebサービスを作りたい全ての人に向けて書きました - Syncer](http://syncer.jp/hatebu-api-matome)
-- [素人大学生がhatenaAPIをイジって hatenastarのはてブランキングbot作ってみた。 - クフでダローバルな日記](http://swimath2.hatenablog.com/entry/2014/06/25/142405)
-- [はてなブックマークエントリー情報取得API | はてなブックマークAPI プログラミング解説](http://so-zou.jp/web-app/tech/web-api/hatena/entry/)
-- [はてなブックマークAPIをSSLなサイトに使う \| ぴんくいろにっき](https://blog.hinaloe.net/2015/08/15/hatena-bookmark-api-on-ssl/)
-- [爆速でChrome拡張機能を作成する \- Qiita](http://qiita.com/thr3a/items/702e58f5d793332a1001)
-
-```bash
-# ページのブックマーク数
-$ curl "http://api.b.st-hatena.com/entry.count?url=http://www.yahoo.co.jp"
-14442
-```
 
 ## Amazon Product Advertising API (PAAPI)
 
