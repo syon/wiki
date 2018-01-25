@@ -53,6 +53,16 @@ layout: page.jade
 ```
 
 
-## Selenium
+## E2E Test / Browser Automation
+
+### Selenium
 
 - → __[Selenium \| Refills](https://syon.github.io/refills/bid/selenium/)__
+
+### Nightmare
+
+- [Nightmare](http://www.nightmarejs.org/)
+
+### Cypress
+
+- [JavaScript End to End Testing Framework | Cypress.io](https://www.cypress.io/)
