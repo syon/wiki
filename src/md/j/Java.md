@@ -222,6 +222,21 @@ Map<Key,Value> map;
 List<Value> list = new ArrayList<Value>( map.values() );
 ```
 
+### ファイルIO
+
+```java
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+public static String readAll(final String path) throws IOException {
+    return new String(Files.readAllBytes(Paths.get(path)), StandardCharsets.UTF_8);
+}
+```
+
+via - [【Java】テキストファイル全体を読み込み文字列を返すメソッド - Qiita](https://qiita.com/penguinshunya/items/353bb1c555f337b0cf6d)
+
 ### 正規表現
 
 - [文字列から正規表現で特定部分を抽出 - 風日記](http://d.hatena.ne.jp/mmasashi/20091030/1256919089)
