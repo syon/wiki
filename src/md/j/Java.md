@@ -209,6 +209,10 @@ for (int i = 0, len = array.length(); i < size; i++) {
 ```
 via - [JavaのList・Mapのfor文処理覚書 - よんちゅBlog](http://yonchu.hatenablog.com/entry/20110216/1297857882)
 
+### Set
+
+- __[JavaのSetリストを突き合わせて積集合を得る方法](http://blog.nocorica.jp/2018/02/java-set-retainall/)__
+
 ### Map
 
 - [Java Map クラスの違い HashMap Hashtable TreeMap LinkedHashMap](http://kaworu.jpn.org/kaworu/2008-04-10-2.php)
