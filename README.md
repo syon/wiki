@@ -24,7 +24,5 @@ $ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 - [Deploying Your Docs \- MkDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/#other-providers)
 
 ```bash
-$ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material build
-
-$ scp -r ./site user@host:/path/to/server/root
+$ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
 ```
