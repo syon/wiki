@@ -5,3 +5,5 @@ theme:
     primary: 'teal'
     accent: 'orange'
   language: 'ja'
+extra_css:
+  - 'stylesheets/extra.css'
