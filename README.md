@@ -1,51 +1,28 @@
 wiki
 ====
 
-[![wercker status](https://app.wercker.com/status/515e5e0a2634e4004c65694b31553138/s "wercker status")](https://app.wercker.com/project/bykey/515e5e0a2634e4004c65694b31553138)
+Generated with [MkDocs](https://www.mkdocs.org/).
 
-syon's bookmarks and knowledges.
+## install
 
+[Getting started \- Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
-## Install
+### Using Docker
 
-Node.js
-
-```sh
-$ npm install
+```bash
+$ docker pull squidfunk/mkdocs-material
 ```
 
-__.env__
-```sh
-LISTEN_PORT=8888
-SERVE_DIR=
+## usage
+
+```bash
+$ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 ```
 
+## deploy
 
-## Build
+- [Deploying Your Docs \- MkDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/#other-providers)
 
-Using Metalsmith.
-Files are generated in `wiki` directory (for github pages).
-
-#### on local machine
-
-```sh
-$ make
+```bash
+$ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
 ```
-
-#### on Docker
-
-```sh
-# Make image with Dockerfile for building HTML
-$ docker build -t syon/wiki .
-
-# Run to build
-$ sh build.sh
-```
-
-
-## Serve
-
-```sh
-$ node serve
-```
-- http://localhost:8888/wiki/

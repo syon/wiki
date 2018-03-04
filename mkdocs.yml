@@ -1,0 +1,9 @@
+site_name: syon/wiki
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'orange'
+  language: 'ja'
+extra_css:
+  - 'stylesheets/extra.css'

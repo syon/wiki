@@ -1,0 +1,9 @@
+body {
+  background: url(trianglify-bg.svg)
+    no-repeat;
+  background-size: contain;
+}
+
+.md-header {
+  opacity: 0.85;
+}
