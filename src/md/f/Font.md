@@ -144,8 +144,13 @@ Google Web Fontの説明
 
 - [絶対見たことある！デザイナーの中で流行のフォント４選 - ベーコンさんの世界ブログ](http://bacon.hatenablog.com/entry/2016/01/12/211956)
 
-### [mojimo](https://mojimo.jp/)
-- [mojimo\-manga \- あのマンガの、あのアニメの、あのフォントが使える！](https://mojimo.jp/manga/)
+### 日本語Webフォント配信サービス
+
+TypeProject
+: [リアルタイプ \| 軽量高速・無料から使えるWebフォント配信サービス](https://www.realtype.jp/)
+
+[mojimo](https://mojimo.jp/)
+: [mojimo\-manga \- あのマンガの、あのアニメの、あのフォントが使える！](https://mojimo.jp/manga/)
 
 ### 検索
 - [フリーフォントケンサク｜無料のフリーフォント集](http://cute-freefont.flop.jp/)
