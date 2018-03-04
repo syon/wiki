@@ -1,5 +1,12 @@
 box: squidfunk/mkdocs-material
 
+build:
+  steps:
+    - script:
+        name: MkDocs build
+        code: |
+          mkdocs build
+
 deploy:
   steps:
     - script:
