@@ -144,10 +144,13 @@ Google Web Fontの説明
 
 - [絶対見たことある！デザイナーの中で流行のフォント４選 - ベーコンさんの世界ブログ](http://bacon.hatenablog.com/entry/2016/01/12/211956)
 
-#### 検索
+### [mojimo](https://mojimo.jp/)
+- [mojimo\-manga \- あのマンガの、あのアニメの、あのフォントが使える！](https://mojimo.jp/manga/)
+
+### 検索
 - [フリーフォントケンサク｜無料のフリーフォント集](http://cute-freefont.flop.jp/)
 
-#### 日本語フリーフォント
+### 日本語フリーフォント
 - [商用も無料でリンク不要の日本語フォント・こども丸ゴシックと、無料で手に入るフォント配布サイトの早見表 - かちびと.net](http://kachibito.net/web-design/kodomo-gosick.html)
 - [インパクトが大きい！ちょっと変わった日本語フリーフォント10選 | creive【クリーブ】](http://creive.me/archives/5475/)
 - [【イラストレーター】商用フリーPOPフォント10選 | 東京都のWeb制作会社のブログ](http://3media.biz/promotion/free-pop-fonts.html)
@@ -160,7 +163,7 @@ Google Web Fontの説明
 - [日本語フリーフォント、これだけは持っておきたい厳選22個まとめ - PhotoshopVIP](http://photoshopvip.net/japanese-free-fonts)
 - [デザイン性が高いかっこいい日本語フリーフォント16選 \| 日本語フォント投稿サイト \- フォントフリー](http://fontfree.me/blog/104)
 
-##### コリス
+#### コリス
 - [商用利用無料！丸っこくてかわいいフリーの日本語フォント -ぼくたちのゴシック2 | コリス](http://coliss.com/articles/freebies/freebies-font-boku2.html)
 - [漢字も揃ってる、日本語のフリーフォントのまとめ -2011年版 | コリス](http://coliss.com/articles/freebies/2011-best-of-free-fonts-for-japanese.html)
 - [厳選！最近公開された日本語のフリーフォント15種類のまとめ | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-2015-spring.html)
@@ -168,10 +171,10 @@ Google Web Fontの説明
 - [2016年用、日本語のフリーフォント219種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記 | コリス](http://coliss.com/articles/freebies/best-of-free-japanese-fonts-for-2016.html)
 - [日本語フリーフォントの作者様に感謝！最近リリースされた日本語の無料フォントのまとめ | コリス](http://coliss.com/articles/freebies/japanese-free-fonts-may-2016.html)
 
-##### フロップデザイン
+#### フロップデザイン
 - [フォントと素材集のフリーダウンロードのフロップデザイン](http://www.flopdesign.com/index.php)
 
-#### 縦書き
+### 縦書き
 - [NCS-あずさA-縦かな | フォント一覧 | ねこまるラボ　実験的かなフォントの制作・開発](http://necomaru.com/font/azusa-tate/)
 
 
