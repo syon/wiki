@@ -1,0 +1,16 @@
+box: squidfunk/mkdocs-material
+
+deploy:
+  steps:
+    - script:
+        name: install git
+        code: |
+          apt-get update
+          apt-get install git -y
+    - script:
+        name: MkDocs build
+        code: |
+          mkdocs build
+    - lukevivier/gh-pages:
+        token: $GH_TOKEN
+        basedir: site
