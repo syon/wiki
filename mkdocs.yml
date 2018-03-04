@@ -3,5 +3,5 @@ theme:
   name: 'material'
   palette:
     primary: 'teal'
-    accent: 'lime'
+    accent: 'orange'
   language: 'ja'
