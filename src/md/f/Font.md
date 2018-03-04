@@ -146,11 +146,16 @@ Google Web Fontの説明
 
 ### 日本語Webフォント配信サービス
 
-TypeProject
-: [リアルタイプ \| 軽量高速・無料から使えるWebフォント配信サービス](https://www.realtype.jp/)
+#### TypeProject
 
-[mojimo](https://mojimo.jp/)
-: [mojimo\-manga \- あのマンガの、あのアニメの、あのフォントが使える！](https://mojimo.jp/manga/)
+__[リアルタイプ \| 軽量高速・無料から使えるWebフォント配信サービス](https://www.realtype.jp/)__
+
+- AXIS、TP明朝、TPスカイ、濱明朝、丸明オールド、DNP秀英、ほか
+- タイププロジェクト、DNP、イワタ、凸版、字游工房、ほか
+
+
+#### [mojimo](https://mojimo.jp/)
+[mojimo\-manga \- あのマンガの、あのアニメの、あのフォントが使える！](https://mojimo.jp/manga/)
 
 ### 検索
 - [フリーフォントケンサク｜無料のフリーフォント集](http://cute-freefont.flop.jp/)
