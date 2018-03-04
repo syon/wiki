@@ -1,9 +1,3 @@
----
-slug: ergodox
-title: ErgoDox
-layout: page.jade
----
-
 ![ErgoDox](../img/ergodox.jpg)
 
 #### [ErgoDox EZ](https://ergodox-ez.com/)

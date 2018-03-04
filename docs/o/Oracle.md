@@ -1,9 +1,3 @@
----
-slug: oracle
-title: Oracle
-layout: page.jade
----
-
 ## Install
 
 #### Oracle 12c + CentOS 7

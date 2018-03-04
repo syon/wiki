@@ -1,9 +1,3 @@
----
-slug: polymer
-title: Polymer
-layout: page.jade
----
-
 #### [Polymer](https://www.polymer-project.org/)
 
 

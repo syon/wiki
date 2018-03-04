@@ -1,9 +1,3 @@
----
-slug: arduino
-title: Arduino
-layout: page.jade
----
-
 ## Setup
 - [Arduinoでお手軽電子工作：LEDを光らせてみる | Device Plus - デバプラ](http://deviceplus.jp/hobby/entry_002/)
 

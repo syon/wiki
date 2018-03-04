@@ -1,9 +1,3 @@
----
-slug: electron
-title: Electron
-layout: page.jade
----
-
 ## [Electron](http://electron.atom.io/)
 
 > Build cross platform desktop apps with web technologies

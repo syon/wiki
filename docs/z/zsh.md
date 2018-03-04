@@ -1,9 +1,3 @@
----
-slug: zsh
-title: zsh
-layout: page.jade
----
-
 - [第1回　zshで広がる世界：zshで究極のオペレーションを｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/serial/01/zsh-book/0001)
 - [Zsh 入門者のための超速設定ガイド - Qiita](http://qiita.com/uasi/items/c4288dd835a65eb9d709)
 

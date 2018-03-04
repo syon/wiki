@@ -1,9 +1,3 @@
----
-slug: office
-title: Office
-layout: page.jade
----
-
 ## Add-ins
 
 - [Office アドイン](https://msdn.microsoft.com/ja-jp/library/office/jj220060.aspx)

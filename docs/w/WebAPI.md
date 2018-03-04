@@ -1,10 +1,3 @@
----
-slug: webapi
-title: WebAPI
-layout: page.jade
----
-
-
 ## API Development
 
 ### API Design

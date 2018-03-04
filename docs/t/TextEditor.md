@@ -1,9 +1,3 @@
----
-slug: texteditor
-title: TextEditor
-layout: page.jade
----
-
 ## Atom
 - __[Atom の日本語化パッケージ "Japanese Menu" を作りました - syonx](http://syonx.hatenablog.com/entry/2015/04/06/233111)__
     - __[Atomでパッケージをインストールする方法とメニューの日本語化 – nocorica](http://blog.nocorica.jp/2015/03/atom-package-install/)__

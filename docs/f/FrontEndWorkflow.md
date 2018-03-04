@@ -1,9 +1,3 @@
----
-slug: frontendworkflow
-title: Front-End Workflow
-layout: page.jade
----
-
 ## Module Loader
 
 ### RequireJS

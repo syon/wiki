@@ -1,9 +1,3 @@
----
-slug: vagrant
-title: Vagrant
-layout: page.jade
----
-
 ![Vagrant](../img/vagrant.png)
 
 ## [Vagrant - Development environments made easy.](http://www.vagrantup.com/)

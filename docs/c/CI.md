@@ -1,9 +1,3 @@
----
-slug: ci
-title: Continuous Integration
-layout: page.jade
----
-
 ## [Jenkins](https://jenkins.io/)
 
 - [JenkinsBehindProxy - Jenkins - Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/JenkinsBehindProxy)

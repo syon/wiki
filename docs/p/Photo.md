@@ -1,9 +1,3 @@
----
-slug: photo
-title: Photo
-layout: page.jade
----
-
 ## 写真素材
 
 [Unsplash](https://unsplash.com/)

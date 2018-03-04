@@ -1,9 +1,3 @@
----
-slug: chrome-extension
-title: Chrome Extension
-layout: page.jade
----
-
 ## Official
 
 - [What are extensions? \- Google Chrome](https://developer.chrome.com/extensions)

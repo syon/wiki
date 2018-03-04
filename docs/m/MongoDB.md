@@ -1,9 +1,3 @@
----
-slug: mongodb
-title: MongoDB
-layout: page.jade
----
-
 ## Intro
 
 - [The MongoDB 3\.4 Manual — MongoDB Manual 3\.4](https://docs.mongodb.com/manual/)

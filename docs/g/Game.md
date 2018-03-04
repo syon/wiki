@@ -1,9 +1,3 @@
----
-slug: game
-title: Game
-layout: page.jade
----
-
 ## 参考作品
 
 - [VVVVVV - A game by Terry Cavanagh](http://thelettervsixtim.es/) (Flash)

@@ -1,9 +1,3 @@
----
-slug: generator
-title: Generator
-layout: page.jade
----
-
 ## ダミーデータ、ジェネレータ
 
 ### 画像

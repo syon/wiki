@@ -1,9 +1,3 @@
----
-slug: middleman
-title: Middleman
-layout: page.jade
----
-
 ![Middleman](../img/middleman.png)
 
 ### [Middleman: 効率的な作業を可能にする Ruby 製の静的サイト生成ツール](http://middlemanapp.com/jp/)

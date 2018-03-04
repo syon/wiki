@@ -1,9 +1,3 @@
----
-slug: thinreports
-title: ThinReports
-layout: page.jade
----
-
 ## 帳票ソリューション for Ruby and Rails
 
 ThinReports は PDF 形式の帳票生成を Ruby によって実現するシンプルで新しいソリューションです。 ThinReports が提供する専用レイアウトエディタ ThinReports Editor と 専用ライブラリ ThinReports Generator によって、Ruby や Ruby on Rails のような Ruby製のフレームワークを使った帳票開発の負担を軽減 - thin - することを目指します。

@@ -1,9 +1,3 @@
----
-slug: nodejs
-title: Node.js
-layout: page.jade
----
-
 ![nodejs](../img/nodejs.png)
 
 http://nodejs.org

@@ -1,9 +1,3 @@
----
-slug: webfrontend
-title: WebFrontEnd
-layout: page.jade
----
-
 ## フロントエンド開発ツール
 
 - [ぼくのさいきょうツール :: [ FLAT ] Develop | ONO TAKEHIKO from aguije inc.](http://flat.press/develop/2014/02/ultimate/)

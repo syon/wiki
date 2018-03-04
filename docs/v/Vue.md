@@ -1,9 +1,3 @@
----
-slug: vue
-title: Vue.js
-layout: page.jade
----
-
 ## Official
 - [Vue\.js](https://vuejs.org/)
 - [Vue\.js (jp)](https://jp.vuejs.org/)

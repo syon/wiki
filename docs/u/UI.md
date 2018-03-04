@@ -1,9 +1,3 @@
----
-slug: ui
-title: UI
-layout: page.jade
----
-
 #### [Dribbble](http://dribbble.com/)
 Show and tell for designers
 

@@ -1,9 +1,3 @@
----
-slug: quartzcomposer
-title: QuartzComposer
-layout: page.jade
----
-
 ### KanoLab
 
 - [QuartzComposerとは？ | Kanolab](http://kano-lab.org/archives/2047)

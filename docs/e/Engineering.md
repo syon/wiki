@@ -1,9 +1,3 @@
----
-slug: engineering
-title: Engineering
-layout: page.jade
----
-
 - → __[WebArchitecture](/wiki/webarchitecture/)__
 
 

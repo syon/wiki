@@ -1,9 +1,3 @@
----
-slug: threejs
-title: Threejs
-layout: page.jade
----
-
 # Three.js
 
 #### Libraries

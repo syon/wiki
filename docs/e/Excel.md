@@ -1,9 +1,3 @@
----
-slug: excel
-title: Excel
-layout: page.jade
----
-
 ## まとめ記事
 
 - [仕事が捗る！知ってると重宝するExcel（エクセル）の使い方記事まとめ | nanapi](http://nanapi.jp/109323/)

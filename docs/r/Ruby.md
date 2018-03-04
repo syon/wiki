@@ -1,9 +1,3 @@
----
-slug: ruby
-title: Ruby
-layout: page.jade
----
-
 #### → __[Ruby | Refills](http://syon.github.io/refills/ruby/)__
 
 #### → __[Ruby-Gem](/wiki/ruby-gem/)__

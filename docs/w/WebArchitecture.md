@@ -1,9 +1,3 @@
----
-slug: webarchitecture
-title: Web Architecture
-layout: page.jade
----
-
 ### The Clean Architecture
 
 - [クリーンアーキテクチャ\(The Clean Architecture翻訳\)](http://blog.tai2.net/the_clean_architecture.html)

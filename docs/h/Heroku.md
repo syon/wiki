@@ -1,9 +1,3 @@
----
-slug: heroku
-title: Heroku
-layout: page.jade
----
-
 ![Heroku](../img/Heroku.png)
 
 #### [Heroku | Cloud Application Platform](https://www.heroku.com/)

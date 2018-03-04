@@ -1,9 +1,3 @@
----
-slug: github
-title: GitHub
-layout: page.jade
----
-
 ## GitHub
 
 [git.io](http://git.io/)

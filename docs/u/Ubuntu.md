@@ -1,9 +1,3 @@
----
-slug: ubuntu
-title: Ubuntu
-layout: page.jade
----
-
 ## Ubuntuのインストール
 - [WindowsのVirtualBoxにUbuntu 13.04をインストールしてみた -VirtualBoxの使い方](http://pc-karuma.net/windows8-virtualbox-ubuntu-install/)
 

@@ -1,9 +1,3 @@
----
-slug: java-library
-title: Java Library
-layout: page.jade
----
-
 - __[Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ - Qiita](http://qiita.com/disc99/items/727b51dbe737602a5c91)__
 - [＠IT：Java TIPS -- EclipseでライブラリとJavadocを関連付ける](http://www.atmarkit.co.jp/fjava/javatips/072eclipse024.html)
 

@@ -1,9 +1,3 @@
----
-slug: swift
-title: Swift
-layout: page.jade
----
-
 ![Swift](../img/swift-hero.png)
 
 ## [Swift Programming Language - Apple Developer](https://developer.apple.com/swift/)

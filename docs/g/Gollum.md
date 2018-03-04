@@ -1,9 +1,3 @@
----
-slug: gollum
-title: Gollum
-layout: page.jade
----
-
 ![Gollum](../img/gollum.png)
 
 <div id="gollum-heading">

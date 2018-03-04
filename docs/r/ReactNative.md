@@ -1,9 +1,3 @@
----
-slug: reactnative
-title: React Native
-layout: page.jade
----
-
 [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 
 

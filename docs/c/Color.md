@@ -1,9 +1,3 @@
----
-slug: color
-title: Color
-layout: page.jade
----
-
 ## 変換
 - [カラーコード変換ツール](http://iroempitsu.net/zukan/tl-hexdec.htm)
 - [Toolbox::カラーコード⇔RGB変換ツール](http://toolbox.net16.net/hex.php)

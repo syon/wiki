@@ -1,9 +1,3 @@
----
-slug: actionscript
-title: ActionScript
-layout: page.jade
----
-
 ## 参考作品
 
 - [Adobe AppBox](https://appbox.adobe-web.jp/)  

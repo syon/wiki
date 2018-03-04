@@ -1,8 +1,3 @@
----
-slug: svg
-title: SVG
-layout: page.jade
----
 Scalable Vector Graphics
 
 ## Libraries

@@ -1,9 +1,3 @@
----
-slug: seminar
-title: Seminar
-layout: page.jade
----
-
 #### [IT 勉強会カレンダー](https://www.google.com/calendar/embed?src=fvijvohm91uifvd9hratehf65k@group.calendar.google.com)
 Googleカレンダー
 

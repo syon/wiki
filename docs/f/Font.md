@@ -1,9 +1,3 @@
----
-slug: font
-title: Font
-layout: page.jade
----
-
 ## License
 
 ### [SIL Open Font License (OFL)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)

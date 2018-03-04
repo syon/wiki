@@ -1,9 +1,3 @@
----
-slug: vba
-title: VBA
-layout: page.jade
----
-
 ### SubとFunctionの違いとPublicとPrivateの違い
 
 - [[Excel][VBA]SubとFunctionの違いとPublicとPrivateの違い | DevAchieve](http://wada811.blogspot.com/2012/04/excelvbasubfunctionpublicprivate.html)

@@ -1,9 +1,3 @@
----
-slug: browser
-title: ブラウザ
-layout: page.jade
----
-
 ## Debug
 
 - [console\.logまとめ 2016年夏 \- Qiita](http://qiita.com/ykyk1218/items/0f5858d077d43a49cfe2)

@@ -1,9 +1,3 @@
----
-slug: code
-title: Code
-layout: page.jade
----
-
 ## Reference
 
 - [TECHSCORE(テックスコア)](http://www.techscore.com/)  

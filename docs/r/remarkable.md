@@ -1,15 +1,3 @@
----
-slug: remarkable
-title: remarkable
-layout: page.jade
----
-
----
-slug: remarkable
-title: Remarkable demo
-layout: page.jade
----
-
 # h1 Heading
 ## h2 Heading
 ### h3 Heading

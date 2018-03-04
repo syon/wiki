@@ -1,9 +1,3 @@
----
-slug: js-library
-title: JS-Library
-layout: page.jade
----
-
 ### Links
 - [JavascriptOO.com](http://www.javascriptoo.com/)  
   JavaScriptライブラリ集

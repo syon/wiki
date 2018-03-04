@@ -1,9 +1,3 @@
----
-slug: sass
-title: Sass
-layout: page.jade
----
-
 #### [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
 
 > Sass is an extension of CSS3 which adds nested rules, variables, mixins, selector inheritance, and more. Sass generates well formatted CSS and makes your stylesheets easier to organize and maintain.

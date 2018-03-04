@@ -1,9 +1,3 @@
----
-slug: squid-proxy
-title: Squid
-layout: page.jade
----
-
 ![Squid](../img/Squid.jpg)
 
 [squid : Optimising Web Delivery](http://www.squid-cache.org/)

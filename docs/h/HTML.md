@@ -1,9 +1,3 @@
----
-slug: html
-title: HTML
-layout: page.jade
----
-
 ## HTML基本構成
 
 [HTML5 Boilerplate](http://html5boilerplate.com/)

@@ -1,9 +1,3 @@
----
-slug: react
-title: React
-layout: page.jade
----
-
 ![React](../img/React.png)
 
 <div id="gollum-heading">

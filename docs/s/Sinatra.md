@@ -1,9 +1,3 @@
----
-slug: sinatra
-title: Sinatra
-layout: page.jade
----
-
 ### [Sinatra: README (Japanese)](http://www.sinatrarb.com/intro-jp.html)
 
 - [昨今の自分用Webアプリケーションひな形 - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20130503/1367581629)  

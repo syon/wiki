@@ -1,9 +1,3 @@
----
-slug: css
-title: CSS
-layout: page.jade
----
-
 ## Reference
 
 ### [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)

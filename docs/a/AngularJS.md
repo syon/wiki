@@ -1,9 +1,3 @@
----
-slug: angularjs
-title: AngularJS
-layout: page.jade
----
-
 ## Overview
 
 - [AngularJS 20min #ng_jp // Speaker Deck](https://speakerdeck.com/naoya/angularjs-20min-number-ng-jp)

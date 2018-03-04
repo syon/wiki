@@ -1,9 +1,3 @@
----
-slug: imagemagick
-title: ImageMagick
-layout: page.jade
----
-
 #### [ImageMagick: Convert, Edit, Or Compose Bitmap Images](http://www.imagemagick.org/script/index.php)
 
 

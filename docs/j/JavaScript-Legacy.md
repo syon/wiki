@@ -1,9 +1,3 @@
----
-slug: javascript-legacy
-title: JavaScript (Legacy)
-layout: page.jade
----
-
 ## リファレンス
 
 ### [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/)

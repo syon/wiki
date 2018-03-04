@@ -1,9 +1,3 @@
----
-slug: elixir
-title: Elixir
-layout: page.jade
----
-
 ## Links
 - [Elixir ご紹介 // Speaker Deck](https://speakerdeck.com/naoya/elixir-goshao-jie)
 - [Web API サーバーとしての Elixir の可能性 // Speaker Deck](https://speakerdeck.com/naoya/web-api-sabatositefalse-elixir-falseke-neng-xing)

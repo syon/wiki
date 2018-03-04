@@ -1,9 +1,3 @@
----
-slug: regexp
-title: RegExp
-layout: page.jade
----
-
 ## 学習
 
 - [LEARN REGEX THE EASY WAY（日本語）](https://github.com/zeeshanu/learn-regex/blob/master/README-ja.md)

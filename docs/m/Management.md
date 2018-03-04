@@ -1,9 +1,3 @@
----
-slug: management
-title: Management
-layout: page.jade
----
-
 ## Team
 
 ### DevOps

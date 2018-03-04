@@ -71,7 +71,7 @@
 ## Cloud Platform
 
 - [AWS](a/aws/)
-- [Heroku](h/heroku/)
+- [Heroku](h/Heroku/)
 
 ## Server
 
@@ -88,7 +88,7 @@
 - [Code](c/code/)
 - [Ruby](r/ruby/)
 - [Gem](r/ruby-gem/)
-- [Java](j/java/)
+- [Java](j/Java/)
 - [Java Library](j/java-library/)
 - [Apache POI](a/apache-poi/)
 - [Scala](s/scala/)

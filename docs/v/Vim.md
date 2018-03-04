@@ -1,9 +1,3 @@
----
-slug: vim
-title: Vim
-layout: page.jade
----
-
 - [Neovim](https://neovim.io/)
 
 ### Articles

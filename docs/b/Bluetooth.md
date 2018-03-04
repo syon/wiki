@@ -1,9 +1,3 @@
----
-slug: bluetooth
-title: Bluetooth
-layout: page.jade
----
-
 ## WebBluetoothAPI
 
 - [WebBluetoothAPIを使ってブラウザからBLEデバイスを操作する \- Qiita](http://qiita.com/tky_bpp/items/f2db61ee8caac8eec031)

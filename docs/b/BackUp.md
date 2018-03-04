@@ -1,9 +1,3 @@
----
-slug: backup
-title: BackUp
-layout: page.jade
----
-
 ## 参考記事
 - [tappli blog: Googleアカウントを消されてしまった話](http://blog.tappli.com/article/69534410.html)
 - [家庭内ストレージ／NASのあれこれ。保存方法からバックアップ対象まで - プログラマになりたい](http://d.hatena.ne.jp/dkfj/20130901/1377999275)

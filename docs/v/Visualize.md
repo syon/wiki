@@ -1,9 +1,3 @@
----
-slug: visualize
-title: Visualize
-layout: page.jade
----
-
 ## Tools
 
 - [D3.js](/wiki/d3js/)

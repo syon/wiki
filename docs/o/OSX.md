@@ -1,9 +1,3 @@
----
-slug: osx
-title: OS X
-layout: page.jade
----
-
 ## 導入
 
 - [割とMac初心者向けの、Mac買ったらまずチェックしとくべき設定いろいろ | loveMac.jp](http://lovemac.jp/blog/1298/)

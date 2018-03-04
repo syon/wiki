@@ -1,9 +1,3 @@
----
-slug: redmine
-title: Redmine
-layout: page.jade
----
-
 ## TIPS
 
 #### テーマの変更

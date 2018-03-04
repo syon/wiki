@@ -1,9 +1,3 @@
----
-slug: apache-poi
-title: Apache POI
-layout: page.jade
----
-
 the Java API for Microsoft Documents
 : http://poi.apache.org/
 

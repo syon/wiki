@@ -1,9 +1,3 @@
----
-slug: phantomjs
-title: PhantomJS
-layout: page.jade
----
-
 > PhantomJS is a headless WebKit scriptable with a JavaScript API. It has __fast__ and __native__ support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.  
 http://phantomjs.org
 

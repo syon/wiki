@@ -1,9 +1,3 @@
----
-slug: javascript
-title: JavaScript
-layout: page.jade
----
-
 ## CODE TIPS
 - __→ [CODE TIPS](http://syon.github.io/refills/javascript/code-tips/)__
 

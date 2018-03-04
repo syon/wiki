@@ -1,9 +1,3 @@
----
-slug: sakura-editor
-title: Sakura-Editor
-layout: page.jade
----
-
 ## 設定
 
 [syon/sakura\-petals](https://github.com/syon/sakura-petals)

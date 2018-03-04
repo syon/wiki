@@ -1,9 +1,3 @@
----
-slug: audio
-title: audio
-layout: page.jade
----
-
 ## Software
 - [StaffPad - Write Naturally](http://staffpad.net/)
 

@@ -1,9 +1,3 @@
----
-slug: websecurity
-title: WebSecurity
-layout: page.jade
----
-
 ## Articles
 
 - [Webアプリ開発者のためのHTML5セキュリティ入門](http://www.slideshare.net/muneakinishimura/webhtml5-31749532)  

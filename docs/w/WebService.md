@@ -1,9 +1,3 @@
----
-slug: webservice
-title: WebService
-layout: page.jade
----
-
 ## ツール
 
 - [エクセルシートをHTMLテーブルに変換しちゃう君 (ββ)](http://styleme.jp/tool/xls2html/)

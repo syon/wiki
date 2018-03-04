@@ -1,9 +1,3 @@
----
-slug: life
-title: Life
-layout: page.jade
----
-
 - <mark>__[スマートホーム \- syonbox \- Scrapbox](https://scrapbox.io/syon/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0)__</mark>
 
 

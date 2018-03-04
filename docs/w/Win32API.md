@@ -1,9 +1,3 @@
----
-slug: win32api
-title: Win32API
-layout: page.jade
----
-
 ## リファレンス
 
 ### [Windows API List - MSDN](http://msdn.microsoft.com/en-us/library/ff818516(v=vs.85).aspx)

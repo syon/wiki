@@ -1,9 +1,3 @@
----
-slug: jquery
-title: jQuery
-layout: page.jade
----
-
 ## DOM is ready
 
 ```js

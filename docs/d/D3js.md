@@ -1,9 +1,3 @@
----
-slug: d3js
-title: D3.js
-layout: page.jade
----
-
 [D3\.js \- Data\-Driven Documents](https://d3js.org/)
 
 ![D3.js](../img/d3js.png)

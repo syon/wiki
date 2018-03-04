@@ -1,9 +1,3 @@
----
-slug: ruby-gem
-title: Ruby-Gem
-layout: page.jade
----
-
 ## Gem - Tips
 
 - [1人Webサービス開発で使っているGemfileそのまま公開 - Qiita](http://qiita.com/s3pw/items/a0c77cf3d9592e9e1bad)

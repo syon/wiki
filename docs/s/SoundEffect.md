@@ -1,9 +1,3 @@
----
-slug: soundeffect
-title: SoundEffect
-layout: page.jade
----
-
 - [Beyond The Beep](http://beyondthebeep.tumblr.com/)  
   facebookやskypeのBeep音だけ集めたページ
 

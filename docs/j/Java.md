@@ -1,9 +1,3 @@
----
-slug: java
-title: Java
-layout: page.jade
----
-
 __<mark>[Compile and Execute Java Online](https://www.tutorialspoint.com/compile_java_online.php)</mark>__
 
 

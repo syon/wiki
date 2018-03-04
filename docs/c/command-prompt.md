@@ -1,9 +1,3 @@
----
-slug: command-prompt
-title: コマンドプロンプト
-layout: page.jade
----
-
 ## Articles
 - __<mark>[バッチ TIPS :: コマンドプロンプト \| Refills](https://syon.github.io/refills/rid/1498316/)</mark>__
 - [Big Sky :: Windows ユーザは cmd.exe で生きるべき。](http://mattn.kaoriya.net/software/why-i-use-cmd-on-windows.htm)

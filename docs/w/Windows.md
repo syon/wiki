@@ -1,9 +1,3 @@
----
-slug: windows
-title: Windows
-layout: page.jade
----
-
 ### shell commands
 
 ```bash
