@@ -22,7 +22,7 @@ layout: page.jade
 ## Libraries
 
 #### [nosir/obelisk.js](https://github.com/nosir/obelisk.js)  
-![obeliskjs.js](/wiki/assets/img/obeliskjs.png)
+![obeliskjs.js](../img/obeliskjs.png)
 Obelisk.js is a JavaScript library for building isometric pixel objects.
 
 

@@ -7,7 +7,7 @@ layout: page.jade
 ## GitHub
 
 [git.io](http://git.io/)
-: ![Git.io](/wiki/assets/img/git.io.png)
+: ![Git.io](../img/git.io.png)
 github.com ドメイン専用短縮URL。コマンドラインから使えばパスの文字列指定ができる。
 
 [hub](https://github.com/github/hub)

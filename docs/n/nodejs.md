@@ -4,7 +4,7 @@ title: Node.js
 layout: page.jade
 ---
 
-![nodejs](/wiki/assets/img/nodejs.png)
+![nodejs](../img/nodejs.png)
 
 http://nodejs.org
 

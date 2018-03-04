@@ -4,7 +4,7 @@ title: docker
 layout: page.jade
 ---
 
-![docker](/wiki/assets/img/docker.png)
+![docker](../img/docker.png)
 
 ### [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 

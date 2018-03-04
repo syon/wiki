@@ -4,7 +4,7 @@ title: ErgoDox
 layout: page.jade
 ---
 
-![ErgoDox](/wiki/assets/img/ergodox.jpg)
+![ErgoDox](../img/ergodox.jpg)
 
 #### [ErgoDox EZ](https://ergodox-ez.com/)
 An Incredible Mechanical Ergonomic Keyboard

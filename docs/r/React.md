@@ -4,7 +4,7 @@ title: React
 layout: page.jade
 ---
 
-![React](/wiki/assets/img/React.png)
+![React](../img/React.png)
 
 <div id="gollum-heading">
   <h2>
@@ -27,11 +27,11 @@ layout: page.jade
 - [React.js + Flux入門 #scripty02](http://www.slideshare.net/techblogyahoo/reactjs-flux-scripty02)
 
 ### Props & state
-![](/wiki/assets/img/react-inheritance.gif)
+![](../img/react-inheritance.gif)
 - [JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/3413.html)
 
 ### Component ライフサイクル
-![](/wiki/assets/img/react-lifecycle.png)
+![](../img/react-lifecycle.png)
 - [React component ライフサイクル図 \- Qiita](http://qiita.com/kawachi/items/092bfc281f88e3a6e456)
 
 
@@ -65,7 +65,7 @@ layout: page.jade
 
 ### Redux
 
-![Redux](/wiki/assets/img/redux.jpg)
+![Redux](../img/redux.jpg)
 
 - [Reactive State Machine \(Japanese\) // Speaker Deck](https://speakerdeck.com/inamiy/reactive-state-machine-japanese)
 - [Introduction to Redux // Speaker Deck](https://speakerdeck.com/axross/introduction-to-redux)
