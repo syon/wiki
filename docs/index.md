@@ -94,7 +94,7 @@
 - [Scala](./scala/)
 - [Swift](./swift/)
 - [Elixir](./elixir/)
-- [VBA](./vba/)
+- [VBA](./VBA/)
 - [VBScript](./vbscript/)
 - [正規表現](./regexp/)
 - [Git](./git/)
