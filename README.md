@@ -1,28 +1,33 @@
 wiki [![wercker status](https://app.wercker.com/status/515e5e0a2634e4004c65694b31553138/s/master "wercker status")](https://app.wercker.com/project/byKey/515e5e0a2634e4004c65694b31553138)
 ====
 
-Generated with [MkDocs](https://www.mkdocs.org/).
+Generated with [MkDocs](https://www.mkdocs.org/),
+theme by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## install
 
-[Getting started \- Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+- Docker
+- [Wercker CLI](https://www.wercker.com/cli)
 
-### Using Docker
-
-```bash
-$ docker pull squidfunk/mkdocs-material
-```
-
-## usage
+## dev
 
 ```bash
-$ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+$ wercker dev --expose-ports
 ```
 
 ## deploy
 
-- [Deploying Your Docs \- MkDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/#other-providers)
+Automatically deployed to GitHub Pages via Wercker.
 
-```bash
-$ docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
-```
+## note
+
+### Why uses `syon/mkdocs-material` docker image?
+
+- [syon/mkdocs\-material \- Docker Hub](https://hub.docker.com/r/syon/mkdocs-material/)
+
+Because official image `squidfunk/mkdocs-material` provides `ENTRYPOINT`.
+Which blocks using `mkdocs` command on Wercker.
+
+## see also
+
+- [Getting started \- Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
