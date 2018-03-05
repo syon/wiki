@@ -1,9 +1,18 @@
+# Project information
 site_name: syon/wiki
+
+# Repository
+repo_name: syon/wiki
+repo_url: https://github.com/syon/wiki
+
+# Configuration
 theme:
   name: 'material'
   palette:
     primary: 'teal'
     accent: 'orange'
   language: 'ja'
+  feature:
+    tabs: true
 extra_css:
   - 'stylesheets/extra.css'
