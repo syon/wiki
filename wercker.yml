@@ -1,0 +1,13 @@
+box: syon/mkdocs-material
+
+build:
+  steps:
+    - script:
+      code: |
+        mkdocs build
+
+deploy:
+  steps:
+    - lukevivier/gh-pages:
+        token: $GH_TOKEN
+        basedir: site
