@@ -1,9 +1,9 @@
 body {
-  background: url(trianglify-bg.svg)
-    no-repeat;
+  background: url(trianglify-bg.svg) no-repeat;
   background-size: contain;
 }
 
-.md-header {
-  opacity: 0.85;
+[data-md-color-primary=white] .md-header,
+[data-md-color-primary=white] .md-tabs {
+  background: linear-gradient(90deg,#f3fcf0,#e3f6e0a8,#cbf0f28c,#adc2d861);
 }

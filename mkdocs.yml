@@ -9,7 +9,7 @@ repo_url: https://github.com/syon/wiki
 theme:
   name: 'material'
   palette:
-    primary: 'teal'
+    primary: 'white'
     accent: 'orange'
   language: 'ja'
   feature:
