@@ -1,4 +1,4 @@
-![Heroku](../img/Heroku.png)
+![Heroku](/img/Heroku.png)
 
 #### [Heroku | Cloud Application Platform](https://www.heroku.com/)
 

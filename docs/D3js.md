@@ -2,7 +2,7 @@
 
 [D3\.js \- Data\-Driven Documents](https://d3js.org/)
 
-![D3.js](../img/d3js.png)
+![D3.js](/img/d3js.png)
 
 
 ## Overview
@@ -76,7 +76,7 @@
 
 > - D3 は引数の中に関数を発見すると、その関数を呼びだすと同時に、現在のデータセットの値をその引数に渡します
 > - 重要なことは、データが視覚化を制御しているということです。決してその逆ではありません
-> ![D3.js](../img/d3js_scale.png)
+> ![D3.js](/img/d3js_scale.png)
 
 - [2015年までに発売されたD3.js参考書をまとめてみた。 | #GUNMAGISGEEK](http://shimz.me/blog/d3-js/4554)
 - [jQueryのあれ、D3\.jsでどうやるの？\(または、その逆\) \- Qiita](http://qiita.com/itagakishintaro/items/51c89fe7e14702cb98e6)
@@ -127,7 +127,7 @@
 
 ## Gallery
 
-![D3.js](../img/d3js-blocks.png)
+![D3.js](/img/d3js-blocks.png)
 
 - [Gallery · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Gallery)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)

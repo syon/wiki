@@ -1,4 +1,4 @@
-![Gollum](../img/gollum.png)
+![Gollum](/img/gollum.png)
 
 <div id="gollum-heading">
   <h2>

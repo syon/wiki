@@ -1,4 +1,4 @@
-![Squid](../img/Squid.jpg)
+![Squid](/img/Squid.jpg)
 
 [squid : Optimising Web Delivery](http://www.squid-cache.org/)
 

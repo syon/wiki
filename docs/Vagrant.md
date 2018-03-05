@@ -1,4 +1,4 @@
-![Vagrant](../img/vagrant.png)
+![Vagrant](/img/vagrant.png)
 
 ## [Vagrant - Development environments made easy.](http://www.vagrantup.com/)
 
