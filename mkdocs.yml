@@ -16,3 +16,44 @@ theme:
     tabs: true
 extra_css:
   - 'stylesheets/extra.css'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/syon'
+    - type: 'twitter'
+      link: 'https://twitter.com/syonxv'
+
+# Google Analytics
+google_analytics:
+  - UA-37634759-2
+  - auto
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
