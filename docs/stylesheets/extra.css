@@ -7,3 +7,7 @@ body {
 [data-md-color-primary=white] .md-tabs {
   background: linear-gradient(90deg,#f3fcf0,#e3f6e0a8,#cbf0f28c,#adc2d861);
 }
+
+.md-content h2 {
+  border-bottom: .1rem solid rgba(0,0,0,.07);
+}
