@@ -2,7 +2,9 @@ wiki [![wercker status](https://app.wercker.com/status/515e5e0a2634e4004c65694b3
 ====
 
 Generated with [MkDocs](https://www.mkdocs.org/),
-theme by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+theme by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).  
+Developed on [StarterKit](https://github.com/syon/mkdocs-material-starterkit).
+
 
 ## install
 
@@ -18,15 +20,6 @@ $ wercker dev --expose-ports
 ## deploy
 
 Automatically deployed to GitHub Pages via Wercker.
-
-## note
-
-### Why uses `syon/mkdocs-material` docker image?
-
-- [syon/mkdocs\-material \- Docker Hub](https://hub.docker.com/r/syon/mkdocs-material/)
-
-Because official image `squidfunk/mkdocs-material` provides `ENTRYPOINT`.
-Which blocks using `mkdocs` command on Wercker.
 
 ## see also
 
