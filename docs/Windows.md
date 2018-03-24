@@ -1,11 +1,11 @@
 ### shell commands
 
+- → __[Windows / Shell Commands](/Windows/shell-cmd/)__
+
 ```bash
 shell:startup
 ```
 
-- [Tech TIPS：スタートメニューやスタートアップなどの特殊フォルダーの場所を素早く開く \- ＠IT](http://www.atmarkit.co.jp/ait/articles/1401/24/news036.html)
-- [Shell コマンドで開く特殊フォルダー一覧](http://pasofaq.jp/windows/mycomputer/shellfolder7.htm)
 
 ### 操作
 - [オッサンのためのWindows 10講座　昔の使い方を早く捨てろ、慣れろ。 \(1/2\) \- ITmedia エンタープライズ](http://www.itmedia.co.jp/enterprise/articles/1607/16/news020.html)

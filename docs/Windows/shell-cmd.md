@@ -13,6 +13,9 @@
 }
 </style>
 
+- [スタートメニューやスタートアップなどの特殊フォルダーの場所を素早く開く：Tech TIPS - ＠IT](http://www.atmarkit.co.jp/ait/articles/1401/24/news036.html)
+- [Shell コマンドで開く特殊フォルダー一覧](http://pasofaq.jp/windows/mycomputer/shellfolder7.htm)
+
 ### メニュー
 
 | | |
