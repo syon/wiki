@@ -1,5 +1,14 @@
 # Express
 
+## express-generator
+
+[Express のアプリケーション生成プログラム](https://expressjs.com/ja/starter/generator.html)
+
+```bash
+$ npm i -g express-generator
+```
+
+
 ## articles
 
 - [Node.js(Express4) + Heroku + PostgreSQLでTwitter botとサイト作った時のメモ(準備編) - Memo/](http://memo.brdr.jp/post/116650871021/node-js-express4-heroku-postgresql-twitter)
