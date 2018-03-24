@@ -1,8 +1,8 @@
 ## [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 
 #### Code
-- → __[Polymer](/wiki/polymer/)__
-- → [Angular Material](AngularJS/)
+- → __[Polymer](/Polymer/)__
+- → __[Angular Material](/AngularJS/)__
 
 [Material Design Lite](http://www.getmdl.io/)
 : An implementation of Material Design components in vanilla CSS, JS, and HTML.
@@ -73,7 +73,7 @@
 
 ## UI
 
-- [UI](/wiki/ui/)
+- [UI](/UI/)
 
 
 ## Theme
@@ -91,14 +91,14 @@
 
 ## Font
 
-- [Font](/wiki/font/)
+- [Font](/Font/)
 
 
 ## Image
 
 ### Photo
 
-- → __[Photo](/wiki/font/)__
+- → __[Photo](/Font/)__
 
 ### イラスト
 - [かわいい女子のイラスト素材が満載！生き生きとした表情やしぐさが魅力たっぷりなガーリー素材集 -Girls Design Materials | コリス](http://coliss.com/articles/book-review/isbn10-4797376694.html)

@@ -25,7 +25,7 @@
 
 
 ## Sass
-- → __[Sass](/wiki/sass/)__
+- → __[Sass](/Sass/)__
 
 
 ## Stylus
@@ -42,18 +42,18 @@
 
 ## See also...
 
-- → __[Design](/wiki/design/)__
-- → __[Photo](/wiki/photo/)__
-- → __[UI](/wiki/ui/)__
-- → __[Color](/wiki/color/)__
-- → __[Font](/wiki/font/)__
-- → __[Sketch](/wiki/sketch/)__
+- → __[Design](/Design/Design/)__
+- → __[Photo](/Design/Photo/)__
+- → __[UI](/Design/UI/)__
+- → __[Color](/Design/Color/)__
+- → __[Font](/Design/Font/)__
+- → __[Sketch](/Design/Sketch/)__
 
 
 ## CSS Framework
 
 [Bootstrap](http://getbootstrap.com/)
-: → __[TwitterBootstrap](/wiki/twitterbootstrap/)__
+: → __[TwitterBootstrap](/TwitterBootstrap/)__
 
 [Skeleton](http://getskeleton.com/)
 : A dead simple, responsive boilerplate.

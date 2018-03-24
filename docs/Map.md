@@ -18,4 +18,4 @@
 - [Charlotte(シャーロット)２話に出てきた地図のleaflet版作った。 | #GUNMAGISGEEK](http://shimz.me/blog/leaflet-js/4384)
 
 ## D3.js
-→ __[D3.js](/wiki/d3js/)__
+→ __[D3.js](/D3js/)__

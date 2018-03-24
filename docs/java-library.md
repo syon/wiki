@@ -98,7 +98,7 @@ JDBC helper library.
 
 ## Apache POI
 
-- → __[Apache POI](/wiki/apache-poi/)__
+- → __[Apache POI](/apache-poi/)__
 
 
 ## JSON

@@ -70,7 +70,7 @@
 
 ## ダミーデータ、ジェネレータ
 
-- → __[generator](/wiki/generator/)__
+- → __[generator](/generator/)__
 
 
 ## Google検索

@@ -1,10 +1,10 @@
-#### →__[AngularJS](/wiki/angularjs/)__
+#### →__[AngularJS](/AngularJS/)__
 
-#### →__[Polymer](/wiki/polymer/)__
+#### →__[Polymer](/Polymer/)__
 
-#### →__[React](/wiki/react/)__
+#### →__[React](/React/)__
 
-#### →__[Vue.js](/wiki/vue/)__
+#### →__[Vue.js](/Vue/)__
 
 
 ## Compare

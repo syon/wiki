@@ -1,5 +1,5 @@
 ## Install
-- [Ubuntu](/wiki/ubuntu/)
+- [Ubuntu](/Ubuntu/)
 - [Ruby on Rails 3.2 を Windows にインストールする手順をかなり丁寧に説明してみました - Rails 雑感 - Ruby on Rails with OIAX](http://www.oiax.jp/rails/zakkan/rails_3_1_installation_on_windows.html)
 - [Ruby on Rails チュートリアル：実例を使ってRailsを学ぼう - Michael Hartl (マイケル・ハートル)](http://railstutorial-ja.herokuapp.com/)
 

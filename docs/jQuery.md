@@ -20,7 +20,7 @@ $ ->
 ## Events
 
 #### イベント発火
-see also: [JavaScript #タッチパネル対応](/wiki/javascript/)
+see also: [JavaScript #タッチパネル対応](/JavaScript/)
 ```js
 $( "#foo" ).trigger( "click" );
 ```

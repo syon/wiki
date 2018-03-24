@@ -187,4 +187,4 @@
 
 
 ## React Native
-- → __[React Native](/wiki/reactnative/)__
+- → __[React Native](/ReactNative/)__

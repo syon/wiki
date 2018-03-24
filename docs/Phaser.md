@@ -95,7 +95,7 @@ this.player.animations.play('left');
 
 ## 参考作品
 
-- → __[Game](/wiki/game/)__
+- → __[Game](/Game/)__
 
 
 ## Tutorials

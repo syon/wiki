@@ -2,11 +2,11 @@
 
 #### Web MIDI API
 
-- → __[Audio](/wiki/audio/)__
+- → __[Audio](/Sound/Audio/)__
 
 #### WebMidiLink
 
-- → __[Audio](/wiki/audio/)__
+- → __[Audio](/Sound/Audio/)__
 
 ### MIDI over Bluetooth LE
 

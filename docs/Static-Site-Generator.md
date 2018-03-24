@@ -15,7 +15,7 @@ The definitive listing of Static Site Generators
 
 
 ## Middleman
-- → __[Middleman](/wiki/middleman/)__
+- → __[Middleman](/Middleman/)__
 
 
 ## [Metalsmith](http://www.metalsmith.io)

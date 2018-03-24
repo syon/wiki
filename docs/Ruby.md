@@ -1,6 +1,6 @@
 #### → __[Ruby | Refills](http://syon.github.io/refills/ruby/)__
 
-#### → __[Ruby-Gem](/wiki/ruby-gem/)__
+#### → __[Ruby-Gem](/Ruby-Gem/)__
 
 
 ## リファレンス

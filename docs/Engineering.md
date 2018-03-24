@@ -1,4 +1,4 @@
-- → __[WebArchitecture](/wiki/webarchitecture/)__
+- → __[WebArchitecture](/WebArchitecture/)__
 
 
 ## 法則・原則

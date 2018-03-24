@@ -15,7 +15,7 @@
 - [WatchKit - Apple Developer](https://developer.apple.com/watchkit/)
 
 ### Swift
-- [Swift](/wiki/swift/)
+- [Swift](/Swift/)
 
 ### Objective-C
 - [Learn Objective-C - Code School](https://www.codeschool.com/courses/try-objective-c) すごく楽しそうなチュートリアル

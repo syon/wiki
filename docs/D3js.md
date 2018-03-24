@@ -67,7 +67,7 @@
 
 ## Other Visualization Tools
 
-#### → __[Visualize](/wiki/visualize/)__
+#### → __[Visualize](/visualize/)__
 
 
 ## Learning D3.js
@@ -88,7 +88,7 @@
 
 ## SVG
 
-#### → __[SVG (Scalable Vector Graphics)](/wiki/svg/)__
+#### → __[SVG (Scalable Vector Graphics)](/SVG/)__
 
 ## 参考リンク
 - [D3.js入門 (全17回) - プログラミングならドットインストール](http://dotinstall.com/lessons/basic_d3js)
@@ -168,7 +168,7 @@
 
 
 ## 地図
-- → __[Map](/wiki/map/)__
+- → __[Map](/Map/)__
 - [Geo Projections · mbostock/d3 Wiki](https://github.com/mbostock/d3/wiki/Geo-Projections)
 - [D3.js Geo(Geography) チュートリアル - NAVER まとめ](http://matome.naver.jp/odai/2136791241493514301)
 - [JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita](http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d)

@@ -33,8 +33,8 @@
 
 ## 実装
 
-- __[JavaScript #正規表現](/wiki/javascript/)__
+- __[JavaScript #正規表現](/JavaScript/)__
 
-- __[Ruby #正規表現](/wiki/ruby/)__
+- __[Ruby #正規表現](/Ruby/)__
 
-- __[Java #正規表現](/wiki/java/)__
+- __[Java #正規表現](/java/)__

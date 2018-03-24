@@ -3,7 +3,7 @@
 
 
 ## Arduino
-→ __[Arduino](/wiki/arduino/)__
+→ __[Arduino](/Arduino/)__
 
 
 ## littleBits
@@ -24,7 +24,7 @@
 
 
 ## Smart Lock
-- → __[Life](/wiki/life/)__
+- → __[Life](/Life/Life/)__
 
 
 ## センサー

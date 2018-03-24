@@ -50,7 +50,7 @@ __<mark>[syon/dotfiles](https://github.com/syon/dotfiles)</mark>__
   インストール用Rubyコマンドをコピペしてターミナルで実行
 
 - Keep up-to-date  
-  → __[Shell](/wiki/shell/)__
+  → __[Shell](/Shell/)__
 
 - [homebrew/El_Capitan_and_Homebrew.md at master · Homebrew/homebrew · GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md)  
   El Capitan で Homebrew を使うときの注意点等について
@@ -101,7 +101,7 @@ brew cask install appcleaner
 - [macOS Sierraでは隠しファイルを表示するショートカットキー「CMD\+Shift\+\.」がFinderでも利用可能に。 \| AAPL Ch\.](http://applech2.com/archives/macos-sierra-finder-cmd-shift-period-show-hidden-file.html)
 
 ### Launch on Startup
-- __[Squid - syon/wiki](/wiki/squid-proxy/)__
+- __[Squid - syon/wiki](/squid-proxy/)__
 - [MacOSX - Mac OSX で init.d のように Tomcat を自動起動する - Qiita](http://qiita.com/hidekuro/items/316abf8b359734227c88)
 - [Mission Control キーバインド変更](https://twitter.com/ryo_dg/status/856374326869676032)
 

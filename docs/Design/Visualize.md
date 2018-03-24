@@ -1,6 +1,6 @@
 ## Tools
 
-- [D3.js](/wiki/d3js/)
+- [D3.js](/D3js/)
 - [Chart.js | HTML5 Charts for your website.](http://www.chartjs.org/)
 - [Chart.js | Open source HTML5 Charts for your website](http://www.chartjs.org/)
 - [Chart Gallery - Google Charts — Google Developers](https://developers.google.com/chart/interactive/docs/gallery?hl=ja)

@@ -181,7 +181,7 @@ console.log($('h1').html());
 
 
 ## Electron
-- __[Electron](/wiki/electron/)__
+- __[Electron](Electron)__
 
 
 ## TIPS
@@ -201,7 +201,7 @@ console.log($('h1').html());
   - [dotenv](https://www.npmjs.com/package/dotenv)
 
 #### Express
-- → __[Express](express)__
+- → __[Express](/express/)__
 
 #### Socket.IO
 - [Node.js＋Socket.IOで作る、通信対戦ができるHTML5ゲームシステムの作り方 - Yahoo! JAPAN Tech Blog](http://techblog.yahoo.co.jp/javascript/nodejs/online_game_architecture_by_socketio/)
