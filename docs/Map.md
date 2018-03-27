@@ -1,3 +1,5 @@
+- [Google Maps APIs | Google Developers](https://developers.google.com/maps/gaming/)
+
 ## [OpenStreetMap](http://www.openstreetmap.org/)
 - [WEB地図ってどこまで自由に使用できるの？: 森林土木memo](http://koutochas.seesaa.net/article/382139266.html)
 
