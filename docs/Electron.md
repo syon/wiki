@@ -31,6 +31,8 @@
 - [Electronでカラーピッカーを表示するメニューバーアプリを作る \- TaillookTech](http://taillook.hateblo.jp/entry/2017/02/24/204255)
 - [ElectronのIPCをまとめる \- Qiita](http://qiita.com/gcmae/items/cb6eb18be2f4ffae60b5)
 - [30分で出来る、JavaScript \(Electron\) でデスクトップアプリを作って配布するまで \- Qiita](http://qiita.com/nyanchu/items/15d514d9b9f87e5c0a29)
+- [electronでリリース用パッケージを作る \- PartyIX](https://h3poteto.hatenablog.com/entry/2018/04/14/234353)
+- [Electronでデスクトップウィジェットを作るまで - Qiita](https://qiita.com/SallyAcolyte/items/94ed26ab62b8b32b1b2c)
 
 #### with Web Server
 - [Electronでアプリ内部にWebサーバーを立てる \- Qiita](http://qiita.com/pman-taichi/items/406b6eb068e074dc6675)
