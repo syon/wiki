@@ -45,3 +45,7 @@
 ## UI
 
 - [Xel](https://xel-toolkit.org/)
+
+### components
+
+- [arkenthera/electron-vibrancy: Make your electron windows vibrant!](https://github.com/arkenthera/electron-vibrancy)
