@@ -106,6 +106,10 @@ for Rapid Website Production
 [MUSUBii](https://qrac.github.io/musubii/)
 : HTML/CSS Framework for JP
 
+[Bulma](https://bulma.io/)
+: a modern CSS framework based on Flexbox
+
+- [Extensions | Bulma: a modern CSS framework based on Flexbox](https://bulma.io/extensions/)
 
 #### Articles
 - [レスポンシブ対応のCSSフレームワーク25選｜ferret [フェレット]](https://ferret-plus.com/2783)
