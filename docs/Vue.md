@@ -48,6 +48,9 @@ const Foo = () => import('./Foo.vue')
 - [Storybook for Vue](https://storybook.js.org/basics/guide-vue/)
 - [Vue on Storybook // Speaker Deck](https://speakerdeck.com/kazupon/vue-on-storybook)
 
+### Buefy
+- [Buefy: lightweight UI components for Vue.js based on Bulma - Buefy](https://buefy.github.io/#/)
+
 ### Semantic UI
 - __<mark>[vue\-cli with Semantic UI on webpack \- Qiita](http://qiita.com/syon/items/5e0e86ec9abb71935e36)</mark>__
 - [How to use Semantic UI \+ VUECLI \- Help \- Vue Forum](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
