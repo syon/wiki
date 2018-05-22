@@ -66,6 +66,10 @@ const Foo = () => import('./Foo.vue')
 
 - [Element \- A Desktop UI Toolkit for Web](http://element.eleme.io/static/banner-bg.75437e1.svg)
 
+### Vuesax
+
+- [Vuesax](https://lusaxweb.github.io/vuesax/)
+
 ### Framework7
 
 - [nuxt\-community/nuxt7: 📱 Full Featured iOS & Android PWA Apps with Nuxt\.js and Framework7](https://github.com/nuxt-community/nuxt7)
