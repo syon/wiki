@@ -218,6 +218,7 @@ __[リアルタイプ \| 軽量高速・無料から使えるWebフォント配�
   `font-family: -apple-system, BlinkMacSystemFont, …`
 - [Webブラウザにおける文字のアンチエイリアスの現状の最適解 \| dwango creators' blog（ドワンゴクリエイターズブログ）](http://creator.dwango.co.jp/14128.html)
 - [【小ネタ】リニューアルされたGoogle Fontsのダミーテキストに隠された秘密をスルメのように味わう \- Brian'z Imagination](http://brian.hatenablog.jp/entry/secret-in-new-google-fonts)
+- [フォントの形を変えて情報を隠ぺいする技術「FontCode」\-\-文字は文字に隠せ \- CNET Japan](https://japan.cnet.com/article/35120298/)
 
 
 ## Preview installed fonts
