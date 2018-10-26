@@ -36,6 +36,10 @@
 - [waifu2x](http://waifu2x.udp.jp/)  
   深層畳み込みニューラルネットワークによる二次元画像のための超解像システム.
 
+- [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw)  
+  code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models
+  - [Kubernetes上で動くマイクロサービスとして「毎時新聞」を作り直した - inajob's blog](https://inajob.hatenablog.jp/entry/2018/10/20/Kubernetes%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E3%80%8C%E6%AF%8E%E6%99%82%E6%96%B0%E8%81%9E%E3%80%8D)
+
 ### フォトブック
 
 - [iPhotoでフォトブック作ったら手軽で満足度高かった ... - MEMOGRAPHIX](http://memo.sanographix.net/post/84603875665)
