@@ -93,6 +93,28 @@ User32.EnumWindows(cb, 0)
 User32.MessageBoxA(0, "exit", "caption", 0)
 ```
 
+#### Ruby 2.0 example of EnumWindows
+
+```ruby
+require 'Fiddle'
+require 'Fiddle/Import'
+
+module User32
+  extend Fiddle::Importer
+  dlload 'user32'
+  extern 'int MessageBoxA(int,char*, char*, int)'
+  extern 'int EnumWindows(void*,int)'
+end
+
+cb = Fiddle::Closure::BlockCaller.new(Fiddle::TYPE_INT, [Fiddle::TYPE_INT]) do |hwnd|
+  puts hwnd
+  -1
+end
+
+func = Fiddle::Function.new(cb,[Fiddle::TYPE_INT], Fiddle::TYPE_INT)
+User32.EnumWindows(func,0)
+```
+
 #### [Ruby 1.8.7 リファレンスマニュアル > DLモジュール](http://docs.ruby-lang.org/ja/1.8.7/class/DL.html)
 
 <dl>
