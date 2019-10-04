@@ -1,0 +1,2723 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+        <link rel="canonical" href="https://syon.github.io/wiki/Git/">
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="クリップボードへコピー">
+      
+        <meta name="lang:clipboard.copied" content="コピーしました">
+      
+        <meta name="lang:search.language" content="jp">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="何も見つかりませんでした">
+      
+        <meta name="lang:search.result.one" content="1件見つかりました">
+      
+        <meta name="lang:search.result.other" content="#件見つかりました">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-　、。，．]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.6.6">
+    
+    
+      
+        <title>Git - syon/wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.78aab2dc.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.6079476c.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="white" data-md-color-accent="orange">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#tutorials" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://syon.github.io/wiki" title="syon/wiki" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                syon/wiki
+              </span>
+              <span class="md-header-nav__topic">
+                Git
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="検索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            検索キーワードを入力してください
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href=".." title="Index" class="md-tabs__link md-tabs__link--active">
+        Index
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Design/BusinessForm/" title="Design" class="md-tabs__link">
+          Design
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Life/BackUp/" title="Life" class="md-tabs__link">
+          Life
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Sound/Audio/" title="Sound" class="md-tabs__link">
+          Sound
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Windows/keyboard-shortcut/" title="Windows" class="md-tabs__link">
+          Windows
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    syon/wiki
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AWS/" title="Amazon Web Services" class="md-nav__link">
+      Amazon Web Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActionScript/" title="ActionScript" class="md-nav__link">
+      ActionScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActiveRecord/" title="ActiveRecord" class="md-nav__link">
+      ActiveRecord
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AngularJS/" title="AngularJS" class="md-nav__link">
+      AngularJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Arduino/" title="Arduino" class="md-nav__link">
+      Arduino
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AutoHotKey/" title="AutoHotKey" class="md-nav__link">
+      AutoHotKey
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bluetooth/" title="Bluetooth" class="md-nav__link">
+      Bluetooth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bookmarklet/" title="Bookmarklet" class="md-nav__link">
+      Bookmarklet
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Browser/" title="Browser" class="md-nav__link">
+      Browser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CI/" title="CI" class="md-nav__link">
+      CI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CSS/" title="CSS" class="md-nav__link">
+      CSS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CentOS/" title="CentOS" class="md-nav__link">
+      CentOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Chef/" title="Chef" class="md-nav__link">
+      Chef
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Code/" title="Code" class="md-nav__link">
+      Code
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Cygwin/" title="Cygwin" class="md-nav__link">
+      Cygwin
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../D3js/" title="D3.js" class="md-nav__link">
+      D3.js
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Electron/" title="Electron" class="md-nav__link">
+      Electron
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Elixir/" title="Elixir" class="md-nav__link">
+      Elixir
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Engineering/" title="Engineering" class="md-nav__link">
+      Engineering
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ErgoDox/" title="ErgoDox" class="md-nav__link">
+      ErgoDox
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Excel/" title="Excel" class="md-nav__link">
+      Excel
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../FrontEndWorkflow/" title="FrontEndWorkflow" class="md-nav__link">
+      FrontEndWorkflow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Git
+      </label>
+    
+    <a href="./" title="Git" class="md-nav__link md-nav__link--active">
+      Git
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tutorials" title="Tutorials" class="md-nav__link">
+    Tutorials
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#git-diff" title="git diff" class="md-nav__link">
+    git diff
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alias" title="alias" class="md-nav__link">
+    alias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git-log-commit-hash" title="git log / commit hash" class="md-nav__link">
+    git log / commit hash
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commit-message" title="commit message" class="md-nav__link">
+    commit message
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commit-message-with-emoji" title="commit message with emoji" class="md-nav__link">
+    commit message with emoji
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#branch" title="branch" class="md-nav__link">
+    branch
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#45-qiita" title="リモートで消されたブランチが手元で残ってしまう件を解消する - Qiita" class="md-nav__link">
+    リモートで消されたブランチが手元で残ってしまう件を解消する - Qiita
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git" title="Gitコミット時の名前とメールアドレス" class="md-nav__link">
+    Gitコミット時の名前とメールアドレス
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_1" title="グローバル設定を変更する" class="md-nav__link">
+    グローバル設定を変更する
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="ローカルリポジトリ設定を変更する" class="md-nav__link">
+    ローカルリポジトリ設定を変更する
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#direnv" title="direnv" class="md-nav__link">
+    direnv
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ssh" title="SSH認証キーの設定" class="md-nav__link">
+    SSH認証キーの設定
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cf" title="cf." class="md-nav__link">
+    cf.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../GitHub/" title="GitHub" class="md-nav__link">
+      GitHub
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Gollum/" title="Gollum" class="md-nav__link">
+      Gollum
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../HTML/" title="HTML" class="md-nav__link">
+      HTML
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Hardware/" title="Hardware" class="md-nav__link">
+      Hardware
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Heroku/" title="Heroku" class="md-nav__link">
+      Heroku
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ImageMagick/" title="ImageMagick" class="md-nav__link">
+      ImageMagick
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Framework/" title="JS Framework" class="md-nav__link">
+      JS Framework
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Library/" title="JS Library" class="md-nav__link">
+      JS Library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript-Legacy/" title="JavaScript Legacy" class="md-nav__link">
+      JavaScript Legacy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript/" title="JavaScript" class="md-nav__link">
+      JavaScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../LogManagement/" title="LogManagement" class="md-nav__link">
+      LogManagement
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Mac-App/" title="Mac App" class="md-nav__link">
+      Mac App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Management/" title="Management" class="md-nav__link">
+      Management
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Map/" title="Map" class="md-nav__link">
+      Map
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Middleman/" title="Middleman" class="md-nav__link">
+      Middleman
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../MongoDB/" title="MongoDB" class="md-nav__link">
+      MongoDB
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Network/" title="Network" class="md-nav__link">
+      Network
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../OSX/" title="OSX" class="md-nav__link">
+      OSX
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Office/" title="Office" class="md-nav__link">
+      Office
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Oracle/" title="Oracle" class="md-nav__link">
+      Oracle
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../PhantomJS/" title="PhantomJS" class="md-nav__link">
+      PhantomJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Phaser/" title="Phaser" class="md-nav__link">
+      Phaser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Polymer/" title="Polymer" class="md-nav__link">
+      Polymer
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Rails/" title="Rails" class="md-nav__link">
+      Rails
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../React/" title="React" class="md-nav__link">
+      React
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ReactNative/" title="ReactNative" class="md-nav__link">
+      ReactNative
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Redmine/" title="Redmine" class="md-nav__link">
+      Redmine
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../RegExp/" title="RegExp" class="md-nav__link">
+      RegExp
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby-Gem/" title="Ruby Gem" class="md-nav__link">
+      Ruby Gem
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby/" title="Ruby" class="md-nav__link">
+      Ruby
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SVG/" title="SVG" class="md-nav__link">
+      SVG
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sakura-Editor/" title="Sakura Editor" class="md-nav__link">
+      Sakura Editor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sass/" title="Sass" class="md-nav__link">
+      Sass
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Scala/" title="Scala" class="md-nav__link">
+      Scala
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Shell/" title="Shell" class="md-nav__link">
+      Shell
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sinatra/" title="Sinatra" class="md-nav__link">
+      Sinatra
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Static-Site-Generator/" title="Static Site Generator" class="md-nav__link">
+      Static Site Generator
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SublimeText/" title="SublimeText" class="md-nav__link">
+      SublimeText
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Swift/" title="Swift" class="md-nav__link">
+      Swift
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TextEditor/" title="TextEditor" class="md-nav__link">
+      TextEditor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ThinReports/" title="ThinReports" class="md-nav__link">
+      ThinReports
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Threejs/" title="Threejs" class="md-nav__link">
+      Threejs
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TwitterBootstrap/" title="TwitterBootstrap" class="md-nav__link">
+      TwitterBootstrap
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../UNIX-command/" title="UNIX command" class="md-nav__link">
+      UNIX command
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ubuntu/" title="Ubuntu" class="md-nav__link">
+      Ubuntu
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../VBA/" title="VBA" class="md-nav__link">
+      VBA
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../VBScript/" title="VBScript" class="md-nav__link">
+      VBScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vagrant/" title="Vagrant" class="md-nav__link">
+      Vagrant
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vim/" title="Vim" class="md-nav__link">
+      Vim
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vue/" title="Vue" class="md-nav__link">
+      Vue
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WIN32OLE/" title="WIN32OLE" class="md-nav__link">
+      WIN32OLE
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebAPI/" title="WebAPI" class="md-nav__link">
+      WebAPI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebArchitecture/" title="WebArchitecture" class="md-nav__link">
+      WebArchitecture
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebFrontEnd/" title="WebFrontEnd" class="md-nav__link">
+      WebFrontEnd
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebRTC/" title="WebRTC" class="md-nav__link">
+      WebRTC
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebSecurity/" title="WebSecurity" class="md-nav__link">
+      WebSecurity
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Win32API/" title="Win32API" class="md-nav__link">
+      Win32API
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows-dev/" title="Windows dev" class="md-nav__link">
+      Windows dev
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/" title="Windows" class="md-nav__link">
+      Windows
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows7-app/" title="Windows7 app" class="md-nav__link">
+      Windows7 app
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../apache-poi/" title="Apache poi" class="md-nav__link">
+      Apache poi
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../auth/" title="Auth" class="md-nav__link">
+      Auth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../chrome-extension/" title="Chrome extension" class="md-nav__link">
+      Chrome extension
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../command-prompt/" title="Command prompt" class="md-nav__link">
+      Command prompt
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../docker/" title="Docker" class="md-nav__link">
+      Docker
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../express/" title="Express" class="md-nav__link">
+      Express
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS-App/" title="iOS App" class="md-nav__link">
+      iOS App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS/" title="iOS" class="md-nav__link">
+      iOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../jQuery/" title="jQuery" class="md-nav__link">
+      jQuery
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java-library/" title="Java library" class="md-nav__link">
+      Java library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java/" title="Java" class="md-nav__link">
+      Java
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nginx/" title="Nginx" class="md-nav__link">
+      Nginx
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nodejs/" title="Nodejs" class="md-nav__link">
+      Nodejs
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../remarkable/" title="Remarkable" class="md-nav__link">
+      Remarkable
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../squid-proxy/" title="Squid proxy" class="md-nav__link">
+      Squid proxy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../test/" title="Test" class="md-nav__link">
+      Test
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../tmux/" title="Tmux" class="md-nav__link">
+      Tmux
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../zsh/" title="Zsh" class="md-nav__link">
+      Zsh
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-103" type="checkbox" id="nav-103">
+    
+    <label class="md-nav__link" for="nav-103">
+      Design
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-103">
+        Design
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/BusinessForm/" title="BusinessForm" class="md-nav__link">
+      BusinessForm
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Color/" title="Color" class="md-nav__link">
+      Color
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Creation/" title="Creation" class="md-nav__link">
+      Creation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Design/" title="Design" class="md-nav__link">
+      Design
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Font/" title="Font" class="md-nav__link">
+      Font
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Game/" title="Game" class="md-nav__link">
+      Game
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Photo/" title="Photo" class="md-nav__link">
+      Photo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/QuartzComposer/" title="QuartzComposer" class="md-nav__link">
+      QuartzComposer
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Sketch/" title="Sketch" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/UI/" title="UI" class="md-nav__link">
+      UI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Visualize/" title="Visualize" class="md-nav__link">
+      Visualize
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Wallpaper/" title="Wallpaper" class="md-nav__link">
+      Wallpaper
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/generator/" title="Generator" class="md-nav__link">
+      Generator
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-104" type="checkbox" id="nav-104">
+    
+    <label class="md-nav__link" for="nav-104">
+      Life
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-104">
+        Life
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/BackUp/" title="BackUp" class="md-nav__link">
+      BackUp
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Life/" title="Life" class="md-nav__link">
+      Life
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/MediaWiki/" title="MediaWiki" class="md-nav__link">
+      MediaWiki
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Seminar/" title="Seminar" class="md-nav__link">
+      Seminar
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/WebService/" title="WebService" class="md-nav__link">
+      WebService
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/ebook/" title="Ebook" class="md-nav__link">
+      Ebook
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/torne/" title="Torne" class="md-nav__link">
+      Torne
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-105" type="checkbox" id="nav-105">
+    
+    <label class="md-nav__link" for="nav-105">
+      Sound
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-105">
+        Sound
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Audio/" title="Audio" class="md-nav__link">
+      Audio
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/BGM/" title="BGM" class="md-nav__link">
+      BGM
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/MIDI/" title="MIDI" class="md-nav__link">
+      MIDI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Music/" title="Music" class="md-nav__link">
+      Music
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/SoundEffect/" title="SoundEffect" class="md-nav__link">
+      SoundEffect
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-106" type="checkbox" id="nav-106">
+    
+    <label class="md-nav__link" for="nav-106">
+      Windows
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-106">
+        Windows
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/keyboard-shortcut/" title="Keyboard shortcut" class="md-nav__link">
+      Keyboard shortcut
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/shell-cmd/" title="Shell cmd" class="md-nav__link">
+      Shell cmd
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tutorials" title="Tutorials" class="md-nav__link">
+    Tutorials
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#git-diff" title="git diff" class="md-nav__link">
+    git diff
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alias" title="alias" class="md-nav__link">
+    alias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git-log-commit-hash" title="git log / commit hash" class="md-nav__link">
+    git log / commit hash
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commit-message" title="commit message" class="md-nav__link">
+    commit message
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commit-message-with-emoji" title="commit message with emoji" class="md-nav__link">
+    commit message with emoji
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#branch" title="branch" class="md-nav__link">
+    branch
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#45-qiita" title="リモートで消されたブランチが手元で残ってしまう件を解消する - Qiita" class="md-nav__link">
+    リモートで消されたブランチが手元で残ってしまう件を解消する - Qiita
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git" title="Gitコミット時の名前とメールアドレス" class="md-nav__link">
+    Gitコミット時の名前とメールアドレス
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_1" title="グローバル設定を変更する" class="md-nav__link">
+    グローバル設定を変更する
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="ローカルリポジトリ設定を変更する" class="md-nav__link">
+    ローカルリポジトリ設定を変更する
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#direnv" title="direnv" class="md-nav__link">
+    direnv
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ssh" title="SSH認証キーの設定" class="md-nav__link">
+    SSH認証キーの設定
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cf" title="cf." class="md-nav__link">
+    cf.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/syon/wiki/edit/master/docs/Git.md" title="編集" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                  <h1>Git</h1>
+                
+                <h2 id="tutorials">Tutorials<a class="headerlink" href="#tutorials" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/blog/1183-try-git-in-your-browser">Try Git In Your Browser</a></li>
+<li><a href="http://k.swd.cc/learnGitBranching-ja/">Learn Git Branching</a></li>
+</ul>
+<h2 id="tips">Tips<a class="headerlink" href="#tips" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://qiita.com/ktaro/items/1d8c8ae698a88b1d6f0f">Gitチートシート - Qiita</a></li>
+<li><a href="http://d.hatena.ne.jp/thinca/20090217/1234799036">Gitはファイルの移動を追跡できない - 永遠に未完成</a>
+<div class="codehilite"><pre><span></span>$ git log --follow
+</pre></div></li>
+<li><a href="http://labs.timedia.co.jp/2010/11/git-squash-commits.html">gitで複数のコミットを1つにまとめる - TIM Labs</a><ul>
+<li>コミットに対する指示は上から順番に処理される</li>
+<li>行を入れ替えればコミットの順序を入れ替えることができる</li>
+<li>pick: このコミットをそのまま取り込む</li>
+<li>fixup: このコミットでの変更内容を直前のコミットに合成する</li>
+<li>squash: 合成対象の各コミットのログを編集することができる
+<div class="codehilite"><pre><span></span>$ git rebase -i HEAD~4
+</pre></div></li>
+</ul>
+</li>
+<li><a href="http://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd">［初心者向け］こんなときどうする⁉︎ GitのTips26選！ - Qiita</a></li>
+<li><a href="http://qiita.com/h0ng0yut0/items/d0ef7224abc5e07525d4">キャリア1年未満だった僕が、社内にGitの運用を布教するために読みあさったもの ( +ちょ〜簡単に各Gitの運用方法のメリット・デメリット ) - Qiita</a></li>
+<li><a href="http://qiita.com/muran001/items/dea2bbbaea1260098051">Gitでやらかした時に使える19個の奥義 - Qiita</a></li>
+<li><a href="http://stackoverflow.com/questions/3258243/check-if-pull-needed-in-git">bash - Check if pull needed in Git - Stack Overflow</a></li>
+<li><a href="http://www.weed.nagoya/entry/2016/05/17/161141">壁に貼ろう「Gitのコミットメッセージを絵文字から始める」 - Weed.nagoya｜物理教育アプリつくってます</a></li>
+<li><a href="https://github.com/git-tips/tips">git-tips/tips: Most commonly used git tips and tricks.</a></li>
+</ul>
+<h4 id="git-diff">git diff<a class="headerlink" href="#git-diff" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://motemen.hatenablog.com/entry/2013/11/26/Git_%E3%81%AE_diff_%E3%82%92%E7%BE%8E%E3%81%97%E3%81%8F%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%9F%E3%81%A3%E3%81%9F_1_%E3%81%A4%E3%81%AE%E8%A8%AD">Git の diff を美しく表示するために必要なたった 1 つの設定 #git - 詩と創作・思索のひろば</a></li>
+<li><a href="http://blog.yappo.jp/yappo/archives/000841.html">YappoLogs: xlsx ファイルを git diff しやすくする為の天才的な wrapper script を書いた</a></li>
+<li><a href="http://qiita.com/kaminaly/items/28f9cb4e680deb700833">gitで差分ファイルを抽出する - Qiita</a>
+<div class="codehilite"><pre><span></span>git archive --format<span class="o">=</span>zip --prefix<span class="o">=</span>root/ HEAD <span class="sb">`</span>git diff --diff-filter<span class="o">=</span>d --name-only HEAD^ HEAD<span class="sb">`</span> -o archive.zip
+</pre></div></li>
+</ul>
+<h4 id="alias">alias<a class="headerlink" href="#alias" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="https://developers.eure.jp/tech/git-alias/">Gitのalias機能で超効率的に作業する | eureka tech blog</a></li>
+<li><a href="http://postd.cc/human-git-aliases/">人間らしいGitのエイリアス | プログラミング | POSTD</a></li>
+</ul>
+<h4 id="git-log-commit-hash">git log / commit hash<a class="headerlink" href="#git-log-commit-hash" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://stackoverflow.com/questions/34518389/get-hash-of-most-recent-git-commit-in-node">node.js - Get hash of most recent git commit in Node - Stack Overflow</a></li>
+<li><a href="http://stackoverflow.com/questions/5183199/how-print-last-commit-info-for-every-file-in-a-git-repository">bash - How print last commit info for every file in a git repository - Stack Overflow</a></li>
+<li><a href="http://qiita.com/harukasan/items/9149542584385e8dea75">git logのフォーマットを指定する - Qiita</a></li>
+</ul>
+<h4 id="commit-message">commit message<a class="headerlink" href="#commit-message" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://qiita.com/itosho/items/9565c6ad2ffc24c09364">Gitのコミットメッセージの書き方 - Qiita</a></li>
+</ul>
+<h4 id="commit-message-with-emoji">commit message with emoji<a class="headerlink" href="#commit-message-with-emoji" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages">atom/CONTRIBUTING.md at master · atom/atom</a></li>
+<li><a href="https://github.com/dannyfritz/commit-message-emoji">dannyfritz/commit-message-emoji: Every commit is important. So let's celebrate each and every commit with a corresponding emoji!</a></li>
+<li><a href="http://mzyy94.com/blog/2015/10/14/emoji-commit-message/">GitHubで絵文字コミットを続けてみて有用だったEmojiまとめ - 犬アイコンのみっきー</a></li>
+</ul>
+<h3 id="branch">branch<a class="headerlink" href="#branch" title="Permanent link">&para;</a></h3>
+<h4 id="45-qiita"><a href="http://qiita.com/yuichielectric/items/84cd61915a1236f19221">リモートで消されたブランチが手元で残ってしまう件を解消する - Qiita</a><a class="headerlink" href="#45-qiita" title="Permanent link">&para;</a></h4>
+<div class="codehilite"><pre><span></span>$ git remote prune origin
+</pre></div>
+
+<h3 id="git">Gitコミット時の名前とメールアドレス<a class="headerlink" href="#git" title="Permanent link">&para;</a></h3>
+<h4 id="_1">グローバル設定を変更する<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h4>
+<p><code>ホームディレクトリ/.gitconfig</code>で定義する情報を変更するコマンド
+<div class="codehilite"><pre><span></span>$ git config --global user.name <span class="s2">&quot;John Doe&quot;</span>
+$ git config --global user.email johndoe@example.com
+</pre></div></p>
+<h4 id="_2">ローカルリポジトリ設定を変更する<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h4>
+<p><code>リポジトリ/.git/config</code>で定義する情報を変更するコマンド
+<div class="codehilite"><pre><span></span>$ git config user.name <span class="s2">&quot;John Doe&quot;</span>
+$ git config user.email johndoe@example.com
+</pre></div>
+- <a href="http://y-ken.hatenablog.com/entry/git-commit-as-different-user">Gitコミットを任意の名前とメールアドレスで行うコマンド - Y-Ken Studio</a></p>
+<h4 id="direnv">direnv<a class="headerlink" href="#direnv" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://blog.manaten.net/entry/direnv_git_account">direnvを使って複数のgitコミッタ名を切り替える - MANA-DOT</a></li>
+</ul>
+<blockquote>
+<p>あるディレクトリに .envrc というファイルを置いておくと、そのディレクトリ以下に cd した時に .envrc の内容の環境変数が読み込まれるという代物です。</p>
+</blockquote>
+<h2 id="ssh">SSH認証キーの設定<a class="headerlink" href="#ssh" title="Permanent link">&para;</a></h2>
+<p>GitHubをサンプルとした、サービスごとに鍵を分ける例。パスフレーズなし。</p>
+<p><div class="codehilite"><pre><span></span>$ <span class="nb">cd</span> ~/.ssh
+</pre></div>
+<div class="codehilite"><pre><span></span>$ ssh-keygen -t rsa -C <span class="s2">&quot;sample@example.com&quot;</span>
+Generating public/private rsa key pair.
+Enter file in which to save the key <span class="o">(</span>/Users/Syon/.ssh/id_rsa<span class="o">)</span>:
+Enter passphrase <span class="o">(</span>empty <span class="k">for</span> no passphrase<span class="o">)</span>: &lt;ENTER&gt; ※パスフレーズなし
+Enter same passphrase again: &lt;ENTER&gt; ※パスフレーズなし
+</pre></div>
+<div class="codehilite"><pre><span></span>$ ls
+config          id_rsa          id_rsa.pub
+</pre></div>
+<div class="codehilite"><pre><span></span>$ chmod <span class="m">600</span> id_rsa
+</pre></div>
+<div class="codehilite"><pre><span></span>$ mv id_rsa github_rsa
+$ mv id_rsa.pub github_rsa.pub
+</pre></div>
+<div class="codehilite"><pre><span></span>$ ls
+config          github_rsa      github_rsa.pub
+</pre></div>
+<code>config</code>ファイルを編集
+<div class="codehilite"><pre><span></span>Host github.com
+  Hostname github.com
+  IdentityFile ~/.ssh/github_rsa
+  User git
+
+Host heroku.com
+  Hostname heroku.com
+  IdentityFile ~/.ssh/heroku_rsa
+  User git
+
+Host bitbucket.org
+  Hostname bitbucket.org
+  IdentityFile ~/.ssh/bitbucket_rsa
+  User git
+</pre></div>
+クリップボードに公開鍵コピー
+<div class="codehilite"><pre><span></span>$ pbcopy &lt; github_rsa.pub
+</pre></div></p>
+<p>GitHub サイトの設定で <code>Add SSH key</code> して公開鍵を設置
+- <a href="https://github.com/settings/ssh">https://github.com/settings/ssh</a></p>
+<p>接続確認
+<pre>
+$ ssh <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#105;&#116;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#46;&#99;&#111;&#109;">&#103;&#105;&#116;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#46;&#99;&#111;&#109;</a>
+PTY allocation request failed on channel 0
+Hi syon! You've successfully authenticated, but GitHub does not provide shell access.
+Connection to github.com closed.
+</pre>
+完了</p>
+<h4 id="cf">cf.<a class="headerlink" href="#cf" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://morizyun.github.io/blog/ssh-key-bitbucket-github/">SSH認証キー</a></li>
+<li><a href="http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github">SSHの公開鍵を作成しGithubに登録する手順 - mon_sat at Co-Edo</a></li>
+<li><a href="http://www.d-wood.com/blog/2013/08/29_4522.html">GitHub: SSH鍵認証しているはずなのにパスワードを求められるを解決する方法 | deadwood</a></li>
+</ul>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../FrontEndWorkflow/" title="FrontEndWorkflow" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  前
+                </span>
+                FrontEndWorkflow
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../GitHub/" title="GitHub" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  次
+                </span>
+                GitHub
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/syon" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/syonxv" class="md-footer-social__link fa fa-twitter"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.02434462.js"></script>
+      
+        
+        
+          
+          <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+                <script src="../assets/javascripts/lunr/tinyseg.js"></script>
+              
+              
+                <script src="../assets/javascripts/lunr/lunr.jp.js"></script>
+              
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      
+    
+    
+      
+        <script>!function(e,a,t,n,o,c,i){e.GoogleAnalyticsObject=o,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,c=a.createElement(t),i=a.getElementsByTagName(t)[0],c.async=1,c.src="https://www.google-analytics.com/analytics.js",i.parentNode.insertBefore(c,i)}(window,document,"script",0,"ga"),ga("create","UA-37634759-2","auto"),ga("set","anonymizeIp",!0),ga("send","pageview");var links=document.getElementsByTagName("a");if(Array.prototype.map.call(links,function(e){e.host!=document.location.host&&e.addEventListener("click",function(){var a=e.getAttribute("data-md-action")||"follow";ga("send","event","outbound",a,e.href)})}),document.forms.search){var query=document.forms.search.query;query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})}</script>
+      
+    
+  </body>
+</html>

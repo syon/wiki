@@ -1,0 +1,2702 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+        <link rel="canonical" href="https://syon.github.io/wiki/VBA/">
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="クリップボードへコピー">
+      
+        <meta name="lang:clipboard.copied" content="コピーしました">
+      
+        <meta name="lang:search.language" content="jp">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="何も見つかりませんでした">
+      
+        <meta name="lang:search.result.one" content="1件見つかりました">
+      
+        <meta name="lang:search.result.other" content="#件見つかりました">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-　、。，．]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.6.6">
+    
+    
+      
+        <title>VBA - syon/wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.78aab2dc.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.6079476c.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="white" data-md-color-accent="orange">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#subfunctionpublicprivate" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://syon.github.io/wiki" title="syon/wiki" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                syon/wiki
+              </span>
+              <span class="md-header-nav__topic">
+                VBA
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="検索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            検索キーワードを入力してください
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href=".." title="Index" class="md-tabs__link md-tabs__link--active">
+        Index
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Design/BusinessForm/" title="Design" class="md-tabs__link">
+          Design
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Life/BackUp/" title="Life" class="md-tabs__link">
+          Life
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Sound/Audio/" title="Sound" class="md-tabs__link">
+          Sound
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Windows/keyboard-shortcut/" title="Windows" class="md-tabs__link">
+          Windows
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    syon/wiki
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AWS/" title="Amazon Web Services" class="md-nav__link">
+      Amazon Web Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActionScript/" title="ActionScript" class="md-nav__link">
+      ActionScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActiveRecord/" title="ActiveRecord" class="md-nav__link">
+      ActiveRecord
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AngularJS/" title="AngularJS" class="md-nav__link">
+      AngularJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Arduino/" title="Arduino" class="md-nav__link">
+      Arduino
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AutoHotKey/" title="AutoHotKey" class="md-nav__link">
+      AutoHotKey
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bluetooth/" title="Bluetooth" class="md-nav__link">
+      Bluetooth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bookmarklet/" title="Bookmarklet" class="md-nav__link">
+      Bookmarklet
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Browser/" title="Browser" class="md-nav__link">
+      Browser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CI/" title="CI" class="md-nav__link">
+      CI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CSS/" title="CSS" class="md-nav__link">
+      CSS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CentOS/" title="CentOS" class="md-nav__link">
+      CentOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Chef/" title="Chef" class="md-nav__link">
+      Chef
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Code/" title="Code" class="md-nav__link">
+      Code
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Cygwin/" title="Cygwin" class="md-nav__link">
+      Cygwin
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../D3js/" title="D3.js" class="md-nav__link">
+      D3.js
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Electron/" title="Electron" class="md-nav__link">
+      Electron
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Elixir/" title="Elixir" class="md-nav__link">
+      Elixir
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Engineering/" title="Engineering" class="md-nav__link">
+      Engineering
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ErgoDox/" title="ErgoDox" class="md-nav__link">
+      ErgoDox
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Excel/" title="Excel" class="md-nav__link">
+      Excel
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../FrontEndWorkflow/" title="FrontEndWorkflow" class="md-nav__link">
+      FrontEndWorkflow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Git/" title="Git" class="md-nav__link">
+      Git
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../GitHub/" title="GitHub" class="md-nav__link">
+      GitHub
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Gollum/" title="Gollum" class="md-nav__link">
+      Gollum
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../HTML/" title="HTML" class="md-nav__link">
+      HTML
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Hardware/" title="Hardware" class="md-nav__link">
+      Hardware
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Heroku/" title="Heroku" class="md-nav__link">
+      Heroku
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ImageMagick/" title="ImageMagick" class="md-nav__link">
+      ImageMagick
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Framework/" title="JS Framework" class="md-nav__link">
+      JS Framework
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Library/" title="JS Library" class="md-nav__link">
+      JS Library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript-Legacy/" title="JavaScript Legacy" class="md-nav__link">
+      JavaScript Legacy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript/" title="JavaScript" class="md-nav__link">
+      JavaScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../LogManagement/" title="LogManagement" class="md-nav__link">
+      LogManagement
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Mac-App/" title="Mac App" class="md-nav__link">
+      Mac App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Management/" title="Management" class="md-nav__link">
+      Management
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Map/" title="Map" class="md-nav__link">
+      Map
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Middleman/" title="Middleman" class="md-nav__link">
+      Middleman
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../MongoDB/" title="MongoDB" class="md-nav__link">
+      MongoDB
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Network/" title="Network" class="md-nav__link">
+      Network
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../OSX/" title="OSX" class="md-nav__link">
+      OSX
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Office/" title="Office" class="md-nav__link">
+      Office
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Oracle/" title="Oracle" class="md-nav__link">
+      Oracle
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../PhantomJS/" title="PhantomJS" class="md-nav__link">
+      PhantomJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Phaser/" title="Phaser" class="md-nav__link">
+      Phaser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Polymer/" title="Polymer" class="md-nav__link">
+      Polymer
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Rails/" title="Rails" class="md-nav__link">
+      Rails
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../React/" title="React" class="md-nav__link">
+      React
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ReactNative/" title="ReactNative" class="md-nav__link">
+      ReactNative
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Redmine/" title="Redmine" class="md-nav__link">
+      Redmine
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../RegExp/" title="RegExp" class="md-nav__link">
+      RegExp
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby-Gem/" title="Ruby Gem" class="md-nav__link">
+      Ruby Gem
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby/" title="Ruby" class="md-nav__link">
+      Ruby
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SVG/" title="SVG" class="md-nav__link">
+      SVG
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sakura-Editor/" title="Sakura Editor" class="md-nav__link">
+      Sakura Editor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sass/" title="Sass" class="md-nav__link">
+      Sass
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Scala/" title="Scala" class="md-nav__link">
+      Scala
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Shell/" title="Shell" class="md-nav__link">
+      Shell
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sinatra/" title="Sinatra" class="md-nav__link">
+      Sinatra
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Static-Site-Generator/" title="Static Site Generator" class="md-nav__link">
+      Static Site Generator
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SublimeText/" title="SublimeText" class="md-nav__link">
+      SublimeText
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Swift/" title="Swift" class="md-nav__link">
+      Swift
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TextEditor/" title="TextEditor" class="md-nav__link">
+      TextEditor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ThinReports/" title="ThinReports" class="md-nav__link">
+      ThinReports
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Threejs/" title="Three.js" class="md-nav__link">
+      Three.js
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TwitterBootstrap/" title="TwitterBootstrap" class="md-nav__link">
+      TwitterBootstrap
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../UNIX-command/" title="UNIX command" class="md-nav__link">
+      UNIX command
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ubuntu/" title="Ubuntu" class="md-nav__link">
+      Ubuntu
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        VBA
+      </label>
+    
+    <a href="./" title="VBA" class="md-nav__link md-nav__link--active">
+      VBA
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#subfunctionpublicprivate" title="SubとFunctionの違いとPublicとPrivateの違い" class="md-nav__link">
+    SubとFunctionの違いとPublicとPrivateの違い
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="読み取り専用にする" class="md-nav__link">
+    読み取り専用にする
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="セル範囲に一括反映" class="md-nav__link">
+    セル範囲に一括反映
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#range" title="Rangeオブジェクト" class="md-nav__link">
+    Rangeオブジェクト
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#csv" title="CSV" class="md-nav__link">
+    CSV
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pdf" title="PDF" class="md-nav__link">
+    PDF
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pdf_1" title="PDF保存" class="md-nav__link">
+    PDF保存
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pdf_2" title="マクロでPDF出力" class="md-nav__link">
+    マクロでPDF出力
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pdf_3" title="PDFファイルの結合" class="md-nav__link">
+    PDFファイルの結合
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" title="参考" class="md-nav__link">
+    参考
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#json" title="JSON" class="md-nav__link">
+    JSON
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#web" title="Webサービス" class="md-nav__link">
+    Webサービス
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="シェイプ" class="md-nav__link">
+    シェイプ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" title="メモ" class="md-nav__link">
+    メモ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#addins" title="AddIns" class="md-nav__link">
+    AddIns
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../VBScript/" title="VBScript" class="md-nav__link">
+      VBScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vagrant/" title="Vagrant" class="md-nav__link">
+      Vagrant
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vim/" title="Vim" class="md-nav__link">
+      Vim
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vue/" title="Vue" class="md-nav__link">
+      Vue
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WIN32OLE/" title="WIN32OLE" class="md-nav__link">
+      WIN32OLE
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebAPI/" title="WebAPI" class="md-nav__link">
+      WebAPI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebArchitecture/" title="WebArchitecture" class="md-nav__link">
+      WebArchitecture
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebFrontEnd/" title="WebFrontEnd" class="md-nav__link">
+      WebFrontEnd
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebRTC/" title="WebRTC" class="md-nav__link">
+      WebRTC
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebSecurity/" title="WebSecurity" class="md-nav__link">
+      WebSecurity
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Win32API/" title="Win32API" class="md-nav__link">
+      Win32API
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows-dev/" title="Windows dev" class="md-nav__link">
+      Windows dev
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/" title="Windows" class="md-nav__link">
+      Windows
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows7-app/" title="Windows7 app" class="md-nav__link">
+      Windows7 app
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../apache-poi/" title="Apache poi" class="md-nav__link">
+      Apache poi
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../auth/" title="Auth" class="md-nav__link">
+      Auth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../chrome-extension/" title="Chrome extension" class="md-nav__link">
+      Chrome extension
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../command-prompt/" title="Command prompt" class="md-nav__link">
+      Command prompt
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../docker/" title="Docker" class="md-nav__link">
+      Docker
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../express/" title="Express" class="md-nav__link">
+      Express
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS-App/" title="iOS App" class="md-nav__link">
+      iOS App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS/" title="iOS" class="md-nav__link">
+      iOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../jQuery/" title="jQuery" class="md-nav__link">
+      jQuery
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java-library/" title="Java library" class="md-nav__link">
+      Java library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java/" title="Java" class="md-nav__link">
+      Java
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nginx/" title="Nginx" class="md-nav__link">
+      Nginx
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nodejs/" title="Nodejs" class="md-nav__link">
+      Nodejs
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../remarkable/" title="Remarkable" class="md-nav__link">
+      Remarkable
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../squid-proxy/" title="Squid proxy" class="md-nav__link">
+      Squid proxy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../test/" title="Test" class="md-nav__link">
+      Test
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../tmux/" title="Tmux" class="md-nav__link">
+      Tmux
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../zsh/" title="Zsh" class="md-nav__link">
+      Zsh
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-103" type="checkbox" id="nav-103">
+    
+    <label class="md-nav__link" for="nav-103">
+      Design
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-103">
+        Design
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/BusinessForm/" title="BusinessForm" class="md-nav__link">
+      BusinessForm
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Color/" title="Color" class="md-nav__link">
+      Color
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Creation/" title="Creation" class="md-nav__link">
+      Creation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Design/" title="Design" class="md-nav__link">
+      Design
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Font/" title="Font" class="md-nav__link">
+      Font
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Game/" title="Game" class="md-nav__link">
+      Game
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Photo/" title="Photo" class="md-nav__link">
+      Photo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/QuartzComposer/" title="QuartzComposer" class="md-nav__link">
+      QuartzComposer
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Sketch/" title="Sketch" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/UI/" title="UI" class="md-nav__link">
+      UI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Visualize/" title="Visualize" class="md-nav__link">
+      Visualize
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Wallpaper/" title="Wallpaper" class="md-nav__link">
+      Wallpaper
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/generator/" title="Generator" class="md-nav__link">
+      Generator
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-104" type="checkbox" id="nav-104">
+    
+    <label class="md-nav__link" for="nav-104">
+      Life
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-104">
+        Life
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/BackUp/" title="BackUp" class="md-nav__link">
+      BackUp
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Life/" title="Life" class="md-nav__link">
+      Life
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/MediaWiki/" title="MediaWiki" class="md-nav__link">
+      MediaWiki
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Seminar/" title="Seminar" class="md-nav__link">
+      Seminar
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/WebService/" title="WebService" class="md-nav__link">
+      WebService
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/ebook/" title="Ebook" class="md-nav__link">
+      Ebook
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/torne/" title="Torne" class="md-nav__link">
+      Torne
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-105" type="checkbox" id="nav-105">
+    
+    <label class="md-nav__link" for="nav-105">
+      Sound
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-105">
+        Sound
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Audio/" title="Audio" class="md-nav__link">
+      Audio
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/BGM/" title="BGM" class="md-nav__link">
+      BGM
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/MIDI/" title="MIDI" class="md-nav__link">
+      MIDI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Music/" title="Music" class="md-nav__link">
+      Music
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/SoundEffect/" title="SoundEffect" class="md-nav__link">
+      SoundEffect
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-106" type="checkbox" id="nav-106">
+    
+    <label class="md-nav__link" for="nav-106">
+      Windows
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-106">
+        Windows
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/keyboard-shortcut/" title="Keyboard shortcut" class="md-nav__link">
+      Keyboard shortcut
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/shell-cmd/" title="Shell cmd" class="md-nav__link">
+      Shell cmd
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#subfunctionpublicprivate" title="SubとFunctionの違いとPublicとPrivateの違い" class="md-nav__link">
+    SubとFunctionの違いとPublicとPrivateの違い
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="読み取り専用にする" class="md-nav__link">
+    読み取り専用にする
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="セル範囲に一括反映" class="md-nav__link">
+    セル範囲に一括反映
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#range" title="Rangeオブジェクト" class="md-nav__link">
+    Rangeオブジェクト
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#csv" title="CSV" class="md-nav__link">
+    CSV
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pdf" title="PDF" class="md-nav__link">
+    PDF
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pdf_1" title="PDF保存" class="md-nav__link">
+    PDF保存
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pdf_2" title="マクロでPDF出力" class="md-nav__link">
+    マクロでPDF出力
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pdf_3" title="PDFファイルの結合" class="md-nav__link">
+    PDFファイルの結合
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" title="参考" class="md-nav__link">
+    参考
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#json" title="JSON" class="md-nav__link">
+    JSON
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#web" title="Webサービス" class="md-nav__link">
+    Webサービス
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="シェイプ" class="md-nav__link">
+    シェイプ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" title="メモ" class="md-nav__link">
+    メモ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#addins" title="AddIns" class="md-nav__link">
+    AddIns
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/syon/wiki/edit/master/docs/VBA.md" title="編集" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                  <h1>VBA</h1>
+                
+                <h3 id="subfunctionpublicprivate">SubとFunctionの違いとPublicとPrivateの違い<a class="headerlink" href="#subfunctionpublicprivate" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://wada811.blogspot.com/2012/04/excelvbasubfunctionpublicprivate.html">[Excel][VBA]SubとFunctionの違いとPublicとPrivateの違い | DevAchieve</a></li>
+</ul>
+<table class="wikitable">
+<tr>
+  <th></th><th>マクロの実行</th><th>ユーザー定義関数</th><th>戻り値</th>
+</tr>
+<tr>
+  <th>Sub</th><td>表示される</td><td>表示されない</td><td>返すことができない</td>
+</tr>
+<tr>
+  <th>Private Sub</th><td>表示されない</td><td>表示されない</td><td>返すことができない</td>
+</tr>
+<tr>
+  <th>Function</th><td>表示されない</td><td>表示される</td><td>返すことができる</td>
+</tr>
+<tr>
+  <th>Private Function</th><td>表示されない</td><td>表示されない</td><td>返すことができる</td>
+</tr>
+</table>
+
+<h3 id="_1">読み取り専用にする<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h3>
+<pre>
+    ActiveWorkbook.Saved = True
+    ActiveWorkbook.ChangeFileAccess Mode:=xlReadOnly
+    ActiveWorkbook.Saved = False
+</pre>
+
+<h3 id="_2">セル範囲に一括反映<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<pre>
+Sub RangePaste()
+    Dim rng As Variant    '型はRangeではなくVariant
+    rng = Range("A1:J30") 'Setは書かない
+
+    Dim i, j As Integer
+    For i = 1 To UBound(rng)
+        For j = 1 To 10
+            rng(i, j) = "abc"
+        Next
+    Next
+
+    Range("A1:J30") = rng '反映
+End Sub
+</pre>
+
+<h3 id="range">Rangeオブジェクト<a class="headerlink" href="#range" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://www.asahi-net.or.jp/~ef2o-inue/vba_k/sub04_070_10.html">VBA基本(RangeオブジェクトとRangeを返すプロパティ)</a>
+<pre>
+    Dim rng As Range
+    Set rng = Range(Cells(1, 1), Cells(5, 4))       'Cellsによる指定
+    Set rng = Range("A1").Resize(5, 4)              '開始セルの指定とリサイズ
+    Set rng = Range("A1").Resize(5, 4).Offset(1, 1) 'オフセット
+</pre></li>
+</ul>
+<h2 id="csv">CSV<a class="headerlink" href="#csv" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="http://jut.homeip.net/kata/excelcsv/excelcsv.htm">EXCELでCSVファイルの入出力</a><br />
+  マクロ本体もダウンロードできる</p>
+</li>
+<li>
+<p><a href="http://hirz.s100.xrea.com/doc/excelcsv.html">MS Excel のCSV読み込み不具合対策</a><br />
+  標準書式での読込を回避し、CSVの全項目を文字列として読み込むマクロ</p>
+</li>
+<li>
+<p><a href="https://gist.github.com/syon/f16494c9cca2a9893a9a">Excel2Csv</a></p>
+</li>
+</ul>
+<h2 id="pdf">PDF<a class="headerlink" href="#pdf" title="Permanent link">&para;</a></h2>
+<h3 id="pdf_1">PDF保存<a class="headerlink" href="#pdf_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p><a href="http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=4d951911-3e7e-4ae6-b059-a2e79ed87041&amp;displaylang=ja">2007 Microsoft Office プログラム用 Microsoft PDF/XPS 保存アドイン</a></p>
+</li>
+<li>
+<p><a href="http://goo.gl/G3ueN">Office2007以降</a><br />
+  “Office2007には、PDFやXPSファイルへ変換するためのアドインが提供されていますし、Office2010からは標準でそう言った機能を持っていますが、
+残念ながらOffice2003までにはそうした機能がありません。”</p>
+</li>
+</ul>
+<h3 id="pdf_2">マクロでPDF出力<a class="headerlink" href="#pdf_2" title="Permanent link">&para;</a></h3>
+<p>「Microsoft PDF/XPS 保存アドイン」を使って、マクロ記録でコード生成してみる。</p>
+<pre>
+Sub PdfFileOut()
+    ActiveSheet.ExportAsFixedFormat Type:=xlTypePDF, Filename:= _
+        "C:\Temp\hoge.pdf", Quality:=xlQualityStandard, IncludeDocProperties:=True _
+        , IgnorePrintAreas:=False, OpenAfterPublish:=False
+End Sub
+</pre>
+
+<h3 id="pdf_3">PDFファイルの結合<a class="headerlink" href="#pdf_3" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://d.hatena.ne.jp/gzutetsu/20100703/p1">バッチコマンドから“pdftk”(PDFツールキット)でpdfファイルを結合</a></li>
+</ul>
+<pre>
+pdftk *.pdf cat output hoge.pdf
+</pre>
+
+<h3 id="_3">参考<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://pdf-file.nnn2.com/">VBA(Excel)からAcrobat経由でPDFをプログラミング操作(OLE:IAC)する</a></li>
+<li><a href="http://homepage2.nifty.com/nonnon/SoftSample/VB.NET/SamplePdfConcat.html">NonSoft - PDFファイルを結合するサンプル(VB.NET)</a></li>
+<li><a href="http://d.hatena.ne.jp/gzutetsu/20100703/p1">pdftk（pdfツールキット）でpdfファイルを結合 - グズてつのぼやき</a></li>
+<li><a href="http://okwave.jp/qa/q3415031.html">エクセルのマクロでPDFファイルを印刷 | Office系ソフトのQ&amp;A【OKWave】</a></li>
+<li><a href="http://okwave.jp/qa/q194124.html">VBでPDFファイルを編集する | Visual BasicのQ&amp;A【OKWave】</a></li>
+<li><a href="http://www.atmarkit.co.jp/ait/articles/1408/21/news103.html">テストエビデンス取得自動化の秘技（前編）：Selenium VBAを使って自動でブラウザーを操作してスクショをExcelに張り付けてみた (&frac14;) - ＠IT</a></li>
+</ul>
+<h2 id="json">JSON<a class="headerlink" href="#json" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://javascript.dohow.jp/advance/jsonvba.shtml">VBAでJSONを扱う</a></li>
+<li><a href="http://blog.goo.ne.jp/xmldtp/e/c7e3c3631d31206f818b30276d0f3091">Excel VBAで、REST(JSON)データ取得 - ウィリアムのいたずらの開発日記</a></li>
+<li><a href="https://github.com/VBA-tools/VBA-Web">VBA-tools/VBA-Web</a></li>
+</ul>
+<h2 id="web">Webサービス<a class="headerlink" href="#web" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://news.mynavi.jp/articles/2011/09/16/excelweb/index.html">【ハウツー】Excel VBAでWebサービス - ExcelでTwitterと連携する (1) OAuth認証について | パソコン | マイナビニュース</a></li>
+</ul>
+<h2 id="_4">シェイプ<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://oshiete.goo.ne.jp/qa/4251853.html">マクロの登録を使って、オートシェイプどうしをカギ線矢印コネクタでつなぐ - Visual Basic - 教えて！goo</a></li>
+</ul>
+<h2 id="_5">メモ<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://www.asahi-net.or.jp/~ef2o-inue/vba_o/sub05_110_040.html">VBA応用(テキストデータの書き出し)</a></li>
+<li><a href="http://javasystem.blog4.fc2.com/blog-entry-433.html">あるシステム屋による開発の記録　Excel VBAで可変長リスト(Collection)を使用する</a></li>
+<li><a href="http://oshiete.goo.ne.jp/qa/3480695.html">VBAマクロでCSV出力 - Visual Basic - 教えて！goo</a></li>
+<li><a href="http://d.hatena.ne.jp/nacookan/20080221/1203607060">FileSystemObjectの使い方まとめ - 今日覚えたこと</a><br />
+  "あらかじめ参照設定に「Microsoft Scripting Runtime」を追加しておく。参照設定は、VB6なら「プロジェクト」メニュー、VBAなら「ツール」メニューにある。"</li>
+<li><a href="http://support.microsoft.com/kb/213428/ja">Excel でブックを閉じるときに表示される "変更を保存しますか?" というメッセージを非表示にする方法</a></li>
+<li><a href="http://ameblo.jp/make-excel/entry-11130039687.html">Rangeのプロパティ｜Excelすごい改善 すごいエクセル</a></li>
+<li><a href="http://www.ken3.org/vba/backno/vba102.html">三流君VBA:Excel 範囲を選択して、カンマ区切りのファイルを作る</a></li>
+<li><a href="http://news.mynavi.jp/articles/2012/04/24/excelvba/index.html">【ハウツー】 Excel VBAでWebサービス - ExcelでGoogleマップを表示しよう (1) はじめに | パソコン | マイナビニュース</a></li>
+<li><a href="http://q.hatena.ne.jp/1171778340">「EXCEL VBA」を使って、「Google（http://www.google.co.jp/）.. - 人力検索はてな</a></li>
+<li><a href="http://www.eurus.dti.ne.jp/yoneyama/Excel/vba/vba_comment.html">Excel(エクセル)VBA入門：セルにコメントを付ける</a></li>
+<li><a href="http://www.relief.jp/itnote/archives/000960.php">シート名一覧を作成したい:Excel VBA・エクセルマクロのサンプル</a></li>
+</ul>
+<h2 id="addins">AddIns<a class="headerlink" href="#addins" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://moondoldo.com/DoldoWorkz/?Excel%E3%83%9E%E3%82%AF%E3%83%AD%2F%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E8%89%B2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88">Excelマクロ/クラシック色カラーパレット - DoldoWorkz</a></li>
+<li><a href="https://sites.google.com/site/mznetlab/home/officedev">MS Office 関係 - HARD DAY'S NIGHT</a></li>
+<li><a href="http://blogs.yahoo.co.jp/gogowaten/folder/524997.html">エクセルExcel2007 - 詳細表示 - 午後わてんのブログ - Yahoo!ブログ</a></li>
+<li><a href="http://excelfrome.co.uk/2014/06/hello-world/">Creating right click menu for an Excel 2007 &amp; 2010 Add in - Excel Frome</a></li>
+<li><a href="http://qiita.com/tomochan154/items/3614b6f3ebc9ef947719">Excel のリボンUIを業務アプリとして使う - Qiita</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZfO3a3abB0k">Excel アドイン用のリボンを作成する - YouTube</a></li>
+<li><a href="https://ameblo.jp/yoshihirow/entry-12024533250.html">VBA リボンの追加に挑戦｜ろっひー</a></li>
+<li><a href="https://www.ka-net.org/blog/?p=8945">Custom UI Editorの最新版がGitHubで公開されました。 | 初心者備忘録</a></li>
+<li><a href="https://github.com/OfficeDev/office-custom-ui-editor">OfficeDev/office-custom-ui-editor: Standalone tool to edit custom UI part of Office open document file format</a></li>
+<li><a href="https://qiita.com/jp7eph/items/c8bf16b644dee82f9bfe">VBAをリボンUIに追加する（インストーラー付き） - Qiita</a></li>
+<li><a href="http://labs.septeni.co.jp/entry/20140709/1404839264">Excelアドインを作ろう！ - Septeni Engineer's Blog</a></li>
+</ul>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../Ubuntu/" title="Ubuntu" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  前
+                </span>
+                Ubuntu
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../VBScript/" title="VBScript" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  次
+                </span>
+                VBScript
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/syon" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/syonxv" class="md-footer-social__link fa fa-twitter"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.02434462.js"></script>
+      
+        
+        
+          
+          <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+                <script src="../assets/javascripts/lunr/tinyseg.js"></script>
+              
+              
+                <script src="../assets/javascripts/lunr/lunr.jp.js"></script>
+              
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      
+    
+    
+      
+        <script>!function(e,a,t,n,o,c,i){e.GoogleAnalyticsObject=o,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,c=a.createElement(t),i=a.getElementsByTagName(t)[0],c.async=1,c.src="https://www.google-analytics.com/analytics.js",i.parentNode.insertBefore(c,i)}(window,document,"script",0,"ga"),ga("create","UA-37634759-2","auto"),ga("set","anonymizeIp",!0),ga("send","pageview");var links=document.getElementsByTagName("a");if(Array.prototype.map.call(links,function(e){e.host!=document.location.host&&e.addEventListener("click",function(){var a=e.getAttribute("data-md-action")||"follow";ga("send","event","outbound",a,e.href)})}),document.forms.search){var query=document.forms.search.query;query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})}</script>
+      
+    
+  </body>
+</html>

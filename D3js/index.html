@@ -1,0 +1,2927 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+        <link rel="canonical" href="https://syon.github.io/wiki/D3js/">
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="クリップボードへコピー">
+      
+        <meta name="lang:clipboard.copied" content="コピーしました">
+      
+        <meta name="lang:search.language" content="jp">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="何も見つかりませんでした">
+      
+        <meta name="lang:search.result.one" content="1件見つかりました">
+      
+        <meta name="lang:search.result.other" content="#件見つかりました">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-　、。，．]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.6.6">
+    
+    
+      
+        <title>D3.js - syon/wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.78aab2dc.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.6079476c.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="white" data-md-color-accent="orange">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#d3js" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://syon.github.io/wiki" title="syon/wiki" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                syon/wiki
+              </span>
+              <span class="md-header-nav__topic">
+                D3.js
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="検索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            検索キーワードを入力してください
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href=".." title="Index" class="md-tabs__link md-tabs__link--active">
+        Index
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Design/BusinessForm/" title="Design" class="md-tabs__link">
+          Design
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Life/BackUp/" title="Life" class="md-tabs__link">
+          Life
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Sound/Audio/" title="Sound" class="md-tabs__link">
+          Sound
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Windows/keyboard-shortcut/" title="Windows" class="md-tabs__link">
+          Windows
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    syon/wiki
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/syon/wiki/" title="リポジトリへ" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      syon/wiki
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AWS/" title="Amazon Web Services" class="md-nav__link">
+      Amazon Web Services
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActionScript/" title="ActionScript" class="md-nav__link">
+      ActionScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ActiveRecord/" title="ActiveRecord" class="md-nav__link">
+      ActiveRecord
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AngularJS/" title="AngularJS" class="md-nav__link">
+      AngularJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Arduino/" title="Arduino" class="md-nav__link">
+      Arduino
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../AutoHotKey/" title="AutoHotKey" class="md-nav__link">
+      AutoHotKey
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bluetooth/" title="Bluetooth" class="md-nav__link">
+      Bluetooth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Bookmarklet/" title="Bookmarklet" class="md-nav__link">
+      Bookmarklet
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Browser/" title="Browser" class="md-nav__link">
+      Browser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CI/" title="CI" class="md-nav__link">
+      CI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CSS/" title="CSS" class="md-nav__link">
+      CSS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../CentOS/" title="CentOS" class="md-nav__link">
+      CentOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Chef/" title="Chef" class="md-nav__link">
+      Chef
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Code/" title="Code" class="md-nav__link">
+      Code
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Cygwin/" title="Cygwin" class="md-nav__link">
+      Cygwin
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        D3.js
+      </label>
+    
+    <a href="./" title="D3.js" class="md-nav__link md-nav__link--active">
+      D3.js
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#d3js-wrapper-library" title="D3.js Wrapper Library" class="md-nav__link">
+    D3.js Wrapper Library
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tools" title="Tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#articles" title="articles" class="md-nav__link">
+    articles
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-visualization-tools" title="Other Visualization Tools" class="md-nav__link">
+    Other Visualization Tools
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#visualize" title="→ Visualize" class="md-nav__link">
+    → Visualize
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-d3js" title="Learning D3.js" class="md-nav__link">
+    Learning D3.js
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reference" title="Reference" class="md-nav__link">
+    Reference
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#svg" title="SVG" class="md-nav__link">
+    SVG
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#svg-scalable-vector-graphics" title="→ SVG (Scalable Vector Graphics)" class="md-nav__link">
+    → SVG (Scalable Vector Graphics)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="参考リンク" class="md-nav__link">
+    参考リンク
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#technitoyoncom" title="tech.nitoyon.com" class="md-nav__link">
+    tech.nitoyon.com
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gunma-gis-geek" title="GUNMA GIS GEEK" class="md-nav__link">
+    GUNMA GIS GEEK
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calendar-heat-map" title="Calendar Heat map" class="md-nav__link">
+    Calendar Heat map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="レーダーチャート" class="md-nav__link">
+    レーダーチャート
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gallery" title="Gallery" class="md-nav__link">
+    Gallery
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#favorite" title="Favorite" class="md-nav__link">
+    Favorite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="データ" class="md-nav__link">
+    データ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="地図" class="md-nav__link">
+    地図
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3d" title="3D" class="md-nav__link">
+    3D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="TIPS" class="md-nav__link">
+    TIPS
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" title="ファイル出力" class="md-nav__link">
+    ファイル出力
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#excel" title="Excel" class="md-nav__link">
+    Excel
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Electron/" title="Electron" class="md-nav__link">
+      Electron
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Elixir/" title="Elixir" class="md-nav__link">
+      Elixir
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Engineering/" title="Engineering" class="md-nav__link">
+      Engineering
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ErgoDox/" title="ErgoDox" class="md-nav__link">
+      ErgoDox
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Excel/" title="Excel" class="md-nav__link">
+      Excel
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../FrontEndWorkflow/" title="FrontEndWorkflow" class="md-nav__link">
+      FrontEndWorkflow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Git/" title="Git" class="md-nav__link">
+      Git
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../GitHub/" title="GitHub" class="md-nav__link">
+      GitHub
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Gollum/" title="Gollum" class="md-nav__link">
+      Gollum
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../HTML/" title="HTML" class="md-nav__link">
+      HTML
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Hardware/" title="Hardware" class="md-nav__link">
+      Hardware
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Heroku/" title="Heroku" class="md-nav__link">
+      Heroku
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ImageMagick/" title="ImageMagick" class="md-nav__link">
+      ImageMagick
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Framework/" title="JS Framework" class="md-nav__link">
+      JS Framework
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JS-Library/" title="JS Library" class="md-nav__link">
+      JS Library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript-Legacy/" title="JavaScript Legacy" class="md-nav__link">
+      JavaScript Legacy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../JavaScript/" title="JavaScript" class="md-nav__link">
+      JavaScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../LogManagement/" title="LogManagement" class="md-nav__link">
+      LogManagement
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Mac-App/" title="Mac App" class="md-nav__link">
+      Mac App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Management/" title="Management" class="md-nav__link">
+      Management
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Map/" title="Map" class="md-nav__link">
+      Map
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Middleman/" title="Middleman" class="md-nav__link">
+      Middleman
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../MongoDB/" title="MongoDB" class="md-nav__link">
+      MongoDB
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Network/" title="Network" class="md-nav__link">
+      Network
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../OSX/" title="OSX" class="md-nav__link">
+      OSX
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Office/" title="Office" class="md-nav__link">
+      Office
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Oracle/" title="Oracle" class="md-nav__link">
+      Oracle
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../PhantomJS/" title="PhantomJS" class="md-nav__link">
+      PhantomJS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Phaser/" title="Phaser" class="md-nav__link">
+      Phaser
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Polymer/" title="Polymer" class="md-nav__link">
+      Polymer
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Rails/" title="Rails" class="md-nav__link">
+      Rails
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../React/" title="React" class="md-nav__link">
+      React
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ReactNative/" title="ReactNative" class="md-nav__link">
+      ReactNative
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Redmine/" title="Redmine" class="md-nav__link">
+      Redmine
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../RegExp/" title="RegExp" class="md-nav__link">
+      RegExp
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby-Gem/" title="Ruby Gem" class="md-nav__link">
+      Ruby Gem
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ruby/" title="Ruby" class="md-nav__link">
+      Ruby
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SVG/" title="SVG" class="md-nav__link">
+      SVG
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sakura-Editor/" title="Sakura Editor" class="md-nav__link">
+      Sakura Editor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sass/" title="Sass" class="md-nav__link">
+      Sass
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Scala/" title="Scala" class="md-nav__link">
+      Scala
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Shell/" title="Shell" class="md-nav__link">
+      Shell
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Sinatra/" title="Sinatra" class="md-nav__link">
+      Sinatra
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Static-Site-Generator/" title="Static Site Generator" class="md-nav__link">
+      Static Site Generator
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../SublimeText/" title="SublimeText" class="md-nav__link">
+      SublimeText
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Swift/" title="Swift" class="md-nav__link">
+      Swift
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TextEditor/" title="TextEditor" class="md-nav__link">
+      TextEditor
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ThinReports/" title="ThinReports" class="md-nav__link">
+      ThinReports
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Threejs/" title="Threejs" class="md-nav__link">
+      Threejs
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../TwitterBootstrap/" title="TwitterBootstrap" class="md-nav__link">
+      TwitterBootstrap
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../UNIX-command/" title="UNIX command" class="md-nav__link">
+      UNIX command
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Ubuntu/" title="Ubuntu" class="md-nav__link">
+      Ubuntu
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../VBA/" title="VBA" class="md-nav__link">
+      VBA
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../VBScript/" title="VBScript" class="md-nav__link">
+      VBScript
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vagrant/" title="Vagrant" class="md-nav__link">
+      Vagrant
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vim/" title="Vim" class="md-nav__link">
+      Vim
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Vue/" title="Vue" class="md-nav__link">
+      Vue
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WIN32OLE/" title="WIN32OLE" class="md-nav__link">
+      WIN32OLE
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebAPI/" title="WebAPI" class="md-nav__link">
+      WebAPI
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebArchitecture/" title="WebArchitecture" class="md-nav__link">
+      WebArchitecture
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebFrontEnd/" title="WebFrontEnd" class="md-nav__link">
+      WebFrontEnd
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebRTC/" title="WebRTC" class="md-nav__link">
+      WebRTC
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../WebSecurity/" title="WebSecurity" class="md-nav__link">
+      WebSecurity
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Win32API/" title="Win32API" class="md-nav__link">
+      Win32API
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows-dev/" title="Windows dev" class="md-nav__link">
+      Windows dev
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/" title="Windows" class="md-nav__link">
+      Windows
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Windows7-app/" title="Windows7 app" class="md-nav__link">
+      Windows7 app
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../apache-poi/" title="Apache poi" class="md-nav__link">
+      Apache poi
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../auth/" title="Auth" class="md-nav__link">
+      Auth
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../chrome-extension/" title="Chrome extension" class="md-nav__link">
+      Chrome extension
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../command-prompt/" title="Command prompt" class="md-nav__link">
+      Command prompt
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../docker/" title="Docker" class="md-nav__link">
+      Docker
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../express/" title="Express" class="md-nav__link">
+      Express
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS-App/" title="iOS App" class="md-nav__link">
+      iOS App
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../iOS/" title="iOS" class="md-nav__link">
+      iOS
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../jQuery/" title="jQuery" class="md-nav__link">
+      jQuery
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java-library/" title="Java library" class="md-nav__link">
+      Java library
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../java/" title="Java" class="md-nav__link">
+      Java
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nginx/" title="Nginx" class="md-nav__link">
+      Nginx
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../nodejs/" title="Nodejs" class="md-nav__link">
+      Nodejs
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../remarkable/" title="Remarkable" class="md-nav__link">
+      Remarkable
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../squid-proxy/" title="Squid proxy" class="md-nav__link">
+      Squid proxy
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../test/" title="Test" class="md-nav__link">
+      Test
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../tmux/" title="Tmux" class="md-nav__link">
+      Tmux
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../zsh/" title="Zsh" class="md-nav__link">
+      Zsh
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-103" type="checkbox" id="nav-103">
+    
+    <label class="md-nav__link" for="nav-103">
+      Design
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-103">
+        Design
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/BusinessForm/" title="BusinessForm" class="md-nav__link">
+      BusinessForm
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Color/" title="Color" class="md-nav__link">
+      Color
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Creation/" title="Creation" class="md-nav__link">
+      Creation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Design/" title="Design" class="md-nav__link">
+      Design
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Font/" title="Font" class="md-nav__link">
+      Font
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Game/" title="Game" class="md-nav__link">
+      Game
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Photo/" title="Photo" class="md-nav__link">
+      Photo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/QuartzComposer/" title="QuartzComposer" class="md-nav__link">
+      QuartzComposer
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Sketch/" title="Sketch" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/UI/" title="UI" class="md-nav__link">
+      UI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Visualize/" title="Visualize" class="md-nav__link">
+      Visualize
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/Wallpaper/" title="Wallpaper" class="md-nav__link">
+      Wallpaper
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Design/generator/" title="Generator" class="md-nav__link">
+      Generator
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-104" type="checkbox" id="nav-104">
+    
+    <label class="md-nav__link" for="nav-104">
+      Life
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-104">
+        Life
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/BackUp/" title="BackUp" class="md-nav__link">
+      BackUp
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Life/" title="Life" class="md-nav__link">
+      Life
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/MediaWiki/" title="MediaWiki" class="md-nav__link">
+      MediaWiki
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/Seminar/" title="Seminar" class="md-nav__link">
+      Seminar
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/WebService/" title="WebService" class="md-nav__link">
+      WebService
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/ebook/" title="Ebook" class="md-nav__link">
+      Ebook
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Life/torne/" title="Torne" class="md-nav__link">
+      Torne
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-105" type="checkbox" id="nav-105">
+    
+    <label class="md-nav__link" for="nav-105">
+      Sound
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-105">
+        Sound
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Audio/" title="Audio" class="md-nav__link">
+      Audio
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/BGM/" title="BGM" class="md-nav__link">
+      BGM
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/MIDI/" title="MIDI" class="md-nav__link">
+      MIDI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/Music/" title="Music" class="md-nav__link">
+      Music
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Sound/SoundEffect/" title="SoundEffect" class="md-nav__link">
+      SoundEffect
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-106" type="checkbox" id="nav-106">
+    
+    <label class="md-nav__link" for="nav-106">
+      Windows
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-106">
+        Windows
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/keyboard-shortcut/" title="Keyboard shortcut" class="md-nav__link">
+      Keyboard shortcut
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Windows/shell-cmd/" title="Shell cmd" class="md-nav__link">
+      Shell cmd
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">目次</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#d3js-wrapper-library" title="D3.js Wrapper Library" class="md-nav__link">
+    D3.js Wrapper Library
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tools" title="Tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#articles" title="articles" class="md-nav__link">
+    articles
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-visualization-tools" title="Other Visualization Tools" class="md-nav__link">
+    Other Visualization Tools
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#visualize" title="→ Visualize" class="md-nav__link">
+    → Visualize
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-d3js" title="Learning D3.js" class="md-nav__link">
+    Learning D3.js
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reference" title="Reference" class="md-nav__link">
+    Reference
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#svg" title="SVG" class="md-nav__link">
+    SVG
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#svg-scalable-vector-graphics" title="→ SVG (Scalable Vector Graphics)" class="md-nav__link">
+    → SVG (Scalable Vector Graphics)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="参考リンク" class="md-nav__link">
+    参考リンク
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#technitoyoncom" title="tech.nitoyon.com" class="md-nav__link">
+    tech.nitoyon.com
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gunma-gis-geek" title="GUNMA GIS GEEK" class="md-nav__link">
+    GUNMA GIS GEEK
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calendar-heat-map" title="Calendar Heat map" class="md-nav__link">
+    Calendar Heat map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="レーダーチャート" class="md-nav__link">
+    レーダーチャート
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gallery" title="Gallery" class="md-nav__link">
+    Gallery
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#favorite" title="Favorite" class="md-nav__link">
+    Favorite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="データ" class="md-nav__link">
+    データ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="地図" class="md-nav__link">
+    地図
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3d" title="3D" class="md-nav__link">
+    3D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="TIPS" class="md-nav__link">
+    TIPS
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" title="ファイル出力" class="md-nav__link">
+    ファイル出力
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#excel" title="Excel" class="md-nav__link">
+    Excel
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/syon/wiki/edit/master/docs/D3js.md" title="編集" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="d3js">D3.js<a class="headerlink" href="#d3js" title="Permanent link">&para;</a></h1>
+<p><a href="https://d3js.org/">D3.js - Data-Driven Documents</a></p>
+<p><img alt="D3.js" src="../img/d3js.png" /></p>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://blog.btrax.com/jp/2013/01/17/data-design-d3/">ニューヨークタイムズも注目！「データ×デザイン」を実現するJavascriptライブラリ「d3.js」</a></li>
+<li><a href="http://gigazine.net/news/20130121-data-design-d3js/">データを分かりやすくスタイリッシュに可視化できるJavascriptライブラリ「D3.js」 - GIGAZINE</a></li>
+</ul>
+<h2 id="d3js-wrapper-library">D3.js Wrapper Library<a class="headerlink" href="#d3js-wrapper-library" title="Permanent link">&para;</a></h2>
+<dl>
+<dt><a href="https://plot.ly/">Plotly</a></dt>
+<dd>Plotly is the modern platform for agile business intelligence and data science.
+- <a href="https://github.com/plotly">https://github.com/plotly</a></dd>
+<dt><a href="http://dc-js.github.io/dc.js/">dc.js</a></dt>
+<dd>Dimensional Charting Javascript Library
+- <a href="https://github.com/dc-js/dc.js">https://github.com/dc-js/dc.js</a></dd>
+<dt><a href="http://c3js.org/">C3.js</a></dt>
+<dd>D3-based reusable chart library
+- <a href="https://github.com/c3js/c3">https://github.com/c3js/c3</a></dd>
+<dt><a href="http://nvd3.org/">NVD3</a></dt>
+<dd>A reusable charting library written in d3.js
+- <a href="https://github.com/novus/nvd3">https://github.com/novus/nvd3</a></dd>
+<dt><a href="http://csnw.github.io/d3.compose/">d3.compose</a></dt>
+<dd>Compose complex, data-driven visualizations from reusable charts and components with d3
+- <a href="https://github.com/CSNW/d3.compose">https://github.com/CSNW/d3.compose</a></dd>
+<dt><a href="http://misoproject.com/d3-chart/">d3.chart</a></dt>
+<dd>d3.chart is a framework for building reusable charts with d3.js.
+- <a href="https://github.com/misoproject/d3.chart">https://github.com/misoproject/d3.chart</a></dd>
+<dt><a href="https://www.taucharts.com/">Taucharts</a></dt>
+<dd>flexible javascript charting library for data exploration
+- <a href="https://github.com/TargetProcess/tauCharts">https://github.com/TargetProcess/tauCharts</a></dd>
+<dt><a href="http://code.shutterstock.com/rickshaw/">Rickshaw</a></dt>
+<dd>A JavaScript toolkit for creating interactive time-series graphs
+- <a href="https://github.com/shutterstock/rickshaw">https://github.com/shutterstock/rickshaw</a></dd>
+<dt><a href="https://d3fc.io/images/logo.svg">d3fc</a></dt>
+<dd>A collection of components that make it easy to build interactive charts with D3.
+- <a href="https://github.com/ScottLogic/d3fc">https://github.com/ScottLogic/d3fc</a></dd>
+<dt><a href="http://recharts.org/#/en-US/">Recharts</a></dt>
+<dd>A composable charting library built on React components</dd>
+<dt><a href="http://www.reactd3.org/">React-D3</a></dt>
+<dd>A Javascript Library For Building Composable And Declarative Charts</dd>
+</dl>
+<h3 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h3>
+<dl>
+<dt><a href="http://colorbrewer2.org/">ColorBrewer</a></dt>
+<dd>Color Advice for Maps
+- <a href="https://bl.ocks.org/mbostock/5577023">Every ColorBrewer Scale - bl.ocks.org</a></dd>
+</dl>
+<h4 id="articles">articles<a class="headerlink" href="#articles" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://matome.naver.jp/odai/2138966107937611601">D3.js ver.3 Wrapper Library - NAVER まとめ</a></li>
+<li><a href="http://data-analytics.github.io/">Data Analytics and Visualisation</a></li>
+</ul>
+<h2 id="other-visualization-tools">Other Visualization Tools<a class="headerlink" href="#other-visualization-tools" title="Permanent link">&para;</a></h2>
+<h4 id="visualize">→ <strong><a href="../visualize/">Visualize</a></strong><a class="headerlink" href="#visualize" title="Permanent link">&para;</a></h4>
+<h2 id="learning-d3js">Learning D3.js<a class="headerlink" href="#learning-d3js" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://www.dashingd3js.com/svg-paths-and-d3js">SVG Paths and D3.js | DashingD3js.com</a></li>
+<li><a href="http://ja.d3js.info/alignedleft/tutorials/d3/">D3 入門 | スコット・マレイ | alignedleft</a></li>
+</ul>
+<blockquote>
+<ul>
+<li>D3 は引数の中に関数を発見すると、その関数を呼びだすと同時に、現在のデータセットの値をその引数に渡します</li>
+<li>重要なことは、データが視覚化を制御しているということです。決してその逆ではありません
+<img alt="D3.js" src="../img/d3js_scale.png" /></li>
+</ul>
+</blockquote>
+<ul>
+<li><a href="http://shimz.me/blog/d3-js/4554">2015年までに発売されたD3.js参考書をまとめてみた。 | #GUNMAGISGEEK</a></li>
+<li><a href="http://qiita.com/itagakishintaro/items/51c89fe7e14702cb98e6">jQueryのあれ、D3.jsでどうやるの？<span><span class="MathJax_Preview">または、その逆</span><script type="math/tex">または、その逆</script></span> - Qiita</a></li>
+</ul>
+<h2 id="reference">Reference<a class="headerlink" href="#reference" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/mbostock/d3/wiki/API-Reference">API Reference · mbostock/d3 Wiki</a></li>
+</ul>
+<h2 id="svg">SVG<a class="headerlink" href="#svg" title="Permanent link">&para;</a></h2>
+<h4 id="svg-scalable-vector-graphics">→ <strong><a href="../SVG/">SVG (Scalable Vector Graphics)</a></strong><a class="headerlink" href="#svg-scalable-vector-graphics" title="Permanent link">&para;</a></h4>
+<h2 id="_1">参考リンク<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://dotinstall.com/lessons/basic_d3js">D3.js入門 (全17回) - プログラミングならドットインストール</a></li>
+<li><a href="http://dev.classmethod.jp/ria/d3js/">D3.jsで始めるData-Drivenなページ作成 ｜ Developers.IO</a></li>
+<li><a href="http://alignedleft.com/tutorials/d3/axes/">Axes — Scott Murray — alignedleft</a><ul>
+<li>軸ラベルのフォーマット xAxis.tickFormat(formatAsPercentage);</li>
+</ul>
+</li>
+<li><a href="http://www.adventar.org/calendars/117">d3.js Advent Calendar 2013 - Adventar</a></li>
+<li><a href="http://mizchi.hatenablog.com/entry/2014/03/02/171849">2時間縛りでd3.js挑戦してみた - mizchi's blog</a></li>
+<li><a href="http://antibayesian.hateblo.jp/entry/2014/02/16/235830">エンジニアのためのデータ可視化実践入門という本を書いた - あんちべ！</a></li>
+<li><a href="http://mariyudu.hatenablog.com/entry/2015/08/30/214046">D3.js でローソク足チャート描くなら TechanJS がイイ！(かもしんない) - 私と私の猫の他は誰でも隠し事を持っている</a></li>
+</ul>
+<h4 id="technitoyoncom">tech.nitoyon.com<a class="headerlink" href="#technitoyoncom" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/">D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ</a></li>
+<li><a href="http://tech.nitoyon.com/ja/blog/2013/10/29/d3js-svg-line/">D3.js の d3.svg.line() を試してみた - てっく煮ブログ</a></li>
+<li><a href="http://tech.nitoyon.com/ja/blog/2013/11/07/k-means/">K-means 法を D3.js でビジュアライズしてみた - てっく煮ブログ</a></li>
+<li><a href="http://tech.nitoyon.com/ja/blog/2013/12/13/touch-viewer/">タッチ操作に対応した画像ビューワーをJavaScriptで作るならD3.jsが便利 - てっく煮ブログ</a></li>
+<li><a href="http://tech.nitoyon.com/ja/blog/2014/04/02/d3-event-dispatch/">D3.js で自作クラスにイベント発行機能を追加する - てっく煮ブログ</a></li>
+</ul>
+<h4 id="gunma-gis-geek">GUNMA GIS GEEK<a class="headerlink" href="#gunma-gis-geek" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://matome.naver.jp/odai/2135289597995104801">データビジュアライゼーション（D3.js）を学ぶための教材まとめ - NAVER まとめ</a></li>
+<li><a href="http://matome.naver.jp/odai/2138966107937611601">D3.js Wrapper Library - NAVER まとめ</a></li>
+<li><a href="http://matome.naver.jp/odai/2138966193538794601">D3.js プラグインまとめ - NAVER まとめ</a></li>
+<li><a href="http://shimz.me/blog/d3-js/4100">【D3.js】トランジション終了時にコールバックを呼ぶ | #GUNMAGISGEEK</a></li>
+</ul>
+<h3 id="calendar-heat-map">Calendar Heat map<a class="headerlink" href="#calendar-heat-map" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://kamisama.github.io/cal-heatmap/v2/">Cal-HeatMap : Calendar Heat map with d3.js</a></li>
+<li><a href="https://github.com/kamisama/cal-heatmap">kamisama/cal-heatmap · GitHub</a></li>
+<li><a href="http://shimz.me/blog/node-js/2975">【D3.js + node.js】 ブログのデータをGithub風のカレンダーに表示する | GUNMA GIS GEEK</a></li>
+<li><a href="http://bl.ocks.org/tjdecke/5558084">Day / Hour Heatmap</a></li>
+</ul>
+<h3 id="_2">レーダーチャート<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://www.larsko.org/v/euc/">Eurozone crisis</a></li>
+<li><a href="http://bl.ocks.org/nbremer/raw/6506614/">Radar chart</a><ul>
+<li><a href="https://gist.github.com/nbremer/6506614">D3.js - Radar Chart or Spider Chart - Adjusted from radar-chart-d3</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/alangrafu/radar-chart-d3">alangrafu/radar-chart-d3</a></li>
+</ul>
+<h2 id="gallery">Gallery<a class="headerlink" href="#gallery" title="Permanent link">&para;</a></h2>
+<p><img alt="D3.js" src="../img/d3js-blocks.png" /></p>
+<ul>
+<li><a href="https://github.com/mbostock/d3/wiki/Gallery">Gallery · mbostock/d3 Wiki</a></li>
+<li><a href="http://bl.ocks.org/mbostock">bl.ocks.org - mbostock</a></li>
+<li><a href="http://bost.ocks.org/mike/">Mike Bostock</a></li>
+<li><a href="https://music-timeline.appspot.com/">Music Timeline</a></li>
+</ul>
+<h4 id="favorite">Favorite<a class="headerlink" href="#favorite" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://bost.ocks.org/mike/miserables/">Les Misérables Co-occurrence</a></li>
+<li><a href="http://bl.ocks.org/mbostock/9377340">Radial Gradient</a></li>
+<li><a href="http://bl.ocks.org/mbostock/5577023">Every ColorBrewer Scale</a></li>
+<li><a href="http://sorting.at/">SORTING</a></li>
+<li><a href="http://gigazine.net/news/20140819-visualgo/">アルゴリズムとプログラミングをビジュアルで一挙に理解できる「VisuAlgo」 - GIGAZINE</a></li>
+<li><a href="http://www3.nhk.or.jp/news/akiya/">郊外住宅地の見えない空き家</a></li>
+<li><a href="http://www.jasondavies.com/wordcloud/#%2F%2Fwww.jasondavies.com%2Fwordtree%2Fcat-in-the-hat.txt">Word Cloud Generator</a></li>
+<li><a href="http://earth.nullschool.net/">earth :: an animated map of global wind, weather, and ocean conditions</a><br />
+  リアルタイム風向マップ</li>
+<li><a href="http://shimz.me/blog/d3-js/4360">【D3.js】サーマーウォーズのワールドクロックを作る | #GUNMAGISGEEK</a></li>
+</ul>
+<h2 id="_3">データ<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://www.e-stat.go.jp/api/">政府統計の総合窓口<span><span class="MathJax_Preview">e\-Stat</span><script type="math/tex">e\-Stat</script></span>−API機能</a><br />
+  政府統計の総合窓口<span><span class="MathJax_Preview">e\-Stat</span><script type="math/tex">e\-Stat</script></span>で提供している統計データ等を機械判読可能な形式で取得できるAPI機能を提供します</li>
+<li><a href="http://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do">【e-Stat】 政府統計の総合窓口 GL01010101</a></li>
+<li><a href="http://vps327903.cloud-testbed-vps.jp/tokeidb/">統計 API デモンストレーション - 統計表の取得</a></li>
+<li><a href="http://www.itmedia.co.jp/news/articles/1306/13/news094.html">国勢調査など政府統計データをCSV化してダウンロードできる「統計くん」　政府API活用 - ITmedia ニュース</a></li>
+<li><a href="http://yuma-z.com/blog/2013/06/database/">無料で利用できるデータベース＆レファレンスサービスまとめ</a></li>
+<li><a href="http://www.jreast.co.jp/passenger/">JR東日本：各駅の乗車人員（2012年度）</a></li>
+<li><a href="http://web-tan.forum.impressrd.jp/e/2014/06/24/17731">社会人なら知っておきたい無料の公的統計データ「e-Stat」と「統計メールニュース」 | Web担当者Forum</a></li>
+<li><a href="http://internet.watch.impress.co.jp/docs/news/20140819_662628.html">東京メトロ、列車の在線位置など全線オープンデータ化、車両の所属会社も -INTERNET Watch</a></li>
+<li><a href="http://internet.watch.impress.co.jp/docs/news/20130819_611700.html">鉄道やバスの運行情報をオープンデータ化、鉄道会社などが研究会を発足 -INTERNET Watch</a></li>
+<li><a href="http://keiei.freee.co.jp/2014/08/19/statictics/">【マーケッター必見！】市場調査や企画書作成に役立つ統計データ20選！</a></li>
+<li><a href="http://www.ekidata.jp/">駅データ 無料ダウンロード 『駅データ.jp』</a> XML/JSON APIあり</li>
+<li><a href="http://alfalfalfa.com/archives/7723985.html">愛知県の駅の１日の利用者数ベスト200ワースト200</a></li>
+<li><a href="http://blog.livedoor.jp/kinisoku/archives/4220262.html">【画像大量】俺が長年貯め込んだグラフ・一覧・比較・図解フォルダが今、火を吹く：キニ速</a></li>
+<li><a href="http://www.globalnote.jp/post-7480.html">世界の労働力人口 国別ランキング・推移 - Global Note</a></li>
+<li><a href="http://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1">日本の行政機関が公開中のAPIについてのまとめ（2016年8月17日暫定版） - Qiita</a></li>
+</ul>
+<h2 id="_4">地図<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<ul>
+<li>→ <strong><a href="../Map/">Map</a></strong></li>
+<li><a href="https://github.com/mbostock/d3/wiki/Geo-Projections">Geo Projections · mbostock/d3 Wiki</a></li>
+<li><a href="http://matome.naver.jp/odai/2136791241493514301">D3.js Geo(Geography) チュートリアル - NAVER まとめ</a></li>
+<li><a href="http://qiita.com/sawamur@github/items/ec32237bcbaaba94108d">JavaScript - D3.jsとOpen Data〜その１地図を描画する - Qiita</a></li>
+<li><a href="http://kenjispecial.wordpress.com/2013/12/15/d3/">D3.jsで地図を作る。</a></li>
+<li><a href="http://shimz.me/blog/other/3406">高崎市と前橋市のAED設置施設一覧に緯度経度を付加してみた | GUNMA GIS GEEK</a></li>
+<li><a href="http://shimz.me/blog/d3-js/3770">【D3.js】Google Mapにsvgを使ってマスクをかける | GUNMA GIS GEEK</a></li>
+<li><a href="http://shimz.me/blog/map/3847">ゼンリンの「いつもNAVI－API」を使って地図を表示してみた。 | GUNMA GIS GEEK</a></li>
+</ul>
+<h2 id="3d">3D<a class="headerlink" href="#3d" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms">D3.js, Three.js and CSS 3D Transforms — delimited</a></li>
+</ul>
+<h2 id="tips">TIPS<a class="headerlink" href="#tips" title="Permanent link">&para;</a></h2>
+<h3 id="_5">ファイル出力<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://tech-sketch.jp/2013/10/d3js-svg-convert-to-png.html">D3.jsで作成したグラフ(SVG)を画像として保存する - Tech-Sketch</a><br />
+  SVGで作られたグラフをCanvasに変換し、PNGとして保存する</li>
+<li><a href="http://d3export.housegordon.org/">Export d3js/SVG as SVG/PDF</a><br />
+  D3.js → SVG, PDF, PNG ダウンロード</li>
+<li><a href="http://syonx.hatenablog.com/entry/2014/07/26/191359">SVG を PNG に変換するやつ (Ruby-GNOME2/RSVG on Sinatra) - X X X</a></li>
+</ul>
+<h3 id="excel">Excel<a class="headerlink" href="#excel" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="http://shimz.me/blog/d3-js/3820">Excel上でD3.jsを使ったグラフを表示する「E2D3」を使ってオリジナルなグラフを表示してみた。 | GUNMA GIS GEEK</a></li>
+</ul>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../Cygwin/" title="Cygwin" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  前
+                </span>
+                Cygwin
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../Electron/" title="Electron" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  次
+                </span>
+                Electron
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/syon" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/syonxv" class="md-footer-social__link fa fa-twitter"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.02434462.js"></script>
+      
+        
+        
+          
+          <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+                <script src="../assets/javascripts/lunr/tinyseg.js"></script>
+              
+              
+                <script src="../assets/javascripts/lunr/lunr.jp.js"></script>
+              
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      
+    
+    
+      
+        <script>!function(e,a,t,n,o,c,i){e.GoogleAnalyticsObject=o,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,c=a.createElement(t),i=a.getElementsByTagName(t)[0],c.async=1,c.src="https://www.google-analytics.com/analytics.js",i.parentNode.insertBefore(c,i)}(window,document,"script",0,"ga"),ga("create","UA-37634759-2","auto"),ga("set","anonymizeIp",!0),ga("send","pageview");var links=document.getElementsByTagName("a");if(Array.prototype.map.call(links,function(e){e.host!=document.location.host&&e.addEventListener("click",function(){var a=e.getAttribute("data-md-action")||"follow";ga("send","event","outbound",a,e.href)})}),document.forms.search){var query=document.forms.search.query;query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})}</script>
+      
+    
+  </body>
+</html>
